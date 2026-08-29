@@ -1,0 +1,84 @@
+{
+  "id": "portal_technical_issue",
+  "intent": "portal_technical_issue",
+  "category": "portal_navigation",
+  "title": "PDS Portal Technical Issues",
+
+  "facts": {
+    "summary": "Technical problems with a PDS portal should be handled through the troubleshooting options or official support mechanism provided by the concerned State or Union Territory PDS authority.",
+
+    "common_issues": [
+      "Portal page is not loading.",
+      "Login or authentication is not working.",
+      "OTP is not received.",
+      "A page or service is not responding.",
+      "An application or form cannot be submitted.",
+      "The portal displays an error message.",
+      "A document upload or download is not working."
+    ],
+
+    "basic_troubleshooting": [
+      "Check the internet connection.",
+      "Refresh the portal page and try again.",
+      "Verify that the entered information is correct.",
+      "Try the service again after a short interval if the portal is temporarily unavailable.",
+      "Use the latest version of a supported web browser when applicable."
+    ],
+
+    "login_issue": "For login-related problems, verify the entered credentials or identification information and follow the authentication or account-recovery options provided by the portal.",
+
+    "otp_issue": "For OTP problems, verify the registered contact information and use the resend option if the portal provides one. Do not share the OTP with anyone.",
+
+    "application_issue": "If an application cannot be submitted, check the required fields, document requirements and error messages shown by the portal.",
+
+    "document_issue": "If document upload fails, verify that the document meets the format and size requirements displayed by the applicable portal.",
+
+    "support": "If basic troubleshooting does not resolve the issue, use the official technical-support, helpdesk or grievance mechanism provided by the concerned State/UT PDS authority.",
+
+    "state_specific": "Portal features, error messages, browser requirements, support channels and troubleshooting procedures can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that the same technical solution works for every State/UT PDS portal.",
+      "Do not provide an unofficial support number or website.",
+      "Do not ask users to share passwords, OTPs or other authentication credentials.",
+      "For persistent technical problems, use the official support mechanism of the applicable PDS portal."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "The PDS portal is not opening. What should I do?",
+      "answer": "Check your internet connection, refresh the page and try again after a short interval. If the problem continues, use the official support mechanism of the concerned State/UT PDS portal."
+    },
+    {
+      "question": "Why is the PDS website showing an error?",
+      "answer": "The error may be caused by a temporary portal problem, incorrect information or another system issue. Check the information entered and follow any troubleshooting instructions displayed by the portal."
+    },
+    {
+      "question": "I cannot submit my ration-card application online. What should I do?",
+      "answer": "Check that all required fields and documents have been provided and review any error message shown by the portal. If the issue continues, contact the official support mechanism."
+    },
+    {
+      "question": "My document is not uploading on the PDS portal. What should I do?",
+      "answer": "Check the document format and size requirements displayed by the applicable portal and try uploading it again."
+    },
+    {
+      "question": "The PDS portal OTP is not coming. What should I do?",
+      "answer": "Verify the registered contact information and use the resend option if available. If the problem continues, use the official support mechanism."
+    },
+    {
+      "question": "Who should I contact for a PDS portal technical problem?",
+      "answer": "Use the official technical-support, helpdesk or grievance mechanism provided by the concerned State or Union Territory PDS authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

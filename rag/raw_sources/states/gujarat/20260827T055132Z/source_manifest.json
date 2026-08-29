@@ -1,0 +1,14 @@
+{
+    "state": "Gujarat",
+    "source_url": "https://www.bis.gov.in/the-bureau/president/?lang=en",
+    "final_url": "https://www.bis.gov.in/the-bureau/president/?lang=en",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=UTF-8",
+    "http_status": 200,
+    "discovered_from": "https://dcs-dof.gujarat.gov.in/",
+    "sha256": "b0663c6381f883a02c93b2ad5217287ca76176ae023e176a80f4607142ff617d",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

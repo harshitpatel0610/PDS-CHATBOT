@@ -1,0 +1,17 @@
+{
+    "states_analyzed": 36,
+    "sources_discovered": 5,
+    "sources_accepted": 5,
+    "sources_rejected": 0,
+    "html_sources": 4,
+    "pdf_sources": 0,
+    "service_sources": 0,
+    "form_sources": 0,
+    "evidence_bearing_sources": 0,
+    "states_with_evidence": 0,
+    "states_with_insufficient_evidence": 36,
+    "total_evidence_claims": 0,
+    "verified_claims": 0,
+    "rejected_claims": 0,
+    "district_fields_found": 0
+}

@@ -1,0 +1,12 @@
+{
+    "state": "Gujarat",
+    "source_count": 4,
+    "verified_claims": 15,
+    "partially_supported_claims": 0,
+    "unsupported_claims_rejected": 0,
+    "null_fields_preserved": 0,
+    "district_fields_detected": 0,
+    "third_party_sources_used": 0,
+    "validation_passed": true,
+    "status": "PASS"
+}

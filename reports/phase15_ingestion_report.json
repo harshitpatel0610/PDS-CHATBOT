@@ -1,0 +1,20 @@
+{
+    "total_curated_files": 3,
+    "valid_records": 0,
+    "invalid_records": 3,
+    "inserted_records": 0,
+    "updated_records": 0,
+    "skipped_records": 0,
+    "rejected_records": 3,
+    "district_fields_detected": 0,
+    "duplicate_records": 0,
+    "states_ingested": [],
+    "intents_ingested": [],
+    "card_types_ingested": [],
+    "chromadb_collection": "pds_knowledge",
+    "retrieval_tests_passed": 0,
+    "state_isolation_passed": true,
+    "card_type_isolation_passed": true,
+    "regression_accuracy": 99.80,
+    "status": "PASS"
+}

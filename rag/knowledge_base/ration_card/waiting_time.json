@@ -1,0 +1,66 @@
+{
+  "id": "ration_card_waiting_time",
+  "intent": "ration_card_waiting_time",
+  "category": "ration_card",
+  "title": "Ration Card Application Processing Time",
+
+  "facts": {
+    "summary": "The processing time for a ration-card application depends on the concerned State or Union Territory and its applicable verification and administrative procedure.",
+
+    "processing_time": "There is no single processing time that should be assumed for all States and Union Territories. Applicants should confirm the applicable processing time with their concerned State/UT Food and Civil Supplies authority.",
+
+    "verification": "Processing may involve verification of the applicant's information and eligibility by the concerned State or Union Territory authority.",
+
+    "status_check": "Where an online status-check facility is available, applicants may use the official State/UT ration-card or Food and Civil Supplies portal to check the application status.",
+
+    "delay": "If processing takes longer than the period communicated by the concerned authority, the applicant should contact the applicable Food and Civil Supplies authority or official support channel.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for processing and issuing ration cards.",
+
+    "important_notes": [
+      "Processing time is State/UT specific.",
+      "Verification requirements can affect processing time.",
+      "Do not assume a fixed nationwide processing period.",
+      "Use the official State/UT portal or government authority for application-status information.",
+      "If an application is delayed, contact the concerned authority for clarification."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How long does it take to get a ration card?",
+      "answer": "Processing time depends on the concerned State or Union Territory and its applicable procedure."
+    },
+    {
+      "question": "How many days does a ration card application take?",
+      "answer": "There is no single processing period applicable to every State and Union Territory. The applicable authority should be contacted for the current processing time."
+    },
+    {
+      "question": "Why is my ration card application taking so long?",
+      "answer": "Processing may depend on verification and the administrative procedure of the concerned State or Union Territory. Contact the applicable Food and Civil Supplies authority if the application is delayed."
+    },
+    {
+      "question": "How can I check my ration card application status?",
+      "answer": "If an online status-check facility is available, use the official ration-card or Food and Civil Supplies portal of the concerned State or Union Territory."
+    },
+    {
+      "question": "Is ration card processing time the same in every state?",
+      "answer": "No. Processing time is State/UT specific."
+    },
+    {
+      "question": "What should I do if my ration card application is delayed?",
+      "answer": "Check the application status through the official State/UT system, where available, or contact the concerned Food and Civil Supplies authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

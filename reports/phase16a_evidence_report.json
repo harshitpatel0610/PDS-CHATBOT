@@ -1,0 +1,56 @@
+{
+    "states_researched": [
+        "Gujarat",
+        "Bihar",
+        "Uttar Pradesh"
+    ],
+    "sources_discovered": 3,
+    "official_sources_accepted": 3,
+    "third_party_sources_rejected": 5,
+    "evidence_bearing_sources": 1,
+    "claims_found": 2,
+    "claims_verified": 2,
+    "claims_without_evidence": 19,
+    "fields_populated": {
+        "Gujarat": [
+            "online_available",
+            "application_url"
+        ]
+    },
+    "fields_remaining_null": {
+        "Gujarat": [
+            "processing_time",
+            "fees",
+            "offline_available",
+            "required_documents",
+            "process_steps"
+        ],
+        "Bihar": [
+            "processing_time",
+            "fees",
+            "online_available",
+            "offline_available",
+            "application_url",
+            "required_documents",
+            "process_steps"
+        ],
+        "Uttar Pradesh": [
+            "processing_time",
+            "fees",
+            "online_available",
+            "offline_available",
+            "application_url",
+            "required_documents",
+            "process_steps"
+        ]
+    },
+    "states_with_verified_data": [
+        "Gujarat"
+    ],
+    "states_without_sufficient_evidence": [
+        "Bihar",
+        "Uttar Pradesh"
+    ],
+    "district_fields_detected": 0,
+    "status": "PASS"
+}

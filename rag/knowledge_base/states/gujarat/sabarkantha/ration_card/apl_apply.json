@@ -1,0 +1,32 @@
+{
+  "id": "gujarat_sabarkantha_apl_apply",
+  "intent": "ration_card_apply",
+  "category": "ration_card",
+  "title": "Applying for APL Ration Card in Sabarkantha, Gujarat",
+  "state": "Gujarat",
+  "district": "Sabarkantha",
+  "card_type": "APL",
+  "facts": [
+    "In Sabarkantha, APL (Above Poverty Line) ration cards are issued by the local Mamlatdar or District Supply Office.",
+    "APL cards are for families not covered under BPL or AAY."
+  ],
+  "process": [
+    "1. Visit the Jan Seva Kendra or the Mamlatdar office in Sabarkantha.",
+    "2. Fill out Form No. 2 for a new ration card.",
+    "3. Attach proof of residence and identity.",
+    "4. A Talati or designated officer will verify the application."
+  ],
+  "required_documents": [
+    "Aadhaar cards of all family members",
+    "Residential proof (electricity bill, property tax receipt)",
+    "Income certificate (optional for APL, but helpful for verification)"
+  ],
+  "fees": "Nominal fee of Rs. 20 to Rs. 50 at Jan Seva Kendra.",
+  "processing_time": "15 to 30 days.",
+  "online": true,
+  "offline": true,
+  "source": {
+    "name": "Gujarat Food, Civil Supplies & Consumer Affairs Department",
+    "url": "https://dcs-dof.gujarat.gov.in/"
+  }
+}

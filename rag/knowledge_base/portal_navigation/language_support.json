@@ -1,0 +1,64 @@
+{
+  "id": "language_support",
+  "intent": "language_support",
+  "category": "portal_navigation",
+  "title": "PDS Portal Language Support",
+
+  "facts": {
+    "summary": "Language support for PDS online services depends on the portal provided by the concerned State or Union Territory authority.",
+
+    "availability": "A PDS portal may provide one or more language options according to the services and accessibility features implemented by the concerned authority.",
+
+    "language_selection": [
+      "If the portal provides a language selector, choose the required language from the available options.",
+      "Follow the portal instructions after selecting the language."
+    ],
+
+    "state_specific": "The languages available, translation coverage and language-selection method can differ between State and Union Territory PDS portals.",
+
+    "portal_content": "Not all sections of a PDS portal are necessarily available in every supported language.",
+
+    "technical_issue": "If the language option is not working correctly, users should follow the technical-support or grievance mechanism provided by the applicable PDS portal.",
+
+    "important_notes": [
+      "Do not assume that every PDS portal supports the same languages.",
+      "Do not claim that a specific language is available without State/UT-specific portal information.",
+      "Language support may differ between portal sections and services.",
+      "Use the official PDS portal of the concerned State/UT."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Does the PDS portal support multiple languages?",
+      "answer": "Language support depends on the portal provided by the concerned State or Union Territory."
+    },
+    {
+      "question": "How can I change the language on a PDS portal?",
+      "answer": "If the portal provides a language selector, choose the required language from the available options."
+    },
+    {
+      "question": "Which languages are available on the PDS portal?",
+      "answer": "The available languages depend on the concerned State or Union Territory portal."
+    },
+    {
+      "question": "What should I do if the language option is not working?",
+      "answer": "Follow the technical-support or grievance mechanism provided by the applicable PDS portal."
+    },
+    {
+      "question": "Is every PDS portal available in the same languages?",
+      "answer": "No. Language availability can differ between State and Union Territory PDS portals."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

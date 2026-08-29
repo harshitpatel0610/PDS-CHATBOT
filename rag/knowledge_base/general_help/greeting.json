@@ -1,0 +1,73 @@
+{
+  "id": "greeting",
+  "intent": "greeting",
+  "category": "general_help",
+  "title": "PDS Assistant Greeting",
+
+  "facts": {
+    "summary": "A greeting is a conversational message from the user such as hello, hi, good morning or similar expressions. The PDS assistant should respond briefly and offer help with PDS-related questions.",
+
+    "supported_greetings": [
+      "Hello",
+      "Hi",
+      "Hey",
+      "Good morning",
+      "Good afternoon",
+      "Good evening",
+      "Namaste"
+    ],
+
+    "response_purpose": [
+      "Acknowledge the user's greeting.",
+      "Offer assistance with PDS and ration-card-related questions."
+    ],
+
+    "scope": [
+      "Ration-card services.",
+      "PDS beneficiary information.",
+      "Ration collection and entitlements.",
+      "Complaints and grievances.",
+      "PDS portal and account-related assistance."
+    ],
+
+    "response_style": "The response should be short, polite and relevant to the PDS assistant context.",
+
+    "important_notes": [
+      "Do not provide unnecessary PDS information when the user only greets the assistant.",
+      "Do not treat a greeting as a request for a specific PDS service.",
+      "Wait for the user's actual question after acknowledging the greeting."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Hello",
+      "answer": "Hello! How can I help you with your PDS or ration-card-related query?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi! How can I help you with your PDS or ration-card-related query?"
+    },
+    {
+      "question": "Good morning",
+      "answer": "Good morning! How can I help you with your PDS or ration-card-related query?"
+    },
+    {
+      "question": "Good afternoon",
+      "answer": "Good afternoon! How can I help you with your PDS or ration-card-related query?"
+    },
+    {
+      "question": "Good evening",
+      "answer": "Good evening! How can I help you with your PDS or ration-card-related query?"
+    },
+    {
+      "question": "Namaste",
+      "answer": "Namaste! How can I help you with your PDS or ration-card-related query?"
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

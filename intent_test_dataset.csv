@@ -1,0 +1,18 @@
+query,expected_intent
+I want a ration card,ration_card_apply
+I need a BPL card,ration_card_apply
+Need a ration card,ration_card_apply
+Apply for ration card,ration_card_apply
+How can I get a ration card?,ration_card_apply
+I want an AAY card,ration_card_apply
+I need an APL card,ration_card_apply
+What is BPL?,ration_card_types
+Difference between APL and BPL,ration_card_types
+Download my ration card,ration_card_download
+I lost my ration card,duplicate_ration_card
+Complete my eKYC,beneficiary_verification
+Where is the nearest ration shop?,ration_shop_location
+Show my transaction history,transaction_history
+Who is Virat Kohli?,None
+Tell me a joke.,None
+What is the capital of Japan?,None

@@ -1,0 +1,69 @@
+{
+  "id": "complaint_types",
+  "intent": "complaint_types",
+  "category": "complaint",
+  "title": "Types of PDS Complaints",
+
+  "facts": {
+    "summary": "PDS complaints can relate to problems with ration distribution, Fair Price Shops, beneficiary services, ration entitlement, or other PDS-related services accepted by the concerned State or Union Territory grievance system.",
+
+    "common_types": [
+      "Non-receipt of entitled ration",
+      "Problems with ration distribution",
+      "Fair Price Shop-related issues",
+      "Overcharging for ration",
+      "Quality-related complaints",
+      "Issues involving beneficiary services or records",
+      "Other PDS-related grievances accepted by the applicable State/UT authority"
+    ],
+
+    "state_specific": "The exact complaint categories available in a grievance portal can differ between States and Union Territories.",
+
+    "complaint_selection": "The beneficiary should select the complaint category that most accurately describes the actual PDS-related problem.",
+
+    "supporting_information": "The applicable grievance system may request beneficiary details, ration-card information, transaction details, or other information relevant to the selected complaint.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority manages the applicable grievance process.",
+
+    "important_notes": [
+      "Do not assume that every State/UT provides the same complaint categories.",
+      "Select the category that accurately represents the issue.",
+      "Do not submit false or misleading complaint information.",
+      "For State-specific complaint categories, use the official grievance system of the concerned State/UT."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What types of PDS complaints can I make?",
+      "answer": "Complaints can relate to non-receipt of ration, ration distribution problems, Fair Price Shop issues, overcharging, quality issues, beneficiary services and other PDS-related grievances accepted by the concerned State/UT."
+    },
+    {
+      "question": "Can I complain about a ration shop?",
+      "answer": "Yes. Fair Price Shop-related issues can be reported through the applicable official grievance mechanism."
+    },
+    {
+      "question": "Can I complain about being charged too much for ration?",
+      "answer": "Yes. Overcharging can be reported through the applicable official PDS grievance mechanism."
+    },
+    {
+      "question": "Can I complain about poor quality ration?",
+      "answer": "A quality-related PDS issue can be reported through the applicable official grievance mechanism of the concerned State/UT."
+    },
+    {
+      "question": "Are complaint categories the same in every state?",
+      "answer": "No. The exact complaint categories available can differ between States and Union Territories."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

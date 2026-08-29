@@ -1,0 +1,32 @@
+{
+  "id": "gujarat_sabarkantha_phh_apply",
+  "intent": "ration_card_apply",
+  "category": "ration_card",
+  "title": "Applying for PHH Ration Card in Sabarkantha, Gujarat",
+  "state": "Gujarat",
+  "district": "Sabarkantha",
+  "card_type": "PHH",
+  "facts": [
+    "Priority Household (PHH) cards in Sabarkantha are issued under the National Food Security Act (NFSA).",
+    "Households must meet specific exclusion and inclusion criteria defined by the Gujarat Government."
+  ],
+  "process": [
+    "1. Visit the local Mamlatdar office in Sabarkantha.",
+    "2. Submit the NFSA inclusion form.",
+    "3. Provide Aadhaar seeding for all family members.",
+    "4. Awaiting biometric or documentation verification."
+  ],
+  "required_documents": [
+    "Aadhaar cards of all members (mandatory)",
+    "Address proof",
+    "Bank passbook copy (often required for DBT)"
+  ],
+  "fees": "No application fee.",
+  "processing_time": "30 days.",
+  "online": true,
+  "offline": true,
+  "source": {
+    "name": "Gujarat Food, Civil Supplies & Consumer Affairs Department",
+    "url": "https://dcs-dof.gujarat.gov.in/"
+  }
+}

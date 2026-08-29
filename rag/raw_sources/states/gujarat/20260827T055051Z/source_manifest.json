@@ -1,0 +1,14 @@
+{
+    "state": "Gujarat",
+    "source_url": "https://dcs-dof.gujarat.gov.in/gu/government-resolution-circulars",
+    "final_url": "https://dcs-dof.gujarat.gov.in/gu/government-resolution-circulars",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=utf-8",
+    "http_status": 200,
+    "discovered_from": "https://dcs-dof.gujarat.gov.in/",
+    "sha256": "7282cf49f754214c74f975ea6cf5a026fd00501015d30452f59faf7e88acd738",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "feedback",
+  "intent": "feedback",
+  "category": "general_help",
+  "title": "PDS Service Feedback",
+
+  "facts": {
+    "summary": "Users may provide feedback about PDS services, portal experience or the assistance they received through the feedback mechanism provided by the applicable PDS authority or system.",
+
+    "purpose": [
+      "Share an experience with a PDS service.",
+      "Report problems or difficulties with a PDS portal or service.",
+      "Suggest improvements.",
+      "Provide feedback about the assistance received."
+    ],
+
+    "feedback_types": [
+      "Portal usability feedback.",
+      "Service-related feedback.",
+      "Ration distribution experience.",
+      "Complaint-handling experience.",
+      "Suggestions for improving PDS services."
+    ],
+
+    "how_to_submit": [
+      "Use the feedback facility provided by the official PDS portal when available.",
+      "Use the official grievance or support mechanism when the feedback concerns a specific unresolved problem.",
+      "Contact the concerned State/UT Food and Civil Supplies authority through its official channels."
+    ],
+
+    "information_to_include": [
+      "A clear description of the feedback.",
+      "Relevant service or transaction details when applicable.",
+      "Application, transaction or complaint reference information when applicable."
+    ],
+
+    "state_specific": "The available feedback facilities and submission procedures can differ between States and Union Territories.",
+
+    "privacy": [
+      "Submit feedback only through official government channels.",
+      "Do not include unnecessary personal information.",
+      "Do not share OTPs, passwords or other authentication credentials."
+    ],
+
+    "important_notes": [
+      "Do not invent a specific feedback URL, email address or phone number.",
+      "A State or Union Territory should be identified before providing State-specific feedback channels.",
+      "A feedback submission is different from an urgent grievance or complaint requiring administrative action."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I give feedback about PDS services?",
+      "answer": "Use the feedback facility provided by the official PDS portal or contact the concerned State/UT Food and Civil Supplies authority through its official channels."
+    },
+    {
+      "question": "Can I give feedback about the PDS portal?",
+      "answer": "Yes. If the applicable portal provides a feedback facility, you can use it to report your experience or suggest improvements."
+    },
+    {
+      "question": "Where can I submit PDS feedback?",
+      "answer": "The available feedback channel depends on the concerned State or Union Territory. Use its official PDS portal, support or feedback mechanism."
+    },
+    {
+      "question": "Can I give feedback about ration distribution?",
+      "answer": "Yes. You can provide feedback through the applicable official PDS feedback or support mechanism."
+    },
+    {
+      "question": "What should I include in my feedback?",
+      "answer": "Provide a clear description of your experience or suggestion and relevant service, transaction or complaint details when applicable."
+    },
+    {
+      "question": "Is feedback the same as a complaint?",
+      "answer": "Not necessarily. Feedback can include general experiences or suggestions, while a complaint or grievance is generally used to report a specific problem requiring attention."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

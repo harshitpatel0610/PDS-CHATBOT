@@ -1,0 +1,88 @@
+{
+  "id": "overcharging_complaint",
+  "intent": "overcharging_complaint",
+  "category": "grievance_escalation",
+  "title": "Complaint About Overcharging at a Fair Price Shop",
+
+  "facts": {
+    "summary": "A beneficiary can report a Fair Price Shop if they believe they have been charged more than the applicable authorized price for PDS commodities.",
+
+    "when_to_complain": [
+      "The beneficiary believes the amount charged is higher than the applicable authorized issue rate.",
+      "The Fair Price Shop asks for an amount that does not match the applicable PDS price.",
+      "The beneficiary receives a charge that appears inconsistent with the applicable entitlement or authorized rate."
+    ],
+
+    "first_steps": [
+      "Verify the applicable commodity price or issue rate through an official PDS or Food and Civil Supplies source.",
+      "Keep details of the transaction and amount charged.",
+      "Contact the concerned Fair Price Shop if clarification is required.",
+      "If the issue remains unresolved, submit a complaint through the official grievance mechanism of the concerned State or Union Territory."
+    ],
+
+    "required_information": [
+      "Beneficiary or ration-card information requested by the grievance system.",
+      "Fair Price Shop or dealer information, where available.",
+      "Commodity involved.",
+      "Amount charged.",
+      "Applicable transaction or distribution details, if available.",
+      "A factual description of the overcharging incident."
+    ],
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority manages the applicable PDS grievance process and authorized distribution procedures.",
+
+    "evidence": "Where available, the beneficiary should retain transaction records, receipts or other information that can help establish the amount charged.",
+
+    "resolution": "The competent authority may review the complaint and take action according to the applicable State/UT rules and procedures.",
+
+    "escalation": "If the complaint remains unresolved, follow the escalation procedure provided by the concerned State/UT grievance system.",
+
+    "state_specific": "The applicable ration prices, complaint procedure, responsible authority and escalation process can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume one nationwide price for every PDS commodity.",
+      "Verify the applicable authorized rate before concluding that a charge is excessive.",
+      "Do not invent an exact refund, penalty or disciplinary action.",
+      "Use official government grievance mechanisms.",
+      "Provide factual and accurate information when submitting a complaint."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "The ration shop charged me too much. What should I do?",
+      "answer": "Verify the applicable authorized rate and, if you believe you were overcharged, report the issue through the official PDS grievance mechanism of your State or Union Territory."
+    },
+    {
+      "question": "Can I complain if the ration dealer charges more than the official price?",
+      "answer": "Yes. An apparent overcharging issue can be reported through the applicable official State/UT grievance mechanism."
+    },
+    {
+      "question": "What information should I provide for an overcharging complaint?",
+      "answer": "Provide the requested beneficiary and Fair Price Shop details, commodity involved, amount charged and relevant transaction information."
+    },
+    {
+      "question": "Should I keep the ration receipt?",
+      "answer": "Yes. Where a receipt or transaction record is available, retaining it can provide useful information when reporting an overcharging issue."
+    },
+    {
+      "question": "How do I verify the correct ration price?",
+      "answer": "Check the official PDS or Food and Civil Supplies information applicable to your State or Union Territory."
+    },
+    {
+      "question": "What happens after I complain about overcharging?",
+      "answer": "The competent authority may review the complaint and take action according to the applicable State/UT rules and procedures."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

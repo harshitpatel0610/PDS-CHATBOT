@@ -1,0 +1,89 @@
+{
+  "id": "mobile_access",
+  "intent": "mobile_access",
+  "category": "portal_navigation",
+  "title": "Accessing PDS Services on Mobile",
+
+  "facts": {
+    "summary": "PDS online services may be accessible through a mobile phone using the official State or Union Territory PDS portal when the applicable service supports mobile access.",
+
+    "access": [
+      "Open the official PDS portal of the concerned State or Union Territory using a mobile web browser.",
+      "Use the mobile-compatible interface or official mobile application if one is provided by the concerned authority.",
+      "Follow the authentication and verification process required by the applicable service."
+    ],
+
+    "mobile_website": "A PDS website may support mobile-browser access, but mobile compatibility depends on the portal implementation.",
+
+    "mobile_application": "Some PDS authorities may provide an official mobile application or mobile-specific service. Availability depends on the concerned State/UT.",
+
+    "possible_services": [
+      "Ration-card-related services.",
+      "Beneficiary information.",
+      "Transaction or entitlement information.",
+      "Complaint or grievance services.",
+      "Other services made available through the applicable mobile-compatible portal."
+    ],
+
+    "authentication": "Mobile access may require OTP, beneficiary authentication or other verification depending on the service.",
+
+    "technical_requirements": [
+      "A working internet connection.",
+      "A supported mobile browser or official application where applicable.",
+      "A device capable of accessing the required portal or service."
+    ],
+
+    "state_specific": "Mobile availability, supported services, applications and technical requirements can differ between States and Union Territories.",
+
+    "security": [
+      "Use only official government PDS websites or applications.",
+      "Do not install applications from unknown or unofficial sources.",
+      "Do not share OTPs, passwords or other authentication credentials."
+    ],
+
+    "important_notes": [
+      "Do not assume that every PDS service is available on mobile.",
+      "Do not assume that every State/UT has an official mobile application.",
+      "Do not provide an unofficial application or website.",
+      "For State-specific mobile access, the concerned State/UT must be identified."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can I access PDS services from my mobile phone?",
+      "answer": "PDS services may be accessible through a mobile browser or official mobile application when the concerned State/UT system supports mobile access."
+    },
+    {
+      "question": "Can I use the PDS portal on a mobile browser?",
+      "answer": "Mobile-browser access depends on the implementation and compatibility of the concerned State/UT PDS portal."
+    },
+    {
+      "question": "Is there a PDS mobile app?",
+      "answer": "An official mobile application may be available for some PDS systems, but availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Can I apply for a ration card using my phone?",
+      "answer": "This depends on whether the concerned State/UT provides an online application service that supports mobile access."
+    },
+    {
+      "question": "Is mobile access available for every PDS service?",
+      "answer": "No. The services available through mobile access depend on the concerned State/UT PDS system."
+    },
+    {
+      "question": "Is it safe to use a PDS service on mobile?",
+      "answer": "Use only official government PDS portals or applications and never share OTPs, passwords or other authentication credentials."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

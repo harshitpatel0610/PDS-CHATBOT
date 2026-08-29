@@ -1,0 +1,98 @@
+{
+  "id": "otp_issue",
+  "intent": "otp_issue",
+  "category": "authentication",
+  "title": "OTP Issue",
+
+  "facts": {
+    "summary": "An OTP issue occurs when a user does not receive, cannot verify, or cannot successfully use the one-time password required by the configured PDS authentication process.",
+
+    "common_situations": [
+      "OTP is not received.",
+      "OTP is delayed.",
+      "OTP is invalid.",
+      "OTP has expired.",
+      "OTP verification fails.",
+      "The user is unable to complete OTP-based authentication."
+    ],
+
+    "basic_troubleshooting": [
+      "Verify that the registered mobile number is correct.",
+      "Wait briefly if the OTP is delayed and request another OTP when the system allows it.",
+      "Enter the latest OTP received.",
+      "Make sure the OTP has not expired.",
+      "Avoid repeatedly requesting OTPs in a very short period.",
+      "Retry the verification process."
+    ],
+
+    "otp_not_received": "If the OTP is not received, verify that the registered contact information is correct and retry the OTP request through the official PDS authentication interface.",
+
+    "invalid_otp": "If the system reports that an OTP is invalid, use the latest OTP received and enter it exactly as provided.",
+
+    "expired_otp": "An expired OTP cannot normally be used for authentication. Request a new OTP through the applicable authentication interface.",
+
+    "multiple_otps": "If multiple OTPs are requested, the latest valid OTP should generally be used unless the system specifies otherwise.",
+
+    "security": [
+      "Never share an OTP with another person.",
+      "Do not disclose OTPs in chat, email or other communication channels.",
+      "Use OTPs only on the official authentication interface.",
+      "Do not ask another person to use an OTP on your behalf."
+    ],
+
+    "escalation": "If OTP delivery or verification continues to fail after basic troubleshooting, use the official PDS support or authentication recovery mechanism.",
+
+    "scope": [
+      "OTP not received.",
+      "OTP delayed.",
+      "Invalid OTP.",
+      "Expired OTP.",
+      "OTP verification failure.",
+      "OTP-based authentication problems."
+    ],
+
+    "important_notes": [
+      "OTP issues are different from general login failures.",
+      "Do not use this intent when the user is only asking how to log in.",
+      "Do not use this intent for customer ID or distributor ID inquiries.",
+      "Do not invent a specific OTP validity period unless it is explicitly defined by the applicable PDS system.",
+      "Do not request or store the user's actual OTP."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "My OTP is not coming. What should I do?",
+      "answer": "Verify that the registered mobile number is correct, wait briefly if necessary, and request another OTP through the official authentication interface when permitted."
+    },
+    {
+      "question": "My OTP is delayed. What should I do?",
+      "answer": "Wait briefly and avoid repeatedly requesting OTPs. If the OTP does not arrive, retry the OTP request through the official authentication interface."
+    },
+    {
+      "question": "Why is my OTP invalid?",
+      "answer": "Make sure you are entering the latest OTP received and that it has not expired. If verification still fails, request a new OTP."
+    },
+    {
+      "question": "My OTP has expired. What should I do?",
+      "answer": "Request a new OTP through the applicable official authentication interface."
+    },
+    {
+      "question": "I received multiple OTPs. Which one should I use?",
+      "answer": "Use the latest valid OTP unless the PDS system explicitly instructs you otherwise."
+    },
+    {
+      "question": "Can I share my OTP with someone?",
+      "answer": "No. OTPs are authentication credentials and should never be shared with anyone."
+    },
+    {
+      "question": "What if OTP verification still does not work?",
+      "answer": "Retry the authentication process and, if the problem continues, use the official PDS support or authentication recovery mechanism."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "source_id": "states/uttar_pradesh",
+    "requested_url": "https://fcs.up.gov.in/",
+    "final_url": "https://fcs.up.gov.in/",
+    "retrieved_at": "20260827T055050Z",
+    "http_status": 200,
+    "sha256": "315a8ffe1556069166ec46335c83847af8c42a729c43e20298857224fea41dd0",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+}

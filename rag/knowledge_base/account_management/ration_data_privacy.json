@@ -1,0 +1,92 @@
+{
+  "id": "ration_data_privacy",
+  "intent": "ration_data_privacy",
+  "category": "account_management",
+  "title": "PDS Ration Data Privacy",
+
+  "facts": {
+    "summary": "PDS beneficiary records can contain personal and household information. Such information should be accessed, processed and shared only for authorized PDS purposes and according to applicable privacy, security and access-control requirements.",
+
+    "protected_information": [
+      "Beneficiary identification information.",
+      "Ration-card information.",
+      "Household or family information.",
+      "Contact information.",
+      "Address information.",
+      "Transaction and distribution information.",
+      "Aadhaar-related information where collected or used by the applicable system."
+    ],
+
+    "access_control": [
+      "Only authorized users should access beneficiary information.",
+      "Administrative and distributor access should be limited according to assigned permissions.",
+      "Users should access only the information required for legitimate PDS operations."
+    ],
+
+    "data_usage": [
+      "Beneficiary information should be used for legitimate PDS services and administration.",
+      "Information should not be disclosed to unauthorized persons.",
+      "Personal information should be handled according to applicable government rules and system policies."
+    ],
+
+    "security_practices": [
+      "Use official PDS portals and authorized systems when submitting personal information.",
+      "Protect account credentials and authentication information.",
+      "Do not share OTPs or other authentication credentials.",
+      "Avoid providing personal information through unofficial websites or unknown persons."
+    ],
+
+    "aadhaar_privacy": "Aadhaar information should be provided only through authorized channels and handled according to applicable requirements.",
+
+    "data_correction": "If beneficiary information is incorrect, the user should follow the applicable State/UT procedure for correcting the relevant record.",
+
+    "data_access": "The availability of beneficiary information, correction facilities and other data-related services depends on the applicable PDS system and authority.",
+
+    "state_specific": "The exact privacy notices, data-handling procedures, access controls and correction mechanisms can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not share ration-card, Aadhaar, mobile number or other personal information with unauthorized persons.",
+      "Do not claim that a specific data-retention period applies unless it is provided by the applicable authority.",
+      "Do not assume that every State/UT uses the same privacy policy or data-management system.",
+      "For privacy-related complaints or concerns, use the applicable official grievance or support mechanism."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is my ration-card information private?",
+      "answer": "Beneficiary and ration-card information should be accessed and handled only by authorized users for legitimate PDS purposes and according to applicable privacy and security requirements."
+    },
+    {
+      "question": "Who can access my PDS information?",
+      "answer": "Access should be limited to authorized users according to the permissions and procedures of the applicable PDS system."
+    },
+    {
+      "question": "Is Aadhaar information protected in the PDS system?",
+      "answer": "Aadhaar information should be provided only through authorized channels and handled according to applicable privacy and security requirements."
+    },
+    {
+      "question": "Can I share my ration-card details with anyone?",
+      "answer": "Personal ration-card and beneficiary information should not be shared with unauthorized persons."
+    },
+    {
+      "question": "What should I do if my PDS information is incorrect?",
+      "answer": "Follow the applicable State/UT procedure for correcting the relevant beneficiary or ration-card record."
+    },
+    {
+      "question": "How can I report a privacy concern?",
+      "answer": "Use the applicable official PDS grievance or support mechanism of the concerned State or Union Territory."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

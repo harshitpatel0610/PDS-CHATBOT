@@ -1,0 +1,69 @@
+{
+  "id": "income_certificate",
+  "intent": "income_certificate",
+  "category": "documents",
+  "title": "Income Certificate for PDS Services",
+
+  "facts": {
+    "summary": "An income certificate may be required for certain PDS-related applications or eligibility processes when prescribed by the concerned State or Union Territory authority.",
+
+    "purpose": [
+      "Provide income-related information when required by an applicable PDS procedure.",
+      "Support verification for services or eligibility criteria where household income is considered."
+    ],
+
+    "requirement": "Whether an income certificate is required depends on the specific PDS service and the rules of the concerned State or Union Territory.",
+
+    "issuing_authority": "The authority responsible for issuing an income certificate is determined by the applicable State or Union Territory government.",
+
+    "application": [
+      "Follow the official procedure prescribed by the concerned State/UT.",
+      "Use the applicable government portal or designated office when an income certificate service is available.",
+      "Submit the information and supporting documents required by the issuing authority."
+    ],
+
+    "pds_usage": "If an income certificate is prescribed for a particular PDS service, it should be submitted according to the document and verification requirements of the concerned authority.",
+
+    "state_specific": "The issuing authority, application process, required documents, validity requirements and acceptance of income certificates can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that an income certificate is required for every ration-card or PDS service.",
+      "Do not assume that the same issuing authority or application procedure applies in every State/UT.",
+      "Check the official requirements for the specific PDS service before obtaining or submitting an income certificate.",
+      "Do not provide a specific validity period unless it is prescribed by the applicable authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Is an income certificate required for a ration card?",
+      "answer": "An income certificate may be required for certain PDS services or eligibility processes, but the requirement depends on the concerned State/UT and the specific service."
+    },
+    {
+      "question": "Why is an income certificate needed for PDS?",
+      "answer": "It may be used to provide income-related information when household income is considered in an applicable PDS procedure."
+    },
+    {
+      "question": "Where can I get an income certificate?",
+      "answer": "The issuing authority and application process depend on the concerned State or Union Territory. Follow its official procedure."
+    },
+    {
+      "question": "Can I apply for an income certificate online?",
+      "answer": "Online availability depends on the services provided by the concerned State or Union Territory."
+    },
+    {
+      "question": "Is an income certificate required for every PDS service?",
+      "answer": "No. Whether it is required depends on the specific service and the applicable State/UT rules."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

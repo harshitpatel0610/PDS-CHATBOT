@@ -1,0 +1,72 @@
+{
+  "id": "death_member_removal",
+  "intent": "death_member_removal",
+  "category": "family_management",
+  "title": "Removing a Deceased Family Member from a Ration Card",
+
+  "facts": {
+    "summary": "A deceased family member can be removed from the ration-card household record by following the applicable procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card household records and processing requests related to removal of a deceased family member.",
+
+    "purpose": "The household record should be updated when a family member has died so that the ration-card information accurately reflects the current household composition.",
+
+    "application_method": "The procedure for removing a deceased family member depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized government channel should be used.",
+
+    "documents": "Documents and information required for removal of a deceased family member depend on the concerned State or Union Territory and its applicable procedure. The authority may require information or documentation relating to the death and the household record.",
+
+    "verification": "The concerned authority may verify the existing household record and supporting information before removing the deceased member.",
+
+    "online_available": "Online availability of the deceased-member removal facility depends on the concerned State or Union Territory.",
+
+    "processing_time": "Processing time is State/UT specific and should be confirmed with the concerned authority.",
+
+    "fees": "Any fee applicable to removing a deceased family member is determined by the concerned State or Union Territory authority.",
+
+    "important_notes": [
+      "Procedures for removing deceased family members can differ between States and Union Territories.",
+      "Required documents and verification requirements are State/UT specific.",
+      "Do not assume that the same procedure applies throughout India.",
+      "Use official government portals or designated Food and Civil Supplies offices.",
+      "The applicable State/UT authority should be consulted for current requirements."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I remove a deceased person from my ration card?",
+      "answer": "Follow the deceased-member removal procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "A family member has died. How do I remove their name from the ration card?",
+      "answer": "Submit a request through the applicable State/UT Food and Civil Supplies procedure for removing a deceased family member."
+    },
+    {
+      "question": "Can I remove a deceased family member from my ration card online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to remove a deceased member?",
+      "answer": "Required documents depend on the concerned State or Union Territory and its applicable procedure."
+    },
+    {
+      "question": "How long does it take to remove a deceased member?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is there a fee for removing a deceased member?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

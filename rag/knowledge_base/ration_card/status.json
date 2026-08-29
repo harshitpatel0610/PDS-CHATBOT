@@ -1,0 +1,82 @@
+{
+  "id": "ration_card_status",
+  "intent": "ration_card_status",
+  "category": "ration_card",
+  "title": "Checking Ration Card Application Status",
+
+  "facts": {
+    "summary": "Applicants can check the status or progress of a ration card application through the applicable State or Union Territory food and civil supplies system or other official status facility provided for the application.",
+
+    "status_authority": "The concerned State or Union Territory authority is responsible for processing ration card applications and determining their status.",
+
+    "where_to_check": "Application status should be checked through the official portal or system of the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "state_ut_portals": "The NFSA portal provides links and information for State and Union Territory ration-card systems and portals.",
+
+    "status_information": [
+      "Application progress",
+      "Application approval or rejection status",
+      "Application reference or acknowledgement details, where provided",
+      "Other status information made available by the concerned authority"
+    ],
+
+    "required_details": "The information required to check application status depends on the concerned State or Union Territory system. It may include an application or reference number and other identifying information.",
+
+    "processing_time": "Processing time is not uniform across India and depends on the applicable State or Union Territory procedure and service timelines.",
+
+    "approved": "If an application is approved, the concerned State or Union Territory authority follows its applicable procedure for issuing or making the ration card available.",
+
+    "rejected": "If an application is rejected, the applicant should refer to the status information or contact the concerned State or Union Territory authority to understand the reason and available next steps.",
+
+    "pending": "If an application remains pending, the applicant should check the official status system for updates and contact the concerned State or Union Territory authority if clarification is required.",
+
+    "important_notes": [
+      "There is no single nationwide application-status procedure that applies identically to every State and Union Territory.",
+      "Status-checking requirements may differ between State/UT portals.",
+      "Do not assume a specific processing time without State/UT-specific information.",
+      "Use official State/UT Food and Civil Supplies portals or authorized government systems for application-status information."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I check my ration card application status?",
+      "answer": "Check the application status through the official Food and Civil Supplies portal or status system of the concerned State or Union Territory."
+    },
+    {
+      "question": "How do I know whether my ration card application is approved?",
+      "answer": "Use the applicable official State/UT application-status facility to check the current status of your application."
+    },
+    {
+      "question": "My ration card application is still pending. What should I do?",
+      "answer": "Check the official application-status system for updates. If clarification is required, contact the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "How long does ration card approval take?",
+      "answer": "Processing time varies by State or Union Territory and should be confirmed through the applicable authority or official portal."
+    },
+    {
+      "question": "Where can I check my ration card application?",
+      "answer": "Use the official ration-card or Food and Civil Supplies portal of the State or Union Territory where the application was submitted."
+    },
+    {
+      "question": "What do I need to check my ration card application status?",
+      "answer": "The required information depends on the State/UT system. An application or reference number may be required along with other identifying information."
+    },
+    {
+      "question": "What if my ration card application is rejected?",
+      "answer": "Review the status information provided by the concerned authority and contact the State/UT Food and Civil Supplies authority to understand the reason and available next steps."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "National Food Security Act Portal"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

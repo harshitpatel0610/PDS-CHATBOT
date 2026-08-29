@@ -1,0 +1,91 @@
+{
+  "id": "beneficiary_verification",
+  "intent": "beneficiary_verification",
+  "category": "beneficiary_management",
+  "title": "PDS Beneficiary Verification",
+
+  "facts": {
+    "summary": "Beneficiary verification is the process of confirming that a person or household is eligible and correctly recorded for PDS benefits according to the applicable State or Union Territory procedure.",
+
+    "purpose": [
+      "Confirm beneficiary identity.",
+      "Verify beneficiary or household information.",
+      "Support correct identification of eligible households.",
+      "Prevent incorrect or duplicate beneficiary records where applicable.",
+      "Support accurate distribution of PDS benefits."
+    ],
+
+    "verification_methods": [
+      "The applicable PDS system may use beneficiary information maintained in official records.",
+      "Authentication may be performed through an authorized PDS or ePoS system where supported.",
+      "Aadhaar-based authentication may be used where supported by the applicable system.",
+      "Additional verification or documents may be required according to State/UT procedures."
+    ],
+
+    "information_used": [
+      "Ration-card or beneficiary identification information.",
+      "Household information maintained by the PDS system.",
+      "Identity information required by the applicable verification process.",
+      "Other information or documents prescribed by the concerned authority."
+    ],
+
+    "during_distribution": "Beneficiary verification may be performed before ration distribution according to the authentication procedure used by the applicable PDS system.",
+
+    "eligibility": "Verification of identity does not by itself establish eligibility. Eligibility for PDS benefits is determined according to the applicable rules and criteria of the concerned State or Union Territory.",
+
+    "failed_verification": [
+      "Check that the beneficiary information entered into the system is correct.",
+      "Follow the applicable procedure for resolving authentication or record mismatches.",
+      "Contact the concerned PDS or Food and Civil Supplies authority if the issue cannot be resolved through the available system."
+    ],
+
+    "privacy": "Beneficiary information should only be accessed and used by authorized persons for legitimate PDS purposes.",
+
+    "state_specific": "The verification method, required information, authentication mechanism and procedures for resolving verification failures can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that Aadhaar authentication is the only available verification method.",
+      "Do not assume that every State/UT follows the same verification procedure.",
+      "Identity verification and eligibility determination are separate processes.",
+      "Do not share beneficiary personal information with unauthorized persons."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is beneficiary verification?",
+      "answer": "Beneficiary verification confirms that a person or household is correctly identified and recorded for PDS benefits according to the applicable State/UT procedure."
+    },
+    {
+      "question": "How is a PDS beneficiary verified?",
+      "answer": "Verification may use official beneficiary records, authorized PDS or ePoS systems, Aadhaar-based authentication where supported, and other verification methods prescribed by the State/UT."
+    },
+    {
+      "question": "Is Aadhaar required for beneficiary verification?",
+      "answer": "The use of Aadhaar depends on the applicable PDS system and State/UT procedure. It should not be assumed to be the only verification method."
+    },
+    {
+      "question": "What happens if beneficiary verification fails?",
+      "answer": "Check the beneficiary information for errors and follow the applicable procedure for resolving authentication or record mismatches. If the issue remains unresolved, contact the concerned PDS authority."
+    },
+    {
+      "question": "Does verification mean that I am eligible for ration?",
+      "answer": "No. Identity or record verification and eligibility determination are separate processes. Eligibility is determined according to the applicable State/UT rules."
+    },
+    {
+      "question": "When can beneficiary verification happen?",
+      "answer": "Beneficiary verification may occur during PDS services such as ration distribution or other processes where identity confirmation is required."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

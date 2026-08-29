@@ -1,0 +1,84 @@
+{
+  "id": "update_address",
+  "intent": "update_address",
+  "category": "account_management",
+  "title": "Update Address in PDS Record",
+
+  "facts": {
+    "summary": "A beneficiary may be able to update the address associated with their PDS or ration-card record through the applicable State or Union Territory process.",
+
+    "purpose": [
+      "Keep the beneficiary address information accurate.",
+      "Maintain correct household or ration-card records.",
+      "Support PDS services that depend on beneficiary address information."
+    ],
+
+    "how_to_update": [
+      "Use the official PDS portal if the State/UT provides an online address-update facility.",
+      "Visit the designated Food and Civil Supplies or PDS office if an offline update is required.",
+      "Submit the required information and documents according to the applicable State/UT procedure.",
+      "Complete any verification required by the concerned authority."
+    ],
+
+    "verification": "The concerned State/UT may require identity, ration-card, residence or other verification before updating the address.",
+
+    "requirements": [
+      "Existing beneficiary or ration-card information may be required.",
+      "Proof of the new address may be required according to State/UT rules.",
+      "Additional documents may be required depending on the applicable procedure."
+    ],
+
+    "online_update": "Online address-update availability depends on the concerned State or Union Territory PDS system.",
+
+    "failed_update": [
+      "Check that the submitted information and documents are correct.",
+      "Complete any required verification.",
+      "If online updating is unavailable or unsuccessful, follow the designated offline procedure or contact the concerned PDS authority."
+    ],
+
+    "state_specific": "The available online service, required documents, verification process and address-update procedure can differ between States and Union Territories.",
+
+    "privacy": "Beneficiary information and address documents should only be submitted through official government portals, offices or authorized PDS facilities.",
+
+    "important_notes": [
+      "Do not assume that every State/UT provides online address updates.",
+      "Do not invent a specific document list without State/UT-specific information.",
+      "An address update may involve verification by the concerned authority.",
+      "Changing an address is different from changing a registered mobile number."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I change the address on my ration card?",
+      "answer": "Follow the address-update process provided by your State/UT PDS authority, either through its official portal where available or through the designated PDS/Food and Civil Supplies office."
+    },
+    {
+      "question": "Can I update my ration card address online?",
+      "answer": "Online address-update availability depends on the concerned State or Union Territory PDS system."
+    },
+    {
+      "question": "What documents are required to change my ration card address?",
+      "answer": "The required documents depend on the applicable State/UT procedure and may include proof of the new address and beneficiary or ration-card information."
+    },
+    {
+      "question": "Do I need verification to change my address?",
+      "answer": "The concerned State/UT may require identity, ration-card, residence or other verification before changing the address."
+    },
+    {
+      "question": "What should I do if I cannot update my address online?",
+      "answer": "If the online facility is unavailable or unsuccessful, follow the designated offline procedure or contact the concerned State/UT PDS or Food and Civil Supplies authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

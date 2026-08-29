@@ -1,0 +1,74 @@
+{
+  "id": "ration_card_surrender",
+  "intent": "ration_card_surrender",
+  "category": "ration_card",
+  "title": "Surrendering or Cancelling a Ration Card",
+
+  "facts": {
+    "summary": "A ration card holder who no longer requires the ration card may request its surrender or cancellation through the applicable authority or official system of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card records and handling applicable surrender or cancellation procedures.",
+
+    "when_to_surrender": [
+      "When the household is no longer eligible for the ration-card benefit.",
+      "When the ration card is no longer required.",
+      "When another applicable circumstance requires cancellation or surrender under State/UT rules."
+    ],
+
+    "application_method": "The surrender or cancellation procedure depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the applicant should follow the procedure prescribed by the designated Food and Civil Supplies authority.",
+
+    "documents": "The documents or information required for surrender depend on the concerned State or Union Territory and its applicable procedure.",
+
+    "verification": "The concerned State or Union Territory authority may verify the request and supporting information before updating the ration-card record.",
+
+    "processing_time": "Processing time for surrender or cancellation is State/UT specific.",
+
+    "fees": "Any fee associated with surrender or cancellation is determined by the concerned State or Union Territory authority.",
+
+    "important_notes": [
+      "There is no single nationwide surrender procedure that applies identically to every State and Union Territory.",
+      "Online surrender availability depends on the concerned State or Union Territory.",
+      "Required documents and verification requirements may vary by State/UT.",
+      "Use the official State/UT Food and Civil Supplies system or designated government office.",
+      "Do not assume that surrender and cancellation procedures are identical across all States and Union Territories."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I surrender my ration card?",
+      "answer": "Follow the surrender procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority. If an official online facility is available, it may be used."
+    },
+    {
+      "question": "I no longer need my ration card. How can I cancel it?",
+      "answer": "Request surrender or cancellation through the applicable official State/UT Food and Civil Supplies system or designated authority."
+    },
+    {
+      "question": "Can I surrender my ration card online?",
+      "answer": "Online surrender availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to surrender a ration card?",
+      "answer": "The required documents or information depend on the applicable State or Union Territory procedure."
+    },
+    {
+      "question": "How long does ration-card surrender take?",
+      "answer": "The processing time depends on the concerned State or Union Territory authority and its applicable procedure."
+    },
+    {
+      "question": "Is there a fee for surrendering a ration card?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

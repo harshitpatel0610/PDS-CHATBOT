@@ -1,0 +1,74 @@
+{
+  "id": "family_details_view",
+  "intent": "family_details_view",
+  "category": "family_management",
+  "title": "Viewing Family Details on a Ration Card",
+
+  "facts": {
+    "summary": "A beneficiary may be able to view the family members associated with a ration-card household record through the official system of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority maintains ration-card household records and provides applicable services for viewing family details.",
+
+    "information_available": [
+      "Family members associated with the ration-card household.",
+      "Household or ration-card information maintained by the concerned authority.",
+      "Other beneficiary information that the applicable State/UT system makes available to the authorized user."
+    ],
+
+    "online_access": "Availability of an online facility to view family details depends on the concerned State or Union Territory.",
+
+    "access_method": "Where an online facility is available, beneficiaries should use the official ration-card or Food and Civil Supplies portal of the concerned State or Union Territory.",
+
+    "authentication": "The applicable State/UT system may require ration-card details, registered mobile information, login credentials, OTP verification, or other authentication before displaying household information.",
+
+    "offline_access": "If online access is unavailable, the beneficiary should contact the designated Food and Civil Supplies authority or authorized government office according to the applicable State/UT procedure.",
+
+    "privacy": "Family and beneficiary information should be accessed only through authorized government systems and should not be shared with unauthorized persons or unofficial websites.",
+
+    "important_notes": [
+      "The information displayed can vary between States and Union Territories.",
+      "Online access to family details is State/UT specific.",
+      "Authentication may be required before household information is displayed.",
+      "Use official government portals or designated government offices.",
+      "Do not assume that every State/UT provides the same family-detail information online."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I view my family members on my ration card?",
+      "answer": "Use the official ration-card or Food and Civil Supplies portal of your State or Union Territory if a family-details viewing facility is available."
+    },
+    {
+      "question": "Can I check my ration card family details online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What information can I see about my family members?",
+      "answer": "The information available depends on the State/UT system and may include family members and other household information maintained by the authority."
+    },
+    {
+      "question": "Do I need to verify my identity to view family details?",
+      "answer": "The applicable State/UT system may require authentication or verification before displaying household information."
+    },
+    {
+      "question": "I cannot see my family details online. What should I do?",
+      "answer": "Check the official State/UT ration-card system or contact the concerned Food and Civil Supplies authority for assistance."
+    },
+    {
+      "question": "Can I view my ration card family details offline?",
+      "answer": "If an online facility is unavailable, follow the applicable procedure through the designated Food and Civil Supplies authority or authorized government office."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

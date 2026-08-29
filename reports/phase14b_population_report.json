@@ -1,0 +1,9 @@
+{
+    "states_processed": 3,
+    "states_with_verified_claims": 0,
+    "total_sources": 4,
+    "total_verified_claims": 0,
+    "total_null_fields": 21,
+    "district_fields_found": 0,
+    "unsupported_claims": 21
+}

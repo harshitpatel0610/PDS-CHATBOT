@@ -1,0 +1,15 @@
+{
+    "states_analyzed": 3,
+    "sources_discovered": 3,
+    "sources_accepted": 3,
+    "sources_rejected": 0,
+    "html_sources": 1,
+    "pdf_sources": 0,
+    "application_sources": 0,
+    "document_sources": 0,
+    "fee_sources": 0,
+    "processing_time_sources": 0,
+    "evidence_bearing_sources": 0,
+    "states_with_insufficient_evidence": 3,
+    "total_evidence_claims_discovered": 0
+}

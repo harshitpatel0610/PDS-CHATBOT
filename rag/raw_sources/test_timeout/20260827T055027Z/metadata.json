@@ -1,0 +1,10 @@
+{
+    "source_id": "test_timeout",
+    "requested_url": "http://httpbin.org/delay/2",
+    "final_url": "http://httpbin.org/delay/2",
+    "retrieved_at": "20260827T055027Z",
+    "http_status": 200,
+    "sha256": "27ebb9c24fa612565590b51471719e0781a0119250774bd47394c77a886647c7",
+    "content_type": "application/json",
+    "error": null
+}

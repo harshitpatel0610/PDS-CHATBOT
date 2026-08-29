@@ -1,0 +1,89 @@
+{
+  "id": "quality_complaint",
+  "intent": "quality_complaint",
+  "category": "grievance_escalation",
+  "title": "PDS Ration Quality Complaint",
+
+  "facts": {
+    "summary": "A beneficiary can report a problem with the quality or condition of PDS commodities through the applicable official grievance mechanism of the concerned State or Union Territory.",
+
+    "when_to_complain": [
+      "The ration received appears to be of poor quality.",
+      "The commodity appears damaged, contaminated, spoiled or otherwise unsuitable.",
+      "The quantity or condition of the supplied commodity appears inconsistent with the expected PDS distribution.",
+      "Another quality-related issue is observed with a PDS commodity."
+    ],
+
+    "first_steps": [
+      "Record the details of the commodity and the quality issue.",
+      "Keep the transaction or distribution details, where available.",
+      "If possible, retain the commodity or relevant packaging as supporting evidence until guidance is received from the competent authority.",
+      "Submit the complaint through the official PDS or Food and Civil Supplies grievance mechanism of the concerned State/UT."
+    ],
+
+    "useful_information": [
+      "Beneficiary or ration-card information requested by the grievance system.",
+      "Fair Price Shop or dealer details, where available.",
+      "Commodity name.",
+      "Date of distribution, if known.",
+      "Description of the quality problem.",
+      "Transaction or distribution details, where available."
+    ],
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority manages the applicable PDS grievance process.",
+
+    "verification": "The competent authority may examine the complaint and verify the reported quality issue according to the applicable State/UT procedures.",
+
+    "resolution": "The outcome depends on verification of the complaint and the applicable State/UT procedure.",
+
+    "escalation": "If the complaint remains unresolved, follow the escalation procedure provided by the concerned State/UT grievance system.",
+
+    "state_specific": "The complaint channel, verification procedure, responsible authority and resolution process can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Provide factual information about the observed quality issue.",
+      "Do not claim contamination or adulteration without reasonable evidence.",
+      "Do not assume a specific replacement, refund or disciplinary action.",
+      "Use official government grievance mechanisms.",
+      "If a commodity appears unsafe to consume, avoid consuming it and follow appropriate official guidance."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Where can I complain about poor quality ration?",
+      "answer": "Report the issue through the official PDS or Food and Civil Supplies grievance mechanism of your State or Union Territory."
+    },
+    {
+      "question": "What should I do if the ration I received is damaged?",
+      "answer": "Record the details of the problem and report it through the applicable official State/UT PDS grievance mechanism."
+    },
+    {
+      "question": "Can I complain about spoiled ration?",
+      "answer": "Yes. A spoiled or otherwise unsuitable PDS commodity can be reported through the applicable official grievance mechanism."
+    },
+    {
+      "question": "What information should I provide for a ration quality complaint?",
+      "answer": "Provide the requested beneficiary and Fair Price Shop details, commodity name, distribution date and a factual description of the quality problem."
+    },
+    {
+      "question": "What happens after I report a ration quality problem?",
+      "answer": "The competent authority may review and verify the complaint according to the applicable State/UT procedure."
+    },
+    {
+      "question": "What if the ration appears unsafe to consume?",
+      "answer": "Avoid consuming the questionable commodity and report the issue through the appropriate official PDS grievance mechanism."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

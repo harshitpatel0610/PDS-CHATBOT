@@ -1,0 +1,14 @@
+{
+    "state": "Gujarat",
+    "source_url": "https://www.bis.gov.in/index.php/hallmarking-overview/jewellers-registration-scheme/list-of-licensed-jewellers/",
+    "final_url": "https://www.bis.gov.in/index.php/hallmarking-overview/jewellers-registration-scheme/list-of-licensed-jewellers/",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=UTF-8",
+    "http_status": 200,
+    "discovered_from": "https://dcs-dof.gujarat.gov.in/",
+    "sha256": "c6f07b044a671e24f08ad636118527b5cbc63a752f0e25e52cbafcbf7ffe076e",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

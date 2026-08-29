@@ -1,0 +1,83 @@
+{
+  "id": "ration_shop_location",
+  "intent": "ration_shop_location",
+  "category": "ration_collection",
+  "title": "Ration Shop Location",
+
+  "facts": {
+    "summary": "Ration shop location information helps beneficiaries identify the Fair Price Shop or authorized ration shop associated with their PDS service area.",
+
+    "purpose": [
+      "Find a nearby ration shop.",
+      "Identify the Fair Price Shop associated with a beneficiary.",
+      "Understand where PDS ration can be collected."
+    ],
+
+    "fair_price_shop": "A Fair Price Shop is an authorized outlet through which eligible beneficiaries can receive PDS commodities according to the applicable rules.",
+
+    "finding_shop": [
+      "Use the official PDS portal or State/UT food department service when a ration-shop locator is available.",
+      "Check the ration-card or beneficiary information provided by the concerned authority.",
+      "Contact the applicable Food and Civil Supplies authority if the assigned shop cannot be identified."
+    ],
+
+    "location_information": "The available shop location information may include the shop name, address, area or other identifying details depending on the applicable PDS system.",
+
+    "assigned_shop": "The ration shop associated with a beneficiary depends on the applicable PDS system and local administrative arrangements.",
+
+    "shop_change": "Requests to change or reassign a ration shop are subject to the applicable State/UT process and rules.",
+
+    "verification": "Beneficiaries should verify ration-shop information through official PDS or Food and Civil Supplies channels.",
+
+    "scope": [
+      "Finding a ration shop.",
+      "Finding a Fair Price Shop.",
+      "Checking ration-shop location.",
+      "Understanding where to collect PDS ration."
+    ],
+
+    "important_notes": [
+      "Do not invent a ration-shop address.",
+      "Ration-shop locations are location-specific.",
+      "A question about ration-shop location is different from a question about ration quota.",
+      "A question about ration not being received should use the ration_not_received intent.",
+      "Use official State/UT information for current shop addresses."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Where is my ration shop?",
+      "answer": "Use the official PDS portal, State/UT Food and Civil Supplies service or your ration-card information to identify the ration shop associated with your beneficiary record."
+    },
+    {
+      "question": "How can I find a nearby ration shop?",
+      "answer": "Use the official ration-shop locator or Food and Civil Supplies service provided by the concerned State or Union Territory when available."
+    },
+    {
+      "question": "What is a Fair Price Shop?",
+      "answer": "A Fair Price Shop is an authorized outlet through which eligible beneficiaries can receive PDS commodities."
+    },
+    {
+      "question": "Can I check my ration shop online?",
+      "answer": "Online availability depends on the State/UT PDS system. Use the official portal or shop-locator service when available."
+    },
+    {
+      "question": "I don't know which ration shop is assigned to me.",
+      "answer": "Check your official ration-card or beneficiary information, or contact the concerned Food and Civil Supplies authority to identify the applicable shop."
+    },
+    {
+      "question": "Can I change my ration shop?",
+      "answer": "A ration-shop change or reassignment is subject to the applicable State/UT process and rules."
+    },
+    {
+      "question": "Can you give me the address of my ration shop?",
+      "answer": "A current shop address requires location-specific information. Use the official State/UT PDS portal or ration-shop locator to obtain the correct address."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

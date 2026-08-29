@@ -1,0 +1,31 @@
+{
+  "id": "gujarat_sabarkantha_bpl_apply",
+  "intent": "ration_card_apply",
+  "category": "ration_card",
+  "title": "Applying for BPL Ration Card in Sabarkantha, Gujarat",
+  "state": "Gujarat",
+  "district": "Sabarkantha",
+  "card_type": "BPL",
+  "facts": [
+    "In Sabarkantha, BPL (Below Poverty Line) cards are for families living below the state-defined poverty line.",
+    "BPL cardholders get subsidized food grains through Fair Price Shops."
+  ],
+  "process": [
+    "1. Ensure your family's name is on the official BPL list published by the Gram Panchayat or Municipality in Sabarkantha.",
+    "2. Submit the application at the Taluka Development Office (TDO) or Jan Seva Kendra.",
+    "3. Verification includes a field visit by a designated officer."
+  ],
+  "required_documents": [
+    "BPL score/list certificate",
+    "Aadhaar cards",
+    "Income certificate showing income below poverty line"
+  ],
+  "fees": "No application fee for BPL category.",
+  "processing_time": "15 to 45 days due to strict verification.",
+  "online": false,
+  "offline": true,
+  "source": {
+    "name": "Gujarat Food, Civil Supplies & Consumer Affairs Department",
+    "url": "https://dcs-dof.gujarat.gov.in/"
+  }
+}

@@ -1,0 +1,100 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+html,
+body,
+[class*="css"] {
+    font-family: "Inter", sans-serif;
+}
+
+/* Main App */
+.stApp{
+    background:#0f1117;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"]{
+    background:#161b22;
+    border-right:1px solid #2a2f3a;
+}
+
+/* Buttons */
+
+.stButton>button:hover{
+    transform:translateY(-2px);
+}
+
+/* Chat input */
+.stChatInput{
+    border-radius:18px;
+}
+
+.quick-action-card {
+
+    background: #1b1f27;
+
+    border: 1px solid #2f3640;
+
+    border-radius: 16px;
+
+    padding: 24px;
+
+    margin-bottom: 20px;
+
+    cursor: pointer;
+
+    transition: all 0.2s ease;
+}
+
+.quick-action-card:hover {
+
+    border-color: #6366f1;
+
+    transform: translateY(-3px);
+
+    box-shadow: 0 8px 20px rgba(99, 102, 241, 0.15);
+}
+
+.quick-action-icon {
+
+    font-size: 36px;
+
+    margin-bottom: 14px;
+}
+
+.quick-action-title {
+
+    font-size: 20px;
+
+    font-weight: 600;
+
+    color: white;
+
+    margin-bottom: 8px;
+}
+
+.quick-action-description {
+
+    color: #9ca3af;
+
+    font-size: 13px;
+
+    opacity: 0.75;
+
+    line-height: 1.5;
+}
+
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+div[data-testid="stVerticalBlockBorderWrapper"] {
+    border-radius: 18px;
+    transition: 0.25s;
+}
+
+div[data-testid="stVerticalBlockBorderWrapper"]:hover {
+    transform: translateY(-4px);
+    border-color: #6366F1;
+}

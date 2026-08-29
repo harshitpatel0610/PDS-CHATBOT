@@ -1,0 +1,87 @@
+{
+  "id": "file_complaint",
+  "intent": "file_complaint",
+  "category": "complaint",
+  "title": "Filing a PDS Complaint",
+
+  "facts": {
+    "summary": "A PDS beneficiary can raise a complaint when there is a problem related to ration distribution, a Fair Price Shop, beneficiary services, or another PDS-related issue. The complaint should be submitted through the applicable official grievance mechanism of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing the applicable PDS grievance mechanism.",
+
+    "when_to_complain": [
+      "Ration was not received despite entitlement.",
+      "There is an issue with ration distribution.",
+      "A Fair Price Shop-related problem needs to be reported.",
+      "The beneficiary believes an applicable PDS service or entitlement has not been provided correctly."
+    ],
+
+    "complaint_method": [
+      "Use the official PDS or Food and Civil Supplies grievance portal of the concerned State or Union Territory, where available.",
+      "Alternatively, use the designated government office or grievance channel prescribed by the concerned State/UT."
+    ],
+
+    "required_information": [
+      "Beneficiary or ration-card details as requested by the applicable grievance system.",
+      "Details describing the problem or complaint.",
+      "Any supporting information or documents requested by the applicable authority."
+    ],
+
+    "complaint_process": [
+      "Submit the complaint through the applicable official grievance mechanism.",
+      "Provide accurate beneficiary and complaint details.",
+      "Retain the complaint or reference number if one is generated.",
+      "Use the applicable complaint-status mechanism to track the complaint where available."
+    ],
+
+    "online_availability": "Online complaint submission depends on the grievance system provided by the concerned State or Union Territory.",
+
+    "state_specific": "The exact complaint portal, required information, submission procedure and escalation process can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Use official government grievance channels for PDS complaints.",
+      "Do not assume that every State/UT uses the same complaint portal or procedure.",
+      "Do not invent a complaint URL, helpline number or escalation authority when the State/UT is unknown.",
+      "Keep the complaint reference number if one is provided.",
+      "A complaint should contain factual and accurate information about the issue."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I file a complaint about my ration?",
+      "answer": "Submit the complaint through the applicable official PDS or Food and Civil Supplies grievance mechanism of your State or Union Territory."
+    },
+    {
+      "question": "Where can I complain about a ration shop?",
+      "answer": "Use the official grievance mechanism provided by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I file a PDS complaint online?",
+      "answer": "Online complaint submission is available where the concerned State or Union Territory provides an official online grievance facility."
+    },
+    {
+      "question": "What information do I need to file a ration complaint?",
+      "answer": "Provide the beneficiary or ration-card information and details of the problem requested by the applicable grievance system."
+    },
+    {
+      "question": "What should I do after submitting a complaint?",
+      "answer": "Keep the complaint reference number if one is generated and use the applicable complaint-status facility to track it where available."
+    },
+    {
+      "question": "My ration was not received. Can I file a complaint?",
+      "answer": "Yes. You can use the applicable official PDS grievance mechanism of your State or Union Territory to report the issue."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ration_card_transfer",
+  "intent": "ration_card_transfer",
+  "category": "ration_card",
+  "title": "Transfer of Ration Card",
+
+  "facts": {
+    "summary": "A ration card holder who moves to another location may need to follow the applicable ration-card transfer or portability procedure prescribed by the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authorities are responsible for ration-card records and applicable transfer procedures.",
+
+    "transfer_reason": "A ration-card transfer may be required when a household permanently moves from one location or jurisdiction to another, subject to the applicable State or Union Territory rules.",
+
+    "application_method": "The procedure for transferring a ration card depends on the concerned State or Union Territory. Applicants should use the applicable official Food and Civil Supplies portal or designated government office.",
+
+    "documents": "The documents and information required for a ration-card transfer depend on the concerned State or Union Territory and the type of transfer requested.",
+
+    "verification": "The concerned authority may verify the applicant's details, existing ration-card information, new address and supporting documents before processing the transfer.",
+
+    "processing_time": "Processing time for ration-card transfer is State/UT specific and should be confirmed with the concerned authority.",
+
+    "fees": "Any fee applicable to a ration-card transfer is determined by the concerned State or Union Territory authority.",
+
+    "portability": "Ration-card portability and transfer are separate concepts. Portability mechanisms such as One Nation One Ration Card can allow eligible beneficiaries to access entitled food grains from a different location without necessarily transferring the ration-card record.",
+
+    "important_notes": [
+      "Transfer procedures can differ between States and Union Territories.",
+      "Moving to another city does not automatically mean that a ration-card record must be transferred.",
+      "Portability may be applicable to eligible beneficiaries under the One Nation One Ration Card framework.",
+      "Use official government channels for ration-card transfer requests.",
+      "Do not assume that documents, fees or processing times are identical across States and Union Territories."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I transfer my ration card to another location?",
+      "answer": "Follow the ration-card transfer procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "I moved to another city. Can I transfer my ration card?",
+      "answer": "The applicable transfer procedure depends on the State/UT and the circumstances of the move. Contact the concerned Food and Civil Supplies authority or use its official portal."
+    },
+    {
+      "question": "Can I transfer my ration card online?",
+      "answer": "Online transfer availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to transfer a ration card?",
+      "answer": "Required documents depend on the concerned State or Union Territory and its applicable transfer procedure."
+    },
+    {
+      "question": "How long does a ration-card transfer take?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is ration-card transfer the same as portability?",
+      "answer": "No. Transfer concerns changing or moving the ration-card record according to the applicable procedure, while portability can allow eligible beneficiaries to access entitled food grains from another location."
+    },
+    {
+      "question": "Can I use my ration card in another state?",
+      "answer": "Eligible beneficiaries may be able to use portability facilities under the One Nation One Ration Card framework. The applicable portability rules should be checked through the official system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "National Food Security Act Portal",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

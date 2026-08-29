@@ -1,0 +1,69 @@
+{
+  "id": "smart_ration_card",
+  "intent": "smart_ration_card",
+  "category": "ration_card",
+  "title": "Smart Ration Card",
+
+  "facts": {
+    "summary": "A smart ration card refers to a digitally enabled ration-card system used by the concerned authority to maintain beneficiary and ration-card information and provide applicable Public Distribution System services.",
+
+    "purpose": "Smart ration-card systems can support digital identification of beneficiaries, electronic record management and delivery of applicable ration-card services.",
+
+    "authority": "Implementation and features of smart ration-card systems depend on the concerned State or Union Territory authority.",
+
+    "features": [
+      "Digital or electronically maintained beneficiary information.",
+      "Electronic ration-card records.",
+      "Integration with applicable Public Distribution System services.",
+      "Use of beneficiary identification and verification mechanisms where implemented.",
+      "Potential access to applicable digital ration-card services."
+    ],
+
+    "availability": "Availability, format and features of a smart ration card depend on the concerned State or Union Territory.",
+
+    "application": "The procedure for obtaining or converting to a smart ration card, where such a facility exists, is determined by the concerned State or Union Territory.",
+
+    "verification": "Verification requirements depend on the implementation and procedures of the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Smart ration-card implementation is not necessarily identical across all States and Union Territories.",
+      "The term and features provided by a smart ration-card system may vary by State/UT.",
+      "Use the official State/UT Food and Civil Supplies authority for information about availability and application.",
+      "Do not assume that every State or Union Territory provides the same smart ration-card features."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is a smart ration card?",
+      "answer": "A smart ration card refers to a digitally enabled ration-card system used for maintaining beneficiary information and providing applicable PDS services."
+    },
+    {
+      "question": "What are the benefits of a smart ration card?",
+      "answer": "Depending on the implementation, smart ration-card systems can support digital beneficiary identification, electronic records and access to applicable PDS services."
+    },
+    {
+      "question": "Can I get a smart ration card?",
+      "answer": "Availability and the procedure for obtaining a smart ration card depend on the concerned State or Union Territory."
+    },
+    {
+      "question": "How can I apply for a smart ration card?",
+      "answer": "Follow the procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority where a smart ration-card facility is available."
+    },
+    {
+      "question": "Is a smart ration card available in every state?",
+      "answer": "The availability and features of smart ration-card systems depend on the concerned State or Union Territory."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

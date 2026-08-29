@@ -1,0 +1,10 @@
+{
+    "source_id": "states/gujarat",
+    "requested_url": "https://dcs-dof.gujarat.gov.in/",
+    "final_url": "https://dcs-dof.gujarat.gov.in/gu/home",
+    "retrieved_at": "20260827T055045Z",
+    "http_status": 200,
+    "sha256": "d8c21e1f18096386860cfcd8ee33d8a656602dab8771584cb9080cf12861d042",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+}

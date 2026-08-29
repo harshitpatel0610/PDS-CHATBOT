@@ -1,0 +1,68 @@
+{
+  "id": "ration_card_online_offline",
+  "intent": "ration_card_online_offline",
+  "category": "ration_card",
+  "title": "Online and Offline Ration Card Application",
+
+  "facts": {
+    "summary": "Ration-card application may be available through an official State or Union Territory online portal, a designated Food and Civil Supplies office, or both, depending on the applicable State/UT procedure.",
+
+    "online_application": "Online application availability depends on the concerned State or Union Territory.",
+
+    "offline_application": "Where an offline process is provided, applicants may approach the designated Food and Civil Supplies office or other authorized government channel prescribed by the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for the applicable ration-card application process.",
+
+    "procedure": "Applicants should follow the application procedure, document requirements, verification process and submission method prescribed by their concerned State or Union Territory.",
+
+    "documents": "The documents required for a ration-card application depend on the concerned State or Union Territory.",
+
+    "verification": "Verification requirements are determined by the concerned State or Union Territory authority.",
+
+    "important_notes": [
+      "Online application availability is not identical across all States and Union Territories.",
+      "Offline application availability and office locations depend on the concerned State/UT.",
+      "Use only official government portals or designated government offices.",
+      "Do not assume that the online and offline procedures are identical in every State/UT.",
+      "The applicable State/UT authority should be consulted for the current procedure."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can I apply for a ration card online?",
+      "answer": "Online application availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Can I apply for a ration card offline?",
+      "answer": "Where an offline process is provided, applicants can follow the procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Where can I apply for a ration card?",
+      "answer": "Depending on the State/UT, application may be available through the official online portal or a designated Food and Civil Supplies office."
+    },
+    {
+      "question": "Is ration card application available online everywhere?",
+      "answer": "No. Online application availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Which is better, online or offline ration card application?",
+      "answer": "The available application method depends on the concerned State or Union Territory. Applicants should follow the officially prescribed procedure."
+    },
+    {
+      "question": "Where should I apply if online application is not available?",
+      "answer": "Follow the offline application procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

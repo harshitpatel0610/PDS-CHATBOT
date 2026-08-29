@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Rice",
+    "aliases": [
+      "Rice",
+      "rice",
+      "Chawal",
+      "chawal",
+      "Akki"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 2,
+    "name": "Wheat",
+    "aliases": [
+      "Wheat",
+      "Gehu",
+      "Gehun",
+      "Godhi"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 3,
+    "name": "Sugar",
+    "aliases": [
+      "Sugar",
+      "Cheeni",
+      "Sakkare"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 4,
+    "name": "Kerosene",
+    "aliases": [
+      "Kerosene",
+      "Kerosene Oil",
+      "Mitti Ka Tel"
+    ],
+    "unit": "litre"
+  },
+  {
+    "id": 5,
+    "name": "Mustard Oil",
+    "aliases": [
+      "Mustard Oil",
+      "Sarso Oil",
+      "Sarson Tel"
+    ],
+    "unit": "litre"
+  },
+  {
+    "id": 6,
+    "name": "Palm Oil",
+    "aliases": [
+      "Palm Oil",
+      "Cooking Oil"
+    ],
+    "unit": "litre"
+  },
+  {
+    "id": 7,
+    "name": "Salt",
+    "aliases": [
+      "Salt",
+      "Namak"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 8,
+    "name": "Tur Dal",
+    "aliases": [
+      "Tur Dal",
+      "Toor Dal",
+      "Arhar Dal",
+      "Thuvar Dal"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 9,
+    "name": "Moong Dal",
+    "aliases": [
+      "Moong Dal",
+      "Green Gram"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 10,
+    "name": "Urad Dal",
+    "aliases": [
+      "Urad Dal",
+      "Black Gram"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 11,
+    "name": "Masoor Dal",
+    "aliases": [
+      "Masoor Dal",
+      "Red Lentil"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 12,
+    "name": "Ragi",
+    "aliases": [
+      "Ragi",
+      "Finger Millet"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 13,
+    "name": "Jowar",
+    "aliases": [
+      "Jowar",
+      "Sorghum"
+    ],
+    "unit": "kg"
+  },
+  {
+    "id": 14,
+    "name": "Bajra",
+    "aliases": [
+      "Bajra",
+      "Pearl Millet"
+    ],
+    "unit": "kg"
+  }
+]

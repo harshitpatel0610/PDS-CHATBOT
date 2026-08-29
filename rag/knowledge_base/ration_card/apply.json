@@ -1,0 +1,89 @@
+{
+  "id": "ration_card_apply",
+  "intent": "ration_card_apply",
+  "category": "ration_card",
+  "title": "Applying for a Ration Card",
+
+  "facts": {
+    "summary": "Ration cards for eligible households under the Public Distribution System are issued by the concerned State or Union Territory authority.",
+
+    "issuing_authority": "The concerned State or Union Territory Government is responsible for identifying eligible households and issuing ration cards. The Department of Food and Public Distribution (DFPD), Government of India, does not directly issue individual ration cards.",
+
+    "where_to_apply": "An applicant should approach the Food and Civil Supplies authority or designated office of the concerned State or Union Territory.",
+
+    "online_application": "Whether a ration card application can be submitted online depends on the concerned State or Union Territory. Applicants should use the applicable official State/UT food and civil supplies portal when online application is provided.",
+
+    "eligibility": "Under the National Food Security Act (NFSA), eligible households are identified by the concerned State or Union Territory according to the applicable coverage and eligibility framework.",
+
+    "nfsa_categories": [
+      "Priority Household (PHH)",
+      "Antyodaya Anna Yojana (AAY)"
+    ],
+
+    "required_documents": "The exact documents required for a ration card application are determined by the concerned State or Union Territory. Applicants should follow the document and verification requirements prescribed by their applicable State/UT authority.",
+
+    "verification": "The concerned State or Union Territory authority is responsible for identifying eligible households and issuing ration cards.",
+
+    "processing_time": "Processing time is not uniform across India and should be confirmed with the concerned State or Union Territory authority.",
+
+    "fees": "Any application fee, if applicable, is determined by the concerned State or Union Territory. A single nationwide application fee should not be assumed.",
+
+    "important_notes": [
+      "DFPD does not directly issue individual BPL, AAY or APL ration cards.",
+      "Operational responsibility for issuing ration cards within States and Union Territories rests with the respective State/UT Government.",
+      "Document requirements may differ between States and Union Territories.",
+      "Application procedures may differ between States and Union Territories.",
+      "Processing time may differ between States and Union Territories.",
+      "Fees, if applicable, may differ between States and Union Territories.",
+      "Online application availability depends on the concerned State or Union Territory."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Where do I apply for a ration card?",
+      "answer": "Apply through the Food and Civil Supplies authority or designated office of the concerned State or Union Territory."
+    },
+    {
+      "question": "Can I apply for a ration card online?",
+      "answer": "Online application availability depends on the concerned State or Union Territory. Use the applicable official State/UT food and civil supplies portal if online application is available."
+    },
+    {
+      "question": "Who issues ration cards?",
+      "answer": "Ration cards are issued by the concerned State or Union Territory Government."
+    },
+    {
+      "question": "Does the Central Government issue ration cards directly?",
+      "answer": "No. The operational responsibility for identifying eligible households and issuing ration cards rests with the concerned State or Union Territory Government."
+    },
+    {
+      "question": "What documents are required for a new ration card?",
+      "answer": "The required documents are determined by the concerned State or Union Territory. Follow the document list prescribed by the applicable State/UT authority."
+    },
+    {
+      "question": "How long does it take to get a ration card?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "How much does a ration card application cost?",
+      "answer": "Any application fee is determined by the concerned State or Union Territory. The available central information does not specify one uniform nationwide fee."
+    },
+    {
+      "question": "Who decides whether I am eligible for a ration card?",
+      "answer": "The concerned State or Union Territory identifies eligible households according to the applicable eligibility and coverage framework."
+    },
+    {
+      "question": "What is the process for getting a new ration card?",
+      "answer": "Approach the concerned State or Union Territory Food and Civil Supplies authority, follow its application procedure, provide the required documents, and complete the verification requirements prescribed by that authority."
+    }
+  ],
+
+  "source": {
+    "organization": "Department of Food and Public Distribution, Government of India",
+    "sources": [
+      "DFPD FAQ",
+      "DFPD Implementation of NFSA",
+      "NFSA State/UT Ration Card Portals"
+    ]
+  }
+}

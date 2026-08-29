@@ -1,0 +1,79 @@
+{
+  "id": "antyodaya_anna_yojana",
+  "intent": "antyodaya_anna_yojana",
+  "category": "scheme_information",
+  "title": "Antyodaya Anna Yojana (AAY)",
+
+  "facts": {
+    "summary": "Antyodaya Anna Yojana (AAY) is a food-security programme under the Public Distribution System for the poorest households identified according to the applicable criteria.",
+
+    "purpose": [
+      "Provide food-grain support to the poorest households.",
+      "Support food security for households identified under the AAY category."
+    ],
+
+    "beneficiary_identification": "AAY beneficiaries are identified by the concerned State or Union Territory authority according to the applicable criteria and identification framework.",
+
+    "ration_card": "AAY beneficiaries are covered through the applicable PDS beneficiary and ration-card records maintained by the concerned authority.",
+
+    "food_grain_entitlement": "The applicable food-grain entitlement is provided according to the prevailing Government of India food-security framework and scheme provisions.",
+
+    "distribution": "Food grains for eligible AAY beneficiaries are distributed through the PDS network and designated Fair Price Shops.",
+
+    "eligibility": "A household's eligibility for AAY is determined according to the criteria and identification process applicable in the concerned State or Union Territory.",
+
+    "application": "The process for identification or inclusion under AAY is handled through the concerned State/UT PDS and Food and Civil Supplies authorities.",
+
+    "state_specific": "Beneficiary identification and operational procedures can differ between States and Union Territories according to their applicable implementation framework.",
+
+    "important_notes": [
+      "Do not assume that every ration-card holder is an AAY beneficiary.",
+      "AAY identification is handled by the concerned State/UT authority.",
+      "Do not invent current entitlement quantities unless current scheme information explicitly provides them.",
+      "Do not assume that AAY eligibility criteria are identical in every State/UT.",
+      "For beneficiary-specific eligibility questions, consult the concerned State/UT authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is Antyodaya Anna Yojana?",
+      "answer": "AAY is a food-security programme under the PDS for the poorest households identified according to applicable criteria."
+    },
+    {
+      "question": "Who is eligible for AAY?",
+      "answer": "AAY beneficiaries are identified by the concerned State or Union Territory according to the applicable eligibility and identification criteria."
+    },
+    {
+      "question": "Who issues AAY ration cards?",
+      "answer": "Ration-card issuance and beneficiary identification are handled by the concerned State or Union Territory authority."
+    },
+    {
+      "question": "Where do AAY beneficiaries collect ration?",
+      "answer": "Eligible AAY beneficiaries receive their applicable food-grain entitlement through the PDS network and designated Fair Price Shops."
+    },
+    {
+      "question": "Can every ration-card holder receive AAY benefits?",
+      "answer": "No. AAY is intended for households identified under the applicable AAY criteria."
+    },
+    {
+      "question": "How can I become an AAY beneficiary?",
+      "answer": "The identification or inclusion process is handled by the concerned State/UT PDS and Food and Civil Supplies authorities according to the applicable criteria."
+    },
+    {
+      "question": "How much ration does an AAY family receive?",
+      "answer": "The available knowledge does not specify a current entitlement quantity. Do not assume a fixed quantity without current scheme information."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

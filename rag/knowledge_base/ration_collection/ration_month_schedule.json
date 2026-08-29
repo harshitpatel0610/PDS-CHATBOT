@@ -1,0 +1,70 @@
+{
+  "id": "ration_month_schedule",
+  "intent": "ration_month_schedule",
+  "category": "ration_collection",
+  "title": "Monthly Ration Distribution Schedule",
+
+  "facts": {
+    "summary": "The schedule or period during which ration is distributed is determined according to the applicable PDS procedures of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing ration distribution schedules through the applicable PDS system.",
+
+    "distribution_period": "The exact dates or distribution period for collecting ration can vary according to the State/UT PDS system, allocation cycle and local procedures.",
+
+    "monthly_schedule": "A single nationwide monthly collection date or schedule should not be assumed for all beneficiaries.",
+
+    "schedule_information": "Beneficiaries should check the official State/UT PDS or Food and Civil Supplies portal, their designated Fair Price Shop, or the applicable government authority for the current distribution schedule.",
+
+    "fair_price_shop": "The Fair Price Shop may provide information about the applicable distribution period or collection schedule according to the instructions of the concerned State/UT authority.",
+
+    "changes": "Distribution schedules may change because of State/UT administrative decisions, allocation cycles, holidays, operational issues or other applicable circumstances.",
+
+    "online_availability": "Some State/UT PDS systems may publish ration distribution schedules online. Availability depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Do not assume that every State and Union Territory follows the same monthly ration schedule.",
+      "Exact distribution dates are State/UT specific.",
+      "The current schedule should be confirmed through an official government source or the designated Fair Price Shop.",
+      "A previously published schedule may not represent the current distribution period.",
+      "Do not provide an exact collection date unless it is supported by current State/UT information."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "When can I collect my ration this month?",
+      "answer": "The collection period depends on your State or Union Territory. Check the official PDS system or your designated Fair Price Shop for the current schedule."
+    },
+    {
+      "question": "What is the monthly ration distribution date?",
+      "answer": "There is no single nationwide distribution date. The schedule depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "When does ration distribution start?",
+      "answer": "The distribution period is State/UT specific and should be confirmed through the applicable official PDS authority or Fair Price Shop."
+    },
+    {
+      "question": "Can I collect my ration on any day?",
+      "answer": "The applicable collection period and shop schedule depend on the State/UT PDS procedure and the designated Fair Price Shop."
+    },
+    {
+      "question": "Where can I check this month's ration schedule?",
+      "answer": "Check the official State/UT PDS or Food and Civil Supplies portal or contact the designated Fair Price Shop."
+    },
+    {
+      "question": "Can the ration distribution schedule change?",
+      "answer": "Yes. Distribution schedules can change according to State/UT administrative and operational requirements."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

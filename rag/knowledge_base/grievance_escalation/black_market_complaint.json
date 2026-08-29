@@ -1,0 +1,85 @@
+{
+  "id": "black_market_complaint",
+  "intent": "black_market_complaint",
+  "category": "grievance_escalation",
+  "title": "PDS Black Marketing Complaint",
+
+  "facts": {
+    "summary": "A beneficiary can report suspected illegal diversion, unauthorized sale, or black-market activity involving PDS commodities through the applicable official grievance or enforcement mechanism of the concerned State or Union Territory.",
+
+    "when_to_complain": [
+      "Suspected unauthorized sale of PDS commodities.",
+      "Suspected diversion of PDS ration intended for eligible beneficiaries.",
+      "Suspected illegal trading or distribution of PDS commodities.",
+      "Other suspected PDS-related black-market activity that falls under the applicable State/UT grievance or enforcement process."
+    ],
+
+    "first_steps": [
+      "Record the factual details of the suspected activity.",
+      "Note the Fair Price Shop, dealer or location involved, where known.",
+      "Use the official PDS or Food and Civil Supplies grievance mechanism of the concerned State/UT.",
+      "Provide accurate information and any supporting details requested by the grievance system."
+    ],
+
+    "useful_information": [
+      "Fair Price Shop or dealer details, if known.",
+      "Location of the suspected activity.",
+      "Date or approximate time of the incident, if known.",
+      "Commodity involved.",
+      "Description of the suspected activity.",
+      "Transaction or other supporting information, where available."
+    ],
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing applicable PDS distribution, grievance and enforcement procedures.",
+
+    "investigation": "The competent authority may verify the complaint and take appropriate action according to applicable laws, rules and State/UT procedures.",
+
+    "resolution": "The outcome depends on verification of the complaint and the applicable enforcement procedure.",
+
+    "escalation": "If the complaint is not appropriately addressed, follow the escalation procedure provided by the concerned State/UT grievance system.",
+
+    "state_specific": "The reporting channel, investigation procedure, responsible authority and possible action can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Report suspected black-market activity through official government channels.",
+      "Provide factual information rather than unverified accusations.",
+      "Do not attempt to investigate or confront a suspected dealer yourself.",
+      "Do not assume a specific penalty or enforcement action without State/UT-specific information.",
+      "Do not invent an anonymous-reporting facility unless the applicable official system provides one."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I report black marketing of ration?",
+      "answer": "Report the suspected activity through the official PDS or Food and Civil Supplies grievance or enforcement mechanism of your State or Union Territory."
+    },
+    {
+      "question": "Can I complain if a ration dealer is illegally selling PDS ration?",
+      "answer": "Yes. Suspected unauthorized sale or diversion of PDS commodities can be reported through the applicable official State/UT mechanism."
+    },
+    {
+      "question": "What information should I provide in a black-market complaint?",
+      "answer": "Provide available details such as the dealer or Fair Price Shop, location, commodity involved, date or time and a factual description of the suspected activity."
+    },
+    {
+      "question": "What happens after reporting black marketing?",
+      "answer": "The competent authority may verify the complaint and take appropriate action according to applicable rules and enforcement procedures."
+    },
+    {
+      "question": "Should I confront the ration dealer if I suspect black marketing?",
+      "answer": "No. Report the suspected activity through the appropriate official government grievance or enforcement channel instead."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

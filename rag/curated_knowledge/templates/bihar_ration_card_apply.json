@@ -1,0 +1,44 @@
+{
+  "state": "Bihar",
+  "intent": "ration_card_apply",
+  "last_updated": "2026-08-28",
+  "sources": [
+    {
+      "id": "bihar_epds_01",
+      "name": "Bihar State Food & Civil Supplies Corporation",
+      "url": "http://epds.bihar.gov.in/",
+      "type": "official_government",
+      "accessed_at": "2026-08-28T13:55:00Z"
+    }
+  ],
+  "data": {
+    "processing_time": {
+      "value": null,
+      "source_id": null,
+      "evidence_quote": null
+    },
+    "fees": {
+      "value": null,
+      "source_id": null,
+      "evidence_quote": null
+    },
+    "online_available": {
+      "value": null,
+      "source_id": null,
+      "evidence_quote": null
+    },
+    "offline_available": {
+      "value": null,
+      "source_id": null,
+      "evidence_quote": null
+    },
+    "application_url": {
+      "value": null,
+      "source_id": null,
+      "evidence_quote": null
+    },
+    "required_documents": [],
+    "process_steps": []
+  },
+  "verification_status": "pending_manual_entry"
+}

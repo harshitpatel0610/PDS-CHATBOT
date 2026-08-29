@@ -1,0 +1,78 @@
+{
+  "id": "epos_machine",
+  "intent": "epos_machine",
+  "category": "ration_collection",
+  "title": "ePoS Machine in Public Distribution System",
+
+  "facts": {
+    "summary": "An Electronic Point of Sale (ePoS) device is used at Fair Price Shops to support electronic authentication and recording of ration distribution transactions under the Public Distribution System.",
+
+    "purpose": [
+      "Authenticate beneficiaries during ration distribution where the applicable system requires authentication.",
+      "Record ration distribution transactions electronically.",
+      "Support transparency and monitoring of PDS transactions.",
+      "Maintain an electronic record of distribution at the Fair Price Shop."
+    ],
+
+    "location": "ePoS devices are generally operated at designated Fair Price Shops or authorized PDS distribution outlets where the applicable State or Union Territory system uses them.",
+
+    "authentication": "The applicable ePoS system may use Aadhaar-based authentication, biometric authentication, OTP or another authorized verification mechanism depending on the applicable State/UT implementation.",
+
+    "transaction": "When ration is distributed through an ePoS-enabled Fair Price Shop, the distribution transaction can be recorded electronically in the applicable PDS system.",
+
+    "beneficiary_verification": "The ePoS system can assist with beneficiary identification and authentication before recording a distribution transaction, subject to the authentication method implemented by the concerned State/UT.",
+
+    "failure_or_issue": "If an ePoS device or authentication process fails, the beneficiary should follow the applicable State/UT procedure for resolving authentication or transaction issues.",
+
+    "privacy": "Beneficiaries should use only authorized government PDS systems and should not share OTPs, authentication credentials or other sensitive information with unauthorized persons.",
+
+    "state_specific": "The exact ePoS workflow, authentication mechanism and procedures for handling failed transactions can differ between States and Union Territories.",
+
+    "important_notes": [
+      "ePoS stands for Electronic Point of Sale.",
+      "An ePoS device is used to electronically support PDS distribution transactions.",
+      "The exact authentication method depends on the applicable State/UT implementation.",
+      "A failed authentication or ePoS transaction does not by itself establish that a beneficiary is ineligible for ration.",
+      "Do not assume that every Fair Price Shop uses an identical ePoS workflow.",
+      "Use the official State/UT PDS grievance or assistance mechanism for unresolved ePoS issues."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is an ePoS machine?",
+      "answer": "An ePoS machine is an Electronic Point of Sale device used at applicable Fair Price Shops to support beneficiary authentication and electronically record ration distribution transactions."
+    },
+    {
+      "question": "Why is an ePoS machine used in ration shops?",
+      "answer": "It is used to support beneficiary authentication and electronic recording of ration distribution transactions."
+    },
+    {
+      "question": "How does the ePoS machine verify a beneficiary?",
+      "answer": "The authentication method depends on the State/UT system and may include Aadhaar-based or biometric authentication, OTP or another authorized verification method."
+    },
+    {
+      "question": "What happens if the ePoS machine does not work?",
+      "answer": "Follow the applicable State/UT procedure for resolving ePoS or authentication issues and contact the designated PDS authority or Fair Price Shop when necessary."
+    },
+    {
+      "question": "Does ePoS record my ration transaction?",
+      "answer": "Where an ePoS-enabled system is used, the ration distribution transaction can be recorded electronically in the applicable PDS system."
+    },
+    {
+      "question": "Is ePoS mandatory at every ration shop?",
+      "answer": "The use and implementation of ePoS systems depend on the applicable PDS arrangements of the concerned State or Union Territory."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

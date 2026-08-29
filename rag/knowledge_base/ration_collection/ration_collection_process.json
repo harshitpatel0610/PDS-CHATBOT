@@ -1,0 +1,76 @@
+{
+  "id": "ration_collection_process",
+  "intent": "ration_collection_process",
+  "category": "ration_collection",
+  "title": "Ration Collection Process",
+
+  "facts": {
+    "summary": "Eligible beneficiaries can collect their entitled foodgrains and other applicable commodities through the designated Fair Price Shop (FPS) under the Public Distribution System, following the procedure prescribed by the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing ration distribution through the applicable PDS system and designated Fair Price Shops.",
+
+    "collection_location": "Ration is generally collected from the Fair Price Shop (FPS) associated with the beneficiary's ration-card record, subject to applicable State/UT procedures and portability provisions.",
+
+    "basic_process": [
+      "The beneficiary visits the designated Fair Price Shop or applicable PDS outlet.",
+      "The beneficiary provides the required ration-card or beneficiary identification details.",
+      "The beneficiary undergoes the authentication or verification procedure required by the applicable PDS system.",
+      "The Fair Price Shop dealer records the distribution transaction.",
+      "The beneficiary receives the entitled ration according to the applicable allocation and eligibility."
+    ],
+
+    "authentication": "Authentication requirements depend on the applicable State or Union Territory system and may involve an electronic Point of Sale (ePoS) system or another authorized verification method.",
+
+    "entitlement": "The quantity and type of commodities available to a beneficiary depend on the applicable eligibility category, allocation and State/UT rules.",
+
+    "distribution_record": "The distribution transaction may be recorded electronically through the applicable PDS/ePoS system.",
+
+    "portability": "Eligible beneficiaries may use portability facilities where applicable under schemes such as One Nation One Ration Card, subject to the applicable rules and system availability.",
+
+    "important_notes": [
+      "Ration collection procedures can differ between States and Union Territories.",
+      "The beneficiary should collect ration only through an authorized Fair Price Shop or applicable PDS outlet.",
+      "The quantity received depends on the beneficiary's applicable entitlement.",
+      "Authentication and transaction-recording procedures depend on the applicable PDS system.",
+      "Do not assume that the same collection procedure applies identically in every State/UT."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How do I collect ration from the ration shop?",
+      "answer": "Visit the designated Fair Price Shop, provide the required beneficiary identification, complete the applicable authentication procedure, and collect the entitled ration."
+    },
+    {
+      "question": "Where do I collect my ration?",
+      "answer": "Ration is generally collected from the Fair Price Shop associated with your ration-card record, subject to applicable State/UT procedures and portability provisions."
+    },
+    {
+      "question": "What happens when I go to collect my ration?",
+      "answer": "The beneficiary provides the required identification, completes the applicable verification or authentication, and receives the entitled ration after the distribution transaction is recorded."
+    },
+    {
+      "question": "Do I need authentication to collect ration?",
+      "answer": "Authentication requirements depend on the applicable State or Union Territory PDS system and may involve an ePoS system or another authorized verification method."
+    },
+    {
+      "question": "How much ration will I receive?",
+      "answer": "The quantity and type of ration depend on the applicable beneficiary category, entitlement, allocation and State/UT rules."
+    },
+    {
+      "question": "Is the ration distribution recorded?",
+      "answer": "The distribution transaction may be recorded electronically through the applicable PDS or ePoS system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

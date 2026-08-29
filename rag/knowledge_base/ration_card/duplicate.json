@@ -1,0 +1,80 @@
+{
+  "id": "ration_card_duplicate",
+  "intent": "ration_card_duplicate",
+  "category": "ration_card",
+  "title": "Getting a Duplicate Ration Card",
+
+  "facts": {
+    "summary": "A ration-card holder who has lost, damaged, or otherwise needs a replacement ration card should follow the duplicate or replacement procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card records and handling applicable replacement or duplicate-card procedures.",
+
+    "when_duplicate_may_be_required": [
+      "The original ration card has been lost.",
+      "The original ration card has been damaged.",
+      "A replacement is required under the applicable State or Union Territory procedure."
+    ],
+
+    "application_method": "The procedure for obtaining a duplicate or replacement ration card depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized channel should be used.",
+
+    "required_information": "The information or documents required for a duplicate ration card depend on the concerned State or Union Territory. The authority may require details of the existing ration-card record and information supporting the replacement request.",
+
+    "verification": "The concerned State or Union Territory authority may verify the existing ration-card record and the applicant's information before issuing a duplicate or replacement card.",
+
+    "processing_time": "Processing time for a duplicate or replacement ration card is State/UT specific.",
+
+    "fees": "Any fee applicable to issuing a duplicate or replacement ration card is determined by the concerned State or Union Territory authority.",
+
+    "online_available": "Online duplicate or replacement facilities depend on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Duplicate-card procedures can differ between States and Union Territories.",
+      "Required documents and verification requirements are State/UT specific.",
+      "Fees, if applicable, are determined by the concerned authority.",
+      "Use official government portals or designated Food and Civil Supplies offices.",
+      "Do not assume that the same duplicate-card procedure applies throughout India."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "I lost my ration card. How can I get a duplicate?",
+      "answer": "Follow the duplicate or replacement ration-card procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "What should I do if my ration card is lost?",
+      "answer": "Contact the concerned State/UT Food and Civil Supplies authority or use its official portal to follow the applicable replacement procedure."
+    },
+    {
+      "question": "Can I get a duplicate ration card online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required for a duplicate ration card?",
+      "answer": "The required documents depend on the concerned State or Union Territory and its applicable replacement procedure."
+    },
+    {
+      "question": "How long does it take to get a duplicate ration card?",
+      "answer": "Processing time depends on the concerned State or Union Territory authority."
+    },
+    {
+      "question": "Is there a fee for a duplicate ration card?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    },
+    {
+      "question": "My ration card is damaged. Can I get a replacement?",
+      "answer": "A replacement may be available under the applicable State/UT procedure. Contact the concerned Food and Civil Supplies authority for the required process."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

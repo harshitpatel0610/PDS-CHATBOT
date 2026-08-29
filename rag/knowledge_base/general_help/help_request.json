@@ -1,0 +1,83 @@
+{
+  "id": "help_request",
+  "intent": "help_request",
+  "category": "general_help",
+  "title": "General PDS Help Request",
+
+  "facts": {
+    "summary": "A general help request is a message where the user asks for assistance without specifying a particular PDS service or problem.",
+
+    "examples": [
+      "I need help",
+      "Can you help me?",
+      "Help me",
+      "What can you do?",
+      "I have a PDS problem",
+      "I need assistance with my ration card"
+    ],
+
+    "supported_topics": [
+      "Ration-card application and services.",
+      "Ration-card status and information.",
+      "Family-member management.",
+      "Ration collection and entitlements.",
+      "Complaints and grievances.",
+      "Transaction history.",
+      "Distributor-related operations.",
+      "Admin-related operations.",
+      "Aadhaar linking.",
+      "Beneficiary verification.",
+      "Account and personal-information updates.",
+      "Required documents.",
+      "Government PDS schemes.",
+      "PDS portability.",
+      "PDS portal navigation and technical issues."
+    ],
+
+    "response_purpose": [
+      "Acknowledge that assistance is available.",
+      "Ask the user to specify their PDS-related question or problem.",
+      "Guide the user toward an appropriate PDS service."
+    ],
+
+    "response_style": "The response should be concise, clear and focused on helping the user identify their PDS-related requirement.",
+
+    "scope": "The assistant should provide help within the PDS-related knowledge available to it.",
+
+    "unknown_request": "If the user does not specify what assistance they need, ask them to describe their PDS or ration-card-related issue.",
+
+    "important_notes": [
+      "Do not assume the user's specific problem from a generic help request.",
+      "Do not provide unrelated PDS information unless requested.",
+      "Do not invent services that are not supported by the knowledge base."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "I need help",
+      "answer": "Sure. Please tell me what you need help with regarding your PDS, ration card, ration collection, complaint, beneficiary account or related service."
+    },
+    {
+      "question": "Can you help me?",
+      "answer": "Yes. Please describe your PDS or ration-card-related question or problem, and I will help using the available information."
+    },
+    {
+      "question": "What can you help me with?",
+      "answer": "I can help with PDS and ration-card-related topics such as applications, status, family details, ration collection, complaints, transactions, documents, schemes, portability and portal-related issues."
+    },
+    {
+      "question": "I have a problem with my ration card",
+      "answer": "Please describe the problem with your ration card, such as application, status, update, family details or another issue."
+    },
+    {
+      "question": "I need assistance",
+      "answer": "Please tell me your PDS-related question or issue so I can provide the relevant information."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

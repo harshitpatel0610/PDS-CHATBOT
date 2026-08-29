@@ -1,0 +1,82 @@
+{
+  "id": "ration_card_update",
+  "intent": "ration_card_update",
+  "category": "ration_card",
+  "title": "Updating Ration Card Information",
+
+  "facts": {
+    "summary": "Ration card information can be updated through the applicable Food and Civil Supplies authority or official system of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Government is responsible for maintaining and updating ration-card records.",
+
+    "update_method": "The procedure for updating ration-card information depends on the concerned State or Union Territory. Where an online facility is provided, applicants can use the applicable official portal. Otherwise, the designated Food and Civil Supplies office or other authorized channel should be used.",
+
+    "information_that_may_be_updated": [
+      "Personal details",
+      "Address details",
+      "Mobile number",
+      "Family-member details",
+      "Other information permitted by the concerned State or Union Territory authority"
+    ],
+
+    "documents": "The documents required for an update depend on the type of correction or change and the requirements of the concerned State or Union Territory.",
+
+    "verification": "The concerned State or Union Territory authority may verify the information and supporting documents before updating the ration-card record.",
+
+    "processing_time": "Processing time depends on the concerned State or Union Territory and the type of update requested.",
+
+    "fees": "Any fee applicable to a ration-card update is determined by the concerned State or Union Territory authority.",
+
+    "online_available": "Online update facilities depend on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "There is no single nationwide procedure for every type of ration-card update.",
+      "Update procedures and required documents may differ between States and Union Territories.",
+      "Use official government portals or authorized Food and Civil Supplies offices.",
+      "Do not assume that every type of correction can be completed online.",
+      "State/UT-specific requirements should be followed for verification and supporting documents."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I update my ration card?",
+      "answer": "Use the official ration-card or Food and Civil Supplies system of the concerned State or Union Territory, or approach the designated Food and Civil Supplies office according to the applicable procedure."
+    },
+    {
+      "question": "Can I update my ration card online?",
+      "answer": "Online update availability depends on the concerned State or Union Territory and the type of update required."
+    },
+    {
+      "question": "What details can be updated on a ration card?",
+      "answer": "The details that can be updated depend on the applicable State/UT system. They may include personal details, address, mobile number and family-member information."
+    },
+    {
+      "question": "What documents are required to update a ration card?",
+      "answer": "Required documents depend on the type of update and the requirements of the concerned State or Union Territory."
+    },
+    {
+      "question": "How long does a ration card update take?",
+      "answer": "Processing time depends on the concerned State or Union Territory and the type of update requested."
+    },
+    {
+      "question": "How much does it cost to update a ration card?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    },
+    {
+      "question": "Where should I go to correct my ration card details?",
+      "answer": "Use the applicable official State/UT ration-card system or approach the designated Food and Civil Supplies authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

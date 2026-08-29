@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Andhra Pradesh",
+    "aliases": ["AP", "Andhra", "Andhra Pradesh"]
+  },
+  {
+    "id": 2,
+    "name": "Arunachal Pradesh",
+    "aliases": ["AR", "Arunachal", "Arunachal Pradesh"]
+  },
+  {
+    "id": 3,
+    "name": "Assam",
+    "aliases": ["AS", "Assam"]
+  },
+  {
+    "id": 4,
+    "name": "Bihar",
+    "aliases": ["BR", "Bihar"]
+  },
+  {
+    "id": 5,
+    "name": "Chhattisgarh",
+    "aliases": ["CG", "Chhattisgarh", "Chattisgarh"]
+  },
+  {
+    "id": 6,
+    "name": "Goa",
+    "aliases": ["GA", "Goa"]
+  },
+  {
+    "id": 7,
+    "name": "Gujarat",
+    "aliases": ["GJ", "Gujarat", "Gujrat"]
+  },
+  {
+    "id": 8,
+    "name": "Haryana",
+    "aliases": ["HR", "Haryana"]
+  },
+  {
+    "id": 9,
+    "name": "Himachal Pradesh",
+    "aliases": ["HP", "Himachal", "Himachal Pradesh"]
+  },
+  {
+    "id": 10,
+    "name": "Jharkhand",
+    "aliases": ["JH", "Jharkhand"]
+  },
+  {
+    "id": 11,
+    "name": "Karnataka",
+    "aliases": ["KA", "Karnataka", "Karnatak"]
+  },
+  {
+    "id": 12,
+    "name": "Kerala",
+    "aliases": ["KL", "Kerala"]
+  },
+  {
+    "id": 13,
+    "name": "Madhya Pradesh",
+    "aliases": ["MP", "Madhya Pradesh", "Madhya"]
+  },
+  {
+    "id": 14,
+    "name": "Maharashtra",
+    "aliases": ["MH", "Maharashtra"]
+  },
+  {
+    "id": 15,
+    "name": "Manipur",
+    "aliases": ["MN", "Manipur"]
+  },
+  {
+    "id": 16,
+    "name": "Meghalaya",
+    "aliases": ["ML", "Meghalaya"]
+  },
+  {
+    "id": 17,
+    "name": "Mizoram",
+    "aliases": ["MZ", "Mizoram"]
+  },
+  {
+    "id": 18,
+    "name": "Nagaland",
+    "aliases": ["NL", "Nagaland"]
+  },
+  {
+    "id": 19,
+    "name": "Odisha",
+    "aliases": ["OD", "OR", "Odisha", "Orissa"]
+  },
+  {
+    "id": 20,
+    "name": "Punjab",
+    "aliases": ["PB", "Punjab"]
+  },
+  {
+    "id": 21,
+    "name": "Rajasthan",
+    "aliases": ["RJ", "Rajasthan"]
+  },
+  {
+    "id": 22,
+    "name": "Sikkim",
+    "aliases": ["SK", "Sikkim"]
+  },
+  {
+    "id": 23,
+    "name": "Tamil Nadu",
+    "aliases": ["TN", "Tamil Nadu", "Tamilnadu"]
+  },
+  {
+    "id": 24,
+    "name": "Telangana",
+    "aliases": ["TS", "Telangana"]
+  },
+  {
+    "id": 25,
+    "name": "Tripura",
+    "aliases": ["TR", "Tripura"]
+  },
+  {
+    "id": 26,
+    "name": "Uttar Pradesh",
+    "aliases": ["UP", "Uttar Pradesh"]
+  },
+  {
+    "id": 27,
+    "name": "Uttarakhand",
+    "aliases": ["UK", "Uttarakhand", "Uttaranchal"]
+  },
+  {
+    "id": 28,
+    "name": "West Bengal",
+    "aliases": ["WB", "West Bengal", "Bengal"]
+  },
+  {
+    "id": 29,
+    "name": "Andaman and Nicobar Islands",
+    "aliases": ["AN", "Andaman", "Nicobar"]
+  },
+  {
+    "id": 30,
+    "name": "Chandigarh",
+    "aliases": ["CH", "Chandigarh"]
+  },
+  {
+    "id": 31,
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "aliases": ["DNHDD", "Daman", "Diu", "Dadra Nagar Haveli"]
+  },
+  {
+    "id": 32,
+    "name": "Delhi",
+    "aliases": ["DL", "Delhi", "New Delhi", "NCT Delhi"]
+  },
+  {
+    "id": 33,
+    "name": "Jammu and Kashmir",
+    "aliases": ["JK", "Jammu", "Kashmir", "Jammu and Kashmir"]
+  },
+  {
+    "id": 34,
+    "name": "Ladakh",
+    "aliases": ["LA", "Ladakh"]
+  },
+  {
+    "id": 35,
+    "name": "Lakshadweep",
+    "aliases": ["LD", "Lakshadweep"]
+  },
+  {
+    "id": 36,
+    "name": "Puducherry",
+    "aliases": ["PY", "Pondicherry", "Puducherry"]
+  }
+]

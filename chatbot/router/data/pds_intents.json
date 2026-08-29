@@ -1,0 +1,4119 @@
+{
+  "intents": [
+    {
+      "intent": "customer_login",
+      "category": "authentication",
+      "priority": 10,
+      "description": "Queries about logging into the customer portal using Customer ID and OTP.",
+      "keywords": [
+        "customer login",
+        "beneficiary login",
+        "user sign in",
+        "customer id login",
+        "access customer portal",
+        "customer authentication",
+        "login to account"
+      ],
+      "entities": [
+        "customer id",
+        "otp",
+        "phone number",
+        "customer portal"
+      ],
+      "required_entities": [
+        "customer id"
+      ],
+      "follow_up_questions": [
+        "Please provide your 10-digit Customer ID to proceed.",
+        "Did you receive the 6-digit OTP on your registered mobile number?"
+      ],
+      "negative_patterns": [
+        "admin login",
+        "distributor login",
+        "dealer login",
+        "fps portal",
+        "register new account"
+      ],
+      "patterns": [
+        "login as customer",
+        "sign into customer account",
+        "customer portal login",
+        "login with customer id",
+        "access my beneficiary dashboard",
+        "authenticate customer"
+      ],
+      "examples": [
+        "How do I log into my customer account?",
+        "I want to sign in using my Customer ID.",
+        "Where is the customer login page?",
+        "Help me access the beneficiary portal.",
+        "Customer ID se login kaise karna hai?",
+        "Mera customer account open nahi ho raha hai.",
+        "I am a customer trying to sign in.",
+        "Please open the user login page."
+      ]
+    },
+    {
+      "intent": "distributor_login",
+      "category": "authentication",
+      "priority": 10,
+      "description": "Queries about logging into the distributor portal to record ration distribution.",
+      "keywords": [
+        "distributor login",
+        "fps login",
+        "dealer sign in",
+        "fair price shop login",
+        "distributor portal access",
+        "distributor authentication",
+        "fps dealer portal"
+      ],
+      "entities": [
+        "distributor id",
+        "otp",
+        "distributor portal",
+        "fair price shop"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "Please enter your Distributor ID (FPS ID) to continue.",
+        "Are you accessing the dealer portal for the first time?"
+      ],
+      "negative_patterns": [
+        "customer login",
+        "admin login",
+        "system admin portal",
+        "user sign in",
+        "apply for ration card"
+      ],
+      "patterns": [
+        "login as distributor",
+        "sign into fps portal",
+        "dealer portal login",
+        "fair price shop sign in",
+        "login with distributor id",
+        "access dealer account"
+      ],
+      "examples": [
+        "How do I log in as an FPS dealer?",
+        "Take me to the distributor portal sign in page.",
+        "I am a distributor, where do I enter my ID?",
+        "FPS login portal link chahiye.",
+        "Distributor ID se login nahi ho raha hai.",
+        "Access the fair price shop dashboard.",
+        "Dealer login process kya hai?",
+        "I need to authenticate my distributor account to record sales."
+      ]
+    },
+    {
+      "intent": "admin_login",
+      "category": "authentication",
+      "priority": 9,
+      "description": "Queries about logging into the admin portal for system administration.",
+      "keywords": [
+        "admin login",
+        "administrator sign in",
+        "admin portal access",
+        "system admin login",
+        "admin id authentication",
+        "backend login",
+        "restricted access"
+      ],
+      "entities": [
+        "admin id",
+        "otp",
+        "admin portal",
+        "administrator"
+      ],
+      "required_entities": [
+        "admin id"
+      ],
+      "follow_up_questions": [
+        "Please provide your authorized Admin Unique ID to log in.",
+        "Are you an authorized system administrator?"
+      ],
+      "negative_patterns": [
+        "customer login",
+        "distributor login",
+        "fps dealer portal",
+        "user login"
+      ],
+      "patterns": [
+        "login as administrator",
+        "sign into admin portal",
+        "system admin access",
+        "admin unique id login",
+        "backend dashboard sign in",
+        "restricted admin login"
+      ],
+      "examples": [
+        "How do I access the administrator portal?",
+        "I need to sign in as a system admin.",
+        "Where is the admin login page located?",
+        "Admin portal access karna hai.",
+        "Admin ID ADMIN001 se login kaise hoga?",
+        "Provide the link for restricted admin login.",
+        "I am an authorized official, how do I log in?",
+        "System administrator login page."
+      ]
+    },
+    {
+      "intent": "otp_issue",
+      "category": "authentication",
+      "priority": 9,
+      "description": "Queries about OTP not received, OTP expired, OTP incorrect, or resending OTP.",
+      "keywords": [
+        "otp issue",
+        "otp not received",
+        "resend otp",
+        "expired otp",
+        "invalid otp",
+        "wrong one time password",
+        "sms not delivered"
+      ],
+      "entities": [
+        "otp",
+        "phone number",
+        "mobile number",
+        "registered number"
+      ],
+      "required_entities": [
+        "phone number"
+      ],
+      "follow_up_questions": [
+        "Could you please confirm the last 4 digits of your registered mobile number?",
+        "Would you like me to trigger a new OTP to your phone?"
+      ],
+      "negative_patterns": [
+        "forgot password",
+        "biometric failed",
+        "fingerprint not working",
+        "epos machine error"
+      ],
+      "patterns": [
+        "otp not received",
+        "resend otp",
+        "otp expired",
+        "wrong otp entered",
+        "invalid otp error",
+        "did not get sms code",
+        "otp verification failed"
+      ],
+      "examples": [
+        "I have been waiting but the OTP hasn't arrived.",
+        "The system says my OTP is invalid or expired.",
+        "Can you please send the OTP again?",
+        "Mujhe login karne ke liye OTP message nahi mila.",
+        "Mera one time password galat bata raha hai.",
+        "I entered the verification code but it failed.",
+        "Please resend the SMS verification code.",
+        "OTP timeout ho gaya hai."
+      ]
+    },
+    {
+      "intent": "customer_id_inquiry",
+      "category": "authentication",
+      "priority": 9,
+      "description": "Queries about what a Customer ID is, how to get one, its format (ABCD123456), or what to do if lost.",
+      "keywords": [
+        "customer id",
+        "find customer id",
+        "forgot customer id",
+        "lost customer id",
+        "what is customer id",
+        "customer id format",
+        "retrieve customer id"
+      ],
+      "entities": [
+        "customer id",
+        "admin",
+        "ration card"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Do you have your Ration Card Number or registered mobile number to help retrieve your Customer ID?"
+      ],
+      "negative_patterns": [
+        "distributor id",
+        "admin id",
+        "aadhaar number format",
+        "ration card number format"
+      ],
+      "patterns": [
+        "what is a customer id",
+        "how to get customer id",
+        "forgot my customer id",
+        "find my customer id",
+        "lost my customer id",
+        "customer id format",
+        "recover customer id"
+      ],
+      "examples": [
+        "What exactly is a Customer ID and where do I find it?",
+        "I forgot my Customer ID, how can I recover it?",
+        "Is my Customer ID the same as my ration card number?",
+        "Mera customer ID kho gaya hai, kya karun?",
+        "Customer ID ka format kaisa hota hai?",
+        "How do I generate a new Customer ID for my account?",
+        "I don't know my customer ID for login.",
+        "Please help me find my 10-digit customer ID."
+      ]
+    },
+    {
+      "intent": "distributor_id_inquiry",
+      "category": "authentication",
+      "priority": 8,
+      "description": "Queries about what a Distributor ID is, its format, or what to do if it is lost or unknown.",
+      "keywords": [
+        "distributor id",
+        "dealer id",
+        "fps id",
+        "forgot distributor id",
+        "lost fps id",
+        "distributor id format",
+        "find dealer id"
+      ],
+      "entities": [
+        "distributor id",
+        "admin",
+        "fair price shop"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you currently an authorized FPS dealer trying to retrieve your ID?"
+      ],
+      "negative_patterns": [
+        "customer id",
+        "admin id",
+        "ration card number"
+      ],
+      "patterns": [
+        "what is a distributor id",
+        "forgot distributor id",
+        "how to get fps id",
+        "lost dealer id",
+        "distributor id format",
+        "find fair price shop id"
+      ],
+      "examples": [
+        "How can I find my Distributor ID?",
+        "I forgot my FPS dealer ID, how do I log in?",
+        "What is the standard format for a distributor ID?",
+        "Mera dealer ID kho gaya hai, kahan se milega?",
+        "Distributor ID kya hota hai aur kaise banta hai?",
+        "Who provides the distributor unique ID?",
+        "I need to recover my fair price shop identification number."
+      ]
+    },
+    {
+      "intent": "login_not_working",
+      "category": "authentication",
+      "priority": 9,
+      "description": "Queries about login page not loading, login button not working, or being unable to access any portal.",
+      "keywords": [
+        "login failed",
+        "cannot sign in",
+        "portal error",
+        "login page not loading",
+        "access denied",
+        "login broken",
+        "authentication error"
+      ],
+      "entities": [
+        "portal",
+        "customer portal",
+        "distributor portal",
+        "admin portal"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Which specific portal (Customer, Distributor, or Admin) are you trying to access?",
+        "Are you seeing a specific error code on the screen?"
+      ],
+      "negative_patterns": [
+        "forgot customer id",
+        "otp not received",
+        "website language change",
+        "portal not working",
+        "website not working",
+        "portal error",
+        "website error",
+        "technical problem",
+        "technical issue"
+      ],
+      "patterns": [
+        "login is not working",
+        "unable to sign in",
+        "login page crashing",
+        "portal access denied",
+        "login button unresponsive",
+        "authentication failure",
+        "website sign in broken"
+      ],
+      "examples": [
+        "The login page is completely blank and not loading.",
+        "I keep getting an 'access denied' error when trying to sign in.",
+        "Why is the customer login not working today?",
+        "Login button par click karne se kuch nahi ho raha.",
+        "Portal me login fail ho raha hai baar baar.",
+        "I am entering correct details but the system won't let me in.",
+        "Is the authentication server down? I cannot log in.",
+        "Sign in page error 500."
+      ]
+    },
+{
+      "intent": "ration_card_apply",
+      "category": "ration_card",
+      "priority": 10,
+      "description": "Requests to apply for, register for, obtain, or get a new ration card.",
+      "keywords": [
+        "apply",
+        "new ration card",
+        "apply ration card",
+        "apply for ration card",
+        "create ration card",
+        "ration card registration",
+        "ration card application",
+        "get new card",
+        "new card",
+        "ration card ke liye apply",
+        "ration card apply karna",
+        "ration card banwana",
+        "ration card banwana hai",
+        "naya ration card",
+        "naya card banwana"
+      ],
+      "entities": [
+        "ration card",
+        "card_types",
+        "states",
+        "districts"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "To start your application, which state and district are you currently residing in?"
+      ],
+      "negative_patterns": [
+        "can i apply for a ration card online",
+        "is online application available",
+        "can i apply online",
+        "can i apply offline",
+        "online or offline",
+        "do i need to visit the office",
+        "do i have to visit the office",
+        "can i apply from home",
+        "csc center",
+        "offline procedure",
+        "download ration card",
+        "duplicate ration card",
+        "lost ration card",
+        "update address on ration card",
+        "update mobile number on ration card",
+        "check application status",
+        "track application",
+        "application status",
+        "what is the status",
+        "when will my application be approved",
+        "what is bpl",
+        "what is apl",
+        "what is aay",
+        "what is phh",
+        "meaning of bpl",
+        "meaning of apl",
+        "meaning of aay",
+        "meaning of phh",
+        "what does bpl mean",
+        "what does apl mean",
+        "what does aay mean",
+        "what does phh mean"
+      ],
+      "patterns": [
+        "apply for a new ration card",
+        "get a new ration card",
+        "apply for ration card",
+        "ration card registration process",
+        "create a brand new ration card",
+        "how to apply for a ration card",
+        "how to register for a ration card",
+        "submit new ration card application",
+        "where to apply for ration card",
+        "ration card application form",
+        "how can i get a new ration card",
+        "how do i apply for a new ration card",
+        "how to get a new ration card",
+        "ration card kaise banwaye",
+        "ration card ke liye apply kaise kare"
+      ],
+      "examples": [
+        "I want to apply for a brand new ration card.",
+        "What is the process to get a new ration card?",
+        "Mujhe naya ration card banwana hai, kya karna hoga?",
+        "How can I register for a new ration card?",
+        "I recently got married and need a new separate ration card.",
+        "Where is the new ration card application form?",
+        "Naye ration card ka application kaise bhare?",
+        "Ration card ke liye apply karna hai.",
+        "Ration card ke liye apply kaise karein?",
+        "Mujhe ration card banwana hai.",
+        "Mujhe naya ration card banwana hai.",
+        "Naya ration card ke liye apply karna hai.",
+        "Ration card ka application kaise karein?",
+        "I want to apply for an AAY ration card.",
+        "How can I apply for an AAY card?",
+        "I want to apply for a BPL ration card.",
+        "How can I get a BPL ration card?",
+        "I want to apply for an APL ration card.",
+        "I want to apply for a PHH ration card."
+      ]
+    },
+    {
+      "intent": "ration_card_status",
+      "category": "ration_card",
+      "priority": 10,
+      "description": "Queries about checking the status of a ration card application or existing ration card.",
+      "keywords": [
+          "ration card status",
+          "application status",
+          "track application",
+          "track my application",
+          "track ration card",
+          "track my ration card",
+          "track ration card application",
+          "check application status",
+          "check ration card status",
+          "application tracking"
+      ],
+      "entities": [
+        "ration card",
+        "application number",
+        "status"
+      ],
+      "required_entities": [
+        "application number"
+      ],
+      "follow_up_questions": [
+        "Please provide your 12-digit application reference number to check the status."
+      ],
+      "negative_patterns": [
+        "apply for new ration card",
+        "transfer ration card",
+        "download ration card pdf",
+        "complaint status",
+        "track application",
+        "track my application",
+        "track ration card",
+        "application status",
+        "check application status",
+        "application tracking"
+      ],
+      "patterns": [
+        "check my ration card application status",
+        "what is the status of my ration card application",
+        "track my ration card application",
+        "check ration card status",
+        "track ration card status",
+        "where is my ration card application",
+        "has my ration card application been approved",
+        "What is the status of my ration card application?",
+        "Can I track my ration card application?",
+        "How do I check my ration card status?",
+        "I want to check my application status",
+        "Can I track my ration card?",
+        "Has my ration card application been approved?",
+        "Where can I see my ration card application status?"
+      ],
+      "examples": [
+        "How do I check if my new ration card has been approved?",
+        "I want to track my ration card application status.",
+        "Meri ration card ki application pending kyu hai?",
+        "Is my existing ration card currently active or suspended?",
+        "Show me the status of application reference number 98765432.",
+        "Ration card ban gaya hai ya nahi, kaise check karein?",
+        "Has the officer verified my ration card form yet?",
+        "Check status of BPL card online.",
+        "Can I track my ration card application?",
+        "How can I track my ration card application?",
+        "I want to track my ration card application",
+        "Where can I check my ration card application status?",
+        "Can I check the status of my ration card application?",
+        "Track my ration card application",
+        "What is my ration card application status?"
+      ]
+    },
+    {
+      "intent": "ration_card_update",
+      "category": "ration_card",
+      "priority": 9,
+      "description": "Queries about updating details on an existing ration card such as name, address, or photo.",
+      "keywords": [
+        "update ration card",
+        "edit ration card",
+        "correct ration card",
+        "change card details",
+        "name correction",
+        "modify ration card",
+        "rectify errors"
+      ],
+      "entities": [
+        "ration card",
+        "name",
+        "address",
+        "photo",
+        "family member"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Which specific details would you like to update (e.g., spelling correction, address, photo)?"
+      ],
+      "negative_patterns": [
+        "apply for new ration card",
+        "surrender ration card",
+        "add new family member",
+        "remove deceased member",
+        "update phone number"
+      ],
+      "patterns": [
+        "update ration card details",
+        "correct spelling in ration card",
+        "change name on card",
+        "edit ration card info",
+        "modify existing ration card",
+        "ration card correction process"
+      ],
+      "examples": [
+        "There is a spelling mistake in my name on the ration card, how do I fix it?",
+        "I need to update the general details on my PDS card.",
+        "Ration card me details correction ke liye form kahan milega?",
+        "How can I rectify incorrect information printed on my card?",
+        "My date of birth is wrong on the ration card.",
+        "Change the demographic details on my existing beneficiary card.",
+        "Ration card update karna hai, kya documents lagenge?"
+      ]
+    },
+    {
+      "intent": "ration_card_types",
+      "category": "ration_card",
+      "priority": 7,
+      "description": "Queries about different types of ration cards such as APL, BPL, AAY, PHH.",
+      "keywords": [
+          "ration card types",
+          "types of ration cards",
+          "bpl card",
+          "bpl ration card",
+          "apl card",
+          "apl ration card",
+          "aay card",
+          "aay ration card",
+          "phh card",
+          "phh ration card",
+          "apl",
+          "bpl",
+          "aay",
+          "phh",
+          "card categories",
+          "difference between cards",
+          "what is bpl",
+          "what is apl",
+          "what is aay",
+          "what is phh",
+          "meaning of bpl",
+          "meaning of apl",
+          "meaning of aay",
+          "meaning of phh"
+      ],
+      "negative_patterns": [
+        "apply",
+        "register",
+        "new ration card",
+        "new card",
+        "how to get",
+        "want to get",
+        "want a card",
+        "need a card",
+        "create card",
+        "update card category",
+        "ration card status",
+        "online",
+        "offline"
+      ],
+      "patterns": [
+        "types of ration cards",
+        "difference between apl and bpl",
+        "what is an aay card",
+        "what does phh mean",
+        "what is a bpl card",
+        "what is an apl card",
+        "what is the meaning of bpl",
+        "what is the meaning of apl",
+        "what is the meaning of aay",
+        "explain ration card categories",
+        "bpl vs apl",
+        "aay card meaning"
+      ],
+      "examples": [
+        "Can you explain the different types of ration cards available?",
+        "What is the exact difference between an APL and a BPL card?",
+        "Antyodaya Anna Yojana (AAY) card kya hota hai?",
+        "Which category of ration card gives the most subsidized grain?",
+        "What does Priority Household (PHH) mean?",
+        "APL aur BPL category me kya antar hai?",
+        "List all the ration card colors and their meanings.",
+        "Can you explain the different types of ration cards available?",
+        "What is a BPL ration card?",
+        "What is a BPL card?",
+        "What is an APL card?",
+        "What is an AAY card?",
+        "What does BPL mean?",
+        "What does APL mean?",
+        "What does AAY mean?",
+        "What is the meaning of PHH?",
+        "Which ration card categories are available?",
+        "BPL aur APL category me kya antar hai?",
+        "AAY card kya hota hai?",
+        "What is a BPL ration card?",
+        "What does BPL ration card mean?",
+        "What is an APL ration card?",
+        "What does PHH mean?",
+        "Can you explain BPL?",
+        "What are the different ration card categories?",
+        "What is the difference between APL and BPL?"
+      ]
+    },
+    {
+      "intent": "ration_card_surrender",
+      "category": "ration_card",
+      "priority": 7,
+      "description": "Queries about surrendering, cancelling, or deactivating a ration card.",
+      "keywords": [
+        "surrender ration card",
+        "cancel ration card",
+        "deactivate card",
+        "close ration account",
+        "give up ration card",
+        "ration card cancellation"
+      ],
+      "entities": [
+        "ration card",
+        "applicant"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "To process the cancellation, please provide the 12-digit ration card number you wish to surrender."
+      ],
+      "negative_patterns": [
+        "transfer ration card",
+        "remove family member",
+        "apply for duplicate card"
+      ],
+      "patterns": [
+        "surrender my ration card",
+        "cancel existing ration card",
+        "deactivate ration account",
+        "process for ration card cancellation",
+        "voluntarily give up ration card",
+        "close pds membership"
+      ],
+      "examples": [
+        "My income has increased and I want to voluntarily surrender my ration card.",
+        "How do I officially cancel my existing ration card?",
+        "Mujhe apna ration card hamesha ke liye band karwana hai.",
+        "What is the procedure for deactivating a PDS account?",
+        "Can I surrender my BPL card online?",
+        "Ration card cancellation certificate kaise milega?",
+        "I am moving abroad and need to close my ration card."
+      ]
+    },
+    {
+      "intent": "ration_card_transfer",
+      "category": "ration_card",
+      "priority": 8,
+      "description": "Queries about transferring a ration card to another district, state, or address.",
+      "keywords": [
+        "transfer ration card",
+        "migrate ration card",
+        "shift card location",
+        "change district",
+        "inter-state transfer",
+        "move ration account"
+      ],
+      "entities": [
+        "ration card",
+        "district",
+        "state",
+        "address"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Are you transferring the ration card within the same state or to a completely new state?"
+      ],
+      "negative_patterns": [
+        "cancel ration card",
+        "new ration card application",
+        "onorc anywhere ration",
+        "update house number",
+        "update address",
+        "change address",
+        "address update"
+      ],
+      "patterns": [
+        "transfer ration card to new district",
+        "migrate ration card to another state",
+        "shift ration card address",
+        "inter district transfer of ration card",
+        "move my pds card"
+      ],
+      "examples": [
+        "I am relocating to a different district, how do I transfer my ration card?",
+        "Can I migrate my entire ration card from UP to Maharashtra?",
+        "Mera transfer doosre shehar me ho gaya hai, card shift kaise karun?",
+        "What is the process for inter-state ration card transfer?",
+        "Shift my family's PDS enrollment to our new address location.",
+        "I need a surrender certificate for transferring my card.",
+        "Ration card transfer form kahan se download karun?"
+      ]
+    },
+    {
+      "intent": "ration_card_download",
+      "category": "ration_card",
+      "priority": 9,
+      "description": "Requests to download or obtain a digital copy of an existing ration card.",
+      "keywords": [
+        "download ration card",
+        "ration card pdf",
+        "digital ration card",
+        "print ration card",
+        "e-ration download",
+        "get card copy"
+      ],
+      "entities": [
+        "ration card"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Please provide your Ration Card number or Aadhaar number to fetch the digital copy."
+      ],
+      "negative_patterns": [
+        "apply for ration card",
+        "new ration card",
+        "lost physical card",
+        "lost ration card",
+        "replacement ration card",
+        "replace ration card",
+        "duplicate physical card",
+        "duplicate ration card",
+        "damaged card",
+        "reissue ration card"
+      ],
+      "patterns": [
+        "download my ration card",
+        "get ration card pdf",
+        "download digital ration card",
+        "print e-ration card",
+        "download card copy online"
+      ],
+      "examples": [
+        "Where can I download a PDF copy of my active ration card?",
+        "I need to print my e-ration card for official work.",
+        "Mera digital ration card online download kaise hoga?",
+        "Can I get a soft copy of my family ration card?",
+        "Generate a downloadable PDF of my PDS document.",
+        "I want to save my ration card on my phone.",
+        "Link to download smart e-ration card.",
+        "I want to download my existing ration card.",
+        "How can I download my ration card PDF?",
+        "I need a digital copy of my ration card.",
+        "I want to print my e-ration card.",
+        "Can I save my ration card PDF on my phone?",
+        "Mera digital ration card download kaise karun?"
+      ]
+    },
+    {
+      "intent": "ration_card_duplicate",
+      "category": "ration_card",
+      "priority": 7,
+      "description": "Queries about getting a duplicate ration card when the original is lost or damaged.",
+      "keywords": [
+        "duplicate ration card",
+        "lost ration card",
+        "damaged ration card",
+        "replacement ration card",
+        "replace ration card",
+        "replace physical card",
+        "torn ration card",
+        "reissue ration card",
+        "another physical card"
+      ],
+      "entities": [
+        "ration card",
+        "duplicate"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Do you remember your existing Ration Card number to apply for the duplicate?"
+      ],
+      "negative_patterns": [
+        "download pdf",
+        "apply for new ration card",
+        "surrender card",
+        "transfer card"
+      ],
+      "patterns": [
+        "apply for duplicate ration card",
+        "lost my physical ration card",
+        "replace damaged ration card",
+        "get a duplicate ration card",
+        "get a replacement ration card",
+        "replace my lost ration card",
+        "reissue my ration card",
+        "my ration card is damaged",
+        "my ration card is lost"
+      ],
+      "examples": [
+        "My original ration card got completely destroyed in the rain. How do I get a duplicate?",
+        "I have lost my physical ration booklet. What is the replacement procedure?",
+        "Mera ration card kho gaya hai, naya duplicate kaise banega?",
+        "Can I apply for a duplicate BPL card online?",
+        "My dog chewed my card, I need a fresh replacement issued.",
+        "Process to reissue a misplaced PDS card.",
+        "Duplicate ration card ki fees kitni hai?",
+        "My ration card is lost. How can I get a replacement?",
+        "How can I get a replacement ration card?",
+        "I need a duplicate ration card.",
+        "I need another physical copy of my ration card.",
+        "My ration card was damaged.",
+        "My ration card was torn.",
+        "I lost my original ration card.",
+        "Mera ration card kho gaya hai, duplicate kaise banega?",
+        "I need a replacement because my card is damaged."
+      ]
+    },
+    {
+      "intent": "ration_card_number_inquiry",
+      "category": "ration_card",
+      "priority": 8,
+      "description": "Queries about finding or checking a ration card number.",
+      "keywords": [
+        "ration card number",
+        "find ration number",
+        "search card number",
+        "what is my ration no",
+        "know your ration card"
+      ],
+      "entities": [
+        "ration card number",
+        "ration card"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Do you have the Aadhaar number of the head of the family to search for the ration card number?"
+      ],
+      "negative_patterns": [
+        "customer id inquiry",
+        "check card status",
+        "download ration card"
+      ],
+      "patterns": [
+        "find my ration card number",
+        "search for ration card number",
+        "what is my ration card number",
+        "check ration card number by aadhaar",
+        "know your ration number"
+      ],
+      "examples": [
+        "I forgot my 12-digit ration card number, how can I search for it?",
+        "Can I use my Aadhaar to find out what my ration card number is?",
+        "Mera ration card number mujhe online kaise pata chalega?",
+        "Where is the ration card number printed on the document?",
+        "Help me retrieve my PDS identification number.",
+        "I need my RC number for a school application.",
+        "Search ration number using mobile number."
+      ]
+    },
+    {
+      "intent": "ration_card_eligibility",
+      "category": "ration_card",
+      "priority": 9,
+      "description": "Queries about who is eligible for a ration card, eligibility criteria, or income limits.",
+      "keywords": [
+        "ration card eligibility",
+        "who gets a card",
+        "income limit",
+        "eligibility criteria",
+        "qualify for ration",
+        "bpl criteria"
+      ],
+      "entities": [
+        "ration card",
+        "eligibility",
+        "income",
+        "family",
+        "BPL",
+        "APL",
+        "AAY"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you inquiring about the eligibility for a specific category like BPL or AAY?"
+      ],
+      "negative_patterns": [
+        "apply for ration card",
+        "complaint eligibility",
+        "nfsa eligibility"
+      ],
+      "patterns": [
+        "ration card eligibility requirements",
+        "am i eligible for a ration card",
+        "income limit for bpl card",
+        "who can apply for ration card",
+        "criteria for getting ration"
+      ],
+      "examples": [
+        "What is the maximum annual income allowed to get a BPL ration card?",
+        "Can a single person living alone apply for a ration card?",
+        "Ration card banwane ke liye eligibility criteria kya hai?",
+        "Am I eligible for a ration card if I already have a government job?",
+        "Who qualifies for the Antyodaya (AAY) category?",
+        "Do I need to be below poverty line to get any ration card?",
+        "Check my eligibility for subsidized food grains."
+      ]
+    },
+    {
+      "intent": "ration_card_online_offline",
+      "category": "ration_card",
+      "priority": 8,
+      "description": "Queries asking whether a ration card service is available online or offline, whether an office or CSC visit is required, or which submission channel should be used.",
+
+      "keywords": [
+          "online vs offline",
+          "csc center",
+          "visit office",
+          "apply online",
+          "apply offline",
+          "offline procedure",
+          "online application",
+          "offline application",
+          "available online",
+          "available offline",
+          "online or offline",
+          "online or offline application",
+          "apply from home",
+          "ghar baithe",
+          "physical form",
+          "physical submission",
+          "office visit",
+          "online portal",
+          "offline process",
+          "online process",
+          "gram panchayat"
+      ],
+
+      "entities": [
+        "online",
+        "offline",
+        "office",
+        "csc",
+        "portal",
+        "service"
+      ],
+
+      "required_entities": [],
+
+      "follow_up_questions": [
+        "Which specific ration-card service are you trying to access?"
+      ],
+
+      "negative_patterns": [
+        "download ration card",
+        "download ration card pdf",
+        "login to ration card portal",
+        "check ration card status",
+        "check application status",
+        "track application",
+        "application status",
+        "update address on ration card",
+        "change address on ration card",
+        "update mobile number on ration card",
+        "duplicate ration card",
+        "lost ration card",
+        "how to apply for a ration card",
+        "how do i apply for a ration card",
+        "how to get a new ration card",
+        "how can i get a new ration card",
+        "ration card application process"
+      ],
+
+    "patterns": [
+        "can i apply for ration card online",
+        "can i apply for ration card offline",
+        "is ration card application available online",
+        "is ration card application available offline",
+        "can ration card application be done online",
+        "can ration card application be done offline",
+        "can i apply online or offline for ration card",
+        "is ration card application online or offline",
+        "do i need to visit the office for ration card",
+        "do i need to visit an office to apply for ration card",
+        "can i apply for ration card from home",
+        "can ration card be applied for from home",
+        "ration card online application",
+        "ration card offline application",
+        "ration card application online or offline",
+        "online or offline ration card application",
+        "ghar baithe ration card apply kar sakte hain",
+        "ration card online process"
+],
+
+      "examples": [
+        "Can I apply for a ration card online?",
+        "Is ration card application available online?",
+        "Can I apply for a ration card offline?",
+        "Do I need to visit the ration card office?",
+        "Do I have to visit the food department office?",
+        "Can I apply for a ration card from home?",
+        "Can I submit my ration card application at a CSC center?",
+        "Can I submit ration card documents at the local CSC?",
+        "Is there an online portal for ration card application?",
+        "Where can I submit the offline ration card form?",
+        "Is ration card application online or offline?",
+        "What is the online and offline procedure for ration card?",
+        "Kya ration card ghar baithe online ban sakta hai?",
+        "Kya ration card ke liye online apply kar sakte hain?",
+        "Kya ration card ke liye office jana zaroori hai?",
+        "Kya ration card ka form CSC center par submit kar sakte hain?",
+        "Ration card online banana hai ya office jana padega?",
+        "Ration card ka offline form kahan submit karein?",
+        "Do I need to visit an office or can I apply online?",
+        "Is online application available for a new ration card?"
+      ]
+    },
+    {
+      "intent": "ration_card_waiting_time",
+      "category": "ration_card",
+      "priority": 6,
+      "description": "Queries about how long it takes to get a new ration card or process an update.",
+      "keywords": [
+        "processing time",
+        "waiting time",
+        "how long",
+        "how many days",
+        "time required",
+        "days to get ration card",
+        "when will I get my ration card"
+      ],
+      "entities": [
+        "ration card",
+        "processing time",
+        "waiting",
+        "days"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Did you already submit the application? If so, do you have the reference number?"
+      ],
+      "negative_patterns": [
+        "complaint resolution time",
+        "ration distribution schedule",
+        "check application status",
+        "how to apply",
+        "apply for a new ration card",
+        "how can I apply",
+        "procedure to get",
+        "process to get"
+      ],
+      "patterns": [
+        "how long does it take to get a ration card",
+        "what is the processing time for a ration card",
+        "how many days does ration card application take",
+        "how long will my ration card application take",
+        "when will I receive my ration card",
+        "how much time is required for a ration card"
+      ],
+      "examples": [
+        "How long does it take to get a ration card?",
+        "What is the processing time for a ration card?",
+        "How many days does a ration card application take?",
+        "When will I get my ration card?",
+        "How long will my ration card take?",
+        "How much time does ration card approval take?",
+        "How many days are required to receive a ration card?"
+      ]
+    },
+    {
+      "intent": "smart_ration_card",
+      "category": "ration_card",
+      "priority": 7,
+      "description": "Queries about the smart ration card, digital ration card, or e-ration card.",
+      "keywords": [
+        "smart ration card",
+        "digital ration card",
+        "e-ration card",
+        "plastic card",
+        "convert to smart card",
+        "digitization"
+      ],
+      "entities": [
+        "smart ration card",
+        "digital",
+        "e-ration card"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you looking to convert an existing paper booklet into a smart card?"
+      ],
+      "negative_patterns": [
+        "download ration card pdf",
+        "new regular ration card apply",
+        "duplicate paper card"
+      ],
+      "patterns": [
+        "what is a smart ration card",
+        "apply for digital ration card",
+        "convert to e-ration card",
+        "smart card features",
+        "plastic smart ration card"
+      ],
+      "examples": [
+        "How can I upgrade my old paper ration card to a new plastic smart card?",
+        "What are the benefits of having an electronic e-ration card?",
+        "Smart ration card banwane ka kya procedure hai?",
+        "Is the digital smart card valid everywhere?",
+        "Do I need to pay a fee to get my ration card digitized?",
+        "I want the PVC smart ration card delivery."
+      ]
+    },
+    {
+      "intent": "add_family_member",
+      "category": "family_management",
+      "priority": 9,
+      "description": "Queries about adding a new family member to an existing ration card.",
+      "keywords": [
+        "add family member",
+        "add a family member",
+        "add member to ration card",
+        "add name to ration card",
+        "add name to family card",
+        "include family member",
+        "include member in ration card",
+        "add spouse",
+        "add wife",
+        "add husband",
+        "add mother",
+        "add father",
+        "add brother",
+        "add sister",
+        "add adult member",
+        "add dependent"
+      ],
+      "entities": [
+        "ration card",
+        "family member",
+        "name",
+        "aadhaar",
+        "photo"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Are you trying to add a newborn baby or an adult (like a spouse)?"
+      ],
+      "negative_patterns": [
+        "remove family member",
+        "newborn baby registration",
+        "create new separate ration card",
+        "newborn",
+        "new born",
+        "baby",
+        "infant",
+        "child birth",
+        "deceased",
+        "passed away",
+        "remove member",
+        "delete member"
+      ],
+      "patterns": [
+        "add family member to ration card",
+        "include name in existing card",
+        "add wife to ration card",
+        "process to add member",
+        "add adult to pds",
+        "add husband",
+        "deceased",
+        "passed away",
+        "remove member",
+        "delete member"
+      ],
+      "examples": [
+        "I recently got married. How do I add my wife's name to my family's ration card?",
+        "What is the procedure to add an adult family member to the PDS list?",
+        "Apne ration card me apne bhai ka naam kaise jodu?",
+        "I need to include my elderly mother in our household card.",
+        "Add a new dependent to the beneficiary list.",
+        "Documents required to add a spouse's name.",
+        "I want to add a family member to my ration card.",
+        "How can I add an adult family member?",
+        "I need to add my wife to my ration card.",
+        "I need to add my husband to my ration card.",
+        "Mujhe family member add karna hai.",
+        "Mere ration card me ek member ka naam jodna hai.",
+        "How do I add my mother to my ration card?",
+        "How do I add my brother to my ration card?",
+        "I want to add a dependent to my ration card.",
+        "I want to add my child to my ration card.",
+        "How can I add my child to my ration card?",
+        "How do I add my son to my ration card?",
+        "How do I add my daughter to my ration card?"
+      ]
+    },
+    {
+      "intent": "remove_family_member",
+      "category": "family_management",
+      "priority": 9,
+      "description": "Queries about removing or deleting a family member from the ration card.",
+      "keywords": [
+        "remove family member",
+        "remove a family member",
+        "remove member from ration card",
+        "delete family member",
+        "delete member from ration card",
+        "delete name from ration card",
+        "remove name from ration card",
+        "strike off name",
+        "exclude member",
+        "remove married daughter",
+        "remove adult member"
+      ],
+      "entities": [
+        "ration card",
+        "family member",
+        "name",
+        "reason"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "What is the reason for removal (e.g., marriage, death, shifting to a different card)?"
+      ],
+      "negative_patterns": [
+        "add family member",
+        "remove deceased member",
+        "surrender entire ration card",
+        "newborn",
+        "newborn baby",
+        "baby",
+        "infant",
+        "deceased",
+        "passed away",
+        "death certificate",
+        "father passed away",
+        "mother passed away"
+      ],
+      "patterns": [
+        "remove family member from ration card",
+        "remove a member from my ration card",
+        "delete family member from ration card",
+        "delete name from existing ration card",
+        "remove married daughter from ration card",
+        "strike off family member",
+        "exclude a member from ration card"
+      ],
+      "examples": [
+        "I want to remove a family member from my ration card.",
+        "I want to remove a member from my ration card.",
+        "How can I delete a family member?",
+        "I want to remove my daughter's name after her marriage.",
+        "Mujhe ration card se family member ka naam hatana hai.",
+        "Ration card se kisi ka naam hatana hai.",
+        "How do I remove a member who moved to another state?",
+        "I want to delete an adult member from my ration card."
+      ]
+    },
+    {
+      "intent": "family_head_change",
+      "category": "family_management",
+      "priority": 8,
+      "description": "Queries about changing the head of family on the ration card.",
+      "keywords": [
+        "change head of family",
+        "mukhiya change",
+        "primary member change",
+        "change card holder",
+        "hof update",
+        "transfer ownership"
+      ],
+      "entities": [
+        "ration card",
+        "head of family",
+        "name"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Has the current head of the family passed away, or are you changing it for another reason?"
+      ],
+      "negative_patterns": [
+        "add family member",
+        "remove family member",
+        "update my own name"
+      ],
+      "patterns": [
+        "change head of household",
+        "update primary member on ration card",
+        "change the mukhiya of family",
+        "transfer head of family status",
+        "modify card holder name"
+      ],
+      "examples": [
+        "How do I officially change the Head of Family on our current ration card?",
+        "I need to make my mother the primary cardholder instead of my father.",
+        "Ration card me ghar ke mukhiya ka naam kaise badle?",
+        "Transfer the HoF (Head of Family) status to the eldest female member.",
+        "The current cardholder is relocating; can we change the primary member?",
+        "Process to assign a new family head."
+      ]
+    },
+    {
+      "intent": "family_details_view",
+      "category": "family_management",
+      "priority": 8,
+      "description": "Queries about viewing the list of family members currently linked to an existing ration card.",
+      "keywords": [
+        "view family details",
+        "view family members",
+        "family members list",
+        "family member list",
+        "list of family members",
+        "show family members",
+        "show members on ration card",
+        "check members on ration card",
+        "who is registered on ration card",
+        "members linked to ration card",
+        "household members",
+        "household details"
+      ],
+      "entities": [
+        "ration card",
+        "family member",
+        "beneficiary"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Please provide your Ration Card number to fetch the list of attached family members."
+      ],
+      "negative_patterns": [
+        "remove family member",
+        "distributor customer list",
+        "add family member",
+        "remove family member",
+        "verify beneficiary",
+        "beneficiary verification",
+        "check beneficiary status",
+        "beneficiary details",
+        "newborn",
+        "deceased member"
+      ],
+      "patterns": [
+        "view list of family members",
+        "show all family members on my ration card",
+        "who is registered on my ration card",
+        "who is listed on my ration card",
+        "show members linked to my ration card",
+        "check family members on my ration card",
+        "how many members are on my ration card",
+        "view my household members"
+      ],
+      "examples": [
+        "Who is registered in my ration card?",
+        "Show me all members linked to my ration card.",
+        "How can I see the family members on my ration card?",
+        "I want to see the list of members on my ration card.",
+        "How many members are registered on my card?",
+        "Mere ration card me kaun kaun registered hai?",
+        "Show my family member list.",
+        "Who are the members linked to my ration card?"
+      ]
+    },
+    {
+      "intent": "new_born_registration",
+      "category": "family_management",
+      "priority": 8,
+      "description": "Queries specifically about adding a newly born baby to the ration card.",
+      "keywords": [
+        "newborn",
+        "new born",
+        "newborn baby",
+        "newborn child",
+        "baby registration",
+        "add newborn",
+        "add newborn baby",
+        "add baby to ration card",
+        "add infant",
+        "register newborn",
+        "register baby",
+        "birth addition",
+        "new baby"
+      ],
+      "entities": [
+        "newborn",
+        "baby",
+        "ration card",
+        "family member",
+        "birth certificate"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Do you have the official Birth Certificate for the baby ready for upload?"
+      ],
+      "negative_patterns": [
+        "add adult family member",
+        "remove member",
+        "apply for new ration card for adult",
+        "add adult",
+        "add spouse",
+        "add wife",
+        "add husband",
+        "add mother",
+        "add father",
+        "remove member",
+        "delete member",
+        "deceased member",
+        "add my child",
+        "add child to ration card",
+        "add son",
+        "add daughter"
+      ],
+      "patterns": [
+        "add newborn baby to ration card",
+        "add a newborn to ration card",
+        "register newborn on ration card",
+        "add baby to existing ration card",
+        "include newly born child",
+        "register newly born child",
+        "add infant to ration card"
+      ],
+      "examples": [
+        "My wife just gave birth. How do I add the newborn baby to my ration card?",
+        "How can I register my newborn child on my ration card?",
+        "I need to add my newborn baby to my ration card.",
+        "My baby was born recently. How do I add the baby?",
+        "Naye paida hue bacche ka naam ration card me kaise darj karein?",
+        "How do I add my infant to the ration card?",
+        "I want to register my newborn baby.",
+        "My newborn needs to be added to our family ration card."
+      ]
+    },
+    {
+      "intent": "death_member_removal",
+      "category": "family_management",
+      "priority": 9,
+      "description": "Queries about removing a deceased family member from the ration card.",
+      "keywords": [
+        "deceased member",
+        "deceased family member",
+        "remove deceased member",
+        "remove dead person",
+        "remove deceased person",
+        "family member died",
+        "family member passed away",
+        "death of family member",
+        "death certificate",
+        "strike off deceased",
+        "passed away",
+        "died"
+      ],
+      "entities": [
+        "deceased",
+        "death certificate",
+        "ration card",
+        "family member"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Do you have the official Death Certificate to process this removal?"
+      ],
+      "negative_patterns": [
+        "remove married daughter",
+        "change head of family",
+        "surrender entire ration card"
+      ],
+      "patterns": [
+        "remove deceased family member",
+        "remove a family member who passed away",
+        "delete deceased person from ration card",
+        "remove name after death",
+        "remove dead member from ration card",
+        "submit death certificate for ration card",
+        "strike off deceased member"
+      ],
+      "examples": [
+        "My father passed away. How do I remove his name from the ration card?",
+        "A family member died. How do I remove their name?",
+        "How can I remove a deceased member from my ration card?",
+        "My mother passed away and I need to update the ration card.",
+        "Ghar me death ho gayi hai, unka naam ration card se kaise hataye?",
+        "I need to submit a death certificate to remove a member.",
+        "How do I delete a deceased beneficiary?",
+        "Remove the name of a family member who has died."
+      ]
+    },
+    {
+      "intent": "ration_collection_process",
+      "category": "ration_collection",
+      "priority": 10,
+      "description": "Queries about how to collect ration, the collection process, or what to bring.",
+      "keywords": [
+        "how to collect ration",
+        "ration collection process",
+        "pickup ration",
+        "get ration from shop",
+        "what to bring for ration",
+        "collect food grains"
+      ],
+      "entities": [
+        "ration card",
+        "fair price shop",
+        "distributor",
+        "aadhaar",
+        "otp"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you planning to use biometric authentication (ePoS) or OTP to collect your ration?"
+      ],
+      "negative_patterns": [
+        "ration card status",
+        "ration distribution schedule",
+        "ration quota quantity"
+      ],
+      "patterns": [
+        "how to collect my ration",
+        "what is the process to get ration",
+        "what documents needed to pickup ration",
+        "ration collection rules",
+        "how to get grains from fps"
+      ],
+      "examples": [
+        "What exactly do I need to take with me to the ration shop to get my grains?",
+        "How does the ration collection process work at the Fair Price Shop?",
+        "Shop se ration lene ke liye fingerprint lagana padta hai ya OTP chalta hai?",
+        "Can a family member collect the monthly ration on my behalf?",
+        "Explain the step-by-step process of picking up subsidized food.",
+        "Do I need to carry my physical card to collect wheat?"
+      ]
+    },
+    {
+      "intent": "ration_collection_status",
+      "category": "ration_collection",
+      "priority": 9,
+      "description": "Queries about checking whether ration has been collected THIS month or viewing current month status.",
+      "keywords": [
+        "ration received status",
+        "collected this month",
+        "pending collection",
+        "is ration pending",
+        "current month ration status",
+        "has ration been picked up"
+      ],
+      "entities": [
+        "ration card",
+        "month",
+        "collection history",
+        "fair price shop"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Would you like to check the collection status for the current ongoing month?"
+      ],
+      "negative_patterns": [
+        "transaction history",
+        "past transactions",
+        "previous months ledger",
+        "ration not received complaint"
+      ],
+      "patterns": [
+        "check ration collection status",
+        "has ration been collected this month",
+        "is my current month ration pending",
+        "check if grain was picked up",
+        "current month collection check"
+      ],
+      "examples": [
+        "Can you check if my ration for this current month has been collected yet?",
+        "I want to see if my monthly ration status shows as pending or claimed.",
+        "Kya is mahine ka ration mere card pe already uthaya ja chuka hai?",
+        "Did someone already pick up the quota for July?",
+        "Show me my live collection status for today.",
+        "Check if my assigned quota is still pending at the shop."
+      ]
+    },
+    {
+      "intent": "ration_not_received",
+      "category": "ration_collection",
+      "priority": 10,
+      "description": "Queries about not receiving ration, short supply, denial of ration, or ration withheld by distributor.",
+      "keywords": [
+        "ration not received",
+        "dealer denied",
+        "ration withheld",
+        "didn't get ration",
+        "refused to give ration",
+        "short supply",
+        "ration not received",
+        "did not receive ration",
+        "ration not received",
+        "ration nahi mila",
+        "ration nahi mila hai",
+        "ration nahi mila mujhe",
+        "didn't get ration",
+        "not received ration",
+        "ration was not given"
+      ],
+      "entities": [
+        "ration card",
+        "fair price shop",
+        "distributor",
+        "month",
+        "complaint"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Did the dealer give you a specific reason (like stock out or fingerprint failure) for denying the ration?"
+      ],
+      "negative_patterns": [
+        "ration collection status",
+        "file formal complaint",
+        "ration distribution schedule"
+      ],
+      "patterns": [
+        "did not receive my ration",
+        "dealer refused to give ration",
+        "ration was withheld",
+        "got less ration than entitled",
+        "denied food grains at shop"
+      ],
+      "examples": [
+        "I went to the shop but the dealer flatly refused to give me my ration.",
+        "The system shows I collected it, but I did not receive any grains this month.",
+        "Dealer ne mujhe ration dene se mana kar diya, bol raha hai stock nahi hai.",
+        "I was given only 3kg of rice instead of my full 5kg quota.",
+        "Why is my authorized ration being withheld by the local FPS?",
+        "I haven't got my wheat quota for two months straight.",
+        "Mujhe ration nahi mila",
+        "Mujhe is mahine ration nahi mila",
+        "Ration nahi mila hai",
+        "I did not receive my ration",
+        "I didn't get my ration this month",
+        "The dealer did not give me my ration",
+        "My ration was not provided"
+      ]
+    },
+    {
+      "intent": "ration_quota",
+      "category": "ration_collection",
+      "priority": 9,
+      "description": "Queries about how much ration a beneficiary is entitled to, monthly quota, or quantity per family member.",
+      "keywords": [
+        "how much ration",
+        "entitlement",
+        "quantity per person",
+        "rice quota",
+        "wheat limit",
+        "monthly allowance",
+        "ration quota",
+        "monthly quota",
+        "ration entitlement",
+        "entitlement quantity",
+        "how much ration",
+        "how much ration am I entitled to",
+        "eligible quantity",
+        "monthly ration quantity",
+        "quantity of ration"
+      ],
+      "entities": [
+        "ration card",
+        "family member",
+        "quota",
+        "rice",
+        "wheat",
+        "sugar",
+        "kerosene",
+        "pulses"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "To tell you the exact quota, could you specify your ration card type (e.g., PHH, AAY)?"
+      ],
+      "negative_patterns": [
+        "ration price",
+        "ration items list",
+        "ration collection status"
+      ],
+      "patterns": [
+        "what is my monthly ration quota",
+        "how much rice am i entitled to",
+        "ration quantity per family member",
+        "check my grain entitlement",
+        "how many kg of wheat do i get"
+      ],
+      "examples": [
+        "Exactly how many kilograms of rice and wheat is my family entitled to?",
+        "What is the official monthly ration quota for an AAY cardholder?",
+        "Mujhe per person kitna kilo anaj milna chahiye?",
+        "Tell me my exact grain entitlement based on 4 family members.",
+        "How much sugar quota is allocated per month?",
+        "Check my monthly allowance for subsidized pulses.",
+        "How much ration am I entitled to?",
+        "What is my monthly ration quota?",
+        "How much rice am I entitled to receive?",
+        "How much wheat can I get?",
+        "What quantity of ration can my family receive?",
+        "What is my ration entitlement?",
+    "How much ration can I collect every month?"
+      ]
+    },
+    {
+      "intent": "ration_shop_location",
+      "category": "ration_collection",
+      "priority": 8,
+      "description": "Queries about finding the assigned fair price shop (FPS) location or changing the assigned FPS.",
+      "keywords": [
+        "ration shop location",
+        "find fps",
+        "nearby fair price shop",
+        "change assigned shop",
+        "dealer address",
+        "shop map"
+      ],
+      "entities": [
+        "fair price shop",
+        "address",
+        "district",
+        "location"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you trying to find your currently assigned shop, or do you want to switch to a different one nearby?"
+      ],
+      "negative_patterns": [
+        "contact admin",
+        "ration distribution schedule",
+        "ration card transfer"
+      ],
+      "patterns": [
+        "where is my assigned ration shop",
+        "find nearby fair price shop",
+        "change my fps dealer",
+        "location of my ration distributor",
+        "how to switch my ration shop"
+      ],
+      "examples": [
+        "How can I find the exact address of the fair price shop assigned to me?",
+        "I want to change my assigned ration shop to one closer to my house.",
+        "Mera allotted ration dealer kahan baithta hai?",
+        "Show me a list of nearby FPS locations in my pin code.",
+        "Where is the PDS shop for ward number 12?",
+        "Process to officially switch my grain distributor."
+      ]
+    },
+    {
+      "intent": "ration_items_list",
+      "category": "ration_collection",
+      "priority": 7,
+      "description": "Queries about what items are available through PDS \u2014 rice, wheat, sugar, kerosene, pulses, oil.",
+      "keywords": [
+        "what do i get",
+        "commodities list",
+        "rice wheat sugar",
+        "items available",
+        "pds goods",
+        "ration items",
+        "items available through pds",
+        "items available in pds",
+        "pds items",
+        "what items can I get",
+        "what items are available",
+        "available ration items",
+        "food items available",
+        "commodities available"
+      ],
+      "entities": [
+        "rice",
+        "wheat",
+        "sugar",
+        "kerosene",
+        "pulses",
+        "oil",
+        "ration card"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you asking for a specific state's PDS commodity list?"
+      ],
+      "negative_patterns": [
+        "ration quota",
+        "ration price",
+        "quality complaint"
+      ],
+      "patterns": [
+        "what items are given in ration",
+        "list of pds commodities",
+        "do we get sugar and oil",
+        "what groceries are available at fps",
+        "ration card items list"
+      ],
+      "examples": [
+        "Can you give me a list of all the commodities distributed through the PDS?",
+        "Do we get cooking oil and pulses on our BPL ration card?",
+        "Ration ki dukan par kya kya saaman milta hai?",
+        "Is kerosene still provided as a ration item this year?",
+        "What groceries are officially available at the fair price shop?",
+        "Tell me the exact goods included in the monthly ration distribution.",
+        "What items can I get through PDS?",
+        "What items are available through PDS?",
+        "Which food items are provided under PDS?",
+        "What commodities can I get from the ration shop?",
+        "Which items are available at the fair price shop?",
+        "What ration items can I receive?"
+      ]
+    },
+    {
+      "intent": "ration_price",
+      "category": "ration_collection",
+      "priority": 7,
+      "description": "Queries about the price of ration commodities at fair price shops.",
+      "keywords": [
+        "ration price",
+        "cost of ration",
+        "subsidized rate",
+        "price per kg",
+        "wheat price",
+        "rice rate",
+        "commodity cost"
+      ],
+      "entities": [
+        "rice",
+        "wheat",
+        "sugar",
+        "kerosene",
+        "price",
+        "fair price shop"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Which specific commodity's price are you looking for (e.g., rice, wheat, sugar)?"
+      ],
+      "negative_patterns": [
+        "ration quota",
+        "overcharging complaint",
+        "ration items list"
+      ],
+      "patterns": [
+        "what is the price of ration",
+        "cost of rice and wheat",
+        "subsidized rate per kg",
+        "how much do i have to pay",
+        "official price of pds items"
+      ],
+      "examples": [
+        "What is the official subsidized rate for one kg of wheat?",
+        "How much money do I need to pay for my entire monthly quota?",
+        "Ration ki dukan par chawal ka sarkari rate kya chal raha hai?",
+        "Tell me the exact price list for all PDS commodities.",
+        "Is the ration completely free or is there a minimal cost attached?",
+        "Check the current market price vs subsidized cost for sugar."
+      ]
+    },
+    {
+      "intent": "ration_month_schedule",
+      "category": "ration_collection",
+      "priority": 8,
+      "description": "Queries about when ration distribution happens, schedule, or dates for collection.",
+      "keywords": [
+        "ration distribution date",
+        "schedule",
+        "when to collect",
+        "ration timing",
+        "collection dates",
+        "shop opening days"
+      ],
+      "entities": [
+        "fair price shop",
+        "month",
+        "date",
+        "schedule"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Would you like to know the general monthly schedule or specific dates for this month?"
+      ],
+      "negative_patterns": [
+        "ration collection process",
+        "waiting time for new card",
+        "epos machine working hours"
+      ],
+      "patterns": [
+        "when will ration be distributed",
+        "ration collection schedule for this month",
+        "what dates can i get ration",
+        "timing for fair price shop",
+        "ration distribution calendar"
+      ],
+      "examples": [
+        "On which dates of the month is the ration usually distributed?",
+        "When exactly will the stock arrive at my local fair price shop?",
+        "Is mahine ration batne ki tarikh kya hai?",
+        "What are the official timings to visit the FPS and collect grains?",
+        "Show me the ration distribution schedule for August.",
+        "Are the ration shops open on Sundays for collection?"
+      ]
+    },
+    {
+      "intent": "epos_machine",
+      "category": "ration_collection",
+      "priority": 8,
+      "description": "Queries about the ePoS machine used at fair price shops for biometric authentication.",
+      "keywords": [
+        "epos machine",
+        "biometric machine",
+        "fingerprint scanner",
+        "point of sale machine",
+        "thumb impression device",
+        "electronic weighing"
+      ],
+      "entities": [
+        "epos",
+        "biometric",
+        "fingerprint",
+        "fair price shop"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you experiencing a technical issue with the ePoS machine at your local shop?"
+      ],
+      "negative_patterns": [
+        "otp login",
+        "beneficiary verification",
+        "smart ration card"
+      ],
+      "patterns": [
+        "what is epos machine",
+        "fingerprint scanner not working",
+        "biometric machine at ration shop",
+        "epos server down",
+        "thumb impression failed on device"
+      ],
+      "examples": [
+        "The dealer says the ePoS machine server is down. What does that mean?",
+        "My fingerprint is not being recognized by the biometric machine at the shop.",
+        "Ration ki dukan par angootha lagane wali machine kharab hai, kya karun?",
+        "How does the electronic point of sale device prevent ration theft?",
+        "Can I get ration if the ePoS machine is out of order?",
+        "Dealer is claiming the weighing machine is not linked to ePoS."
+      ]
+    },
+    {
+      "intent": "file_complaint",
+      "category": "complaint",
+      "priority": 10,
+      "description": "Queries about filing a complaint about ration distribution, dealer misconduct, short supply, overcharging, or quality issues.",
+      "keywords": [
+        "file complaint",
+        "file a complaint",
+        "lodge complaint",
+        "lodge a complaint",
+        "lodge grievance",
+        "lodge a grievance",
+        "raise complaint",
+        "raise a complaint",
+        "submit complaint",
+        "submit a complaint",
+        "register complaint",
+        "register a complaint",
+        "register shikayat",
+        "complaint against dealer"
+      ],
+      "entities": [
+        "complaint",
+        "fair price shop",
+        "dealer",
+        "ration card",
+        "phone number"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "To help route your grievance correctly, what type of issue are you reporting (e.g., overcharging, quality, dealer behavior)?"
+      ],
+      "negative_patterns": [
+        "complaint status",
+        "track complaint",
+        "check complaint",
+        "complaint resolution",
+        "how long to resolve"
+      ],
+      "patterns": [
+        "how to file a complaint against dealer",
+        "lodge a formal grievance online",
+        "submit a complaint about my ration",
+        "report unfair practice at fps",
+        "register shikayat against shopkeeper"
+      ],
+      "examples": [
+        "I want to officially file a complaint against my local FPS dealer.",
+        "Where is the online portal to lodge a grievance regarding short supply?",
+        "Mujhe kotedar ki shikayat darj karni hai, process kya hai?",
+        "Help me raise an issue about the extremely poor quality of rice I received.",
+        "I need to report the distributor for demanding a bribe.",
+        "Submit a formal complaint ticket.",
+        "How can I register a complaint?",
+        "Mujhe complaint register karni hai.",
+        "I want to file a complaint.",
+        "How do I lodge a complaint against my ration dealer?",
+        "I want to submit a grievance.",
+        "Where can I register my complaint?"
+      ]
+    },
+    {
+      "intent": "complaint_status",
+      "category": "complaint",
+      "priority": 9,
+      "description": "Queries about tracking an existing complaint, checking complaint status, or following up.",
+      "keywords": [
+        "complaint status",
+        "status of complaint",
+        "track complaint",
+        "track my complaint",
+        "check complaint status",
+        "check my complaint",
+        "complaint progress",
+        "grievance status",
+        "grievance progress",
+        "track grievance",
+        "ticket status",
+        "complaint tracking"
+      ],
+      "entities": [
+        "complaint id",
+        "phone number",
+        "name",
+        "status"
+      ],
+      "required_entities": [
+        "complaint id"
+      ],
+      "follow_up_questions": [
+        "Please provide your Complaint Tracking ID or Reference Number."
+      ],
+      "negative_patterns": [
+        "file complaint",
+        "ration card status",
+        "complaint resolution time"
+      ],
+      "patterns": [
+        "track my registered complaint",
+        "check status of my grievance",
+        "has my complaint been resolved yet",
+        "follow up on issue ticket",
+        "view complaint progress"
+      ],
+      "examples": [
+        "I filed a grievance last week. How can I track my complaint status?",
+        "Has any action been taken on the complaint ticket I submitted?",
+        "Meri pehle ki hui shikayat ka kya status hai, check karke batao.",
+        "I want to follow up on a grievance ID 887766.",
+        "Is my dispute marked as resolved or still pending?",
+        "Show me the progress of my dealer report.",
+        "What is the status of my complaint?",
+        "Can I check my complaint status?",
+        "I already filed a complaint. Can I track it?",
+        "Has my complaint been resolved?",
+        "Where can I see my complaint status?"
+      ]
+    },
+    {
+      "intent": "complaint_eligibility",
+      "category": "complaint",
+      "priority": 8,
+      "description": "Queries about who can file a complaint, eligibility to file, or what information is needed.",
+      "keywords": [
+        "who can complain",
+        "complaint eligibility",
+        "registered customer complaint",
+        "can i report",
+        "grievance requirements"
+      ],
+      "entities": [
+        "registered customer",
+        "phone number",
+        "ration card"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Do you currently have an active ration card linked to the PDS system?"
+      ],
+      "negative_patterns": [
+        "file complaint",
+        "complaint status",
+        "ration card eligibility"
+      ],
+      "patterns": [
+        "who is allowed to file a complaint",
+        "am i eligible to lodge a grievance",
+        "do i need a ration card to report a dealer",
+        "complaint filing requirements",
+        "can anyone complain about fps"
+      ],
+      "examples": [
+        "Do I need to be a registered PDS beneficiary to report a corrupt dealer?",
+        "What details or proofs are strictly required before I can file a grievance?",
+        "Kya koi bhi aam aadmi ration dukan ki shikayat kar sakta hai?",
+        "I don't have a ration card, but I witnessed black marketing. Can I complain?",
+        "Explain the eligibility rules for submitting official portal complaints.",
+        "Are anonymous complaints allowed?"
+      ]
+    },
+    {
+      "intent": "transaction_history",
+      "category": "history",
+      "priority": 9,
+      "description": "Requests to view a beneficiary's previous ration transactions or ration collection history.",
+      "keywords": [
+        "transaction history",
+        "past transactions",
+        "ration log",
+        "collection history ledger",
+        "previous months",
+        "ration history",
+        "transaction history",
+        "ration collection history",
+        "ration history",
+        "past ration collections",
+        "previous ration collection",
+        "last ration collection",
+        "last time I collected ration",
+        "collection history"
+      ],
+      "entities": [
+        "transaction",
+        "ration card"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Are you looking for the transaction ledger for the last 3 months or a specific past month?"
+      ],
+      "negative_patterns": [
+        "current month status",
+        "ration collection status",
+        "is ration pending this month",
+        "complaint status"
+      ],
+      "patterns": [
+        "view my past transaction history",
+        "show ration collection ledger",
+        "check previous months ration log",
+        "display historical transactions",
+        "ration history details"
+      ],
+      "examples": [
+        "I want to check my complete transaction history for the past 6 months.",
+        "Show me the ledger log of all my previous ration collections.",
+        "Pichle saal maine kitna ration uthaya tha, uski history chahiye.",
+        "Can I download a statement of my past PDS transactions?",
+        "Display the log of dates I visited the FPS last year.",
+        "View historical ration withdrawal data.",
+        "When did I last collect ration?",
+        "Show my past ration collections",
+        "Show my ration collection history",
+        "When was my last ration collection?",
+        "I want to see my previous ration collections",
+        "Show my past ration transactions",
+        "When did I last receive ration?"
+      ]
+    },
+    {
+      "intent": "complaint_types",
+      "category": "complaint",
+      "priority": 7,
+      "description": "Queries about what types of complaints can be filed such as overcharging, short supply, poor quality, or misconduct.",
+      "keywords": [
+        "types of complaints",
+        "what can i complain about",
+        "complaint categories",
+        "grievance topics",
+        "valid complaints",
+        "list of issues"
+      ],
+      "entities": [
+        "complaint type",
+        "overcharging",
+        "short supply",
+        "quality",
+        "dealer",
+        "black market"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you currently facing a specific issue from a dealer?"
+      ],
+      "negative_patterns": [
+        "file formal complaint",
+        "overcharging complaint",
+        "quality complaint"
+      ],
+      "patterns": [
+        "what types of complaints are accepted",
+        "list the grievance categories available",
+        "can i complain about dealer behavior",
+        "what issues can be reported online",
+        "valid reasons for filing grievance"
+      ],
+      "examples": [
+        "Can you tell me all the different categories under which I can file a grievance?",
+        "Is bad behavior by the dealer considered a valid complaint on the portal?",
+        "Main portal par kis kis tarah ki shikayat darj kar sakta hoon?",
+        "What are the most common types of issues reported by customers?",
+        "Show me the list of accepted complaint topics.",
+        "Does the system accept complaints about ePoS machine failures?"
+      ]
+    },
+    {
+      "intent": "complaint_resolution",
+      "category": "complaint",
+      "priority": 7,
+      "description": "Queries about how long a complaint takes to resolve, what happens after filing, or escalation.",
+      "keywords": [
+        "complaint resolution time",
+        "complaint resolution",
+        "how long to resolve complaint",
+        "how many days to resolve",
+        "complaint taking too long",
+        "escalate complaint",
+        "escalate grievance",
+        "resolution process",
+        "complaint resolution process",
+        "complaint turnaround time",
+        "escalation process"
+      ],
+      "entities": [
+        "complaint",
+        "resolution time",
+        "status"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Has your complaint crossed the standard 15-day resolution timeframe?"
+      ],
+      "negative_patterns": [
+        "track complaint status",
+        "file complaint",
+        "types of complaints"
+      ],
+      "patterns": [
+        "how many days to resolve grievance",
+        "process after filing a complaint",
+        "how to escalate an unresolved issue",
+        "complaint resolution timeframe",
+        "what action is taken against dealer"
+      ],
+      "examples": [
+        "Exactly how many days does the department take to resolve a registered complaint?",
+        "My grievance has been pending for weeks. How do I escalate it to a higher official?",
+        "Complaint file karne ke baad inspector kya action leta hai?",
+        "What is the official escalation matrix if my problem is not solved?",
+        "Tell me the standard turnaround time for overcharging complaints.",
+        "Will I be notified once the resolution is complete?",
+        "How long does it take to resolve my complaint?",
+        "What happens after I file a complaint?",
+        "How can I escalate an unresolved complaint?",
+        "My complaint has been pending for too long. What should I do?"
+      ]
+    },
+    {
+      "intent": "dealer_misconduct",
+      "category": "grievance_escalation",
+      "priority": 10,
+      "description": "Queries about dealer misbehaviour, corruption, demanding bribes, or physical threats from FPS dealers.",
+      "keywords": [
+        "dealer misconduct",
+        "dealer misbehaviour",
+        "fps corruption",
+        "demanding bribe",
+        "dealer threat",
+        "rude dealer",
+        "harassment"
+      ],
+      "entities": [
+        "dealer",
+        "fair price shop",
+        "bribe",
+        "corruption",
+        "misconduct"
+      ],
+      "required_entities": [
+        "fair price shop"
+      ],
+      "follow_up_questions": [
+        "We take this very seriously. Do you wish to immediately file a formal misconduct report?"
+      ],
+      "negative_patterns": [
+        "overcharging",
+        "charged extra",
+        "charging more",
+        "above official price",
+        "short supply",
+        "file generic complaint"
+      ],
+      "patterns": [
+        "dealer is misbehaving with me",
+        "fps owner demanding a bribe",
+        "report dealer for threatening language",
+        "corrupt ration shop owner",
+        "harassment by pds distributor"
+      ],
+      "examples": [
+        "The ration dealer was extremely rude and used abusive language with me today.",
+        "I want to report the FPS owner for demanding an illegal bribe to give my ration.",
+        "Kotedar mujhe dhamki de raha hai aur theek se baat nahi karta.",
+        "There is massive corruption going on at my local distribution center.",
+        "The distributor physically threatened me when I asked for my full quota.",
+        "Action against misbehaving FPS dealer.",
+        "The dealer is behaving badly with me.",
+        "The ration shopkeeper is threatening me.",
+        "The dealer abused me when I asked for my ration.",
+        "The FPS dealer is demanding a bribe.",
+        "The dealer is harassing customers."
+      ]
+    },
+    {
+      "intent": "overcharging_complaint",
+      "category": "grievance_escalation",
+      "priority": 10,
+      "description": "Queries about being overcharged for ration at the fair price shop.",
+      "keywords": [
+        "overcharging",
+        "charged extra",
+        "charged more",
+        "charging extra",
+        "charging more",
+        "extra money",
+        "more than official price",
+        "above official price",
+        "above mrp",
+        "overpriced ration",
+        "illegal pricing",
+        "extra charge",
+        "extra fee"
+      ],
+      "entities": [
+        "dealer",
+        "price",
+        "ration",
+        "overcharge"
+      ],
+      "required_entities": [
+        "fair price shop"
+      ],
+      "follow_up_questions": [
+        "Can you specify the commodity (like wheat or rice) and how much extra you were charged?"
+      ],
+      "negative_patterns": [
+        "ration price inquiry",
+        "short supply",
+        "dealer misconduct"
+      ],
+      "patterns": [
+        "dealer is overcharging for ration",
+        "asked for more money than official rate",
+        "selling above subsidized price",
+        "extra money taken for free grains",
+        "complaint about overpriced items"
+      ],
+      "examples": [
+        "The ration dealer charged me extra.",
+        "My dealer is charging more than the official price.",
+        "The shopkeeper is overcharging me.",
+        "The dealer charged me more money than the official rate.",
+        "I was charged extra for my ration.",
+        "The FPS dealer is asking for more money than the government price.",
+        "They are charging above the official price.",
+        "Dealer mujhse sarkari daam se zyada paise le raha hai.",
+        "Mujhse ration ke liye extra paise liye gaye.",
+        "The dealer is charging an illegal extra fee."
+      ]
+    },
+    {
+      "intent": "black_market_complaint",
+      "category": "grievance_escalation",
+      "priority": 10,
+      "description": "Queries about ration being sold in the black market or diverted from the PDS by dealers.",
+      "keywords": [
+        "black market",
+        "ration diversion",
+        "selling outside",
+        "illegal sale",
+        "smuggling ration",
+        "hoarding"
+      ],
+      "entities": [
+        "dealer",
+        "black market",
+        "ration",
+        "diversion"
+      ],
+      "required_entities": [
+        "fair price shop"
+      ],
+      "follow_up_questions": [
+        "Do you have the specific location or any proof of the illegal diversion to help our inspectors?"
+      ],
+      "negative_patterns": [
+        "overcharging complaint",
+        "short supply",
+        "dealer misconduct"
+      ],
+      "patterns": [
+        "selling ration in black market",
+        "dealer diverting pds stock to private shops",
+        "illegal sale of government grains",
+        "hoarding and smuggling ration",
+        "report black marketing"
+      ],
+      "examples": [
+        "I have proof that our FPS dealer is secretly selling government wheat to a private flour mill.",
+        "The truck delivering PDS grains was diverted and unloaded at an unknown warehouse.",
+        "Ration ka anaj raat ke andhere me black me becha ja raha hai.",
+        "Report massive hoarding and black marketing of subsidized sugar.",
+        "The dealer says 'out of stock' but is selling the same rice outside at market price.",
+        "Illegal diversion of PMGKAY supplies."
+      ]
+    },
+    {
+      "intent": "quality_complaint",
+      "category": "grievance_escalation",
+      "priority": 9,
+      "description": "Queries about poor quality ration, rotten food grains, or substandard commodities.",
+      "keywords": [
+        "poor quality",
+        "rotten grains",
+        "stones in rice",
+        "bad wheat",
+        "spoiled ration",
+        "substandard food",
+        "bugs in grain"
+      ],
+      "entities": [
+        "ration",
+        "quality",
+        "grain",
+        "rice",
+        "wheat"
+      ],
+      "required_entities": [
+        "fair price shop"
+      ],
+      "follow_up_questions": [
+        "Which specific item (e.g., rice, wheat) was of poor quality? Do you have samples or photos?"
+      ],
+      "negative_patterns": [
+        "short supply",
+        "overcharging complaint",
+        "ration items list"
+      ],
+      "patterns": [
+        "complain about poor quality ration",
+        "received rotten food grains",
+        "rice is full of stones and bugs",
+        "substandard wheat distributed",
+        "spoiled commodities given"
+      ],
+      "examples": [
+        "The wheat I received this month is completely rotten and unfit for human consumption.",
+        "I need to file a complaint because the rice is full of stones and insects.",
+        "Kotedar ne jo chawal diya hai usme keede lage hue hain, bahut kharab quality hai.",
+        "The subsidized sugar provided was damp and spoiled.",
+        "Report distribution of substandard and adulterated food grains.",
+        "Who checks the quality of items before they reach the fair price shop?",
+        "The rice quality is very bad.",
+        "The rice I received is poor quality.",
+        "The wheat is rotten.",
+        "There are stones in my rice.",
+        "The ration contains insects.",
+        "The food grains are spoiled."
+      ]
+    },
+    {
+      "intent": "record_distribution",
+      "category": "distributor_operations",
+      "priority": 10,
+      "description": "Queries by distributors about recording ration distribution or entering collection details.",
+      "keywords": [
+        "record distribution",
+        "enter collection",
+        "update given ration",
+        "distribute to customer",
+        "log sale",
+        "fps data entry"
+      ],
+      "entities": [
+        "distributor",
+        "customer",
+        "ration card",
+        "quantity",
+        "date",
+        "item"
+      ],
+      "required_entities": [
+        "distributor id",
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Please enter the Customer's Ration Card Number to log the distribution."
+      ],
+      "negative_patterns": [
+        "ration collection process (customer)",
+        "transaction history",
+        "admin distributor management"
+      ],
+      "patterns": [
+        "record ration distribution for customer",
+        "enter grain collection details in system",
+        "update log for ration given out",
+        "how to mark ration as distributed",
+        "submit sales entry on dealer portal"
+      ],
+      "examples": [
+        "As a dealer, how do I officially record the distribution of 5kg rice to a beneficiary?",
+        "I need to enter the collection details for a customer whose biometric failed.",
+        "Customer ko ration de diya hai, portal par uski entry kaise karni hai?",
+        "Update the given ration log for a specific RC number in my dashboard.",
+        "Mark the monthly quota as successfully distributed.",
+        "Process to log manual offline sales into the distributor system."
+      ]
+    },
+    {
+      "intent": "distributor_customer_list",
+      "category": "distributor_operations",
+      "priority": 9,
+      "description": "Queries by distributors about viewing the list of customers assigned to their shop.",
+      "keywords": [
+        "customer list",
+        "my beneficiaries",
+        "assigned customers to shop",
+        "fps member list",
+        "distributor mapped cards"
+      ],
+      "entities": [
+        "distributor",
+        "customer",
+        "fair price shop",
+        "beneficiary list"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "Would you like to download the full assigned beneficiary list as a PDF or Excel file?"
+      ],
+      "negative_patterns": [
+        "family details view",
+        "admin customer management",
+        "distributor profile"
+      ],
+      "patterns": [
+        "view list of assigned customers",
+        "see my shop beneficiaries",
+        "download fps customer list",
+        "who is mapped to my fair price shop",
+        "distributor dashboard member list"
+      ],
+      "examples": [
+        "Where can I view the complete list of beneficiaries assigned to my specific FPS?",
+        "I need to check if a new customer's card has been successfully mapped to my shop.",
+        "Meri dukan se jude hue sabhi ration card walo ki list kaise nikalu?",
+        "Download the directory of my attached PDS customers.",
+        "Show me the total number of active units registered under my dealer ID.",
+        "Search for a customer name in my distributor database."
+      ]
+    },
+    {
+      "intent": "distributor_stock",
+      "category": "distributor_operations",
+      "priority": 9,
+      "description": "Queries by distributors about stock received, stock management, or remaining inventory.",
+      "keywords": [
+        "stock remaining",
+        "inventory",
+        "stock received",
+        "grain stock management",
+        "fps warehouse",
+        "allocation"
+      ],
+      "entities": [
+        "distributor",
+        "stock",
+        "rice",
+        "wheat",
+        "sugar",
+        "inventory"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "Do you want to check the current remaining inventory or the inbound stock allocation for next month?"
+      ],
+      "negative_patterns": [
+        "distributor report",
+        "ration quota (customer)",
+        "quality complaint"
+      ],
+      "patterns": [
+        "check remaining grain stock",
+        "view fps inventory management",
+        "how much stock was received this month",
+        "update warehouse grain allocation",
+        "current wheat balance at shop"
+      ],
+      "examples": [
+        "How can I check the exact remaining inventory of rice and sugar in my shop portal?",
+        "I want to verify if the inbound stock allocation for next month has been updated.",
+        "Is mahine godam se mujhe kitna stock receive hua hai, uska record kahan hai?",
+        "My physical stock does not match the portal inventory. How do I reconcile?",
+        "Check current wheat balance.",
+        "View the monthly stock delivery challan."
+      ]
+    },
+    {
+      "intent": "distributor_report",
+      "category": "distributor_operations",
+      "priority": 8,
+      "description": "Queries by distributors about generating or viewing distribution reports for their shop.",
+      "keywords": [
+        "distribution report",
+        "monthly summary",
+        "shop report generation",
+        "fps analytics",
+        "sales ledger",
+        "closing report"
+      ],
+      "entities": [
+        "distributor",
+        "report",
+        "month",
+        "summary"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "For which specific month and year do you want to generate the distribution report?"
+      ],
+      "negative_patterns": [
+        "distributor stock",
+        "admin system reports",
+        "transaction history (customer)"
+      ],
+      "patterns": [
+        "generate monthly distribution report",
+        "download shop sales summary",
+        "view fps performance analytics",
+        "create closing report for the month",
+        "export distributor sales ledger"
+      ],
+      "examples": [
+        "I need to generate the complete monthly distribution summary report for audits.",
+        "How do I download the closing report for July showing total grains distributed?",
+        "Apni dukan ki pichle mahine ki sales report kaise print karun?",
+        "Export my FPS analytics and ledger to an Excel file.",
+        "Show me the daily distribution breakdown.",
+        "Where is the report generation tool located on the dealer dashboard?"
+      ]
+    },
+    {
+      "intent": "distributor_profile",
+      "category": "distributor_operations",
+      "priority": 7,
+      "description": "Queries by distributors about viewing or updating their shop profile information.",
+      "keywords": [
+        "fps details",
+        "shop profile",
+        "distributor info update",
+        "dealer settings",
+        "change fps address",
+        "manage dealer account"
+      ],
+      "entities": [
+        "distributor",
+        "fair price shop",
+        "profile",
+        "details"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "Are you looking to simply view your profile details or make an update like changing the shop's phone number?"
+      ],
+      "negative_patterns": [
+        "update phone number (customer)",
+        "distributor customer list",
+        "admin distributor management"
+      ],
+      "patterns": [
+        "view my fps details",
+        "update shop profile information",
+        "edit distributor contact info",
+        "manage dealer account settings",
+        "change fair price shop address on portal"
+      ],
+      "examples": [
+        "How do I update the registered mobile number tied to my distributor profile?",
+        "I want to view my official FPS details and license information on the portal.",
+        "Meri dukan ka profile aur contact details kaise update honge?",
+        "Edit the dealer account settings and operating hours.",
+        "Can I change the geo-tagged location of my fair price shop from the profile section?",
+        "Show my distributor license expiry date."
+      ]
+    },
+    {
+      "intent": "distributor_otp_verification",
+      "category": "distributor_operations",
+      "priority": 9,
+      "description": "Queries by distributors about OTP-based verification when logging in.",
+      "keywords": [
+        "distributor otp",
+        "fps login otp",
+        "dealer verification code",
+        "auth token dealer",
+        "resend fps otp"
+      ],
+      "entities": [
+        "otp",
+        "distributor id",
+        "phone number"
+      ],
+      "required_entities": [
+        "distributor id"
+      ],
+      "follow_up_questions": [
+        "Please confirm the last 4 digits of the mobile number registered to your Dealer ID."
+      ],
+      "negative_patterns": [
+        "customer otp issue",
+        "admin login otp",
+        "biometric failed"
+      ],
+      "patterns": [
+        "did not get distributor login otp",
+        "resend fps verification code",
+        "dealer auth token expired",
+        "issue with fps login otp",
+        "troubleshoot distributor authentication"
+      ],
+      "examples": [
+        "I am trying to log into the dealer portal but the distributor OTP is not coming.",
+        "Can you resend the FPS login verification code to my registered number?",
+        "Dealer portal par login karte waqt OTP receive nahi ho raha hai.",
+        "My dealer authentication token keeps expiring too quickly.",
+        "The system says my distributor OTP is incorrect even though I just received it.",
+        "Help me troubleshoot the 2FA login for my shop."
+      ]
+    },
+    {
+      "intent": "admin_customer_management",
+      "category": "admin_operations",
+      "priority": 9,
+      "description": "Queries by admins about adding, editing, or managing customer records.",
+      "keywords": [
+        "admin add customer",
+        "edit customer records",
+        "manage beneficiaries",
+        "modify user database",
+        "suspend ration card"
+      ],
+      "entities": [
+        "admin",
+        "customer",
+        "customer id",
+        "ration card"
+      ],
+      "required_entities": [
+        "admin id"
+      ],
+      "follow_up_questions": [
+        "Please provide the Customer ID or Ration Card Number of the record you wish to manage."
+      ],
+      "negative_patterns": [
+        "admin distributor management",
+        "ration card update (customer)",
+        "family details view"
+      ],
+      "patterns": [
+        "add new customer as admin",
+        "edit beneficiary records from backend",
+        "manage pds user database",
+        "suspend fraudulent ration card",
+        "approve new customer application"
+      ],
+      "examples": [
+        "As an administrator, how do I approve a new beneficiary application and generate a card?",
+        "I need to manually edit a customer's demographic record in the backend database.",
+        "Admin portal se kisi fraud ration card ko permanently suspend kaise karein?",
+        "Bulk upload new customer details to the system.",
+        "Manage the status of pending beneficiary updates.",
+        "Search the master customer database."
+      ]
+    },
+    {
+      "intent": "admin_distributor_management",
+      "category": "admin_operations",
+      "priority": 9,
+      "description": "Queries by admins about adding, editing, or managing distributor (FPS) records.",
+      "keywords": [
+        "admin add distributor",
+        "fps management",
+        "manage dealers",
+        "revoke license",
+        "allocate shop",
+        "dealer backend database"
+      ],
+      "entities": [
+        "admin",
+        "distributor",
+        "distributor id",
+        "fair price shop"
+      ],
+      "required_entities": [
+        "admin id"
+      ],
+      "follow_up_questions": [
+        "Please provide the FPS Dealer ID you need to manage or investigate."
+      ],
+      "negative_patterns": [
+        "admin customer management",
+        "distributor profile (dealer)",
+        "distributor login"
+      ],
+      "patterns": [
+        "add new fps dealer",
+        "manage distributor licenses",
+        "revoke fair price shop allocation",
+        "edit dealer records in admin panel",
+        "monitor distributor database"
+      ],
+      "examples": [
+        "How do I onboard a newly licensed Fair Price Shop dealer into the system?",
+        "I need to temporarily suspend a distributor's ID due to an ongoing investigation.",
+        "Backend se kisi kotedar ka license cancel ya revoke kaise karte hain?",
+        "Edit the operating address for an existing FPS dealer.",
+        "Reallocate customers from one suspended distributor to another active shop.",
+        "View the master list of all active dealers."
+      ]
+    },
+    {
+      "intent": "admin_system_reports",
+      "category": "admin_operations",
+      "priority": 8,
+      "description": "Queries by admins about system-wide reports, distribution analytics, or complaint summaries.",
+      "keywords": [
+        "system reports",
+        "district analytics",
+        "overall distribution statistics",
+        "macro view",
+        "admin dashboard metrics",
+        "statewide data"
+      ],
+      "entities": [
+        "admin",
+        "report",
+        "district",
+        "month",
+        "statistics"
+      ],
+      "required_entities": [
+        "admin id"
+      ],
+      "follow_up_questions": [
+        "Would you like the analytics filtered by a specific District, or the entire Statewide data?"
+      ],
+      "negative_patterns": [
+        "distributor report (dealer)",
+        "transaction history (customer)",
+        "file complaint"
+      ],
+      "patterns": [
+        "generate system-wide distribution analytics",
+        "view district level report",
+        "export overall state statistics",
+        "admin dashboard metrics and logs",
+        "compile macro level complaint summary"
+      ],
+      "examples": [
+        "I need to generate a macro-level analytics report for the entire district's grain distribution.",
+        "Can you compile a system-wide summary of all unresolved complaints for this quarter?",
+        "Admin dashboard par overall state-level distribution statistics kahan dikhte hain?",
+        "Export the high-level metrics for PMGKAY allocation.",
+        "Compare district-by-district performance reports.",
+        "View the system audit logs for last week."
+      ]
+    },
+    {
+      "intent": "admin_complaint_management",
+      "category": "admin_operations",
+      "priority": 9,
+      "description": "Queries by admins about viewing, resolving, or managing complaints.",
+      "keywords": [
+        "resolve complaint",
+        "handle grievances admin",
+        "view all complaints",
+        "escalation queue",
+        "investigate dispute",
+        "close ticket"
+      ],
+      "entities": [
+        "admin",
+        "complaint",
+        "resolution",
+        "status"
+      ],
+      "required_entities": [
+        "admin id"
+      ],
+      "follow_up_questions": [
+        "Please provide the specific Complaint ID you are currently investigating or resolving."
+      ],
+      "negative_patterns": [
+        "file complaint (customer)",
+        "complaint status (customer)",
+        "admin system reports"
+      ],
+      "patterns": [
+        "view queue of unresolved complaints",
+        "handle escalated grievances",
+        "update resolution status on ticket",
+        "investigate reported dispute",
+        "close an assigned complaint ticket"
+      ],
+      "examples": [
+        "How do I mark a highly escalated grievance ticket as fully resolved in the admin queue?",
+        "I want to view the list of all complaints filed against Dealer ID 554433.",
+        "Pending shikayaton ko handle karne ka admin portal section kahan hai?",
+        "Update the investigation notes for an ongoing black-marketing dispute.",
+        "Bulk close resolved complaint tickets.",
+        "Assign a complaint to a specific field inspector."
+      ]
+    },
+    {
+      "intent": "aadhaar_linking",
+      "category": "aadhaar_linking",
+      "priority": 10,
+      "description": "Queries related to linking, updating, verifying, or checking Aadhaar with a ration card.",
+      "keywords": [
+        "link aadhaar",
+        "seed aadhaar",
+        "uidai link",
+        "update aadhaar ration card",
+        "aadhaar seeding status",
+        "connect aadhaar"
+      ],
+      "entities": [
+        "aadhaar",
+        "uidai",
+        "ration card",
+        "beneficiary",
+        "family member",
+        "aadhaar number"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "To begin, do you have the 12-digit Aadhaar number ready for linking?"
+      ],
+      "negative_patterns": [
+        "beneficiary verification (ekyc)",
+        "update phone number",
+        "ration data privacy"
+      ],
+      "patterns": [
+        "link my aadhaar to ration card",
+        "check aadhaar seeding status",
+        "process for uidai linking",
+        "update aadhaar number in portal",
+        "connect family member aadhaar"
+      ],
+      "examples": [
+        "What is the exact online process to link my 12-digit Aadhaar card to my PDS account?",
+        "I want to check if my mother's UIDAI number is successfully seeded with our card.",
+        "Apne ration card se apna Aadhaar number kaise link karun ghar baithe?",
+        "I recently updated my Aadhaar. Do I need to re-link it to the ration system?",
+        "The portal says 'Aadhaar Not Seeded'. How do I fix this?",
+        "Mandatory Aadhaar linking guidelines."
+      ]
+    },
+    {
+      "intent": "beneficiary_verification",
+      "category": "beneficiary_management",
+      "priority": 9,
+      "description": "Queries about verifying, checking, or confirming the correctness of beneficiary details linked to a PDS ration card.",
+      "keywords": [
+        "beneficiary verification",
+        "verify beneficiary",
+        "verify beneficiary details",
+        "verify beneficiary information",
+        "check beneficiary details",
+        "check beneficiary information",
+        "beneficiary details",
+        "beneficiary information",
+        "beneficiary status",
+        "confirm beneficiary",
+        "validate beneficiary",
+        "beneficiary verification status",
+        "ekyc",
+        "e-kyc",
+        "complete ekyc",
+        "complete e-kyc",
+        "beneficiary ekyc",
+        "ration card ekyc",
+        "beneficiary verification"
+      ],
+      "entities": [
+        "ration card",
+        "beneficiary",
+        "aadhaar"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Please provide your Ration Card number or beneficiary details you want to verify."
+      ],
+      "negative_patterns": [
+        "view family members",
+        "family member list",
+        "show family members",
+        "add family member",
+        "remove family member",
+        "newborn",
+        "deceased member",
+        "login",
+        "sign in",
+        "customer login"
+      ],
+      "patterns": [
+        "verify my beneficiary details",
+        "verify beneficiary information",
+        "check my beneficiary details",
+        "check beneficiary information",
+        "confirm my beneficiary details",
+        "verify beneficiary status",
+        "check beneficiary status",
+        "validate my beneficiary information",
+        "is my beneficiary information correct",
+        "are my beneficiary details correct"
+      ],
+      "examples": [
+        "I want to verify my beneficiary details",
+        "Verify my beneficiary information",
+        "Are my beneficiary details correct?",
+        "I need to check my beneficiary status",
+        "I want to check my beneficiary information",
+        "Can I verify my beneficiary details?",
+        "How can I verify my beneficiary information?",
+        "I want to confirm my beneficiary details",
+        "Please check whether my beneficiary information is correct",
+        "Can I check my beneficiary status?",
+        "How do I validate my beneficiary details?",
+        "Mujhe apne beneficiary details verify karne hain",
+        "Mere beneficiary ki information sahi hai ya nahi kaise check karein?",
+        "Complete my eKYC",
+        "How do I complete eKYC?",
+        "How can I complete my e-KYC?",
+        "I want to complete my ration card eKYC.",
+        "How do I verify my beneficiary through eKYC?"
+      ]
+    },
+    {
+      "intent": "update_phone_number",
+      "category": "account_management",
+      "priority": 9,
+      "description": "Queries about updating or changing the registered mobile phone number linked to the ration card or PDS account.",
+      "keywords": [
+        "update phone number",
+        "change mobile number",
+        "new contact number",
+        "edit phone details",
+        "replace registered number",
+        "sms alerts number"
+      ],
+      "entities": [
+        "phone number",
+        "mobile number",
+        "ration card",
+        "otp"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Do you still have access to the old registered phone number to receive an OTP?"
+      ],
+      "negative_patterns": [
+        "update address",
+        "update photo",
+        "otp not received issue"
+      ],
+      "patterns": [
+        "change my registered mobile number",
+        "update contact phone number",
+        "how to link new phone to ration card",
+        "edit sms alerts number",
+        "replace old mobile number"
+      ],
+      "examples": [
+        "I lost my old SIM card. How can I securely update my registered mobile number?",
+        "Can I change the contact phone number on my ration card without going to the office?",
+        "Mera purana mobile number band ho gaya hai, naya number kaise add karun?",
+        "I want to receive PDS SMS alerts on a different mobile phone.",
+        "What is the verification process to replace the registered phone number?",
+        "Link a new 10-digit number to my account."
+      ]
+    },
+    {
+      "intent": "update_address",
+      "category": "account_management",
+      "priority": 8,
+      "description": "Queries about updating the residential address on the ration card or PDS account.",
+      "keywords": [
+        "update address",
+        "change residential address",
+        "address correction",
+        "shift house location",
+        "edit living address",
+        "pin code change"
+      ],
+      "entities": [
+        "address",
+        "ration card",
+        "district",
+        "state",
+        "pin code",
+        "update address",
+        "change address",
+        "address update",
+        "change my address",
+        "update my address",
+        "address on ration card",
+        "change address on ration card",
+        "update address on ration card"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Do you have a valid proof of the new address (like an electricity bill or Aadhaar) ready to upload?"
+      ],
+      "negative_patterns": [
+        "transfer ration card to new state",
+        "update phone number",
+        "ration shop location change"
+      ],
+      "patterns": [
+        "update residential address on card",
+        "change house location details",
+        "correct spelling in address",
+        "edit pin code on my account",
+        "how to submit address proof"
+      ],
+      "examples": [
+        "We recently shifted to a new house in the same city. How do we update our address?",
+        "There is a typo in my street name on the ration card. Can I request an address correction?",
+        "Naye ghar ka pata ration card me badalwane ke liye kaunse documents chahiye?",
+        "I need to edit my pin code so I can be assigned a closer dealer.",
+        "Change my residential address details online.",
+        "How long does it take for an address update to reflect?",
+        "How can I update my address on my ration card?",
+        "I want to change my address on my ration card.",
+        "How do I update my ration card address?",
+        "Mujhe ration card me address change karna hai",
+        "I moved to a new address and need to update my ration card."
+      ]
+    },
+    {
+      "intent": "update_photo",
+      "category": "account_management",
+      "priority": 7,
+      "description": "Queries about updating the photo on the ration card or customer profile.",
+      "keywords": [
+        "update photo",
+        "change profile picture",
+        "new photo ration card",
+        "edit picture",
+        "upload new image",
+        "head of family photo"
+      ],
+      "entities": [
+        "photo",
+        "ration card",
+        "beneficiary"
+      ],
+      "required_entities": [
+        "ration card"
+      ],
+      "follow_up_questions": [
+        "Is the photo update for the Head of Family or a different dependent member?"
+      ],
+      "negative_patterns": [
+        "update address",
+        "change family head",
+        "smart card application"
+      ],
+      "patterns": [
+        "upload new profile picture",
+        "change the photo on my ration card",
+        "how to update head of family image",
+        "edit beneficiary picture",
+        "replace old photograph"
+      ],
+      "examples": [
+        "The photo of the Head of Family on our card is very old and blurry. Can we update it?",
+        "I want to upload a clearer passport-sized picture to my digital beneficiary profile.",
+        "Ration card par lagi photo saaf nahi hai, nayi photo kaise lagwayein?",
+        "What are the size and format requirements for uploading a new photograph?",
+        "Change the profile picture of my PDS account.",
+        "Can the dealer update my photo through the ePoS system?"
+      ]
+    },
+    {
+      "intent": "ration_data_privacy",
+      "category": "account_management",
+      "priority": 5,
+      "description": "Queries about data privacy, data security, or how personal information is used in the PDS system.",
+      "keywords": [
+        "data privacy",
+        "aadhaar security",
+        "personal info protection",
+        "data usage",
+        "is my data safe",
+        "privacy policy"
+      ],
+      "entities": [
+        "data",
+        "privacy",
+        "aadhaar",
+        "personal information"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Do you have specific concerns regarding the use of your Aadhaar data?"
+      ],
+      "negative_patterns": [
+        "update phone number",
+        "login not working",
+        "file dealer complaint"
+      ],
+      "patterns": [
+        "how is my personal information protected",
+        "is my aadhaar data secure in pds",
+        "read the data privacy policy",
+        "who has access to my details",
+        "are biometric records kept safe"
+      ],
+      "examples": [
+        "I am concerned about privacy. Is my linked Aadhaar data fully secure on this government portal?",
+        "What is the official privacy policy regarding how my family's demographic details are used?",
+        "Kya mera mobile number aur personal details PDS system me completely safe hain?",
+        "Who else has access to the biometric fingerprints collected at the ration shop?",
+        "How long do you store my transaction history logs?",
+        "Read about data protection protocols."
+      ]
+    },
+    {
+      "intent": "documents_required",
+      "category": "documents",
+      "priority": 9,
+      "description": "Queries about what documents are required for applying for a ration card or making changes to it.",
+      "keywords": [
+        "documents required",
+        "what proof needed",
+        "identity proof",
+        "address proof",
+        "list of papers",
+        "required paperwork"
+      ],
+      "entities": [
+        "document",
+        "aadhaar",
+        "voter id",
+        "address proof",
+        "income certificate",
+        "photo"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you asking about documents for a New Ration Card, an Address Change, or something else?"
+      ],
+      "negative_patterns": [
+        "income certificate details",
+        "download ration card",
+        "how to apply for card"
+      ],
+      "patterns": [
+        "what documents are required to apply",
+        "list of acceptable identity proofs",
+        "which address proof is valid",
+        "paperwork needed for ration card",
+        "what attachments should i upload"
+      ],
+      "examples": [
+        "Can you provide a comprehensive list of all documents required to apply for a new card?",
+        "Is a Voter ID accepted as valid address proof for making corrections?",
+        "Naya ration card banwane ke liye exactly kaun kaun se kagaz lagte hain?",
+        "Do I need to submit physical copies of my paperwork at the office?",
+        "What identity documents are needed to add my newly married wife to the card?",
+        "Show acceptable proofs for age verification."
+      ]
+    },
+    {
+      "intent": "income_certificate",
+      "category": "documents",
+      "priority": 7,
+      "description": "Queries about the income certificate required for ration card eligibility.",
+      "keywords": [
+        "income certificate",
+        "salary proof",
+        "income limit bpl",
+        "tehsildar certificate",
+        "annual income proof",
+        "wage document"
+      ],
+      "entities": [
+        "income certificate",
+        "income",
+        "bpl",
+        "aay",
+        "eligibility"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Which category of ration card (like BPL or AAY) are you submitting this income proof for?"
+      ],
+      "negative_patterns": [
+        "address proof requirements",
+        "identity proof list",
+        "ration card eligibility (general)"
+      ],
+      "patterns": [
+        "is income certificate mandatory",
+        "how to submit salary proof",
+        "tehsildar issued income document",
+        "validity of income certificate",
+        "bpl limit income paperwork"
+      ],
+      "examples": [
+        "Is an official income certificate mandatory to prove my eligibility for the BPL category?",
+        "How old can the Tehsildar-issued income proof be before it is considered expired?",
+        "BPL ration card ke liye aay praman patra (income certificate) kahan se banwana hoga?",
+        "Can I use my employer's salary slip as valid income proof for the application?",
+        "Where do I upload the digital copy of my annual income document?",
+        "Explain the income limit certificate requirements."
+      ]
+    },
+    {
+      "intent": "pmgkay_scheme",
+      "category": "scheme_information",
+      "priority": 8,
+      "description": "Queries about PM Garib Kalyan Anna Yojana (PMGKAY) free ration scheme.",
+      "keywords": [
+        "pmgkay",
+        "pm garib kalyan",
+        "free ration scheme",
+        "modi ration",
+        "extra food grains",
+        "pandemic ration"
+      ],
+      "entities": [
+        "pmgkay",
+        "free ration",
+        "beneficiary",
+        "government scheme"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Would you like to know your specific family entitlement under the PMGKAY scheme?"
+      ],
+      "negative_patterns": [
+        "antyodaya anna yojana (aay)",
+        "nfsa general eligibility",
+        "regular ration quota"
+      ],
+      "patterns": [
+        "what is pmgkay scheme",
+        "pm garib kalyan anna yojana details",
+        "is free ration still continuing",
+        "extra 5kg grain scheme",
+        "benefits under pmgkay"
+      ],
+      "examples": [
+        "What are the exact benefits provided under the PM Garib Kalyan Anna Yojana?",
+        "Is the government still extending the free 5kg extra ration scheme this year?",
+        "Modi sarkar wali free ration yojana (PMGKAY) ke tahat mujhe kya milega?",
+        "Am I automatically enrolled for PMGKAY if I already have a PHH card?",
+        "How is the PMGKAY quota different from my regular monthly entitlement?",
+        "Information on the central free grain program."
+      ]
+    },
+    {
+      "intent": "one_nation_one_ration_card",
+      "category": "scheme_information",
+      "priority": 8,
+      "description": "Queries about the One Nation One Ration Card (ONORC) scheme for ration portability across states.",
+      "keywords": [
+          "one nation one ration card",
+          "ration card portability",
+          "portability",
+          "use ration card in another state",
+          "ration card in another state",
+          "use ration card outside state",
+          "ration portability",
+          "port my ration card"
+      ],
+      "entities": [
+        "ration card",
+        "portability",
+        "state",
+        "migrant",
+        "onorc"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you currently residing in a state different from where your card was issued?"
+      ],
+      "negative_patterns": [
+        "transfer ration card permanently",
+        "pmgkay free ration",
+        "migrant worker ration (general)"
+      ],
+      "patterns": [
+        "how does one nation one ration card work",
+        "onorc scheme details",
+        "inter-state portability guidelines",
+        "collect ration anywhere in india",
+        "benefits of onorc"
+      ],
+      "examples": [
+        "Could you explain how the One Nation One Ration Card portability system actually works?",
+        "Under ONORC, can I simply walk into any FPS in another state and scan my fingerprint?",
+        "One Nation One Ration Card scheme ke fayde kya hain, detail me samjhayein.",
+        "Do I need to do any special registration to activate national portability on my card?",
+        "Is the ONORC system active across all states in India right now?",
+        "Guidelines for anywhere ration collection.",
+        "Can I use my ration card in another state?",
+        "Can I get ration outside my home state?",
+        "Can I use my Karnataka ration card in another state?",
+        "How does ration card portability work?",
+        "Can migrants use their ration card in another state?",
+        "Can I collect ration away from my home state?"
+      ]
+    },
+    {
+      "intent": "antyodaya_anna_yojana",
+      "category": "scheme_information",
+      "priority": 7,
+      "description": "Queries about the Antyodaya Anna Yojana (AAY) scheme for the poorest of the poor.",
+      "keywords": [
+        "antyodaya",
+        "aay card",
+        "yellow card",
+        "poorest of the poor",
+        "antyodaya anna yojana",
+        "maximum subsidy"
+      ],
+      "entities": [
+        "aay",
+        "antyodaya",
+        "ration card",
+        "eligibility",
+        "poorest family"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you looking to apply for an AAY card or do you want to know the quota?"
+      ],
+      "negative_patterns": [
+        "pmgkay scheme",
+        "general bpl eligibility",
+        "phh category details"
+      ],
+      "patterns": [
+        "what is antyodaya anna yojana",
+        "benefits of aay card",
+        "yellow card poorest of the poor scheme",
+        "who qualifies for antyodaya",
+        "aay scheme allotment"
+      ],
+      "examples": [
+        "What specific benefits and maximum grain quotas are provided under the Antyodaya Anna Yojana?",
+        "How is an AAY yellow card completely different from a standard BPL card?",
+        "Antyodaya ration card banwane ke liye ghar ki aamdani kitni honi chahiye?",
+        "Is 35kg of grains guaranteed for every family holding an Antyodaya card?",
+        "I am looking for details on the scheme designed specifically for the poorest of the poor.",
+        "Explain AAY categorization."
+      ]
+    },
+    {
+      "intent": "nfsa_eligibility",
+      "category": "scheme_information",
+      "priority": 8,
+      "description": "Queries about eligibility under the National Food Security Act (NFSA) for subsidized food.",
+      "keywords": [
+        "nfsa",
+        "national food security act",
+        "food security eligibility",
+        "nfsa beneficiary list",
+        "subsidized food act",
+        "legal entitlement"
+      ],
+      "entities": [
+        "nfsa",
+        "eligibility",
+        "beneficiary",
+        "food security"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Would you like to check if your name is currently on the NFSA beneficiary list?"
+      ],
+      "negative_patterns": [
+        "pmgkay scheme details",
+        "general ration card apply",
+        "antyodaya (aay)"
+      ],
+      "patterns": [
+        "what is the national food security act",
+        "am i covered under nfsa",
+        "nfsa eligibility guidelines",
+        "legal food entitlement",
+        "check nfsa beneficiary status"
+      ],
+      "examples": [
+        "How do I determine if my household is legally covered under the National Food Security Act?",
+        "What are the broad eligibility guidelines set by the central government for NFSA inclusion?",
+        "Kya mera naam National Food Security Act wali beneficiary list me shamil hai?",
+        "Explain the legal food entitlement rights guaranteed to citizens under the NFSA.",
+        "Difference between state scheme beneficiaries and central NFSA beneficiaries.",
+        "Check NFSA enrollment criteria."
+      ]
+    },
+    {
+      "intent": "migrant_ration",
+      "category": "portability",
+      "priority": 9,
+      "description": "Queries from migrant workers about collecting ration away from their registered state.",
+      "keywords": [
+        "migrant worker ration",
+        "collect in another city",
+        "away from home state",
+        "laborer ration",
+        "migrant portability",
+        "working outside state"
+      ],
+      "entities": [
+        "migrant",
+        "ration card",
+        "onorc",
+        "portability",
+        "state"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "As a migrant worker, which state is your card issued in, and which state are you currently working in?"
+      ],
+      "negative_patterns": [
+        "transfer ration card permanently",
+        "one nation one ration card scheme explanation",
+        "new application for migrant"
+      ],
+      "patterns": [
+        "how migrant workers get ration",
+        "collect food grains in different city",
+        "away from home state collection",
+        "laborer ration portability process",
+        "i am a migrant how to get food"
+      ],
+      "examples": [
+        "I am a daily wage migrant worker currently living in Delhi but my card is from Bihar. How do I eat?",
+        "As a laborer working far from my home state, what is the process to draw my monthly ration?",
+        "Main kaam ke silsile me dusre shehar aya hu, yahan bina card transfer ke ration kaise milega?",
+        "Can part of my family collect ration in the village while I collect my share in the city?",
+        "Help for migrants wanting to use portability.",
+        "Temporary ration collection for traveling workers."
+      ]
+    },
+    {
+      "intent": "portal_overview",
+      "category": "portal_navigation",
+      "priority": 7,
+      "description": "General queries about what the PDS portal is, what it offers, or how to use it.",
+      "keywords": [
+        "what is pds",
+        "portal features",
+        "how to use website",
+        "public distribution system overview",
+        "about this site",
+        "platform services"
+      ],
+      "entities": [
+        "pds",
+        "portal",
+        "ration",
+        "government"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Is there a specific service you are trying to find on the portal today?"
+      ],
+      "negative_patterns": [
+        "portal technical issue",
+        "login not working",
+        "mobile access app"
+      ],
+      "patterns": [
+        "what is the public distribution system portal",
+        "overview of website features",
+        "how do i navigate this platform",
+        "what services are available online",
+        "explain pds capabilities"
+      ],
+      "examples": [
+        "Could you give me a brief overview of all the services available on this PDS portal?",
+        "I am new to this website. What exactly can I accomplish here without visiting the office?",
+        "Yeh Public Distribution System portal kis kaam aata hai aur iske features kya hain?",
+        "Where can I find a quick guide on how to navigate the various sections of this site?",
+        "Tell me about the digitalization of the ration system.",
+        "List of online PDS capabilities."
+      ]
+    },
+    {
+      "intent": "language_support",
+      "category": "portal_navigation",
+      "priority": 6,
+      "description": "Queries about language options available on the PDS portal — English, Hindi, or Kannada.",
+      "keywords": [
+        "change language",
+        "hindi",
+        "kannada",
+        "english",
+        "bhasha",
+        "translate website",
+        "regional language"
+      ],
+      "entities": [
+        "language",
+        "hindi",
+        "kannada",
+        "english"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Would you like me to guide you on how to switch the portal language to Hindi or Kannada?"
+      ],
+      "negative_patterns": [
+        "portal technical issue",
+        "smart ration card format",
+        "mobile access app"
+      ],
+      "patterns": [
+        "change portal language",
+        "translate website to hindi",
+        "switch to kannada language",
+        "how to change bhasha",
+        "regional language options"
+      ],
+      "examples": [
+        "I cannot read English well. How do I switch the entire portal language to Hindi?",
+        "Are there options to view the website menus and forms in Kannada instead?",
+        "Mujhe website ki bhasha badalni hai, Hindi ka option kahan par milega?",
+        "Where is the language toggle button located on the dashboard?",
+        "Can I get customer support responses in my regional language?",
+        "Translate page text to English."
+      ]
+    },
+    {
+      "intent": "portal_technical_issue",
+      "category": "portal_navigation",
+      "priority": 9,
+      "description": "Queries about technical issues with the portal such as page not loading, buttons not working, or site errors.",
+      "keywords": [
+          "portal not working",
+          "website not working",
+          "pds website not working",
+          "portal error",
+          "website error",
+          "portal showing error",
+          "website showing error",
+          "technical problem",
+          "technical issue",
+          "portal problem",
+          "website problem"
+      ],
+      "entities": [
+        "portal",
+        "page",
+        "button",
+        "error"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Could you tell me which specific page or feature you were using when the error occurred?"
+      ],
+      "negative_patterns": [
+        "login not working",
+        "otp issue",
+        "epos machine hardware error"
+      ],
+      "patterns": [
+        "website server is down",
+        "getting a page loading error",
+        "submit button is unresponsive",
+        "portal crashing frequently",
+        "report a technical bug"
+      ],
+      "examples": [
+          "The PDS website is not working.",
+          "The portal keeps showing an error.",
+          "The PDS portal is giving an error.",
+          "The website is not opening.",
+          "I am facing a technical problem on the PDS portal.",
+          "The PDS website has stopped working.",
+          "Why is the PDS portal showing an error?"
+      ]
+    },
+    {
+      "intent": "mobile_access",
+      "category": "portal_navigation",
+      "priority": 6,
+      "description": "Queries about accessing the PDS portal on a mobile phone or using it on a smartphone.",
+      "keywords": [
+        "mobile app",
+        "smartphone access",
+        "pds application",
+        "download app",
+        "android ios app",
+        "mobile friendly"
+      ],
+      "entities": [
+        "mobile",
+        "app",
+        "portal"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you looking to download a dedicated mobile app, or asking if the website works on mobile browsers?"
+      ],
+      "negative_patterns": [
+        "portal technical issue",
+        "smart e-ration card download",
+        "update phone number"
+      ],
+      "patterns": [
+        "is there a mobile app for pds",
+        "access portal on smartphone",
+        "download android application",
+        "use website on mobile phone browser",
+        "mobile version of pds"
+      ],
+      "examples": [
+        "Does the government have an official Android or iOS mobile app for managing PDS accounts?",
+        "Can I comfortably fill out the entire ration card application using my smartphone browser?",
+        "Kya mujhe PDS ki koi mobile app play store se download karni padegi?",
+        "Is the online portal optimized and mobile-friendly for smaller screens?",
+        "I want to track my application directly from my phone.",
+        "Where is the link to download the mobile apk?"
+      ]
+    },
+    {
+      "intent": "greeting",
+      "category": "general_help",
+      "priority": 5,
+      "description": "General greeting or conversation opener without a specific PDS query.",
+      "keywords": [
+        "hello",
+        "hi",
+        "namaste",
+        "good morning",
+        "hey there",
+        "greetings",
+        "good afternoon"
+      ],
+      "entities": [],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Hello! Welcome to the PDS support. Are you a customer, distributor, or administrator?"
+      ],
+      "negative_patterns": [
+        "help request",
+        "goodbye",
+        "pds helpline"
+      ],
+      "patterns": [
+        "saying hello",
+        "good morning greeting",
+        "namaste chatbot",
+        "hi there",
+        "starting conversation"
+      ],
+      "examples": [
+        "Hello there, good morning!",
+        "Hi, I just logged in and wanted to start a chat.",
+        "Namaste! Mujhe aapse thodi jaankari chahiye.",
+        "Hey! Are you a real person or a bot?",
+        "Good afternoon. I hope you are having a good day.",
+        "Greetings to the support team."
+      ]
+    },
+    {
+      "intent": "help_request",
+      "category": "general_help",
+      "priority": 8,
+      "description": "General request for help or assistance without specifying a topic.",
+      "keywords": [
+        "need help",
+        "assist me",
+        "support",
+        "guide me",
+        "confused",
+        "don't know what to do",
+        "require assistance"
+      ],
+      "entities": [],
+      "required_entities": [],
+      "follow_up_questions": [
+        "I'm here to help! Could you please briefly describe the specific issue you are facing?"
+      ],
+      "negative_patterns": [
+        "file complaint",
+        "greeting",
+        "contact admin helpline"
+      ],
+      "patterns": [
+        "i need some help",
+        "can you guide me please",
+        "i am confused about the process",
+        "support required",
+        "i don't understand what to do next"
+      ],
+      "examples": [
+        "I am totally lost on this website. Can someone please assist me?",
+        "I require some general guidance on how things work here. Need help.",
+        "Main portal pe aage kya karu, mujhe bilkul samajh nahi aa raha hai. Please guide me.",
+        "I am facing an issue but I don't know which category it falls under.",
+        "Can you support me with a quick problem I have?",
+        "Please help me navigate this."
+      ]
+    },
+    {
+      "intent": "contact_admin",
+      "category": "general_help",
+      "priority": 7,
+      "description": "Queries about how to contact the local admin or office for PDS-related help.",
+      "keywords": [
+        "contact admin",
+        "admin office number",
+        "local admin reach",
+        "speak to official",
+        "admin email",
+        "food supply officer"
+      ],
+      "entities": [
+        "admin",
+        "contact",
+        "phone",
+        "email",
+        "office"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Would you like the contact details for the central office or your local district food supply officer?"
+      ],
+      "negative_patterns": [
+        "admin login",
+        "pds national helpline",
+        "file complaint"
+      ],
+      "patterns": [
+        "how to contact local admin",
+        "get admin office phone number",
+        "email address of food supply officer",
+        "speak directly to pds official",
+        "reach regional office"
+      ],
+      "examples": [
+        "How can I get in touch with the local food supply officer or admin directly?",
+        "Can you provide the official email address to contact the district PDS administration?",
+        "Mujhe apne kshetra ke local admin officer se baat karni hai, unka number kya hai?",
+        "I need the physical address of the regional admin office to submit documents.",
+        "Is there a way to schedule an appointment with an official?",
+        "Find local admin contact details."
+      ]
+    },
+    {
+      "intent": "pds_helpline",
+      "category": "general_help",
+      "priority": 7,
+      "description": "Queries about the PDS helpline number, toll-free number, or national food security helpline.",
+      "keywords": [
+        "helpline number",
+        "toll free",
+        "customer care",
+        "1800 number",
+        "national food helpline",
+        "call center pds"
+      ],
+      "entities": [
+        "helpline",
+        "toll free number",
+        "contact"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "Are you looking for the national 1967 toll-free helpline or a specific state's customer care number?"
+      ],
+      "negative_patterns": [
+        "contact local admin",
+        "file complaint portal",
+        "technical issue report"
+      ],
+      "patterns": [
+        "what is the pds toll free number",
+        "customer care helpline",
+        "national food security call center",
+        "1800 number for ration complaints",
+        "speak to human on phone"
+      ],
+      "examples": [
+        "What is the official toll-free customer care number for PDS related queries?",
+        "I prefer to speak to a human. Can you give me the national helpline number?",
+        "Agar portal par kaam na ho, toh kaunse 1800 toll free number par call kar sakte hain?",
+        "Is the national food security call center operational 24/7?",
+        "Provide the phone directory for state-wise helplines.",
+        "Ration helpline contact details needed."
+      ]
+    },
+    {
+      "intent": "feedback",
+      "category": "general_help",
+      "priority": 4,
+      "description": "Queries about giving feedback or suggestions for the PDS portal.",
+      "keywords": [
+        "feedback",
+        "suggestion",
+        "rate portal",
+        "improvement",
+        "share opinion",
+        "website review"
+      ],
+      "entities": [
+        "feedback",
+        "portal"
+      ],
+      "required_entities": [],
+      "follow_up_questions": [
+        "We value your opinion! Would you like to provide feedback on the website usability or the actual PDS service?"
+      ],
+      "negative_patterns": [
+        "file formal complaint",
+        "report technical bug",
+        "help request"
+      ],
+      "patterns": [
+        "submit portal feedback",
+        "share suggestion for improvement",
+        "rate the pds service",
+        "give my opinion on the website",
+        "leave a review"
+      ],
+      "examples": [
+        "I have some suggestions on how to make this portal much more user-friendly.",
+        "Where is the form to leave a general rating and review of the digital services?",
+        "Mujhe government ko is website ko improve karne ke liye thoda feedback dena hai.",
+        "I want to share my opinion on the recent changes made to the e-ration system.",
+        "Submit ideas for system improvement.",
+        "Leave positive feedback for good service."
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "category": "general_help",
+      "priority": 4,
+      "description": "General closing or goodbye statement from the user.",
+      "keywords": [
+          "bye",
+          "goodbye",
+          "thanks bye",
+          "thank you bye",
+          "that's all",
+          "i am done",
+          "done for today",
+          "exit"
+      ],
+      "entities": [],
+      "required_entities": [],
+      "follow_up_questions": [],
+      "negative_patterns": [
+        "greeting",
+        "help request",
+        "feedback"
+      ],
+      "patterns": [
+        "say goodbye",
+        "thank you very much",
+        "i am done here",
+        "close the chat",
+        "that will be all thanks"
+      ],
+      "examples": [
+        "Thank you so much for your help! Goodbye.",
+        "Okay, I got the answer I needed. That's all for today.",
+        "Mera kaam ho gaya hai, shukriya aur bye.",
+        "I am finished with my queries. You can close the session.",
+        "Thanks, exiting the portal now.",
+        "Appreciate the fast response. Have a good day.",
+        "Okay thanks bye",
+        "Thanks, bye.",
+        "Thank you, goodbye.",
+        "Okay I am done.",
+        "That's all, thanks.",
+        "I am done here, bye."
+      ]
+    }
+  ],
+  "total": 76,
+  "version": "1.0",
+  "last_updated": "2025-12",
+  "source": "pds-official.vercel.app"
+}

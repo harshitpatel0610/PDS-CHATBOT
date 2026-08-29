@@ -1,0 +1,75 @@
+{
+  "id": "ration_card_types",
+  "intent": "ration_card_types",
+  "category": "ration_card",
+  "title": "Types and Categories of Ration Cards",
+
+  "facts": {
+    "summary": "Ration-card categories are used within the Public Distribution System to identify households eligible for different types of food-grain benefits. The applicable categories and implementation are determined under the relevant national framework and by State or Union Territory authorities.",
+
+    "nfsa_categories": [
+      "Priority Household (PHH)",
+      "Antyodaya Anna Yojana (AAY)"
+    ],
+
+    "priority_household": "Priority Households (PHH) are households identified as eligible under the National Food Security Act according to the applicable State or Union Territory identification criteria.",
+
+    "antyodaya_anna_yojana": "Antyodaya Anna Yojana (AAY) covers households identified under the applicable AAY criteria for food-grain entitlements under the NFSA framework.",
+
+    "state_specific_categories": "States and Union Territories may use their own terminology, classifications, or administrative categories in addition to the categories used under the applicable national framework.",
+
+    "eligibility": "Eligibility and identification of households for applicable ration-card categories are handled by the concerned State or Union Territory according to the applicable rules and criteria.",
+
+    "benefits": "The food-grain entitlement associated with a household depends on the applicable category and prevailing government rules.",
+
+    "important_notes": [
+      "PHH and AAY are important beneficiary categories under the NFSA framework.",
+      "The State or Union Territory is responsible for identifying eligible households.",
+      "Ration-card terminology and administrative classifications can vary between States and Union Territories.",
+      "Do not assume that every State or Union Territory uses exactly the same ration-card categories or terminology.",
+      "Eligibility for a particular category should be confirmed with the concerned State/UT authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What are the types of ration cards?",
+      "answer": "Under the NFSA framework, important beneficiary categories include Priority Household (PHH) and Antyodaya Anna Yojana (AAY). State and Union Territory classifications may vary."
+    },
+    {
+      "question": "What is a PHH ration card?",
+      "answer": "PHH refers to a Priority Household identified as eligible under the NFSA framework according to the applicable State or Union Territory criteria."
+    },
+    {
+      "question": "What is an AAY ration card?",
+      "answer": "AAY refers to Antyodaya Anna Yojana, a category covering households identified under the applicable AAY criteria for food-grain entitlements."
+    },
+    {
+      "question": "What is the difference between PHH and AAY?",
+      "answer": "PHH and AAY are different beneficiary categories under the NFSA framework. Their eligibility and applicable entitlements are governed by the relevant rules and identification criteria."
+    },
+    {
+      "question": "Who decides which ration-card category I belong to?",
+      "answer": "The concerned State or Union Territory identifies eligible households according to the applicable criteria."
+    },
+    {
+      "question": "Are ration-card categories the same in every State?",
+      "answer": "Not necessarily. States and Union Territories may use different administrative classifications or terminology. The applicable State/UT authority should be consulted."
+    },
+    {
+      "question": "How do I know my ration-card category?",
+      "answer": "Check your ration-card records or the official ration-card system of the concerned State or Union Territory."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "National Food Security Act Portal"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

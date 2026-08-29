@@ -1,0 +1,6172 @@
+खाद्य एवं रसद विभाग
+उत्तर प्रदेश सरकार
+सप्लाई चेन प्रबंधन प्रणाली
+Monday, September 11, 2023 11:06:20 AM
+गोदामों की सूची
+दिनांक 27/08/2026 11:23 AM  तक की स्थिति
+क्रम सं०
+मंडल का नाम
+जनपद का नाम
+क्षेत्र
+ब्लाक/राशनिंग क्षेत्र
+गोदाम आई.डी.
+गोदाम का नाम
+गोदाम का पता
+गोदाम प्रभारी का नाम
+1
+अयोध्या
+अमेठी
+ग्रामीण
+गौरीगंज
+207200071
+गौरीगंज
+Gauriganj
+pramod yadav
+ग्रामीण
+जगदीशपुर
+207200021
+ज्ञगदीशपु्र
+Ind. Area
+trjbhan singh
+ग्रामीण
+जामों
+207200051
+जामो
+Jamon
+neelesh kumar singh
+ग्रामीण
+तिलोई
+207202851
+तिलोई
+Tiloi
+ram swaroop
+ग्रामीण
+भेटुआ
+200132701
+भेटुआ
+ANETHI
+harischandr prajapati
+ग्रामीण
+भादर
+207200111
+रामगंज
+Ramganj
+ranjan shukla
+ग्रामीण
+शुकुलबाजार
+207200011
+शुकुलबाज्ञार
+Jainabganj
+dinesh kumar
+ग्रामीण
+शाहगढ्
+200132301
+शाहगढ़
+GAURIGANJ
+pramod kumar yadav
+ग्रामीण
+संग्रामपुर
+200132601
+संग्रामपुर
+AMETHI
+haris chandr prajapati
+ग्रामीण
+सिंघपुर
+207202841
+सिंहपुर
+Aharwabhawani
+ashutosh singh
+नगरीय
+अमेठी
+104900202
+अमेठी
+Amethi
+rajkumar singh
+नगरीय
+जायस
+102800201
+जैस
+Jais
+raj kumar singh
+नगरीय
+मुसाफिरखाना
+104900701
+मुसाफिरखाना
+Jamuaari
+ashok kumar
+अम्बॆडक‌र न‌ग‌र
+ग्रामीण
+अकबरपुर
+048000101
+अकबरपुर
+Sadarpur Ganja Sishauli Akbarpur
+rahul kumar
+ग्रामीण
+कटेहरी
+048000202
+कटेहरी
+Tiwaripur Katehari
+shweta singh
+ग्रामीण
+जलालपुर
+048000301
+जलालपुर
+ramgarh Road Nagpur Jalalpur
+pramod kumar
+ग्रामीण
+जहॉगीरगंज
+048000401
+जहांगीरगंज
+जहांगीरगंज
+ramesh yadav
+ग्रामीण
+टाण्‍डा
+048000501
+टाण्‍डा
+अलींगंज टाण्‍डा अम्‍बेडकरनगर
+rajesh singh
+ग्रामीण
+बसखारी
+048000601
+बसखारी
+किछौछा बसखारी
+sanjeet kumar singh
+ग्रामीण
+भियॉव
+048000701
+भियांव
+रफीगंज भियांव अम्‍बेडकरनगर
+nishant tripathi
+ग्रामीण
+भीटी
+048000201
+भीटी
+Takiyakalupur Mustafabad Senpur Bhiti
+praveen singh
+ग्रामीण
+रामनगर
+048000901
+रामनगर
+husainpur Chauraha Annapur Ramnagar
+ayodhya prasad singh
+अयोध्या
+ग्रामीण
+अमानीगंज
+047000301
+अमानीगंज
+Khandasa road kumarganj
+ashutosh singh
+ग्रामीण
+तारून
+047001101
+तारून
+tarun
+shree vinod kumar kushwaha
+ग्रामीण
+पूरा बाजार
+047000801
+पूरा बाजार
+poora bajar
+shree shiv kumar singh
+ग्रामीण
+बीकापुर
+047003001
+बीकापुर
+शेरपुर पारा
+shree awdhendra pratap singh
+ग्रामीण
+मवई
+047000101
+पटरंगा
+pure murli patranga faizabad
+shree dinesh kumar singh
+ग्रामीण
+मसोधा
+047002001
+मसोधा
+Raibarely road faizabad
+mrs. ruchi pandey
+ग्रामीण
+माया बाजार
+047006001
+गोसाईंगंज
+goshaigang
+shree harisewak chaurasia
+ग्रामीण
+मिल्‍कीपुर
+047000401
+मिल्कीपुर
+milkipur
+mahesh anand pandey
+ग्रामीण
+रूदौली
+047007001
+रूदौली
+rudauli
+mr. piyush srivastava
+ग्रामीण
+सोहावल
+047000601
+सोहावल
+Katrauli sohawal Faizabad
+mr. praveen kumar
+ग्रामीण
+हरिंगटनगंज
+047000501
+हरिगटनगज
+haranteengung
+sushree rashmi singh
+नगरीय
+अयोध्‍या
+047001001
+नवीनमण्‍डी
+navinmandi
+shree dinesh kumar
+बाराबंकी
+ग्रामीण
+त्रिवेदीगंज
+046001501
+त्रिवेदीगंज
+त्रिवेदीगंज
+ram prakash
+ग्रामीण
+दरियाबाद
+046001001
+दरियाबाद
+दरियाबाद रेलवे स्‍टेशन
+savita verma
+ग्रामीण
+देवां
+046000501
+देवां
+फतेहपुर रोड पर देवा से 4 किमी सलारपुर
+jeet singh
+ग्रामीण
+निन्‍दूरा
+046000101
+कुर्सी
+लखनऊ कुर्सी रोड से दाहिने तरफ थाने के पास
+geeta kulshreshth
+ग्रामीण
+पूरे डेलई
+046001101
+टिकैतनगर
+टिकैतनगर
+abhishek shrivastav
+ग्रामीण
+फतेहपुर
+046000201
+फतेहपुर
+फतेहपुर
+rajeev kumar singh
+ग्रामीण
+बंकी
+046000601
+बाराबंकी
+बाराबंकी गोण्‍डा मार्ग पर शहावपुर
+anoop kumar verma
+ग्रामीण
+बनीकोडर
+046001201
+भिटरिया
+भिटरिया
+alok kumar srivastav
+ग्रामीण
+मसौली
+046000801
+सफदरगंज
+मण्‍डी समिति फदरगंज
+gayatri devi maurya
+ग्रामीण
+मसौली
+200182302
+सफदरगंज
+safdarganj
+gayatri devi maurya
+ग्रामीण
+रामनगर
+046000401
+बुढ़वल
+बुढ्वल शुगर मिल के पास रामनगर रोड पर
+saurabh kumar srivastav
+ग्रामीण
+सूरतगंज
+046000301
+सूरतगंज
+मौसण्‍डा सूरतगंज जगजीवनपुर बरैया
+vivekanand singh
+ग्रामीण
+सिद्धौर
+046001401
+सिध्‍दौर
+Jamlapur me
+pramod dwivedi
+ग्रामीण
+सिरौली गौसपुर
+046000901
+सिरौलीगौसपुर
+बदोसराय रोड पर
+amit kumar mishra
+ग्रामीण
+सिरौली गौसपुर
+200131102
+सिरौली गौसपुर
+बदो सराय रोड
+shitala prasad
+ग्रामीण
+हैदरगंढ
+104600501
+हैदरगढ़
+Husainabad Chauraha
+prem narayan maurya
+ग्रामीण
+हरख
+046000701
+हरख
+हरख से सतरिख रोड् पर 1000 मी0 की दूरी पर हरख गांव
+nisha verma
+सुलतानपुर
+ग्रामीण
+अखण्‍डनगर
+049002301
+अखण्‍डनगर
+akhandngar kadipur
+mr. naveen singh
+ग्रामीण
+कुडवार
+049001401
+कुड्वार
+उतानपुर कुडृवार
+mr. shishirkant garg
+ग्रामीण
+कूरेभार
+049001301
+कूरेभार
+kurebhar sultanpur
+mr. ram kumar
+ग्रामीण
+करौदीकला
+200238901
+करौदीकला
+करौदीकला
+shiv balak yadav
+ग्रामीण
+कादीपुर
+049002201
+कादीपुर
+kadipur sultanpur
+mr. yogesh singh
+ग्रामीण
+कादीपुर
+200205102
+अखण्डनगरए
+AKHANDNAGR KADIPUR
+mr. naveen kumar singh
+ग्रामीण
+जयसिंहपुर
+049002302
+जयसि‍हपुर
+Jaisinghpur Sultanpur
+mr. anil kumar
+ग्रामीण
+दूबेपुर
+049001502
+दूबेपुर
+dubepur sultanpur
+mr. praveen kumar singh
+ग्रामीण
+दोस्‍तपुर
+049002001
+दोस्‍तपुर
+dostpur kadipur
+mr. shivbalak yadav
+ग्रामीण
+धनपतगंज
+049001201
+धनपतगंज
+dhanpatganj sadar
+mr. jagdish prasad yadav
+ग्रामीण
+प्रतापपुरकमैचा
+049001901
+प्रतापपुर कमैचा
+pratappur kamicha lambhua
+mr. rajesh pandey
+ग्रामीण
+बल्‍दीराय
+204900031
+बल्‍दीराय
+डेहिरयावां बल्‍दीराय
+mr. jagdish prasad yadav
+ग्रामीण
+भदैंया
+049001701
+भदैंया
+bhaidaiya
+mr. rakesh pandey
+ग्रामीण
+मोतिगरपुर
+200205001
+मोतिगरपुर
+मोतिगरपुर जयसिंहपुर
+anil kumar
+ग्रामीण
+लम्‍भुआ
+049001801
+लम्भुआ
+lambhua sultanpur
+mr. anurag chaturvedi
+2
+अलीगढ
+अलीगढ
+ग्रामीण
+अकराबाद
+20120103
+अकराबद
+श्री बिहारी जी फार्म हाउस अलीगढ़
+monika maheshwari
+ग्रामीण
+अतरौली
+201200663
+अतरोली
+Atrauli
+khusboo varshney
+ग्रामीण
+इगलास
+20120122
+इगलास
+Iglas
+krishnapal singh
+ग्रामीण
+खैर
+20120022
+खैर
+Khair
+sumit singh
+ग्रामीण
+गंगीरी
+20120082
+गंगीरी
+Chharra
+ritesh singh
+ग्रामीण
+गौण्‍डा
+20120112
+गोंडा
+Gonda
+krishnapal singh
+ग्रामीण
+चण्‍डौस
+20120032
+चंडौस
+Chandous
+richa singh
+ग्रामीण
+जवां
+201200553
+जवा
+JAWAN
+richa singh
+ग्रामीण
+टप्‍पल
+201200112
+टप्पल
+बृजा नगला टप्पल अलीगढ
+sumit singh
+ग्रामीण
+धनीपुर
+20120092
+धनीपुर
+PANIETHI
+monika maheshwari
+ग्रामीण
+बिजौली
+20120072
+बिजौली
+PALIMUKIMPUR BIJOLI ALIGARH
+ritesh singh
+ग्रामीण
+लौधा
+20120042
+लोधा
+Lodha
+khusboo varshney
+एटा
+ग्रामीण
+अलीगंज
+017004001
+अलीगंज
+पुराना बस स्‍टैण्‍ड के पास अली
+rahul rana
+ग्रामीण
+अवागढ
+017007001
+अवागढ
+AGRA ROAD AWAGARH
+prabal singh kushwah
+ग्रामीण
+जैथरा
+017009001
+जैथरा
+अलीगंज रोड जैथरा
+arvind kumar singh
+ग्रामीण
+जलेसर
+017002001
+जलेसर
+निधौली कलॉ रोड जलेसर
+ajeet kumar
+ग्रामीण
+निधौली कलां
+017006001
+निधौलीकलॉ
+जलेसर रोड निधौलीकलॉ
+lucky saxena
+ग्रामीण
+मारहरा
+017003001
+मिरहची
+मैन बाजार मारहरा रोड मिरहची
+bhagawat swaroop
+ग्रामीण
+सकीट
+017005001
+सकीट
+निकट खण्‍ड विकास कार्यालय सकीट
+agam tej prakash sandeep
+नगरीय
+एटा
+017001001
+शीतलपुर
+निधौलीकलॉ रोड एटा
+bhagawat swarup
+कासगंज
+ग्रामीण
+अमांपुर
+207100031
+अमांपुर
+Amapur
+vinay kumar prajpati
+ग्रामीण
+कासगंज
+207100021
+कासगंज
+Kasganj
+vinay kumar prajapati
+ग्रामीण
+गंजडुडवारा
+207100051
+गंजडुण्डहवारा
+गंजडुंडवारा
+madan pal singh
+ग्रामीण
+पटियाली
+207100061
+पटियाली
+Patiyali
+pradeep kumar
+ग्रामीण
+सहावर
+207100041
+सहावर
+Sahawar
+balwant singh
+ग्रामीण
+सिढपुरा
+207100071
+सिढपुरा
+Sidhpura
+rakesh kumar
+ग्रामीण
+सोरों
+207100112
+सोरों
+Soron
+yogesh kumar
+हाथरस
+ग्रामीण
+मुरसान
+20130052
+मुरसान खाद्य विभाग
+mursan fcs
+apoorv agwaral
+ग्रामीण
+सहपऊ
+20130072
+सहपउ खाद्य विभाग
+Sahpau fcs
+dhurvendra singh yadav
+ग्रामीण
+सादाबाद
+20130062
+सादाबाद खाद्य विभाग
+Sadabad fcs
+pooja sharma
+ग्रामीण
+सासनी
+20130012
+सासनी खाद्य विभाग
+Sasni F C S
+ankit kumar
+ग्रामीण
+सि‍कन्‍द्राराऊ
+20130022
+सिकन्‍द्राराउ खाद्य विभाग
+Sikandrarao FCS
+prabal singh kushwah
+ग्रामीण
+हसायन
+20130032
+हसायन खाद्य विभाग
+Hasayan fcs
+avdhesh kumar
+ग्रामीण
+हाथरस
+20130042
+हाथरस खाद्य विभाग
+Hathras FCS
+kamla prasad
+3
+आगरा
+आगरा
+ग्रामीण
+अकोला
+015000401
+अकोला
+jagner road akola
+ravi saxena
+ग्रामीण
+अकोला
+200175102
+अकोला
+पीसीएफ गहर्राखुर्द
+ravi saxena
+ग्रामीण
+अछनेरा
+101500601
+अछनेरा
+Achnera
+amit pundeer
+ग्रामीण
+अछनेरा
+201500071
+अछनेरा
+achhnera
+amit pundeer
+ग्रामीण
+एत्‍मादपुर
+015000201
+एत्‍मादपुर
+sawayi etmadpur
+pramod kumar
+ग्रामीण
+खन्‍दौली
+015000101
+खंदौली
+khandoli
+priyamvda singh
+ग्रामीण
+खेरागढ्
+015000901
+खेरागढ
+khera garh mandi stal
+rakesh batham
+ग्रामीण
+जगनेर
+015000801
+जगनेर
+jagner
+narendra kumar
+ग्रामीण
+जैंतपुर कला
+015001501
+जैतपुरकला
+ruppura jaithpurkala
+tarik ali
+ग्रामीण
+पिनाहट
+015001301
+पिनाहट
+pinahat
+brijesh kumar sharma
+ग्रामीण
+फतेहपुर सीकरी
+201500062
+फतेहपुर सीकरी
+Near Railway Colony Fatehpur Sikri
+arvind dixit
+ग्रामीण
+फतेहाबाद
+015001201
+फतेहाबाद
+bharapura raod Fatehabaad
+saba sajid
+ग्रामीण
+बरोली अहीर
+015000501
+बरोली अहीर
+baroli ahir shamshabad road
+arvind kumar
+ग्रामीण
+बाह
+015001401
+जरार
+agra road jarar bah agra
+umesh kumar
+ग्रामीण
+बिचपुरी
+015000301
+बिचपुरी नानपुर
+nanpur pcf godaun
+surendra kumar
+ग्रामीण
+शमशाबाद
+015001101
+शमसाबाद
+GOPALPURA shamshabaad
+brijesh gangvar
+ग्रामीण
+शमशाबाद
+200175702
+शमशाबाद
+पट्टी सिकतरा शमशाबाद
+subhash chand
+ग्रामीण
+सैंया
+015001001
+सैया
+saiya ladhookera road
+rajkumar solanki
+नगरीय
+इदगाह
+101500201
+आगरा द्वितीय
+jolly farm house.runakta.agra
+ajay pawanr
+नगरीय
+टान्‍सयमुना
+015004001
+आगरा प्रथम ए
+pcf faundari nagar agra
+pankaj kumar
+नगरीय
+टान्‍सयमुना
+101500402
+आगरा प्रथम
+फिरोजाबाद रोड़ आगरा
+pankaj kumar
+नगरीय
+टान्‍सयमुना
+101500403
+आगरा प्रथम
+फिरोजाबाद रोड़ आगरा
+pankaj kumar
+फिरोजाबाद
+ग्रामीण
+अराँव
+016000801
+एस एम आई अरांव
+pengu
+gorakhnath yadav
+ग्रामीण
+एका
+016000401
+एस एम आई एका
+एटा रोड् एका
+omkar singh
+ग्रामीण
+एका
+200176443
+एस एम आई एका द्वितीय
+नगला पन्ना पोस्ट फरीदा एका
+omkar singh
+ग्रामीण
+नारखी
+200176223
+एस एम आई नारखी
+JALESAR ROAD SWC GODAM KE PEECHHE FIROZABAD
+sharad kumar singh
+ग्रामीण
+फिरोजाबाद
+200176334
+एस एम आई फिरोजाबाद ग्रामीण
+JALESAR ROAD SWC GODAM KE PEECHHE FIROZABAD
+sharad kumar singh
+नगरीय
+जसराना
+016005001
+एस एम आई जसराना
+purana giror road jasrana
+shyam narayan
+नगरीय
+जसराना
+101600503
+एस एम् आई जसराना द्वितीय
+नगला पीपल जसराना
+shyam narayan
+नगरीय
+टूण्डला
+016003001
+एसएमआई टूंडला
+टूंडला
+dinesh kumar
+नगरीय
+फरिहा
+016006001
+एस एम आई फरिहा
+नगला फौजदार टाउन फरिहा
+rajkumar
+नगरीय
+फिरोजाबाद
+016001001
+एस एम आई फिरोजाबाद नगर
+JALESAR ROAD SWC GODAM KE PEECHHE FIROZABAD
+sharad kumar singh
+नगरीय
+शिकोहाबाद
+016002001
+एसएमआई शिकोहाबाद
+एटा रोड
+brijesh gangwar
+नगरीय
+सिरसागंज
+016004001
+एस एम आई सिरसागंज
+near mandi samiti etawa road sirsaganj
+rajendra singh yadav
+मथुरा
+ग्रामीण
+मथुरा
+014000801
+गनेशरा गोदाम मथुरा
+गनेशरा गोदाम मथुरा
+ajay panwar
+ग्रामीण
+मॉट
+014000501
+एसएमआई मॉट गोदाम
+एसएमआई गोदाम मॉट
+rajneesh bharti
+ग्रामीण
+राया
+014000601
+एसएमआई राया गोदाम
+HATHRAS ROAD RAYA
+shikhar kashyap
+नगरीय
+कोसीकलॉ
+014005001
+एसएमआई कोसीकला गोदाम
+MANDI PARISHAR KOSHIKALA
+vijay kumar
+नगरीय
+गोर्वधन
+014009001
+एसएमआई गोवर्धन गोदाम
+एसएमआई गोदाम गोवर्धन
+nitin raj vatsya
+नगरीय
+गोर्वधन
+101400902
+एस एमआई गोवेर्धन गोदाम
+मुखराई रोड गोवेर्धन
+nitin raj vats
+नगरीय
+छाता
+014001001
+एसएमआई छाता गोदाम
+एसएमआई गोदाम छाता
+mukesh kumar
+नगरीय
+फरह
+014012001
+एसएमआई फरह गोदाम
+एसएमआई गोदाम फरह
+ravi kant dubey
+नगरीय
+बल्‍देव
+014015001
+एसएमआई बल्‍देव गोदाम
+एसएमआई बल्‍देव गोदाम बल्‍देव
+naveen chaudhary
+नगरीय
+बाजना
+014006001
+एसएमआई बाजना गोदाम
+एसएमआई गोदाम बाजना
+saba sajid
+नगरीय
+मथुरा
+101400701
+एस डब्ल्यू सी गोदाम मंडी मथुरा
+मंडी यार्ड मथुरा
+pradeep kumar
+मैनपुरी
+ग्रामीण
+करहल
+018000801
+करहल
+karhal
+khalid uddin
+ग्रामीण
+कुरावली
+018000201
+कुरावली
+KURAWALI
+ramnaresh
+ग्रामीण
+किशनी
+018000601
+किशनी
+bewar mukhe margh gram sonasi
+dinesh singh
+ग्रामीण
+घिरोर
+018000301
+घिरोर
+Ghiror
+jagtendra pratap singh
+ग्रामीण
+जागीर
+018000701
+भांवत जागीर
+bhanwat jageer
+sarvesh kumar
+ग्रामीण
+बरनाहल
+018000901
+बरनाहल
+barnahal
+rahul gangwar
+ग्रामीण
+बेवर
+018000501
+बेवर
+bewar
+dinesh singh
+नगरीय
+भोगाव
+018000401
+भोगावं
+पाडुआ रोड भोगाव
+sanjay dwivedi
+नगरीय
+मैनपुरी
+018000101
+मैनपुरी प्रथम
+mainpuri
+sarvesh kumar
+4
+आजमगढ
+आजमगढ
+ग्रामीण
+अजमतगढ
+061000701
+जीयनपुर
+jiyanpur
+sri santosh kumar yadav
+ग्रामीण
+अतरौलिया
+061000101
+अतरौलिया
+Atraulia
+sri saurabh diwedi
+ग्रामीण
+कोयलसा
+061000201
+बूढ़नपुर
+budhanpur
+sri vineet kumar singh
+ग्रामीण
+जहानागंज
+061001201
+जहानागंज ए
+jahanaganj
+shri sanjeev vishwakarma
+ग्रामीण
+ठे‍कमा
+061001801
+ठेकमा
+thekma azamgarh
+shri surya prakash verma
+ग्रामीण
+तरवा
+061002001
+तरवा
+tarwa
+shri dharmendra yadav
+ग्रामीण
+तहबरपुर
+061000801
+तहबरपुर
+tahbarpur
+shri ramesh yadav
+ग्रामीण
+पल्‍हनी
+061001001
+पल्हनी
+palhani
+sri sheikh iftekhar ali
+ग्रामीण
+पवई
+061001501
+पवई
+pawai azamgarh
+sri shailendra pratap gaur
+ग्रामीण
+फुलपुर
+061001601
+फूलपुर
+phoolpur azamgarh
+shri maya shankar
+ग्रामीण
+बिलरियागंज
+061000601
+बिलरियागंज ए बी
+Bilariyaganj
+shri ashok kumar mehta
+ग्रामीण
+बिलरियागंज
+200141863
+बिलरियागंज बी
+मधनापार
+shri ashok kumar mehta
+ग्रामीण
+मेहनगर
+061002101
+मेहनगर
+mehnagar
+shrimti  gayatri singh
+ग्रामीण
+मुहम्‍मदपुर
+061001401
+मोहम्मदपुर
+mohammadpur
+shri ravikant
+ग्रामीण
+महराजगंज
+061000401
+महराजगंज
+mahrajganj
+sushri sweta panday
+ग्रामीण
+मार्टीगंज
+061001701
+मार्टीनगंज
+martinganj
+shri gaurav tripathi
+ग्रामीण
+मिर्जापुर
+061001301
+सरायमीर ए
+saraimeer azamgarh
+shri shan ullah
+ग्रामीण
+रानी की सराय
+200142195
+रानी की सराय बी
+सेठवल रानी सराय
+shri prem prakash giri
+ग्रामीण
+रानी की सराय
+206100094
+रानी की सराय
+Rani Ki Sarai
+sri prem prakash giri
+ग्रामीण
+लालगंज अजहरा
+061001901
+लालगंज
+सोफीपुर लालगंज
+shri sanjay kumar
+ग्रामीण
+सठियांव
+061001101
+मुबारकपुर
+mubarakpur sathioun azamgarh
+shri atul sharma
+ग्रामीण
+हरैया
+061000501
+हरैया
+haraiya azamgarh
+shri  dinesh kumar
+बलिया
+ग्रामीण
+गडवार
+206300081
+रतसड़
+Ratsar
+shri pradeep kumar
+ग्रामीण
+चिलकहर
+206300071
+चिलकहर
+Chilkahar
+birendra singh
+ग्रामीण
+दुबहड
+206300111
+दुबहड़
+Dubhad
+shri vijay kumar dwivedi
+ग्रामीण
+नगरा
+206300021
+नगरा
+Nagra
+danish khan
+ग्रामीण
+नवानगर
+206300332
+सिकन्दरपुर
+sikandarpur
+shri vikas yadav
+ग्रामीण
+पन्‍दह
+206300041
+पंदह
+Pandah
+shri neeraj mishra
+ग्रामीण
+बेरूआरबारी
+206300141
+सुखपुरा
+Sukhpura
+shri surendra kumar
+ग्रामीण
+बैरिया
+206300131
+रानीगंज
+Raniganj
+shri ratn krishnam
+ग्रामीण
+बेलहरी
+206300121
+बेलहरी
+Belhari
+shri gopal prasad kannoujiya
+ग्रामीण
+बांसडीह
+206300151
+बांसडीह
+bansdih
+shivram kushwaha
+ग्रामीण
+मनियर
+206300051
+मनियर
+Maniyar
+shri shyamu
+ग्रामीण
+मुरली छपरा
+206300171
+लालगंज
+Lalganj
+pradeep kumar jaiswal
+ग्रामीण
+रेवती
+206300161
+रेवती
+Reoti
+shri rajiv chaurasia
+ग्रामीण
+रसडा
+206300061
+रसडा
+Rasra
+sunil kumar
+ग्रामीण
+सियर
+206300011
+बेल्थरारोड
+Belthraroad
+shri sunil kumar
+ग्रामीण
+सोहांव
+206300091
+चितबड़ागांव
+Chitbadagav
+shri purendu praveen
+ग्रामीण
+हनुमानगंज
+206300101
+हनुमानगंज
+Hanumanganj
+shri ashok kumar yadav
+नगरीय
+नगर पालिका बलिया
+106300101
+कृषि उत्पादन मण्डी समिति
+Teekhampur
+shri ashok kumar yadav
+मऊ
+ग्रामीण
+कोपागंज
+062000501
+कोपागंज
+kopaganj
+mr ramesh yadav
+ग्रामीण
+घोसी
+062000201
+घोसी ए
+ghoshi
+mr diwakar
+ग्रामीण
+दोहरी घाट
+062000101
+दोहरीघाट ए
+doharighat
+shri rambhavan
+ग्रामीण
+फतेहपुर मंडॉव
+206200041
+मधुबन
+Madhuban
+mr dharam prakash yadav
+ग्रामीण
+बडरॉव
+062000301
+अमिला
+Amila
+shri varun
+ग्रामीण
+मुहम्‍मदाबाद गोहना
+062000801
+मुहम्‍मदाबाद ए
+muhammdabad
+isarar ahamad
+ग्रामीण
+रतनपुरा
+062000701
+रतनपुरा ए
+ratanpura
+shri zahid kamal pasa
+ग्रामीण
+रतनपुरा
+200143602
+रतनपुरा बी
+जोगापुर रतनपुरा
+shri zahid kamaal paasa
+ग्रामीण
+रानीपुर
+062000901
+चिरैयाकोट ए
+Chirayakot
+mr raghvendra pandey
+नगरीय
+न0 पा0 प0 मउ
+062000601
+मऊ ए
+परदहॉ मऊ
+shri  zahid kamal pasha
+5
+कानपुर
+इटावा
+ग्रामीण
+चकरनगर
+031000801
+चकरनगर
+चकरनगर
+jitendra singh
+ग्रामीण
+ताखा
+031000501
+उसराहार
+ताखा
+parul devi
+ग्रामीण
+बदपुरा
+203100031
+पक्का तालाब
+Pakka Talab Etawah
+savan kumar saroj
+ग्रामीण
+बसरेहर
+031000101
+बसरेहर
+पक्का बाग़
+pradeep kumar
+ग्रामीण
+महेवा
+031000701
+महेवा
+महेवा
+vijay karan
+ग्रामीण
+सफैई
+200122501
+सैफई
+SAIFAI
+arvind dixit
+नगरीय
+इटावा
+031001001
+इटावा
+इटावा
+savan kumar saroj
+नगरीय
+जसवन्‍तनगर
+031002001
+जसवन्‍तनगर
+जसवन्‍तनगर
+vijay karan
+नगरीय
+भरथना
+031000601
+भरथना
+भरथना
+prem kumar
+औरय्या
+ग्रामीण
+एरवाकटरा
+032000101
+एरवाकटरा
+कन्‍नौज रोड एरवाकटरा
+shailesh kumar
+ग्रामीण
+भाग्‍यनगर
+032002001
+दिबियापुर
+दिबियापुर से  औरैया मार्ग पर सेहुद
+sushma dwivedi
+ग्रामीण
+सहार
+032000401
+सहार
+दिबियापुर बेला मार्ग
+amritlal
+नगरीय
+अछल्‍दा
+032003001
+अछल्‍दा
+नेवलगंज अछल्‍दा
+nikhil kumar yadav
+नगरीय
+अजीतमल
+032006001
+अजीतमल
+अटसू रोड अजीतमल
+sunil kumar
+नगरीय
+औरैया
+032001001
+औरैया
+मण्‍डी औरैया
+sanjay kumar niranjan
+नगरीय
+विधूना
+032004001
+विधूना
+अछल्‍दा रोड विधूना
+dinesh kumar
+कन्नौज
+ग्रामीण
+कन्नौज
+030000501
+कन्नौज एक
+Ram Ganga Cold Storage  Jalalp
+arvind kumar
+ग्रामीण
+जलालाबाद
+030000401
+जशोदा
+Chakor Cold Storage G.T. Road
+narendra singh
+ग्रामीण
+हसेरन
+200122101
+हसेरन
+Haseran
+shri santosh kumar chaudhary
+नगरीय
+नपं तालग्राम
+030002001
+गुरसहायगंज
+Tahpur Road Gursahayganj
+dinesh kumar diwakar
+नगरीय
+नपं तिर्वागंज
+030000701
+तिर्वा
+Tirwa
+raj kumar
+नगरीय
+नपं सौरिख
+030008001
+ग्यासपुर सौरिख
+ग्यासपुर रोड खड़नी
+gajendra sharma
+नगरीय
+नपाप कन्नौज
+103000701
+कन्नौज दो
+राम गंगा कोल्ड स्टोरेज
+arvind kumar
+नगरीय
+नपाप छिबरामऊ
+030001001
+छिबरामउ
+Mandi Samiti Chhibramau
+krashan gopal gautam
+कानपुर देहात
+ग्रामीण
+अकबरपुर
+033000601
+हाट केन्‍द्र अकबरपुर
+हाट केन्‍द्र अकबरपुर
+lovdeep kumar
+ग्रामीण
+अमरौधा
+033000901
+पुखराया प्रथम
+पुखराया भेगनीपुर
+manoj kumar
+ग्रामीण
+झीझक
+033000201
+हाट केन्‍द्र झीझक
+हाट केन्‍द्र झीझक
+amit kumar tiwari
+ग्रामीण
+डेरापुर
+033000501
+हाट केन्‍द्र डेरापुर
+हाट केन्‍द्र डेरापुर
+rakesh tripathi
+ग्रामीण
+मैंथा
+033000401
+हाट केन्‍द्र मैथा
+हाट केन्‍द्र मैथा
+aparna awasthi
+ग्रामीण
+मालासा
+033000801
+पुखराया द्धितीय
+डींग भेगनीपुर
+manoj shrivastav
+ग्रामीण
+रसूलाबाद
+033000101
+हाट केन्‍द्र रसुलाबाद
+हाट केन्‍द्र रसुलाबाद
+akash verma
+ग्रामीण
+रसूलाबाद
+033009001
+हाट केन्‍द्र रसुलाबाद
+हाट केन्‍द्र रसुलाबाद
+akash verma
+ग्रामीण
+राजपुर
+033001101
+हाट केन्‍द्र राजपुर
+हाट केन्‍द्र राजपुर
+mobeen ahamad
+ग्रामीण
+संदलपुर
+203300101
+हाट केन्‍द्र संदलपुर
+संदलपुर
+shree toshkar jha
+ग्रामीण
+सरवनखेडा
+033000701
+हाट केन्‍द्र रनिया
+हाट केन्‍द्र रनिया
+sanjay yadaw
+नगरीय
+अकबरपुर
+033002001
+हाट केन्‍द्र अकबरपुर
+हाट केन्‍द्र अकबरपुर
+B K Kanaujiya
+नगरीय
+अमरौधा
+033005001
+पुखराया प्रथम
+पुखराया भोगनीपुर
+Dipti Sachan
+नगरीय
+झींझक
+033008001
+हाट केन्‍द्र झीझक
+हाट केन्‍द्र झीझक
+Yogesh Kumar Mishra
+नगरीय
+डेरापुर
+033007001
+हाट केन्‍द्र डेरापुर
+हाट केन्‍द्र डेरापुर
+Sunil Kumar Verma
+नगरीय
+पुखरायॉ
+033001001
+पुखराया द्धितीय
+डींग भोगनीपुर
+Saket Bihari
+नगरीय
+रूरा
+033003001
+हाट केन्‍द्र अकबरपुर
+हाट केन्‍द्र अकबरपुर
+B K Kanaujiya
+नगरीय
+शिवली
+033004001
+हाट केन्‍द्र मैथा
+हाट केन्‍द्र मैथा
+Vinod Kumar Tiwari
+नगरीय
+सिकन्दरा
+033006001
+हाट केन्‍द्र राजपुर
+हाट केन्‍द्र राजपुर न0 पं0 सिकन्‍दरा
+Achilesh Dewedi
+कानपुर नगर
+ग्रामीण
+कक्‍वान
+034001001
+हाट केन्द्र  ककवन
+ककवन कानपुर नगर
+digvijay singh pal
+ग्रामीण
+कल्‍याणपुर
+200124501
+कल्‍याणपुर व न प बिठूर
+MURRYE COMPANY KANPUR NAGAR
+vinod srivastava
+ग्रामीण
+घाटमपुर
+034000901
+हाट केन्द्र  घाटमपुर
+मण्डीे समिति घाटमपुर कानपुर नग
+mahesh kumar verma
+ग्रामीण
+चौबेपुर
+034000301
+हाट केन्द्र  चौबेपुर
+अबबत्तपुर बंदीमाता रोड कानपूर नगर
+pradyot kumar pandey
+ग्रामीण
+पतारा
+034000701
+हाट केन्द्र  पतारा
+सहकारी संघ पतारा कानपुर नगर
+sushma  dewidi
+ग्रामीण
+बिधनू
+034000501
+हाट केन्द्र  विधनू
+एस0डब्यू0 सी० नौबस्ता विधनू
+toshkar jha
+ग्रामीण
+बिलहौर
+20340012
+हाट केन्‍द्र बिल्‍हौर
+Rajepur Billhaur
+amit singh
+ग्रामीण
+भीतरगॉव
+034000801
+हाट केन्द्र  भीतरगांव
+बिरसिंहपुर भीतरगांव कानपुर नगर
+abhinav srivastva
+ग्रामीण
+शिवराजपुर
+034000201
+हाट केन्द्र  शिवराजपुर
+कटियार कोल्ड‍ स्टोवरेज कानपुर नगर
+amit singh
+ग्रामीण
+सरसौल
+034000601
+हाट केन्द्र  सरसौल
+सुभौली सरसौल कानपुर नगर
+ranjeet kumar
+नगरीय
+अनवरगंज
+034904001
+मरे कम्पमनी प्रथम
+माल रोड मरे कम्‍पनी कानपुर नगर
+pratima shakya
+नगरीय
+आचार्यनगर
+034903001
+हाट केन्‍द्र गुटैया
+Mall Rorad Mare Company
+rakesh kumar  upadhyayay
+नगरीय
+आचार्यनगर
+034907001
+हाट केन्द्र गुटैया
+Mall Road Mare Company
+rakesh kumar upadhyaya
+नगरीय
+कर्नलगंज
+034901001
+मरे कम्पमनी द्वितीय
+माल रोड मरे कम्‍पनी कानपुर नगर
+dharmendra kumar pal
+नगरीय
+कर्नलगंज
+034906001
+मरे कम्पमनी द्वितीय
+माल रोड मरे कम्‍पनी कानपुर नगर
+dharmendra kumar pal
+नगरीय
+कर्नलगंज
+034909001
+मरे कम्पमनी द्वितीय
+माल रोड मरे कम्‍पनी कानपुर नगर
+dharmendra kumar pal
+नगरीय
+कृष्‍णा नगर
+034911001
+हॉट केन्‍द्र सनिगवा
+मरे कम्‍पनी गल्‍ला गोदाम
+shard kumar singh
+नगरीय
+किदवईनगर
+034902001
+मरे कम्पमनी प्रथम
+माल रोड मरे कम्‍पनी कानपुर नगर
+pratima shakya
+नगरीय
+कोतवाली
+034910001
+मरे कम्पमनी प्रथम
+माल रोड मरे कम्‍पनी कानपुर नगर
+pratima shakya
+नगरीय
+कोपरगंज
+034905001
+मरे कम्‍पनी प्रथम
+मरे कम्‍पनी माल रोड कानपुर नगर
+pratima shakya
+नगरीय
+जूही
+103490601
+मरे कम्‍पनी तृतीय
+MURRYE COMPANY GALLA GODAM
+sharad kumar sinngh
+नगरीय
+पनकी
+034000401
+हाट केन्द्र  गुटैया
+mure compani  कानपुर
+rakesh  kumar upadhaya
+नगरीय
+पनकी
+034908001
+हाट केन्द्रट गुटैया
+रेव मोती गुटैया रावतपुर कानपुर
+rakesh kumar upadhyaya
+नगरीय
+पनकी
+034915001
+हाट केन्द्र  गुटैया
+रेव मोती गुटैया रावतपुर कानपुर
+rakesh kumar upadhyaya
+नगरीय
+शिवराजपुर
+034914001
+हाट केन्द्र  शिवराजपुर
+कटियार कोल्ड‍ स्टोवर शिवराजपुर कानपुर नगर
+amit singh
+फर्रूखाबाद
+ग्रामीण
+कमालगंज
+202900071
+कमालगंज
+Vikaskhand Kamalganj
+smt swati verma
+ग्रामीण
+कायमगंज
+202900011
+कायमगंज
+Kaimganj
+sri gireesh chandra
+ग्रामीण
+नवावगंज
+202900021
+नबाबगंज
+Ganipur Nawabganj
+sri santosh kumar yadav
+ग्रामीण
+मोहमदाबाद
+202900061
+मोहम्मदाबद
+Mohamdabad
+sri ajay kumar
+ग्रामीण
+राजेपुर
+202900041
+राजेपुर
+Vikaskhand Rajepur
+sri savan kumar saroj
+ग्रामीण
+शमसाबाद
+202900031
+शमशाबाद
+Vikaskhand Samshabad
+sushri mradula chandra yadav
+नगरीय
+फर्रूखाबाद
+102900101
+बढपुर
+Satanpur Mandi Farrukhabad
+smt neeru
+6
+गोरखपुर
+कुशीनगर
+ग्रामीण
+कप्तानगंज
+059000501
+क्प्तानगंज
+kptanganj
+shri vivek sayan
+ग्रामीण
+कप्तानगंज
+200208002
+कप्तानगंज
+KAPTANGANJ
+shri vivek sayan
+ग्रामीण
+कप्तानगंज
+200208003
+कप्तानगंज
+KAPTANGANJ
+shri vivek sayan
+ग्रामीण
+कसया
+059001001
+कसया
+kasya
+shri vijay shankar rai
+ग्रामीण
+खडडा
+059000101
+खडडा
+Khadda
+shri pawan kumar pandey
+ग्रामीण
+खडडा
+200139102
+खडडा
+KHADDA
+shri pawan kumar pandey
+ग्रामीण
+खडडा
+200139103
+खडडा
+khadda
+shri pawan kumar pandey - hosila singh
+ग्रामीण
+खडडा
+200139104
+खडडा
+khadda
+shri pawan kumar pandey- hosila singh
+ग्रामीण
+तमकुहीराज
+059001201
+तमकुहीराज
+tmkuhiraj
+shri pankaj kumar vishwakarma
+ग्रामीण
+तमकुहीराज
+200139902
+तमकुहीराज
+Tamkuhiraj
+sri pankaj vishwkarma
+ग्रामीण
+तमकुहीराज
+200139903
+तमकुहीराज
+Tamkuhiraj
+sri pankaj vishwkarma
+ग्रामीण
+दुदही
+059001303
+दूधही
+दुदही कुशीनगर
+shri amit kumar singh
+ग्रामीण
+दुदही
+200140004
+दुदही
+Dudhee
+shri amit kumar singh
+ग्रामीण
+नेबुआ नौरंगिया
+059000201
+नेबू्आ नौरंगिया
+नेबुआ नौरंगिया
+shri amit kumar
+ग्रामीण
+नेबुआ नौरंगिया
+200139202
+नेबुआ नौरंगिया
+Laxmipur Nebua Naurangiya Kushinagar
+amit kumar
+ग्रामीण
+पडरौना
+059000402
+पडरौना
+पडरौना
+shri shyam kishor
+ग्रामीण
+पडरौना
+200139403
+पडरौना
+Padrauna
+shri shyam kishor
+ग्रामीण
+फाजिलनगर
+059001101
+फाजिलनगर
+fazilnzgar
+shri dipewar mani upadhyay
+ग्रामीण
+मोतीचक
+200208101
+मोतीचक
+MOTICHAK
+sri rajkumar
+ग्रामीण
+रामकोला
+059000601
+रामकोला
+Ramkola
+shri shivmuni
+ग्रामीण
+रामकोला
+200139502
+रामकोला
+RAMKOLA
+shi shivmuni
+ग्रामीण
+रामकोला
+200139503
+रामकोला
+Ramkola
+shri shivmuni
+ग्रामीण
+विशुनपुरा
+059000301
+विशुनपुरा
+visunpura
+shri shivram kushwaha
+ग्रामीण
+विशुनपुरा
+200139302
+विशुनपुरा
+VISHUNPURA
+shri shivram kushwaha
+ग्रामीण
+विशुनपुरा
+200139303
+विशुनपुरा
+VISHUNPURA
+shri shivram kushwaha
+ग्रामीण
+सुकरौली
+059000801
+सुकरौली
+पट्टन धुस कुशीनगर
+shri pawan kumar dwivedi
+ग्रामीण
+सेवरही
+059001401
+सेवरही तमकुहीरोड
+sevrhee
+sri bharat chauhan
+ग्रामीण
+सेवरही
+200140102
+सेवरही
+Sevrahi
+sri bharat chauhan
+ग्रामीण
+सेवरही
+200140103
+सेवरही
+Sevrahi
+sri bharat chauhan
+ग्रामीण
+हाटा
+059000901
+हाटा
+hata
+shri rajeev kumar singh
+ग्रामीण
+हाटा
+200139602
+पट्टन घुस
+PATTAN GHUS
+shri rajkumar
+नगरीय
+रामकोला
+105900301
+रामकोला
+Kasia road Ramkola
+shri shivmuni
+गोरखपुर
+ग्रामीण
+उरूवा
+205800111
+उरूवा
+urua
+sri pawan kumar
+ग्रामीण
+कैम्पियरगंज
+200139003
+कैम्पियरगंज न्यू गोदाम
+चैमुखा कैम्पियरगंज नेतवर मार्ग रेल एवं गोरखपुर सोनौली मार्ग से 300 मी0 दूरी पर स्थित है।
+arjun kumar
+ग्रामीण
+कौडीराम
+205800131
+कौड़ीराम
+kauniram
+sri radheyshyam yadav
+ग्रामीण
+खजनी
+058001501
+खजनी
+khajni
+sri pushpendra shukla
+ग्रामीण
+खजनी
+200138802
+खजनी
+KHAJNI
+sri arun chaturvedi
+ग्रामीण
+खोराबार
+205800091
+खोराबार
+Khorabar
+sri anuj singh
+ग्रामीण
+गाघा
+058001401
+गगहा
+gagaha
+sri surandra kumar rao
+ग्रामीण
+गाघा
+200138702
+गगहा
+गगहा
+sri surandra kumar rao
+ग्रामीण
+गाघा
+200138703
+गगहा
+Gagaha
+sri surandra kumar rao
+ग्रामीण
+गाघा
+200138704
+गगहा
+Gagaha
+sri surandra kumar rao
+ग्रामीण
+गाघा
+200138705
+गगहा
+GAGAHA
+sri surandra kumar rao
+ग्रामीण
+गोला
+058001701
+गोला
+gola
+shalini tripathi
+ग्रामीण
+चरगाँव
+058000501
+चरगांवा
+chargaon
+sri anil kumar
+ग्रामीण
+पाली
+058000201
+पाली
+ग्राम व पोस्ट मिनवा विकाश खण्ड पाली सहजनवा गोरखपुर
+susri shahanaj hasan
+ग्रामीण
+पाली
+200137502
+पाली
+ग्राम व पोस्ट मिनवा विकाश खण्ड पाली सहजनवा गोरखपुर
+susri shahanaj hasan
+ग्रामीण
+पाली
+200137503
+पाली
+पाली
+shahanaj hasan
+ग्रामीण
+पिपराइच
+058000701
+पिपराइच
+pipraich
+rajesh kumar singh
+ग्रामीण
+पिपरौली
+058000401
+पिपरौली
+piprauli
+sri upendr kumar upadhayay
+ग्रामीण
+पिपरौली
+200137702
+पिपरौली
+पिपरौली
+sri upendr kumar upadhyay
+ग्रामीण
+बडहलगंज
+058001801
+बडहलगंज
+barahalganj
+sri sanjay kumar shukla
+ग्रामीण
+बडहलगंज
+200187002
+बड़हलगंज
+पटना घाट रोड
+sri sanjay kumar shukla
+ग्रामीण
+ब्रहमपुर
+058001001
+ब्रह्मपुर
+brahmpur
+shree bharat
+ग्रामीण
+ब्रहमपुर
+200138302
+ब्रह्मपुर
+BRHAMPUR
+sri bharat
+ग्रामीण
+ब्रहमपुर
+200138303
+ब्रह्मपुर
+BRAHAMPUR
+sri bharat
+ग्रामीण
+बेलघाट
+058001601
+बेलघाट
+belghat
+arun kumar chaturvedi
+ग्रामीण
+बासगँव
+058001201
+बासगांव
+banshgaon
+sri sharad chandr chaudhary
+ग्रामीण
+बासगँव
+200138502
+बाँसगाँव
+BANSGAON
+sri sharad chandra chaudhary
+ग्रामीण
+भटहट
+058000601
+भटहट
+bhathat
+sri ramesh singh
+ग्रामीण
+सरदारनगर
+205800081
+चौरी चौरा
+Chauri Chaura
+sri dayanand chaudhary
+ग्रामीण
+सहजनवा
+058000301
+सहजनवा
+sahjanwan
+sri pawan kumar singh
+ग्रामीण
+सहजनवा
+200137602
+सहजनवा
+सहजनवा जनपद गोरखपुर
+sri sanjay kumar shukl
+ग्रामीण
+सहजनवा
+200137603
+सहजनवा
+सहजनवा जनपद गोरखपुर
+sri sanjay kumar shukl
+नगरीय
+गोरखपूर
+105801201
+खोराबार
+KHORABAR
+sri anuj singh
+नगरीय
+नप सहजनवा
+105800201
+सहजनवाॅ  न्यू गोदाम
+SAHAJANWA
+pawan kumar singh
+नगरीय
+बडहलग़ंज
+105801101
+बड़हलगंज न्यू गोदाम
+गढवारापुर
+sri sanjay kumar shukla
+नगरीय
+महानगर गोरखपुर
+058012001
+गोरखपुर नगर
+Janga Sikri Gorakhpur
+sri krishn sahay pathak
+देवरिया
+ग्रामीण
+गौरीबाजार
+060000301
+गौरी बाजार
+gauribajar
+sri sanjeev kumar
+ग्रामीण
+गौरीबाजार
+200140402
+गौरीबाजार
+GAURIBAZAR
+shri sanjiv kumar
+ग्रामीण
+गौरीबाजार
+200140403
+गौरीबाजार
+GAURIBAZAR
+shri sanjiv kumar
+ग्रामीण
+तरकुलवा
+060001601
+तरकुलवा
+tarkulwa
+sri dhananjay kumar mishra
+ग्रामीण
+तरकुलवा
+200141202
+तरकुलवा
+TARKULWA
+sri mukesh shukla
+ग्रामीण
+तरकुलवा
+200141203
+तरकुलवा
+TARKULWA
+sri mukesh kumar shukla
+ग्रामीण
+देवरि‍या
+060000601
+देवरिया
+deoria
+atish kumar rai
+ग्रामीण
+देसही देवरि‍या
+060000201
+देसहि देवरिया
+deshahi deia
+virendra pratap
+ग्रामीण
+देसही देवरि‍या
+200140302
+देसही देवरिया
+DESAHI DEORIA
+virendra pratap
+ग्रामीण
+देसही देवरि‍या
+200140303
+कृषि गोदाम  भवन
+Gram pradhan Jungle Belwa
+gram pradhan jungle belwa
+ग्रामीण
+बैतालपुर
+060000401
+बैतालपुर
+baitalpur
+shri niraj tiwari
+ग्रामीण
+बैतालपुर
+200140502
+बैतालपुर
+Baitalpur
+sri neeraj tiwari
+ग्रामीण
+बैतालपुर
+200140503
+बैतालपुर
+BAITALPUR
+sri neeraj tiwari
+ग्रामीण
+बैतालपुर
+200140504
+बैतालपुर
+BAITALPUR
+sri neeraj tiwari
+ग्रामीण
+बैतालपुर
+200140505
+नीरज कुमार तिवारी
+बैतालपुर ।
+niraj kumar tiwari
+ग्रामीण
+बनकटा
+060001501
+बनकटा
+banakata
+sri atish kumar rai
+ग्रामीण
+बनकटा
+200187502
+बनकटा
+BANKATA
+sri saurabh diwedi
+ग्रामीण
+बनकटा
+200187503
+बनकटा
+BANKATA
+sri atish kumar rai
+ग्रामीण
+बनकटा
+200187504
+बनकटा
+BANKATA
+sri atish kumar rai
+ग्रामीण
+बरहज
+060000901
+बरहज
+barahaj
+sanjay kumar pandey
+ग्रामीण
+बरहज
+200141002
+बरहज
+BARHAJ
+sri dharam prakash yadav
+ग्रामीण
+बरहज
+200141003
+बरहज
+BARHAJ
+sri santosh singh
+ग्रामीण
+भटनी
+060001101
+भटनी
+bhatani
+atish kumar rai
+ग्रामीण
+भागलपुर
+060001001
+भागलपुर
+bhagalpur
+sri amresh bahdur singh
+ग्रामीण
+भागलपुर
+200141102
+भागलपुर
+BHAGALPUR
+sri amresh bahadur singh
+ग्रामीण
+भाटपाररानी
+060001401
+भाटपाररानी
+bhatpar rani
+sri sanjay kumar panday
+ग्रामीण
+रूद्रपुर
+060000701
+रूद्रपुर
+rudrapur
+sri suresh kumar yadav
+ग्रामीण
+रूद्रपुर
+200140802
+रुद्रपुर
+RUDRPUR
+sri sunil kumar
+ग्रामीण
+रामपुर कारखाना
+060000501
+रामपुरकारखाना
+rampur kharkhana
+sri dilip kumar
+ग्रामीण
+लार
+060001301
+लार
+lar
+sanjai kumar pandey
+ग्रामीण
+लार
+200187302
+लार
+lar
+sri rahul singh
+ग्रामीण
+लार
+200187303
+लार
+LAR
+shri rahul kumar singh
+ग्रामीण
+सलेमपुर
+060001201
+सलेमपुर
+salempur
+kumar satyam
+महाराज गंज
+ग्रामीण
+घुघली
+057001001
+ग्रामीण घुघली
+ग्रामीण  ghughli
+shri umesh
+ग्रामीण
+घुघली
+200186601
+घुघुली
+GHUGHULI
+sri umesh
+ग्रामीण
+धानी
+057000701
+धानी
+dhani
+shri rajesh kumar
+ग्रामीण
+धानी
+200137202
+धानी सह गोदाम
+DHAANI
+shri rajesh kumar gautam
+ग्रामीण
+निचलौल
+057006001
+ग   निचलौल
+ग nichlawl
+sri pankaj singh
+ग्रामीण
+निचलौल
+200136932
+निचलौल
+ग्राम-ओबरी पोस्ट-बाली निचलौल महराजगंज
+pankaj singh
+ग्रामीण
+निचलौल
+205700031
+ग्राम निचलौल
+ग्राम nichlaul
+sri pankaj singh
+ग्रामीण
+नौतनवा
+057005001
+नौतनवा
+नौतनवां‚ जनपद महराजगंज
+shri rakesh tiwari
+ग्रामीण
+पनियरा
+057001101
+पनियरा
+paniyra
+shri deelip kumar
+ग्रामीण
+परतावल
+057001201
+परतावल
+mandi samiti
+shri pawan kumar agrahari
+ग्रामीण
+परतावल
+200186802
+परतावल
+PARTAWAL
+shri anil kumar
+ग्रामीण
+फरेन्‍दा
+057004001
+फरेन्‍दा
+farenda
+shri naveen nayak
+ग्रामीण
+ब्रजमनगंज
+057000601
+ब़जमनगंज
+brijmanganj
+shri rajesh kumar gautam
+ग्रामीण
+ब्रजमनगंज
+200137102
+बृजमनगंज
+BRIJMANGANJ
+sri rajesh kumar gautam
+ग्रामीण
+महराजगंज
+057003001
+महराजगंज
+सिविल लाईन महराजगंंज
+shri satish chand
+ग्रामीण
+मिठौरा
+057000401
+मिठौरा
+mithara
+shri kamlesh kumar
+ग्रामीण
+मिठौरा
+200186402
+मिठौरा
+MITHAURA
+shri kamlesh kumar
+ग्रामीण
+लक्ष्‍मीपूर
+057000201
+लक्ष्‍मीपुर
+lakshmipur
+sri ajeet kumar pandey
+ग्रामीण
+लक्ष्‍मीपूर
+200186302
+लक्ष्मीपुर
+LAKSHMIPUR
+sri ajeet kumar panday
+ग्रामीण
+सिसवा
+057002001
+सिसवा
+siswa
+sri pradeep kumar
+नगरीय
+निचलौल
+105700601
+ग्रामीण निचलौल
+ग्रामीण NICHLAUL
+sri pankaj singh
+नगरीय
+नौतनवा
+105700501
+नौतनवा
+NAUTANWA
+shri rakesh kumar tiwari
+नगरीय
+फरेन्‍दा
+105700401
+फरेंदा
+FARENDA
+shri naveen nayak
+नगरीय
+सिसवा
+105700201
+सिसवा
+SISWA
+sri pradeep kumar
+7
+चित्रकूट
+चित्रकूट
+ग्रामीण
+कर्वी
+200202323
+कर्वी
+karvi se allahabad marg par
+ram chhabile
+ग्रामीण
+कर्वी
+204100022
+कर्वी
+Near Forest Bariyar Allahabad Road Karwi
+ram chhadile
+ग्रामीण
+पहाडी
+204100012
+पहाड़ी
+Karwi Rajapur Road Pahadi Chitrakoot
+sanjay singh
+ग्रामीण
+मऊ
+204100052
+मऊ
+mau
+manoj kumar saroj
+ग्रामीण
+मानिकपूर
+200202653
+मानिकपुर
+manikpur
+jitender singh
+ग्रामीण
+मानिकपूर
+204100032
+मानिकपुर
+Manikpur Chitrakoot
+sanjeev kumar shrivastav
+बाँदा
+ग्रामीण
+BABERU
+040000401
+बबेरू
+मन्‍डी समिति बबेरू
+ashish kumar gupta
+ग्रामीण
+BADOKHAR KHURD
+040000301
+बडोखर खुर्द
+बाबूलाल चौराहा बांदा
+pankaj kumar
+ग्रामीण
+BISANDA
+040000601
+बिसण्‍डा
+पशुचिकित्‍सालय के पास
+pankaj kumar pandey
+ग्रामीण
+JASPURA
+040000101
+जसपुरा
+जसपुरा ब्‍लाक के पीछे
+virendra kumar yadav
+ग्रामीण
+KAMASIN
+040000501
+कमासिन
+बबेरू रोड कमासिन
+abhay kumar nayak
+ग्रामीण
+MAHUA
+040000701
+खुरहण्‍ड
+स्‍टेशनरोड खुरहण्‍ड
+achlesh chadra dwevedi
+ग्रामीण
+MAHUA
+200127502
+खुरहंड
+station road khurhand
+achlesh chandra dwedi
+ग्रामीण
+MAHUA
+200127503
+खुरहंड
+station road khurhnd
+achilesh chadnra dubedi
+ग्रामीण
+NARAINI
+204000081
+नरैनी
+nareni mandi
+mudassar bin zahid
+ग्रामीण
+TINDWARI
+040000201
+तिन्‍दवारी
+powar house ke pass paprenda road tindwari banda
+manish kumar tiwari
+नगरीय
+ATARRA NPP
+204000882
+अतर्रा
+Mandi Parisad Atarra
+anupam kumar upadhyay
+नगरीय
+BANDA NPP
+104000101
+बडोखर खुर्द बाँदा
+babulal chauraha banda
+pankaj kumar
+महॊबा
+ग्रामीण
+कबरई
+103900301
+कबरई
+Kanpur Road Kabrai
+shri brajesh kumar
+ग्रामीण
+चरखारी
+103900201
+चरखारी
+Charkhari Mela Ground
+girwar singh
+ग्रामीण
+जैतपुर
+103900401
+कुलपहाड
+Kulpahad Station Road
+shri baliram
+ग्रामीण
+पनवाड़ी
+203900012
+पनवाडी
+Panwadi Pathakpura Budera Road Panwadi
+shri rambabu yadav
+नगरीय
+महोबा
+103900101
+महोबा
+bajrang cauk mahoba
+surendra kushwaha
+हमीरपुर
+ग्रामीण
+कुरारा
+038004001
+हाट शाखा कुरारा
+हमीरपुर मार्ग पेटोल पम्‍प के पास कुुुुरारा
+anup kumar
+ग्रामीण
+गोहान्‍उ
+038006001
+हाट शाखा गोहाण्‍ड
+राजपूत गोदाम गोहांड
+monika sachan
+ग्रामीण
+गोहान्‍उ
+103800601
+हाट शाखा गोहाण्ड
+tawn eriya gohand
+monika sachan
+ग्रामीण
+मुस्करा
+038002001
+हाट शाखा मुस्‍करा
+मुस्‍करा
+khemchandra
+ग्रामीण
+मोदहा
+038002002
+हाट शाखा मौदहा
+मंडी समिति मौदहा
+subashchandra
+ग्रामीण
+राठ
+038003001
+हाट शाखा राठ
+मंडी समिति राठ
+rajesh kumar
+ग्रामीण
+राठ
+103800301
+हाट शाखा राठ
+mandi samiti rath
+rajesh kumar
+ग्रामीण
+सुमेरपुर
+038005001
+हाट शाखा भरुआ सुमेरपुर
+मंडी समिति सुमेरपुर
+sunil kumar
+ग्रामीण
+सुमेरपुर
+103800501
+हाट शाखा भरुवा सुमेरपुर
+mandi samiti sumerpur
+suneel kumar
+ग्रामीण
+सरीला
+203800031
+हाट शाखा सरीला
+Sarila
+pramood kumar
+नगरीय
+कुरारा
+103800401
+हाट शाखा कुरारा
+mandi samiti kurara
+rajendra prasad tripathi
+नगरीय
+मोदहा
+103800201
+हॉट शाखा मौदहा
+mandi smiti maudha
+subhashchandra
+नगरीय
+हमीरपुर
+038001001
+हाट शाखा हमीरपुर
+Shitalpur Hamirpur
+mobin ahmad
+8
+झॉसी
+जलौन
+ग्रामीण
+कुठौन्‍द
+035000201
+कुठौन्द
+जालौन औरैया मेन रोड से 100 अंदर
+manoj kumar
+ग्रामीण
+कदौरा
+035004001
+खाद्य गोदाम कदौरा
+चिलपुरा कदौरा
+devendra singh
+ग्रामीण
+कोंच
+035008001
+खाद्य गोदाम कौंच
+मंडी समिति कोंच
+rajeev kumar singh
+ग्रामीण
+ङकोर
+035000802
+ऐट
+ऐट
+kailash narayan
+ग्रामीण
+जालौन
+035009001
+खाद्य गोदाम जालौन
+उरई रोड संतोषी माता के पीछे
+ashish kumar
+ग्रामीण
+महेवा
+035007001
+कालपी
+तरनैनगंज कालपी
+devendra singh
+ग्रामीण
+माधौगढ़
+035000301
+माधौगढ़
+वार्ड 4  इंदिरा नगर माधोगढ
+avanindra kumar
+ग्रामीण
+रामपुरा
+035010001
+खाद्य गोदाम रामपुरा
+निनाबलि रोड मंडी परिसद रामपुरा
+anand kumar gupta
+नगरीय
+उरई
+035006001
+खाद्य गोदाम उरई
+मंडी समिति उरई
+akhilesh kumar
+झांसी
+ग्रामीण
+गुरसराय-4
+036000401
+गुरसराय
+राम नगर रोड गुरसराय
+kushlesh kumar
+ग्रामीण
+चिरगांव-2
+036032001
+चिरगांव
+मंडी समिति चिरगाँव
+ramkumar gupta
+ग्रामीण
+बंगरा-5
+036000501
+बंगरा
+झाँसी मऊरानीपुर रोड पर
+ashish sant
+ग्रामीण
+बडागांव-8
+036023001
+बडागांव
+परीछा थर्मल के पास कानपूर रोड झाँसी
+ghanshyam
+ग्रामीण
+बबीना-7
+036022001
+बबीना
+घिसौली बबीना
+kamal kumar joshi
+ग्रामीण
+बामौर-3
+036000301
+बामौर
+bamour
+sushil kumar
+ग्रामीण
+मउरानीपुर-6
+036000601
+माउरानीपुर
+मंडी समिति माउरानीपुर
+rajesh kumar gautam
+ग्रामीण
+मोठ-1
+036033001
+मोंठ
+moth
+chandrapal singh
+नगरीय
+झांसीनगर-21
+036021001
+झाँसी
+लहरगिर्द नगर झाँसी
+vinay kumar
+नगरीय
+टोडी फतेहपुर-34
+036000201
+टहरौली
+tehrouli
+yuvraj singh
+ललितपुर
+ग्रामीण
+तालबेहट
+037000101
+तालबेहट
+माताटीला बमनुआ रोड पर बिजली घर के पास
+prabhat verma
+ग्रामीण
+बार
+037000301
+वांसी एट हर्षपुर
+हर्षपुर वांसी
+satyapal singh
+ग्रामीण
+बिरधा
+037000401
+विरधा
+ललितपुर सागर रोड पर
+manoj kumar
+ग्रामीण
+मडावरा
+037000601
+मडावरा
+महरौनी मडावरा रोड पर सैदपुर
+ashish jain
+ग्रामीण
+महरौनी
+037000501
+महरौनी
+नाराहट रोड पावर हाउस
+ashish kumar jain
+नगरीय
+ललितपुर
+037000201
+रोंडा
+झाँसी ललितपुर मेन  रोड
+manoj kumar
+9
+देवीपाटन
+गोंडा
+ग्रामीण
+इटि‍याथोक
+053000201
+इटियाथोक
+ब्लाक इटियाथोक में इंडियन बैंक के निकट स्थित
+pradeep kumar
+ग्रामीण
+कटरा बाजार
+053006001
+कटराबाजार
+ग्राम-रंजीतपुर के निकट मेनरोड पर बायें तरफ गोदाम स्थित
+rajkumar chaudhary
+ग्रामीण
+करनैलगंज
+053002001
+कर्नैलगंज
+ब्लाक करनैलगंज में पिपरी ग्राम में स्थित
+pradeep kumar
+ग्रामीण
+छपि‍या
+053001601
+छपिया
+ग्राम बासदेवपुर ग्रन्ट ब्लाक छपिया में स्थित नियर गड़रही अन्डरपास
+ghanshyam
+ग्रामीण
+झंझरी
+053000401
+झझरी
+ग्राम-हारीपुर ब्लाक झंझरी में स्थित
+rajkumar chaudhary
+ग्रामीण
+तरबगंज
+053001101
+तरबगन्ज
+नवाबगंज बेलसर रोड पर तरबगंज थाने से 01 कि0मी0 आगे ग्राम सेझिया में मेन रोड पर गोदाम स्थित
+dipak gaur
+ग्रामीण
+नवाबगंज
+053001301
+नवाबगॅज
+नवाबगंज ब्लाक में प्लाई फैक्ट्री में गोदाम स्थित
+nishant tripathi
+ग्रामीण
+पंडरीक़पाल
+053000301
+पन्डरीक्रपाल
+ग्राम विमोर ब्लाक पड़रीकृपाल निकट आशाराम बापू आश्रम
+amritesh gupta
+ग्रामीण
+परसपुर
+053000901
+परसपुर
+चरहवां मोड़ पर ब्लाक-परसपुर में स्थित
+abhay kumar shrivastava
+ग्रामीण
+बभनजोत
+053001501
+बभनजोत
+ग्राम बुक्कनपुर ब्लाक बभनजोत में मेन रोड पर पी0सी0एफ0 गोदाम पर स्थित
+balram jaiswal
+ग्रामीण
+बेलसर
+053001001
+बेलसर
+शुकुलगंज तिराहा बेलसर ब्लाक में स्थित
+jitendra pratap
+ग्रामीण
+मुजेहना
+053000501
+मुजेहना
+ब्लाक मुजेहना में सियाराम पेट्रोल पम्प के बगल बेलहरी धानेपुर में स्थित
+mahendra pratap saroj
+ग्रामीण
+मनकापुर
+053001401
+मनकापुर
+आई0टी0आई0 मनकापुर रोड पर कोल्ड स्टोर के निकट स्थित
+sanjay kumar chauhan
+ग्रामीण
+रूपईडीह
+053000101
+रुपईडीह
+रूपईडीह में आर्यनगर में नहर से दाहिने तरफ
+raj kumar choudhary
+ग्रामीण
+वजीरगंज
+053001201
+वजीरगंज
+ग्राम बंधवा चैराहे के निकट ब्लाक वजीरगंज में स्थित
+jai prakash
+ग्रामीण
+हलधरमउ
+053000701
+हलधरमऊ
+ग्राम-गोनवा गोण्डा लखनऊ मार्ग पर हनुमान मंदिर के सामने स्थित
+rajesh kumar
+ब‌लरामपुर
+ग्रामीण
+उतरौला
+205200071
+उतरौला
+mauhalla gandhinagar utraula
+sri nirankar singh
+ग्रामीण
+गैंडास बुजुर्ग
+20520082
+गैण्डास बुजुर्ग
+Vill Bajnariya Gaindas Buzurg  utraola
+sri nand kumar
+ग्रामीण
+गैसडी
+20520042
+गैसड़ी
+Vill Parsa Palaideeh Gaisadi
+sri shakti jaiswal
+ग्रामीण
+तुलसीपुर
+205200333
+तुलसीपुर
+jarwa road Tulsipur Kunwar Cinema me
+smt. reena nayak
+ग्रामीण
+पचपेड्वा
+20520052
+पचपेड़वा
+Vill Netahawa Bodh Paripath
+sri pramod kuma shukla
+ग्रामीण
+ब‌लरामपुर
+20520022
+बलरामपुर
+Dharampur Near Rapti Gais Godam ke samne
+sri rajesk kumar pandey
+ग्रामीण
+रेहरा बाजार
+20520092
+रेहरा बाजार
+Rehra Bazar near Rehra Thana ke bagal
+sri ajay prabhakar
+ग्रामीण
+श्रीदत्तगंज
+20520062
+श्री दत्तगंज
+Vill Tendua Takiya Utraula
+sri dhananjay kumar singh
+ग्रामीण
+हरैया सतघ्ररवा
+20520012
+हरैया सतघरवा
+Shivpura Bajar Desi Sarab tekha ke pas
+sri raj kapur
+बह‌राइच
+ग्रामीण
+कैसरगंज
+205001113
+कैसरगंज
+Kaiserganj bazar near kaiserganj mandi 271903
+kamlesh kumar tuntun
+ग्रामीण
+चित्‍तौरा
+20500062
+चित्तौरा
+Asam Road Near Mohamda Crossing Bahraich
+deven dwivedi
+ग्रामीण
+जरवल
+20500122
+जरवल
+lucknow bahraich road jarwal block near pratap fuel centre bahraich 271904
+rakesh kumar
+ग्रामीण
+तेजवापुर
+20500082
+तेजवापुर
+Vill Chetra Post Bednapur Tejvapur Bahraich 271825
+teejendra prakash
+ग्रामीण
+नवाब गंज
+20500022
+नवाबगंज
+Vill Sorahiya post babaganj near Babaganj block 271881
+om prakash
+ग्रामीण
+पयागपुर
+20500142
+पयागपुर
+Khutaihna payagpur bahraich 271871
+vijay kumar yadav
+ग्रामीण
+फखरपुर
+20500092
+फखरपुर
+Jaitapur road Fakherpur 271902
+vikas gupta
+ग्रामीण
+बलहा
+20500032
+बलहा
+Nawabganj roan Nanpara near railway crossing 271865
+santosh kumar srivastava
+ग्रामीण
+महसी
+20500072
+महसी
+Vill Nautala ramgao Bahraich 271824
+vineet paal singh
+ग्रामीण
+मिहींपुरवा
+20500012
+मिहींपुरवा
+Vill Post  Mihipurwa Near CHC Motipur Hospital  271855
+rohit verma
+ग्रामीण
+रिसिया
+20500052
+रिसिया
+Sisayi Salon Risia bazar
+umesh kumar pandey
+ग्रामीण
+वशिश्षवरगंज
+20500132
+विशेश्वरगंज
+Vill Kanchar Puraina Road Bahraich 271821
+rajesh kumar gupta
+ग्रामीण
+शिवपुर
+20500042
+शिवपुर
+Vill Bholcha pur imamganj bahraich 271830
+harinath
+ग्रामीण
+हुजूरपुर
+20500102
+हुजूरपुर
+Huzurpur Road Near Bhaggadwa Bazar Bahraich 271872
+manoj kumar singh
+नगरीय
+बहराइच
+10500012
+चित्तौरा नगर
+Asam Road Near Mohamda Crossing
+deven dwivedi
+श्रावस्ती
+ग्रामीण
+इकौना
+205100051
+इकौना
+CHICHDHI IKAUNA
+shri jagdambika singh
+ग्रामीण
+गिलौला
+205100041
+गिलौला
+Gilaula bajar
+shri mayank muni tripathi
+ग्रामीण
+जमुनहा
+205100011
+जमुनहा
+NASIRGANJ JAMUNAHA
+shri rohit verma
+ग्रामीण
+सिरसिया
+205100031
+सिरसिया
+CHILHARIYA MODH SIRSIYA
+shri akash sitare
+ग्रामीण
+हरिहरपुर रानी
+205100021
+भिनगा
+BHINGA DEHAT
+shri harihar prasad pathak
+10
+प्रयागराज
+कौशाम्बी
+ग्रामीण
+करा
+044000101
+सैनी
+बैंक ऑफ बढौदा के बगल में जी0टी0 रोड सैनी
+satendra kumar saroj
+ग्रामीण
+कौशाम्‍बी
+044000501
+कौशाम्‍बी
+विजिया चौराहा कौशाम्‍बी
+kanchan
+ग्रामीण
+चायल
+044000701
+मनौरी
+रेलवे क्रासिंग के बाद मनौरी बाजार चायल
+santosh kumar ojha
+ग्रामीण
+नेवादा
+044000801
+सरांय अकिल
+तिल्‍हापुर मोड सराय अकिल
+manjula baudh
+ग्रामीण
+मंझनपुर
+044000401
+मंझनपुर
+ग्राम बंबुरा पी0सी0एफ0 गोदाम
+rakesh kumar chaurasiya
+ग्रामीण
+मूरतगंज
+044000601
+भरवारी
+मण्‍डी समिति परिसर भरवारी
+anand kumar upadhyay
+ग्रामीण
+सरसवॉ
+044000301
+कुम्हियांवा
+कुम्हियावां बाजार
+chandramani ojha
+ग्रामीण
+सिराथु
+044000201
+सिराथू
+शिव सिनेमा हॉल के पास सिराथू
+satendra kumar saroj
+प्रतापगढ
+ग्रामीण
+आसपुर देवसरा
+043001401
+आसपुर देवसरा
+आसपुर देवसरा ब्‍लाक परिसर प्रतापगढ
+supriya singh
+ग्रामीण
+कुण्डा
+043000701
+कुण्‍डा
+शेरगढ् कुण्‍डा
+sri sanjay singh
+ग्रामीण
+कालाकांकर
+043000601
+कालाकांकर
+आलापुर सा0स0समि‍ति कालाकांकर प्रतापगढ
+smt mamta verma
+ग्रामीण
+गौरा
+043001601
+गौरा
+जौनपुर रोड रामापुर बाजार गौरा प्रतापगढ
+bheema prasad
+ग्रामीण
+पटटी
+043001301
+पट्टी
+ग्राम परसनी पट्रटी रोड प्रतापगढ
+sri dinesh kumar singh
+ग्रामीण
+बाबागंज
+043000401
+बाबागंज
+हीरागंज बाजार बाबागंज प्रतापगढ
+arvind kumar
+ग्रामीण
+बाबाबेलखरनाथ धाम
+043001701
+बाबा बेलखरनाथ धाम
+बेलखरनाथ धाम
+smt aruna kumari upadhayay
+ग्रामीण
+बिहार
+043000801
+बिहार
+बिहार बाजार के आगे बिहार ब्‍लाक प्रतापगढ
+suresh chandra
+ग्रामीण
+मंगरौरा
+043001201
+मंगरौरा
+मदाफरपुर पेट्रोल पम्‍प के बगल प्रतापगढ
+sri ashish kumar singh
+ग्रामीण
+मान्‍धाता
+043001101
+मान्‍धाता
+मान्‍धाता बाजार हाजी मुन्‍ना कम्‍पाउण्‍ड प्रतापगढ
+sri satish pandey
+ग्रामीण
+रामपुर संग्रामगढ्
+043000301
+संग्रामगढ
+सहकारी संघ संग्रामगढ्
+triloki bharti
+ग्रामीण
+लक्ष्मणपुर
+043000501
+लक्ष्‍मणपुर
+पहाड्पुर मोड् सगरा सुन्‍दरपुर प्रतापगढ्
+gitanshu kumar
+ग्रामीण
+लालगंज अझारा
+043000201
+लालगंज
+खाना पटटी घुइसरनाथ रोड
+triloki bharti
+ग्रामीण
+शिवगढ्
+043001501
+शिवगढ
+बादशहपुर रोड रानी्गंज बाजार प्रतापगढ
+sri jitendra singh
+ग्रामीण
+सण्डवा चन्दिका
+043000901
+सण्‍डवाचन्द्रिका
+ग्राम कपासी अन्‍तू रेलवे स्‍टेशन के बगल अन्‍तू प्रतापगढ
+shayamoo mishra
+ग्रामीण
+सांगीपुर
+043000101
+सांगीपुर
+सांगीपुर लालगंज प्रतापगढ्
+sreemati sradha singh
+नगरीय
+बेल्हा प्रतापगढ नगर पालिका
+043001001
+सदर
+चिलबिला गांधी पेट्रोल पम्‍प के सामने मारूती एजेन्‍सी परिसर सदर  प्रतापगढ
+sri shyamoo mishra
+प्रयागराज
+ग्रामीण
+उरूवा
+204500191
+उरवा
+uroova
+sri j p yadav
+ग्रामीण
+करछना
+204500121
+करछना
+karchhna
+rakesh singh
+ग्रामीण
+कोरांव
+204500182
+कोराव
+korao
+sri ashish mani tripathi
+ग्रामीण
+कौडिहार
+204500014
+कौडिहार
+kaudihar
+deeptika srivastava
+ग्रामीण
+कौंधियारा
+204500111
+कौंधियारा
+सिकतिह्या आकोधा
+sri brijesh kumar
+ग्रामीण
+चाका
+204500101
+चाका
+chaka
+srimati vandana singh
+ग्रामीण
+जसरा
+204500081
+जसरा
+jasra
+praghot kumar pandey
+ग्रामीण
+धनूपुर
+204500141
+धनूपुर
+dhanupur
+mrs. khushboo singh
+ग्रामीण
+प्रतापपुर
+204500131
+प्रतापपुर
+pratappur
+anand swaroop bharti
+ग्रामीण
+फूलपुर
+204500061
+फूलपुर
+phoolpur
+sri vinod jaisawal
+ग्रामीण
+बहरिया
+204500051
+बहरिया
+baharia
+sri arvind kumar
+ग्रामीण
+बहादुरपुर
+204500071
+बहादुरपुर
+bahadurpur
+vinod kumar
+ग्रामीण
+मऊआइमा
+204500032
+मौआइमा
+mauaima
+srimati jyoti kesharvani
+ग्रामीण
+मेजा
+204500171
+मेजा
+meja
+sri jitendra pratap singh
+ग्रामीण
+माण्‍डा
+204500201
+मांडा
+manda
+arvind kumar
+ग्रामीण
+शंकरगढ
+204500091
+शंकरगढ़
+shankargarh
+sri satendra kumar saroj
+ग्रामीण
+सैदाबाद
+204500151
+सैदाबाद
+saidabad
+sri bindeshwari prasad mishra
+ग्रामीण
+सोरांव
+204500042
+सोराव
+sorao
+bablee kumari
+ग्रामीण
+हंडिया
+204500161
+हंडिया
+handia
+sri priyranjan rajeev
+ग्रामीण
+होलागढ
+204500022
+होलागढ़
+holagarh
+bheema yadav
+नगरीय
+इलाहाबाद
+104500101
+इलाहाबाद
+allahabad
+sri sanjai singh
+नगरीय
+एरिया-2[लूकरगंज]
+104500102
+कौडिहार सदर
+mundera mandi allahabad
+anup pandey
+फतॆहपुर
+ग्रामीण
+अमौली
+042000301
+अमौली
+जहानाबाद रोड अमौली
+sanjev ku srivastava
+ग्रामीण
+असोथर
+042000901
+असोथर
+मण्‍डी समिति असोथर झाल के पास असोथर मण्‍डी समिति के सामने असोथर
+prem prakash
+ग्रामीण
+ऐरायां
+042001101
+खागा
+माहेश्‍वरी मार्केट खागा किशनपुर रोड खागा
+vinod jaiswal
+ग्रामीण
+खजुहा
+042000401
+बिन्‍दकी
+जोनिहां रोड कैलाश मंदिर बिन्‍दकी
+mohamad usman
+ग्रामीण
+देवमई
+042000101
+जहानाबाद
+मण्‍डी समिति जहानाबाद
+santosh kumar yadav
+ग्रामीण
+धाता
+042001301
+धाता
+भूला धाता महेवा रोड धाता
+lal chandra
+ग्रामीण
+बहुआ
+042000801
+बहुआ
+बांदा रोड लदिगवां
+rajendra kumar
+ग्रामीण
+भिटौरा
+042000601
+हुसेनगंज
+तिवारीपुर हुसेनगंज
+suresh kumar bharti
+ग्रामीण
+मलवा
+042000201
+मलवां
+थाने के पास मलवां
+mahendra singh
+ग्रामीण
+विजईपुर
+042001201
+किशनपुर
+मण्‍डी समिति किशनपुर
+lal dhar ram
+ग्रामीण
+हथगॉम
+042001001
+हथगांम
+छिवलहा रोड हथगाम छिवलहा रोड हथगाम
+yogesh misra
+ग्रामीण
+हसवां
+042000701
+थरियॉव
+जी0टी0रोड थरियांव भगवान राइस मिल थरियांव जी0टी0रोड थरियांव
+srimati aruna singh
+नगरीय
+फतेहपुर
+042000501
+फतेहपुर
+राधा नगर फतेहपुर
+suresh kumar
+11
+बरेली
+पीलीभीत
+ग्रामीण
+अमरिया
+021000101
+अमरिया
+उपभोक्‍ता सहकारी संघ
+jai singh
+ग्रामीण
+पूरनपुर
+021000701
+पूरनपुर
+क़षि उत्‍पादन मण्‍डीसमिति स्‍थल पूरनपुर
+ram kailash sonkar
+ग्रामीण
+पूरनपुर
+200114303
+पूरनपुर द्वितीय
+PURANPUR
+shubham tewari
+ग्रामीण
+बरखेडा
+021000401
+बरखेडा
+बरखेडा कलॉं
+ramesh kumar pal
+ग्रामीण
+बिलसण्‍डा
+021000501
+विलसण्‍डा
+श्रीमती किरन जायसवाल पत्‍नी श्री प्रदीप जायसवाल विलसण्‍डा
+ramesh kumar pal
+ग्रामीण
+बीसलपुर
+021000601
+बीसलपुर
+मण्‍डी समिति नवीन मण्‍डी स्‍थल बीसलपुर
+ramesh kumar pal
+ग्रामीण
+मरौरी
+021000201
+मरौरी
+उ0प्र0 उपभोक्‍ता सहकारी संघ लि0 पीलीभीत
+munna lal
+ग्रामीण
+ललौरीखेडा
+021000301
+ललौरीखेडा
+उ0प््र0 उपभोक्‍ता सहकारी संघ ल
+mahipal singh
+नगरीय
+कलीनगर
+200114302
+कलीनगर
+कलीनगर
+shubham tewari
+नगरीय
+पूरनपुर
+200114304
+पूरनपुर प्रथम
+puranpur
+shubham tewari
+बदायूँ
+ग्रामीण
+अम्वियापुर
+201900092
+बिल्सी अम्बियापुर
+मोहल्ला नम्बर 8 इस्लामनगर रोड बिल्सी
+rajesh kumar yadav
+ग्रामीण
+आसफपुर
+200198901
+आसफपुर
+Asafpur budaun
+sandeep kumar
+ग्रामीण
+इस्‍लामनगर
+201900052
+इस्लाम नगर
+बिल्सी रोड ज़्यारत के सामने इस्लामनगर
+rajesh kumar yadav
+ग्रामीण
+उझानी
+019001301
+उझानी
+yaadav puri badaun
+krishan das
+ग्रामीण
+उसावॉ
+019001801
+उसावा
+मंगल बाज़ार उसावा
+alok kumar bhatt
+ग्रामीण
+कादरचौक
+019001401
+कादरचौक
+लभारी रोड कादरचोक
+krishan das
+ग्रामीण
+जगत
+200111801
+जगत
+ASHOKA GODOWN KAKRALA ROAD BUDAUN
+krashndas
+ग्रामीण
+दहगवॉ
+019001001
+दहगंवा
+स्टेट बेंक के पास दहगवा
+mukesh kumar
+ग्रामीण
+दातागंज
+019001601
+दातागंज
+बेला डाडी रोड दातागंज
+alok kumar bhatt
+ग्रामीण
+बिसौली बिल्‍सी
+201900061
+बिसोली
+इस्लामनगर चोराहा रोड बिसोली
+rajesh kumar yadav
+ग्रामीण
+म्‍याउ
+019001701
+म्याऊ
+बदायू रोड मयाउ
+alok kumar bhatt
+ग्रामीण
+वजीरगंज
+019000701
+बजीरगंज
+बी एस एन एल टावर के पास बदायू रोड्  वज़ीरगंज
+rajesh kumar yadav
+ग्रामीण
+समरैर
+019001501
+समरेर
+ब्लाक आफिस के सामने समरेर्
+alok kumar bhatt
+ग्रामीण
+सहसवान
+019000801
+सहसवान
+बबराला रोड सहसवान
+mukesh kumar
+ग्रामीण
+सालारपुर
+019001201
+सलारपुर
+ASHOKA GODOWN KAKRALA ROAD BUDAUN
+krishan das
+बरेली
+ग्रामीण
+आलमपुर जाफराबाद
+020001001
+देवचरा गोदाम
+देवचरा जिला बरेली
+manoj kumar
+ग्रामीण
+क्‍यारा
+020000701
+करगैना गोदाम
+करगैना बरेली
+chandan singh
+ग्रामीण
+नबाबगंज
+020001201
+नवाबगंज गोदाम
+नवाबगंज जिला बरेली
+arvind kumar rathi
+ग्रामीण
+फरीदपुर
+020001501
+फरीदपुर गोदाम
+फरीदपुर जिला बरेली
+farhat
+ग्रामीण
+बहेडी
+020000101
+बहेडी गोदाम
+बहेडी जिला बरेली
+subodh kumar yadav
+ग्रामीण
+बिथरी चैनपुर
+020001101
+नरियावल गोदाम
+नरियावल बरेली
+vijendra pal singh
+ग्रामीण
+भुता
+020001401
+अल्‍मोनीपुर भुता गोदाम
+भुता बरेली
+puja arkvanshi
+ग्रामीण
+भदपुरा
+102001901
+भदपुरा
+बरेली
+arvind kumar rathi
+ग्रामीण
+भोजीपुरा
+020000401
+भोजीपुरा गोदाम
+भोजीपुरा जिला बरेली
+abhinav kumar shrivastav
+ग्रामीण
+मझगवां
+020000901
+अलीगंज गोदाम
+अलीगंज जिला बरेली
+rohtash kumar
+ग्रामीण
+रिछा
+020000301
+कनमन गोदाम
+कनमन ब्‍लाक दमखोदा जिला बरेली
+mahendra pratap saroj
+ग्रामीण
+शेरगढ तेह्सील बहेड़ी
+200112601
+शेरगढ़
+शेरगढ़ बहेरी बरेली
+lal chandra
+ग्रामीण
+शेरगढ तेह्सील बहेड़ी
+200112602
+शेरगढ़ मीरगंज पार्ट
+sherghar
+rajni singh
+ग्रामीण
+शेरगढ तेह्सील बहेड़ी
+200112604
+शेरगढ़
+SHERGARH
+deepak singh
+नगरीय
+आवला
+020010001
+आवॅला गोदाम
+आवॅला बरेली
+rohtash kumar
+नगरीय
+नबाबगंज
+102001902
+भदपुरा
+बरेली
+arvind kumar rathi
+नगरीय
+फतेहगंज (पश्चिमी)
+020004001
+फतेहगंज पश्चिमी गोदाम
+फतेहगंज पश्चिमी बरेली
+pankaj bhaskar
+नगरीय
+बरेली पूर्वी क्षेत्र
+020018001
+नगर गोदाम बरेली
+बरेली
+chandan singh
+नगरीय
+मीरगँज
+020003001
+मीरगंज गोदाम
+मीरगंज
+rajni singh
+नगरीय
+शेरगढ
+200112603
+शेरगढ़ बहेड़ी पार्ट
+शेरगढ
+abhinav shrivastav
+शाहजहाँपुर
+ग्रामीण
+कटरा
+022000501
+कटरा
+katra
+shri ravikant mishra
+ग्रामीण
+कलान
+022001201
+कलान
+kalan
+ms harvendra kumar
+ग्रामीण
+कांट
+022000901
+कांट
+kant
+shri ramkrishan dube
+ग्रामीण
+खुटार
+022000201
+ख़ुटार
+khutar
+ms. sujeet kumar
+ग्रामीण
+खुटार
+200177102
+खुटार पुवायां
+खुटार
+sujeet kumar
+ग्रामीण
+जैतीपुर
+022000601
+जैतीपुर
+jaitipur
+shri ravikant mishra
+ग्रामीण
+जलालावाद
+022001401
+जलालाबाद
+jalalabad
+shri moh amir meraj
+ग्रामीण
+तिलहर
+022000701
+तिलहर
+tilhar
+shri ravikant mishra
+ग्रामीण
+ददरौल
+022001001
+ददरौल
+dadraul
+shri ramkrishan dube
+ग्रामीण
+निगोही
+022000801
+निगोही
+negohi
+shri ravikant mishra
+ग्रामीण
+पुवांया
+022000301
+पुवायां
+powayan
+ms. sujeet kumar
+ग्रामीण
+पुवांया
+200177202
+पुवायां सिंधौली
+पुवायां
+vimal kumar singh
+ग्रामीण
+भावलखेडा
+022001101
+भावलखेड़ा
+bhawalkhera
+shri ramkrishan dube
+ग्रामीण
+भावलखेडा
+200115002
+भावलखेड़ा
+भावलखेड़ा
+akansha saxena
+ग्रामीण
+मदनापुर
+022001501
+मदनापुर
+madnapur
+shri ramkrishan dube
+ग्रामीण
+मिरजापुर
+022001301
+मिर्जापुर
+mirzapur
+ms. harvendra kumar
+ग्रामीण
+वंडा
+022000101
+बण्डा
+banda
+sujeet kumar
+ग्रामीण
+वंडा
+200177002
+बंडा
+बंडा
+sujeet kumar
+ग्रामीण
+सिंघौली
+022000401
+सिंधौली
+sindhauli
+ms. sujeet kumar
+ग्रामीण
+सिंघौली
+200177302
+सिंधौली भावलखेडा
+सिंधौली
+amit pundeer
+नगरीय
+शाहजहाँपुर
+022005001
+शहर गोदाम
+शहर गोदाम reti rode  शाहजहाँपुर
+shri ramkrishan dube
+12
+बस्ती
+बस्ती
+ग्रामीण
+कुदरहा
+205500131
+कुदरहा
+kudraha
+avinash pandey
+ग्रामीण
+कप्‍तानगंज
+205500072
+कप्तानगंज
+kaptan ganj
+balmiki singh
+ग्रामीण
+दबौ‍लिया
+200136201
+दुबौलिया
+दुबौलिया
+shri mati madhubala singh
+ग्रामीण
+परशरामपुर
+205500031
+परसरामपुर
+jagdishpur
+dhamu singh
+ग्रामीण
+बनकटी
+205500111
+बनकटी
+bhaisa pandey bankati
+ashish srivastav
+ग्रामीण
+बहादुरपुर
+200185722
+बहादुरपुर
+चमनगंज चौराहा बहादुरपुर
+sanjay kumar shukla
+ग्रामीण
+बहादुरपुर
+205500121
+बहादुरपुर
+kushaura bazar
+sanjay kumar shukla
+ग्रामीण
+रूधौली
+205500083
+रूधौली
+kohra rudhauli
+kavita chaudhari
+ग्रामीण
+रामनगर
+205500011
+रामनगर
+asanhara ram nagar
+madhuri tripathi
+ग्रामीण
+सल्‍टौआ गोपालपुर
+200135624
+सल्टौआ गोपालपुर
+ग्राम पकरी भीखी पोस्ट बेलहरा सल्टौआ बस्ती
+abhay kumar shukla
+ग्रामीण
+सल्‍टौआ गोपालपुर
+205500023
+सल्‍टौंआ गोपालपुर
+sonhaa saltauwan gopalpur
+chitra srivastav
+ग्रामीण
+सांउघाट
+205500092
+सांउघाट
+हंडिया चौराहा सांउघाट
+kamruddin
+ग्रामीण
+िवक्रम जोत
+205500061
+विक्रमजोत
+amodha
+ashish kumar mishra
+नगरीय
+नगर पंचायत बभनान
+105500301
+बभनान
+Bhatha Jangal Babhnan
+tarun kumar mishra
+नगरीय
+नगर पंचायत हर्रैया
+105500401
+हरैया
+harraiya
+rameet jaiswal
+नगरीय
+नगर पंचायत हर्रैया
+105500402
+हरैया
+बस्ती फैजाबाद मार्ग
+shri balmiki singh
+नगरीय
+नगर पालिका परिषद
+105500201
+घरसोइया रोड बस्ती
+घरसोइया रोड बस्ती
+subhash singh
+संत कबीर नगर
+ग्रामीण
+नाथनगर
+205600062
+नाथनगर
+हरिहरपुर
+ajay prakash singh
+ग्रामीण
+पौली
+205600092
+पौली
+निहेला शनिचरा बाज़ार
+anand kumar dubay
+ग्रामीण
+बघौली
+200136333
+बघौली
+माहनपार बहिलपार बघौली
+ramesh chand gautam
+ग्रामीण
+बघौली
+205600032
+बघौली
+जसवल भरवलिया
+ramesh chand gautam
+ग्रामीण
+मेहदावल
+056000201
+मेहदावल
+मेहदावल
+santosh  tripathi
+ग्रामीण
+मेहदावल
+200186002
+मेहदावल
+sonbarasa mehdawal santkabir nagar
+santosh triparhi
+ग्रामीण
+सेमरियावां
+205600042
+सेमरियावां
+टेमारहमत
+akhilesh kumar
+ग्रामीण
+साथॉं
+205600013
+साथां
+गोईठहाँ
+shishir singh
+ग्रामीण
+हैसर बाजार
+200136773
+सुरैना
+gram suraina tahsil dhanghata
+anil kumar ary
+ग्रामीण
+हैसर बाजार
+205600072
+हैसर बाजार
+धनधटा
+anil kumar araya
+नगरीय
+खलीलाबाद
+105600101
+खलीलाबाद
+इंडस्ट्रियल एरिया खलीलाबाद
+rajesh ram
+नगरीय
+मेहदावल
+105600401
+मेहदावल
+अमिलहवा मेहदावल संतकबीर नगर
+santosh tripath
+सिध्दार्थनगर
+ग्रामीण
+इटवा
+205400112
+इटवा
+badhni road Itwa
+jagdish
+ग्रामीण
+खुनियांव
+205400122
+खुनियांव
+Bargadawa
+chitra srivastava
+ग्रामीण
+खेसर‍हा
+205400084
+खेसरहा
+chhapwa Khesraha
+seema yadav
+ग्रामीण
+जोगिया
+205400051
+जोगिया
+Jogiya udaipur
+vidyasagar
+ग्रामीण
+नौगढ
+054000401
+नौगढ़
+mohalla subash nagar po naugarh sdr
+chaturgun jaiswal
+ग्रामीण
+बर्डपुर
+054000301
+बर्डपुर
+मोहाना रोड बर्डपुर
+arvind kumar gautam
+ग्रामीण
+भवनापुर
+200185002
+भनवापुर२
+सिरसिया शाहपुर
+dheerendra kumar singh
+ग्रामीण
+भवनापुर
+205400101
+भनवापुर
+sirsia Bhanwapur
+dheerendra kumar singh
+ग्रामीण
+मिठवल
+205400082
+मिठवल
+pali Mithwal
+sanjay kumar
+ग्रामीण
+शोहरतगंढ
+205400021
+शोहरतगढ
+reharwa pakdi road Shoharatgarh
+sunita mishra
+नगरीय
+उसका बाजार
+205400063
+उस्का बाजार
+Uska Bazar
+deepti singh
+नगरीय
+डुमरियागंज
+205400132
+डुमरियागंज
+aosanpur dumriaganj
+dhirendra kumar pandey
+नगरीय
+नगर पालिका बांसी
+205400071
+बांसी
+Rani Ganj Nagar Palika Bansi
+pankaj kumar shukla
+नगरीय
+बढनी बाजार
+205400012
+बढ़नी बाजार
+Barahani
+mayapati mishra
+13
+मेरठ
+गाजियाबाद
+ग्रामीण
+भोजपुर-1
+009000302
+क्षेत्रीय विपणन अधिकारी भोजपुर
+मोदीनगर रोड
+vishnu shanker rai
+ग्रामीण
+मुरादनगर-2
+009000101
+मुरादनगर केंद्र
+मण्‍डी समिति रावली रोड
+shri vikas kumar
+ग्रामीण
+मुरादनगर-2
+200105802
+मुरादनगर
+रावली रोड
+vikas kumar
+ग्रामीण
+लोनी-4
+009000401
+क्षेत्रीय विपणन अधिकारी लोनी
+ए-54 रूपनगर इण्डस्टीरियल एरिया लोनी
+shrimati jolly
+नगरीय
+गाजियाबाद एरिया-2
+10090322
+गाजियाबाद द्वितीय
+95 mainapur industrial area
+anjul kumar
+नगरीय
+गाजियाबाद एरिया-3
+009032001
+गाजियाबाद प्रथम
+ग़ाज़ियाबाद
+shree sachin mudgal
+नगरीय
+मोदीनगर
+009021001
+क्षेत्रीय विपणन अधिकारी‚ मोदीनगर
+कपडा मिल मोदीनगर
+veena singh
+गौतम बुद्ध नगर
+ग्रामीण
+जेवर
+010000501
+क्षेत्रीय विपणन अधिकारी जेवर
+Jajhar Bulandshar Road  Jewar
+ram chandra
+ग्रामीण
+दंनकौर
+010000301
+क्षेत्रीय विपणन अधिकारी दनकौर
+लम्बा बाजार दनकौर
+shri santosh  kumar
+ग्रामीण
+दादरी
+010000201
+क्षेत्रीय विपणन अधिकारी दादरी
+Gt Road Dadri
+ritu kumari
+नगरीय
+नौएडा
+010000101
+क्षेत्रीय विपणन अधिकारी नोएडा
+बिसरख नोएडा
+shri vimal kumar singh
+बुलन्दशहर
+ग्रामीण
+अनूपशहर
+201100081
+क्षेत्रीय विपणन अधिकारी अनूपशहर
+रूकमडी विहार अनूपशहर
+shri madan pal singh
+ग्रामीण
+अरनिया
+201100141
+क्षेत्रीय विपणन अधिकारी अर्निया
+जी०टी० रोड अर्निया
+shri rajeev sharma
+ग्रामीण
+उंचागांव
+201100061
+क्षेत्रीय विपणन अधिकारी उचागांव
+सहकारी संघ उचागांव
+shari anil kumar
+ग्रामीण
+खुर्जा
+201100131
+क्षेत्रीय विपणन अधिकारी खुर्जा
+जक्शन रोड खुर्जा
+shri sudhir kumar
+ग्रामीण
+गुलावठी
+201100021
+क्षेत्रीय विपणन अधिकारी‚ गुलावठी
+नवीन मण्डी परिसर गुलावठी
+shri gaurav kumar
+ग्रामीण
+जहंगीराबाद
+201100071
+क्षेत्रीय विपणन अधिकारी जहांगीराबाद
+राजकीय गोदाम निकट शिकारपुर बस स्टैण्ड जहांगीराबाद
+smt. asharani
+ग्रामीण
+डिबाई
+201100101
+क्षेत्रीय विपणन अधिकारी डिबाई
+मण्डी परिसर डिबाई
+shri manoj kumar
+ग्रामीण
+दानपुर
+201100091
+क्षेत्रीय विपणन अधिकारी दानपुर
+मण्डी समिति परिसर डिबाई
+shri manoj kumar
+ग्रामीण
+पहासु
+201100121
+क्षेत्रीय विपणन अधिकारी पहासु
+ग्राम गंगागढ चौराहा ब्लॉक पहासु
+shri rajeev sharma
+ग्रामीण
+बुलन्‍दशहर
+201100041
+क्षेत्रीय विपणन अधिकारी बुलन्दशहर
+राजकीय गोदाम नई मण्डी अनूपशहर रोड बुलन्दशहर
+shri vinay praksh
+ग्रामीण
+भवन बहादुर नगर
+201100011
+क्षेत्रीय विपणन अधिकारी बी०बी०नगर
+मण्डी परिसर बी०बी० नगर
+shri gaurav  kumar
+ग्रामीण
+शिकारपुर
+011001101
+क्षेत्रीय विपणन अधिकारी शिकारपुर
+शिकारपुर मण्डी स्थल
+shri hemant kumar
+ग्रामीण
+स्‍याना
+201100051
+क्षेत्रीय विपणन अधिकारी स्याना
+बुलन्दशहर गढ रोड स्याना
+shri anil kumar
+ग्रामीण
+सिकन्‍द्राबाद
+201100151
+क्षेत्रीय विपणन अधिकारी सिकन्द्राबाद
+जी०टी० रोड शिव शक्ति धर्म काटे के पास सिकन्द्राबाद
+smt. ranjana
+नगरीय
+औरंगाबाद
+201100031
+क्षेत्रीय विपणन अधिकारी औरंगाबाद
+बालका रोड औरंगाबाद
+shri sujeet kumar
+बागपत
+ग्रामीण
+खेकरा-19
+008000601
+क्षेत्रीय विपणन अधिकारी खेकडा
+खेकडा नगरीय क्षेत्र पाठशाला के पास खेकडा
+shri arun kumar tag
+ग्रामीण
+छपरौली-15
+008000101
+क्षेत्रीय विपणन अधिकारी छपरोली
+छपरौली चौधरी चरण सिंह पुस्तकालय के पास मैन रोड
+shri vijay kumar gupta
+ग्रामीण
+बडौत-13
+008000201
+क्षेत्रीय विपणन अधिकारी बडौत
+सराय रोड बडौत
+smt archna chahal
+ग्रामीण
+बाघपत-11
+008000401
+क्षेत्रीय विपणन अधिकारी बागपत
+खादी आश्रम सिसौना राेड बागपत
+shri raju singh
+ग्रामीण
+बिनौली-16
+008000301
+क्षेत्रीय विपणन अधिकारी बिनौली
+बडौत बिनौली बडौत रोड बागपत
+shri arvind kumar singh
+नगरीय
+अमीनगर सराय-28
+200800051
+अमीनगर सराय पिलाना
+मेन रोड अमीनगर सराय पिलाना
+kumari priya malik
+मेरठ
+ग्रामीण
+खरखौदा
+007001201
+क्षेत्रीय विपणन अधिकारी खरखौदा
+मोहददीनपुर रोड खरखौदा मेरठ
+smt kiran chaudhari
+ग्रामीण
+जानी
+007000901
+क्षेत्रीय विपणन अधिकारी जानी
+बागपत रोड जानी खुर्द मेरठ।
+mukesh kumar
+ग्रामीण
+दौराला
+007000301
+क्षेत्रीय विपणन अधिकारी दौराला
+दौराला  मेरठ
+vineet kumar gupta
+ग्रामीण
+परीक्षितगढ
+007000601
+क्षेत्रीय विपणन अधिकारी परीक्षितगढ
+कृषि उत्पादन मण्डी समिति परीक्षितगढ मेरठ
+deepak verma
+ग्रामीण
+मेरठ
+007008001
+क्षेत्रीय विपणन अधिकारी मेरठ खाद्य प्रथम
+चन्द्रलोक कालोनी‚ साबुन गोदाम‚ मेरठ
+shri ravikumar
+ग्रामीण
+मवाना कलां
+007000401
+क्षेत्रीय विपणन अधिकारी मवाना
+मवाना मेरठ
+archana tiwari
+ग्रामीण
+मवाना कलां
+100700401
+क्षेत्रीय विपणन अधिकारी मवाना
+मौहल्ला हीरालाल गुरूद्वारा परिसर मवाना
+archana tiwari
+ग्रामीण
+माछरा
+007000701
+माछरा मेरठ
+माछरा एट हसनपुर कलां
+kumari anjali yadav
+ग्रामीण
+रजपुरा
+100700803
+मेरठ खाद्य तृतीय
+Salarpur Mawana Road Meerut
+shahnawaj
+ग्रामीण
+रोहटा
+007000801
+क्षेत्रीय विपणन अधिकारी रोहटा
+रोहटा  मेरठ
+smt neeraj rani
+ग्रामीण
+सरधना
+007000201
+क्षेत्रीय विपणन अधिकारी सरधना
+सरधना जनपद मेरठ
+garuna yadav
+ग्रामीण
+हस्तिनापुर
+007000501
+क्षेत्रीय विपणन अधिकारी हस्तिनापुर
+पी०सी०एफ० भण्डोरा रोड गणेशपुर हस्तिनापुर
+archana tiwari
+ग्रामीण
+हस्तिनापुर
+200105502
+क्षेत्रीय विपणन अधिकारी हस्तिनापुर
+पी०सी०एफ० भण्डोरा रोड गणेशपुर हस्तिनापुर
+archana tiwari
+नगरीय
+मेरठ सी0बी0
+100700802
+क्षेत्रीय विपणन अधिकारी मेरठ खाद्य द्वितीय
+खिर्वा रोड ग्राम जेवरी कंकरखेडा मेरठ
+shri surendra singh
+हापुड़
+ग्रामीण
+गढ़मुक्तेश्वर - 10
+207300081
+क्षेत्रीय विपणन अधिकारी गढ मुक्तेश्वर
+गढमुक्‍तेश्‍वर
+shri hariom
+ग्रामीण
+धौलाना-5
+200106252
+क्षेत्रीय विपरण अधिकारी  धौलाना
+गुलावठी रोड  धौलाना नियर बस स्टैंड
+shri abhayram
+ग्रामीण
+धौलाना-5
+207300051
+क्षेत्रीय विपणन अधिकारी धौलाना
+गुलावटी रोड धौलाना
+shri abhayram
+ग्रामीण
+सिम्‍भावली-9
+207300071
+क्षेत्रीय विपणन अधिकारी सिम्भावली
+डिग्री कॉलिज के सामने दिल्‍ली रोड सिम्‍भावली
+ram kumar
+ग्रामीण
+हापुड-8
+207300061
+मनीषा सिंघल
+निकट गोयना दस्तोई मार्ग मोदीनगर  रोड हापुड़
+ramkumar
+14
+मुरादाबाद
+अमरोहा
+ग्रामीण
+अमरोहा
+006000601
+अमरोहा
+गन्‍ना सोसाइटी जोया रोड अमरोहा
+shekhar
+ग्रामीण
+गगेंश्‍वरी
+006000501
+छपना
+लल्‍लू सिंह ग्राम हथिया खेडा	रहरा रोड छपना
+vineet
+ग्रामीण
+गजरौला
+006000301
+गजरोला
+मौ गारिक ग्राम मनोटा हसनपुर रोड गजरोला
+shereen parveen
+ग्रामीण
+जोया
+006000201
+जोया
+अब्‍दुल मुंतालिब जोई अमरोहा रोड जोया
+shekhar
+ग्रामीण
+धनौरा
+006000101
+धनौरा
+नरेन्‍द्र कुमार रस्‍तौगी श्रीमति सुशीला रस्‍तोगी एस बी आई के सामने चांदपुर रोड धनौरा
+shakher
+ग्रामीण
+हसनपुर
+006000401
+हसनपुर
+कृषि उत्‍पादन मंडी समिति	हसनपुऱ़
+gajendra
+नगरीय
+अमरोहा
+006000602
+अमरोहा
+सम्राट कोल्‍ड स्‍टोर जोया रोड अमरोहा
+shekar
+बिजनौर
+ग्रामीण
+अफजलगढ-06
+100302801
+अफजलगढ
+dhampur road afzalgarh
+satyaveer
+नगरीय
+किरतपुर
+100303601
+किरतपुर
+kirshi utpadan mandi samiti kiratpur
+lal chand singh
+नगरीय
+चॉंदपुर
+100303101
+चान्‍दपुर
+noorpur road
+vineet saxena
+नगरीय
+धामपुर
+100303302
+धामपुर
+mohra tiraha moradabad road dhampur
+rajesh kumar singh
+नगरीय
+नगीना
+100302401
+नगीना
+sahkari katai mill bijnor road nagina
+dalee
+नगरीय
+नजीबाबाद
+100303801
+नजीबाबाद
+karshi utpadan samity campus
+lal chand singh
+नगरीय
+नुरपुर
+100303502
+नूरपुर
+bijnor road pcf godown noorpur
+vineet saxena
+नगरीय
+नहटौर
+100303203
+नहटोर
+near cinema hall
+rajesh kumar singh
+नगरीय
+बिजनौर
+100302702
+बिजनौर
+Bharea
+shipra khandelwal
+नगरीय
+स्‍योहारा
+100302902
+स्‍योहारा
+near nagar palika seohara
+dalee
+नगरीय
+हल्‍दौर
+100303402
+हल्‍दौर
+dhampur road
+shipra khandelwal
+मुरादाबाद
+ग्रामीण
+004001101
+असमौली
+block asmoli
+ग्रामीण
+004001201
+पवांसा
+block pawansa
+ग्रामीण
+कुन्‍दरकी
+200400081
+कुन्दरकी
+MBD Chandausi Road Kundarki
+samarpaal
+ग्रामीण
+ठाकुरद्वारा
+200400011
+ठाकुरद्वारा
+Tikoniya Chungi Ke Pass Thakur
+manoj kumar
+ग्रामीण
+डिलारी
+004000201
+डिलारी एक
+Block Dilari
+chote lal tripati
+ग्रामीण
+डिलारी
+200400022
+डिलारी
+Dilari
+manoj kumar shukla
+ग्रामीण
+डिलारी (कांठ)
+200400031
+काठ
+Haridwar Road Chajlet
+sunil kumar
+ग्रामीण
+बिलारी
+200400091
+बिलारी
+Shyodara Road Rustampur Sahaspur
+vijay raj
+ग्रामीण
+मूढापाण्‍डे
+200400071
+दलपतपुर
+Dalpatpur
+satpaal
+ग्रामीण
+मुरादाबाद
+200400061
+मुरादाबाद
+Mandi Samiti -Moradabad
+shakeh ifthkar ali
+नगरीय
+004004002
+ब‍हजोई
+nagar bhajoi
+नगरीय
+004005001
+चन्‍दौसी
+nagar chandausi
+नगरीय
+004012001
+सम्‍भल
+nagar sambhal
+नगरीय
+नगरपंचायत भोजपुर
+200400051
+पीपलसाना
+Pipalsana
+vipin kumar
+नगरीय
+महा न0 प0 मुरादाबाद
+100401101
+मंडी समिति
+Mandi Samiti Mbd
+ramashankar patel
+रामपुर
+ग्रामीण
+चमरव्‍वा
+200500043
+चमरव्‍वा
+आगापुर रोड पर स्थित rampur
+deeleep
+ग्रामीण
+बिलासपुर
+200500022
+बिलासपुर
+kamri bilaspur road
+nujat
+ग्रामीण
+मिलक
+200500062
+मिलक
+श्री विनोद महश्‍वेरी के भवन में ग्राम रोरा खुर्द मिलक बिलासपुर रोड पर स्थित
+prasant
+ग्रामीण
+शाहबाद
+200500052
+शाहबाद
+शाहबाद मे चन्‍दोसी रोड पर स्थित
+satyaveer
+ग्रामीण
+सैदनगर
+200500032
+सैदनगर
+ग्राम बं‍जरिया पैटोल पम्‍प के पास
+divyangana sharma
+ग्रामीण
+स्‍वार
+200500012
+स्‍वार
+तीन गोदाम स्‍वार रोड
+kaushal kishor
+नगरीय
+रामपुर नगर पालिका
+100500101
+रामपुर शहर
+आगापुर रोड पर स्थित
+inder pal singh
+सम्भल
+ग्रामीण
+असमौली
+207500111
+असमोली
+Joya Roya Road
+rajendra pal singh
+ग्रामीण
+जुनावई
+207500031
+जुनावई
+near pry school junavai
+mo. hanif khan
+ग्रामीण
+पवांसा
+207500121
+बहजोई रोड सहकारी कालोनी के सामने पवासा
+bahjoi road sahkari kaloni ke samnay pawasa
+Mahendra Pal Singh
+ग्रामीण
+बनियाखेडा
+207500151
+बिरला मिल चंदौसी
+बदउँ रोड चंदौसी
+shri jhajhansingh
+ग्रामीण
+बहजोई
+207500041
+एस०एफ़०सी० बहजोई
+Mandi Samiti Behjoi
+Mahendra Pal Singh
+ग्रामीण
+रजपुरा
+207500011
+रजपुरा
+semri road rajpura
+mahendrapal singh pundir
+ग्रामीण
+सम्‍भल
+100401201
+नवीन मंडी समिति सिरसी
+Naveen Mandi Samiti Sambhal
+shri rajendra pal singh
+नगरीय
+गुन्‍नौर
+101901301
+बबराला
+chandosi road babrala
+shri mo. hanif khan
+नगरीय
+नगरपालिका सम्‍भल
+100400801
+नवीन मंडी समिति संभल
+Naveen Mandi Samiti Sambhal
+shri rajendra pal singh
+15
+मिर्जापुर
+मिर्ज़ापुर
+ग्रामीण
+कोन
+069000201
+पी डी एस गोदाम कोन
+मुजेहरा कोन ब्‍लाक मीरजापुर
+shrimati shalini sharma
+ग्रामीण
+छानवे
+069000101
+पी डी एस  गोदाम गैपुरा
+गैपुरा चौराहा छानबे ब्‍लाक मीरजापुर
+ram krishna dubey
+ग्रामीण
+जमालपुर
+069004001
+पी डी एस गोदाम अहरौरा
+रानीबाग़ पोस्ट तेंदुआ नारायणपुर
+masood ahmad
+ग्रामीण
+पहाडी .
+069000501
+पी डी एस गोदाम पहाडी
+टौगा मोड् पडरी मीरजापुर
+mohammad irfan khan
+ग्रामीण
+मडीहान
+069000801
+पी डी एस गोदाम मडिहान बाजार मिर्जापुर
+सोनभद्र रोड मडिहान बाजार मिर्जापुर
+shri deepak shrivastav
+ग्रामीण
+राजगढ'
+069000901
+पी डी एस गोदाम राजगढ्
+पी डी एस गोदाम राजगढ् मीरजापुर
+shri virendra veer yadav
+ग्रामीण
+लालगंज
+069000601
+लालगज
+lalganj mirzapur
+shri manchand
+ग्रामीण
+सिखडी
+069003002
+पी डी एस गोदाम सीखड
+पाहो सीखड मीरजापुर
+nasrin aslam
+ग्रामीण
+सिटी नगर
+069000401
+मीरजापुर
+पथरहिया मीरजापुर
+vishal anand ambedkar
+ग्रामीण
+हलिया
+069000701
+पी डी एस गोदाम हलिया
+मवईकला हलिया मीरजापुर
+alpana chaurasiya
+नगरीय
+चुनार
+069003001
+पी डी एस गोदाम चुनार
+चुनार मीरजापुर
+smt archana mishra
+नगरीय
+टा0 ए0 कछवॉ
+069001001
+पी डी एस गोदाम कछवां
+कछवां  मीरजापुर
+ravi shankar singh
+संत रविदास नगर
+ग्रामीण
+औराई
+10680032
+उगापुर औराई नगरीय
+Ugapur Aurai
+shiv sagar
+ग्रामीण
+औराई
+206800333
+उगापुर औराई ग्रामीण
+Ugapur Aurai
+shiv sagar
+ग्रामीण
+ग्‍यानपुर
+10680022
+मण्डी समिति गोपीगंज ग्रामीण
+मण्‍डी समिति गोपीगंज
+arti shukla
+ग्रामीण
+ग्‍यानपुर
+206800444
+मण्‍डी समिति गोपीगंज अभोली
+Mandi Samit Gopiganj
+arti shukla
+ग्रामीण
+ग्‍यानपुर
+206800662
+मनमोहन कृष्ण तिवारी
+तिवारी बिल्डिंग स्टेशन रोड गोपीगंज
+verma singh
+ग्रामीण
+डीघ
+206800553
+कन्हैया लाल मौर्य
+Jangiganj
+sanjay kumar pandey
+ग्रामीण
+भदोही
+10680012
+भदोही गोदाम
+bhadohi
+vinay kumar dubey
+ग्रामीण
+भदोही
+10680062
+भदोही नगरीय
+Bhadohi
+vinay kumar dubey
+ग्रामीण
+भदोही
+206800223
+भदोही ग्रामीण
+Bhadohi
+vinay kumar dubey
+ग्रामीण
+सुरियॉवा
+10680052
+विमल शंकर उपाधयाय सुरियावां नगरीय
+Sai chitr mandir suriyava
+berma singh
+ग्रामीण
+सुरियॉवा
+206800113
+आरजी सुरियावां  पट्टी ग्रामीण
+Railway Station Suriyawa
+berma singh
+सॊनभद्र
+ग्रामीण
+घोरावल
+207000113
+विपणन केन्‍द्र घोरावल
+ghorawal
+anup kumar chaudhari
+ग्रामीण
+चतरा
+207000443
+विपणन केन्‍द्र चतरा
+Tiyra Baril chatra Sonbhadra
+archana mishra
+ग्रामीण
+चोपन
+207000224
+विपणन केन्‍द्र चाेपन
+अग्रवाल मार्किट चोपन बाजार
+divakar garg
+ग्रामीण
+दुदधी
+207000774
+विपणन केन्‍द्र दुध्‍दी
+duddhi
+deepak vashist
+ग्रामीण
+नगवॉ
+207000553
+विपणन केन्‍द्र नगवाॅ
+nagawa
+arun kumar tripathi
+ग्रामीण
+बभनी
+207000883
+विपणन केन्‍द्र बभनी
+Babhani
+amit raj kharwar
+ग्रामीण
+मयोरेपुर
+207000665
+विपणन केन्‍द्र तुर्रा
+पिपरी सोनभद्र
+dipak vashist
+ग्रामीण
+रॉबर्टसगंज
+207000336
+विपणन केन्‍द्र रावर्ट्रसगंज
+robertsganj sonbhadra
+brijesh pratap singh
+नगरीय
+चोपन
+207000225
+विपणन केन्‍द्र कचनरवाॅ
+Kachnarawa
+arun kumar
+नगरीय
+राबर्टसगंज
+207000337
+विपणन केन्‍द्र मधुपुर
+लोहरा मधुपुर
+arun kumar shukla
+16
+लखनऊ
+उन्नाव
+ग्रामीण
+असोहा
+026001201
+असोहा
+चन्‍दनखेडा असोहा
+surendra kumar chaudhari
+ग्रामीण
+औरास
+026000501
+औरास
+पीसीएफ गाेदाम सीमउ सण्‍डीला रोड
+anand kumar
+ग्रामीण
+गंज मुरादाबाद
+026000101
+गंजमुरादाबाद
+बांगरमउ हरदोई रोड पर
+dharm raj
+ग्रामीण
+नवाबगंज
+026000801
+नवाबगंज
+समुदायीक केन्‍द्र के सामने लखनउ रोड पर
+surendra kumar chaudhari
+ग्रामीण
+पुरवा
+026001401
+पुरवा
+बनिगांव पुरवा मौरावा रोड
+rajni jadaun
+ग्रामीण
+फतेहपुर चौरासी
+026000301
+फतेहपुर चौरासी
+काली मिट्रटी चौराहे के पास
+ruchita prajapati
+ग्रामीण
+बांगरमऊ
+026000201
+बागरमउ
+बाइपास हरदोइ रोड
+dharm raj
+ग्रामीण
+बिछिया
+202600102
+बिछिया
+पुरवा रोड बिछिया
+rajni jadaun
+ग्रामीण
+बीघापुर
+026001501
+बीघापुर
+कस्‍बा मेन बाजार बीघापुर
+sandeep kumar yadav
+ग्रामीण
+मियागंज
+026000601
+मिया गंज
+बांगरमउ हसनगंज रोड पर
+anand kumar
+ग्रामीण
+सफीपुर
+026000401
+सफीपुर
+3 Tower Ke Paas
+ruchita prajapati
+ग्रामीण
+सुमेरपुर
+026001601
+सुमेरपुर
+बिहार थाना के पास रायबरेली रोड पर
+sandeep kumar yadav
+ग्रामीण
+सिकन्दरपुर करन
+026001101
+सिकन्‍दरपुर करन
+आहूजा कोल्‍ड स्‍टोरेज सि करन
+sandeep kumar yadav
+ग्रामीण
+हसनगंज
+026000701
+हसनगंज
+न्‍यूतनी ग्रामीण बैंक के पास
+anand kumar
+ग्रामीण
+हिलौली
+026001301
+हिलौली
+इण्डियन आयल पेटोल पम्‍प के सामने मौरावा
+rajni jadaun
+नगरीय
+उन्नाव शहर
+026001001
+उन्‍नाव
+आर‍टीओ उन्‍नाव
+ruchita prajapati
+खीरी
+ग्रामीण
+ईसानगर
+023001501
+खाद्य विभाग विपणन शाखा ईसानगर
+ग्राम बसड़िया ईसानगर
+jay prakash yadav
+ग्रामीण
+धौरहरा
+023001401
+खाद्य विभाग विपणन शाखा धौरहरा
+निकट सिसैया चौराहा धौराहरा
+sri shashi bhusan chaturvedi
+ग्रामीण
+नकहा
+023001301
+खाद्य विभाग विपणन शाखा नकहा
+Rajapur Mandi
+tej bhan singh
+ग्रामीण
+निघासन
+023000201
+खाद्य विभाग विपणन शाखा निघासन
+प्रीतमपुरवा निघासन
+indrajeet isngh
+ग्रामीण
+पलिया
+023000101
+खाद्य विभाग विपणन शाखा पलिया
+मण्‍डी स्‍थल पलिया
+aditya singh
+ग्रामीण
+पसगवॉ
+023000901
+खाद्य विभाग विपणन शाखा पसगवां
+पसगवाँ गोदाम
+hari prasad yadav
+ग्रामीण
+फूलबेहड
+023001201
+खाद्य विभाग विपणन शाखा फूलबेहड़
+ग्राम सैदापुर फूलबेहड़
+ganesh kumar
+ग्रामीण
+बेह्जम
+023001001
+खाद्य विभाग विपणन शाखा बेहजम
+ओयल बेहजम मार्ग पर बनि‍का फार्म
+ganesh kumar
+ग्रामीण
+बांकेगंज
+023000501
+खाद्य विभाग विपणन शाखा बांकेगज
+कुकरा रोड बांकेगंज
+karunesh kumar singh
+ग्रामीण
+बिजुआ
+023000601
+खाद्य विभाग विपणन शाखा बि‍जुआ
+निकट बिजुआ ब्लाक बिजुआ
+krishan prakash
+ग्रामीण
+मितोली
+023000801
+खाद्य विभाग विपणन शाखा मितौली
+बड़ा गावं मितौली
+brijesh kumar singh
+ग्रामीण
+मोहम्मदी
+023000701
+खाद्य विभाग विपणन शाखा मोहम्मदी
+मोहम्‍मदी
+sri om deepak
+ग्रामीण
+रमियाबेहड
+023000301
+खाद्य विभाग विपणन शाखा रमि‍याबेहड
+Parmeshi Purwa Near Primary School Ramiyabehar
+sri lal dhar ram
+ग्रामीण
+लखीमपुर
+023001101
+खाद्य विभाग विपणन शाखा लखीमपुर
+मण्‍डी स्‍थल राजापुर लखीमपुर
+sri krishna kumar pathak
+नगरीय
+गोला गोकर्णनाथ
+023000401
+खाद्य विभाग विपणन शाखा कुम्भी गोला
+मण्‍डी स्‍थल गोला
+sri prem narayan maurya
+नगरीय
+गोला गोकर्णनाथ
+200209802
+पीडीएस ब्लॉक   गोदाम
+गोला मंडी
+hraday narayan pandey
+रायबरेली
+ग्रामीण
+अमावा
+028000801
+खाद्य एवं रसद अमांवा
+मिल एरिया रायबरेली
+anil kumar
+ग्रामीण
+ऊँचाहार
+028001801
+खाद्य एवं रसद  उचाहार
+एन टी पी सी रोड
+umesh panday
+ग्रामीण
+खीरो
+028001101
+खाद्य एवं रसद  खीरों
+kheero raebareli
+pradeep kumar
+ग्रामीण
+छतोहा
+207200201
+खाद्य एवं रसद छतोह
+साधन सहकारी संघ नसीराबाद छतोह
+suresh yadav
+ग्रामीण
+जगतपुर
+028001601
+खाद्य एवं रसद जगतपुर
+लक्ष्‍मण पुर
+sahnaj hasan
+ग्रामीण
+डलमऊ
+028001401
+खाद्य एवं रसद  डलमउ
+आदर्श मुराई बाग
+priyanka
+ग्रामीण
+डीहा
+102800301
+खाद्य एवं रसद डीह
+deeh
+aashutosh singh
+ग्रामीण
+दीनशाह गौरा
+028001501
+खाद्य एवं रसद दीनशाहगौरा
+मनीष सिंह गढी
+aamir meraj
+ग्रामीण
+बछरावां
+028000101
+खाद्य एवं रसद  बछरावां
+कायस्‍थन टोला बछरांवा
+saurbh
+ग्रामीण
+महाराजगंज
+028000301
+खाद्य एवं रसद महराजगंज
+मण्‍डी परिसर
+brijesh pratap singh
+ग्रामीण
+राही
+028001002
+खाद्य एवं रसद  राही
+गल्‍ल मण्‍डी रायबरेली
+seema
+ग्रामीण
+रोहीनियान
+200121101
+खाद्य एवं रसद रोहनियान
+Rohaniyan
+pankaj kumar
+ग्रामीण
+लालगंज
+028001301
+खाद्य एवं रसद  लालगंज
+मण्‍डी परिसर
+tripti
+ग्रामीण
+शिवगढ
+028000201
+खाद्य एवं रसद शिवगढ्
+शिवगढ
+shyam praksh
+ग्रामीण
+सतांव
+028000901
+खाद्य एवं रसद सतांव
+मलिक मउ रायबरेली
+sunil kumar duby
+ग्रामीण
+सरैनी
+028001201
+खाद्य एवं रसद  सरेनी
+मोही भोजपुर रोड
+ankit mishra
+ग्रामीण
+सलोन
+102800401
+खाद्य एवं रसद सलोन
+जगतपुर रोड
+arvind kumar
+ग्रामीण
+हरचंदपुर
+028000701
+खाद्य एवं रसद हरचन्‍दपुर
+विन्‍धाश्‍नी राइस मिल मिल परिसर
+suresh chandra saroj
+नगरीय
+रायबरेली
+028001001
+खाद्य एवं रसद शहर रायबरेली
+गल्‍ला मण्‍डी रायबरेली
+ravi
+लखनऊ
+ग्रामीण
+काकोरी
+027000501
+खाद्य विभाग काकोरी
+durgaganj chauraha kakori
+abhilasha singh
+ग्रामीण
+गौसाईगंज
+202700072
+खाद्य विभाग  गोसाईगंज
+मोहरीकला मंडी
+mrinalini vats
+ग्रामीण
+चिनहट
+200120002
+चिनहट ग्रामीण
+CWC Rajajipuram
+indu singh
+ग्रामीण
+बक्शी का तालाब
+027000301
+खाद्य विभाग  बीकेटी
+rudahi bhaisamau bkt
+juhi noohish
+ग्रामीण
+मलिहाबाद
+027000201
+खाद्य विभाग मलिहाबाद
+bhawaniganj malihabad
+udai pratap singh
+ग्रामीण
+माल
+027000101
+खाद्य विभाग माल
+आदर्श सत्येंद्र  कोल्ड  स्टोर कैंपस  मॉल  रोड
+alok ranjan priyadarshi
+ग्रामीण
+मोहनलालगंज
+027000801
+खाद्य रसद विभाग  मोहनलालगंज
+मोहरीकला  mohanlalganj
+pradeep kumar singh
+ग्रामीण
+सरोजनीनगर
+027000601
+खाद्य विभाग सरोजनीनगर
+gauri bazar sarojninagar
+shyam prakash
+ग्रामीण
+सरोजनीनगर
+200177802
+सरोजनी नगर
+SAROJANINAGAR
+shyam prakash
+नगरीय
+आलमबाग
+102700301
+बुदेश्‍वर द्वितीय
+केंद्रीय भण्डारण निगम
+divyanshu singh
+नगरीय
+गोमती नगर
+102700402
+खाद्य विभाग महानगर बी
+cwc  rajajipuram
+indu singh
+नगरीय
+यहिया गंज
+102700101
+बुद्धेश्वर प्रथम
+राजाजीपुरम
+priyanka tiwari
+नगरीय
+राजाजीपुरम
+102700302
+खाद्य विभाग ऐशबाग
+केंद्रीय भण्डारण निगम राजाजीपुरम
+manoj verma
+नगरीय
+हसनगंज
+027000401
+खाद्य विभाग महानगर
+cwc rajajipuram
+shashi singh
+सीतापुर
+ग्रामीण
+एलिया
+024000601
+एलिया
+laharpur road anandi devi school ke paas
+vibhaw mishra
+ग्रामीण
+कसमण्‍डा
+024001801
+कसमंदा
+lucknow road kamalapur
+ashish kumar saini
+ग्रामीण
+खैराबाद
+024000901
+खैराबाद
+soopnager and naipalapur
+shantanu mishra
+ग्रामीण
+गोन्दलामऊ
+024000501
+गोंद्लामाऊ
+ram krisna ka makan near brc road and purnagiri dharmkata ke pas birendra misra ka godam
+devendra pratap verma
+ग्रामीण
+परसेंडी
+024000801
+परसेंदी
+naipalapur railway crosing laharpur road sitapur
+manoj kumar
+ग्रामीण
+पहला
+024001501
+पहला
+railway crosing patel nagar mahmudabad
+avneesh vikram singh
+ग्रामीण
+पि‍सांवा
+024000101
+पिसावां
+p.c.f. godam pisawan and pisawan chauraha harikaran singh ka makan and mahamdapur panchayt bhawan
+manoranjan choubey
+ग्रामीण
+बेहटा
+024001101
+बेहटा
+lalpur bajar matua
+deepak srivastava
+ग्रामीण
+बि‍सवां
+024001401
+बिसवां
+railway station sankar ganj
+shiv ram singh
+ग्रामीण
+मछरेहटा
+024000401
+मछरेहटा
+मछरेटा
+parul yadav
+ग्रामीण
+महमूदाबाद
+024001601
+महमूदाबाद
+railway crosing patelnagar
+kamla prasad yadav
+ग्रामीण
+महोली
+024000201
+महोली
+maholi
+santosh kumar
+ग्रामीण
+मिश्रिख
+024000301
+मिश्रिख
+sindholi road railway crosing and sitapur road nahar chauraha
+sandeep srivastava
+ग्रामीण
+रेउसा
+024001201
+रेउसा
+reusa
+anil kumar verma
+ग्रामीण
+रामपुर मथुरा
+024001701
+रामपुरमथुरा
+nikat thanha rampurmathura
+juhi nuhis
+ग्रामीण
+लहरपुर
+024001001
+लहरपुर
+laharpur
+deepak srivastav
+ग्रामीण
+सकरन
+024001301
+सकरन
+सांडा
+anamika singh
+ग्रामीण
+सि‍धौली
+024001901
+सिंधौली
+badi misrikh road sindhauli
+kamal kumar singh
+ग्रामीण
+हरगाँव
+024000701
+हरगांव
+hargaun
+smt. sunita sahu
+नगरीय
+सीतापुर
+102400201
+सीतापुर शहर
+नैपालापुर
+shantanu mishra
+हरदोई
+ग्रामीण
+अहिरोरी
+025001201
+अहिरोरी
+बिलग्राम रोड छोहा
+vinay kumar
+ग्रामीण
+कछौना
+025001601
+कछौना
+कछौना बस स्टैण्ड के पास
+praveen kumar singh
+ग्रामीण
+टडियांवा
+025001001
+टडियावा
+गोपामउ रोड हर्रई के पास
+vinay kumar
+ग्रामीण
+टोडरपुर
+025000201
+टोडरपुर
+टोडरपुर ब्‍लाक आफिस के पास
+avanish kumar
+ग्रामीण
+पिहानी
+025000301
+पिहानी
+पिहानी कस्‍बा में पावर हाउस के पास
+amrat lal
+ग्रामीण
+बेहन्‍दर
+025001701
+बेहन्‍दर
+कासिमपुर सन्तोष कन्या विद्यालय के सामने
+yashvant rav
+ग्रामीण
+बावन
+025000501
+बावन
+बस स्टैण्ड के आगे
+priyanka varma
+ग्रामीण
+बिलग्राम
+025000801
+बिलग्राम
+पी0सी0एफ0 गोदाम बिलग्राम
+vikas kumar
+ग्रामीण
+भरावन
+025001901
+भरावन
+ढिकुन्‍नी
+anand kumar shrivastava
+ग्रामीण
+मल्‍लांवा
+025001401
+मल्लांवा
+बी0एम0 इण्टर कालेज के सामने
+dinesh singh
+ग्रामीण
+माधौगंज
+025001301
+माधौगंज
+माधौगंज रेलवे क्रासिंग के पास
+suneet chaube
+ग्रामीण
+शाहाबाद
+025000101
+शाहाबाद
+मो0 शिशियाती पाली रोड
+avanish kumar
+ग्रामीण
+सण्‍डीला
+025001801
+सण्‍डीला
+लखनउ road hardoi
+sunita devi
+ग्रामीण
+सुरसा
+025001101
+सुरसा
+बिलग्राम रोड छोहा
+vishwanath mishra
+ग्रामीण
+साण्‍डी
+025000701
+साण्डी
+विवेकानन्द स्कूल के पास नबाव गंज साण्डी
+awdhesh pandey
+ग्रामीण
+हरपालपुर
+025000601
+हरपालपुर
+हरपालपुर बस स्टैण्ड के पास
+rishabh singh
+ग्रामीण
+हरियांवा
+025000901
+हरियांवा
+बीजगंवा
+alok kumar gautam
+नगरीय
+पाली
+025000401
+पाली
+कृषि उत्‍पादन मण्‍डी समिति के गोदाम में
+shashi kant diwakar
+नगरीय
+बेनीगंज
+025000402
+बेनीगंज
+बेनीगंज कस्‍बा कोथांवा रोड
+anand kumar shrivastava
+नगरीय
+हरदोई
+202500112
+नगर छेत्र
+कसरावां रोड
+prabhat kumar
+17
+वाराणसी
+गाजीपुर
+ग्रामीण
+करण्‍डा
+065000901
+करण्‍डा
+karanda
+arun kumar singh
+ग्रामीण
+कासिमाबाद
+065001001
+कासमाबाद
+kasimabad
+sanjay kumar gautam
+ग्रामीण
+गाजीपुर
+065000801
+सदर गाजीपुर
+nagtara andhau ghazipur
+rohit kumar dwivedi
+ग्रामीण
+गाजीपुर
+200191402
+गाजीपुर सदर
+BANJARIPUR
+rohit kumar dwivedi
+ग्रामीण
+जखनिया
+065000102
+जखनि‍यॉं
+salempur bahadurpur jakhaniya ghazipur
+piyush chauhan
+ग्रामीण
+जमानिया
+065002001
+जमानियॉं वन
+chudhary ka mohlla
+aashutosh prasad chaursia
+ग्रामीण
+जमानिया
+200192045
+जमानि‍यॉं टू
+जमानि‍यॉं
+aashutosh prasad chuarsia
+ग्रामीण
+देवकली
+065000501
+नन्‍दगंज
+ishopur nandganj ghazipur
+gayapal verma
+ग्रामीण
+बाराचवर
+065001101
+करीमुद्दीनपुर
+karimuddinpur ghazipur
+sanjeev sharan
+ग्रामीण
+भदौरा
+065001601
+दीलदारनगर
+gahmar ghazipur
+rakesh kumar tiwari
+ग्रामीण
+भावरकोल
+206500132
+भॅावरकोल
+Bhawarkol
+ram gopal yadav
+ग्रामीण
+मनिहारी
+065000201
+हंसराजपुर
+hansrajpur
+anshu upadhyay
+ग्रामीण
+मरदह
+065000701
+मरदह
+gram kanshari mardah ghazipur
+abhishek chaursia
+ग्रामीण
+मुहम्‍मदाबाद
+065001201
+मुहम्‍मदाबाद
+tiwaripur mohamdabad ghazipur
+ajay kumar shukla
+ग्रामीण
+रेवतीपुर
+065001501
+सुहवल
+sauhawal ghazipur
+aditya kumar tiwari
+ग्रामीण
+विरनो
+065000601
+जंगीपुर
+Devkhathiyaa jangipur
+shiwprakash bharti
+ग्रामीण
+सैदपुर
+065000401
+सैदपुर
+saidpur
+shri ramesh yadav
+ग्रामीण
+सादात
+065000301
+सादात
+sadat ghazipur
+mithilesh kumar singh
+ग्रामीण
+सादात
+200190902
+सादात्
+सादात नगर्
+dheerendra kumar
+नगरीय
+बहादुरगंज
+106500501
+पीसीएफ गाजीपुर
+PCF GODAM KASIMABAD
+gayapal verma
+चन्दौली
+ग्रामीण
+चकिया
+066000702
+चकिया ब्लॉक  गोदाम
+dodapur chakia
+himanshu misra
+ग्रामीण
+चहनियॉ
+066000101
+चहनिया ब्लॉक गोदाम
+chahania chanduli
+priyanka pandey
+ग्रामीण
+चहनियॉ
+066000102
+चहनिया ब्लॉक गोदाम
+chahaniyaa chanduli
+priyanka pandey
+ग्रामीण
+धानापुर
+066000201
+धानापुर  ब्लॉक  गोदाम
+dhanapur chanduli
+sandeep kumar singh
+ग्रामीण
+धानापुर
+200145223
+धानापुर ब्लॉक गोदाम
+धानापुर
+amit kumar yadav
+ग्रामीण
+नियामताबाद
+066000401
+मुगलसराय ब्लॉक गोदाम
+mugalsarai chanduli
+vinay prakash
+ग्रामीण
+नौगढ.
+066000901
+नौगढ़ ब्लॉक गोदाम
+gram v post majhgai naugarh
+bhupendra pratap
+ग्रामीण
+नौगढ.
+066000902
+साधोशरण जायसवाल
+साधोशरण जायसवाल
+bhupendra pratap
+ग्रामीण
+बरहनी
+066000601
+सैयदराजा ब्लॉक गोदाम
+saiyadraja
+sushil kumar singh
+ग्रामीण
+बरहनी
+066004001
+रामाशय चौरसिया
+रामाशय चौरसिया
+sushil kumar singh
+ग्रामीण
+शहाबगंज
+066000801
+शहाबगंज ब्लॉक गोदाम
+सेमरा शहाबगंज चंदौली
+bhupendra sagar
+ग्रामीण
+सकलडीहा
+066000301
+सकलडीहा  ब्लॉक  गोदाम
+गोपाल प्रसाद जायसवाल
+shalini pandey
+ग्रामीण
+सकलडीहा
+066000302
+सकलडीहा  ब्लॉक  गोदाम
+सकलडीहा बाजार चंदौली
+shalini pandey
+नगरीय
+नगर पंचायत चन्‍दौली
+066000501
+चंदौली  सदर ब्लॉक गोदाम
+वार्ड नंबर ४ कमलानगर चंदौली
+mridul kumar upadhyay
+जौनपुर
+ग्रामीण
+करंजाकला
+064001301
+विपणन गोदाम करंजाकला
+Uttar Railway Junction Purvi C
+priyanka singh
+ग्रामीण
+केराकत
+064002001
+विपणन गोदाम केराकत
+Sindhauli Thanagaddi Mod Kerak
+samsher bahadur singh
+ग्रामीण
+खुटहन
+064000301
+विपणन गोदाम खुटहन
+Cold Storage Pariser Khutahan
+akhilesh kumar yadav
+ग्रामीण
+जलाल पुर
+064001901
+विपणन गोदाम जलालपुर
+gram lalpur post jalalpur jaunpur
+priyanka pathak
+ग्रामीण
+डोभी
+064002101
+विपणन गोदाम डोभी
+Thunhi Dobhi
+amit sharma
+ग्रामीण
+डोभी
+200190602
+विपणन केन्द्र डोभी अतिरिक्त
+Thunhi
+amit sharma
+ग्रामीण
+धर्मापुर
+064001401
+विपणन गोदाम धर्मापुर
+Uttar Railway Juction Ke Purvi
+ashok kumar maurya
+ग्रामीण
+बक्‍शा
+064000601
+विपणन गोदाम बक्शा
+Naupedwa Bazar Hayatganj Utruk
+pradeep kumar pandey
+ग्रामीण
+बदलापुर
+064000401
+विपणन गोदाम बदलापुर
+Allahabad Road Badlapur
+gyani gautam singh
+ग्रामीण
+बरसठी
+064001101
+विपणन गोदाम बरसठी
+Barsathi Bazar Sarsara Barsath
+rashmi srivastava
+ग्रामीण
+मछलीशहर
+064007001
+विपणन गोदाम मछलीशहर
+baraipar road pura nandlal chak englisiyaa
+pramod kumar yadav
+ग्रामीण
+मुफतीगंज
+064001801
+विपणन गोदाम मुफ्तीगंज
+Jaunpur Kerakat Road Muftiganj
+sharadhha singh
+ग्रामीण
+महराजगंज
+064000501
+विपणन गोदाम महराजगंज
+Allahabad Road Par Maharajganj
+pradeep kumar pandey
+ग्रामीण
+रामनगर
+064001601
+विपणन गोदाम रामनगर
+Jogapur Mirzapur Road
+bharat kumar
+ग्रामीण
+रामपुर
+064001701
+विपणन गोदाम रामपुर
+Balthar Digri College Ke Pass
+rohit kumar
+ग्रामीण
+शाहगंज
+064000201
+विपणन गोदाम शाहगंज
+Chiraiya Mod Takhapurab Shahga
+amit yadav
+ग्रामीण
+सुइथकला
+064000101
+विपणन गोदाम सरायमोहहिंदींपूर
+Chiraiya Mod Takhapurab Shahga
+jitendra kumar singh
+ग्रामीण
+सुजानगंज
+064000701
+विपणन गोदाम सुजानगंज
+Bank Belwaar Baraipaar Tiraha
+aashish srivastava
+ग्रामीण
+सिकरारा
+064001201
+विपणन गोदाम सिकरारा
+Fatehganj Bazar Allahabad Road
+shailesh kumar singh
+ग्रामीण
+सिरकोनी
+064001501
+विपणन गोदाम सिरकोनी
+Uttar Railway Juction Ke Purvi
+kamlesh narayan
+नगरीय
+न0पं0 मडि‍याहू
+064005001
+विपणन गोदाम  मडियाहु
+डीसीएफ गोदाम कादीपुर मडियाहूं
+alok kumar
+नगरीय
+न0पा0 जौनपुर
+064001001
+विपणन गोदाम जौनपुर नगर
+Uttar Railway Junction Ke Purv
+kamlesh narayan
+नगरीय
+न0पा0 मु0बादशाहपुर
+064003001
+विपणन गोदाम मुंगराबादशाह्पुर्
+kuldip dharmkata sarokhanpur sathariya
+chandrakesh
+वाराणसी
+ग्रामीण
+अराजीलाईन
+067000601
+आराजीलाइन
+बैरवन  वाराणसी
+jagdish chandr mauray
+ग्रामीण
+काशी विद्यापीठ
+067000701
+काशी विद्यापीठ
+नरउर काशी विद्यापीठ वाराणसी
+kavita shukla
+ग्रामीण
+चिरईगॉव
+067000801
+चिरईगॉव
+गौराकलॉ चिरईगॉव
+kailash nath
+ग्रामीण
+चोलापुर
+067000301
+चोलापुर
+रौनकला मुनारी बाजार  चोलापुर
+rajesh kumar
+ग्रामीण
+पिण्‍डरा
+067000201
+पिण्‍डरा
+पिण्‍डरा वाराणसी।
+babita singh
+ग्रामीण
+बडागॉव
+067000101
+बड़ागॉव
+गांगखुर्द बड़ागॉव
+neeraj singh
+ग्रामीण
+सेवापुरी
+067000501
+सेवापुरी
+श्री गया प्रसाद सिंह नि0 तक्‍खू की बौली भीषमपुर सेवापुरी वाराणसी
+krishna kumar
+ग्रामीण
+हरहुआ
+067000401
+हरहुआ
+गोसाईपुर मोहाव आजमगढ़ रोड
+rajesh kumar shukla
+नगरीय
+नगर निगम वाराणसी
+067000702
+महानगर
+केशरीपुर रोहनिया वाराणसी
+kavita shukla
+18
+सहारनपुर
+मुजफफरनगर
+ग्रामीण
+खतौली-14
+002001401
+खतौली
+मण्‍डी समिति स्‍थल खतौली
+manoj kumar gautam
+ग्रामीण
+चरथावल-5
+002000601
+चरथावल
+हकीमपुरा रोड् चारथावल देहात
+mukesh kumar
+ग्रामीण
+जानसठ-13
+002001301
+जानसठ
+खतौली तिराहा जानसठ
+ashwani kumar
+ग्रामीण
+पुरकाजी-6
+002000701
+पुरकाजी
+nikat Village Faloda purkazi
+rakhi yadav
+ग्रामीण
+बघरा-8
+200200091
+बघरा
+muradpura shamli road baghra
+ramanlata
+ग्रामीण
+बुढाना-10
+002001001
+बुढाना
+मेरठ करनाल रोड बुढ़ाना
+mrs nalni malik
+ग्रामीण
+मोरना-12
+002001201
+मोरना
+bihargarh रोड मोरना
+rajendra kumar
+ग्रामीण
+शाहपुर-11
+002001101
+शाहपुर
+जी एस धरम कांटा शापुर
+kamakhya verma
+नगरीय
+सदर
+002025001
+मुजफफरनगर
+नवीन मण्‍डी स्‍थल मुजफफरनगर
+manmohan singh
+शामली
+ग्रामीण
+कैराना-4
+002000201
+कैराना
+by pass road kairana
+sunita rana
+ग्रामीण
+कांधला-9
+074000501
+कांधला
+मौ0 सराउ ज्ञान काधला
+suman chaudhary
+ग्रामीण
+थानाभवन-2
+002000301
+थानाभवन
+Thanabhavan teetarsi road
+amit yadav
+ग्रामीण
+शामली-3
+002000401
+शामली
+सिसौली रोड शामली
+sunita rana
+नगरीय
+झिझाना
+002000101
+झिं‍झाना
+उन रोड झिंझाना
+bhupendra kumar
+सहारनपुर
+ग्रामीण
+गंगोह-7
+001000701
+गंगोह
+gangoh teetro bus stand
+neeraj kumar
+ग्रामीण
+देवबन्‍द-11
+001001101
+देवबंद
+रेलवे रोड Deoband
+neelam pandey
+ग्रामीण
+नकुड-6
+001000601
+नकुङ
+nakud
+abhishek chauhan
+ग्रामीण
+ननौता-10
+001001001
+ननौता
+nanauta
+dhirendra pratap singh
+ग्रामीण
+नांगल-9
+001000901
+नागल
+Nagal
+satyapriya saroha
+ग्रामीण
+पुंवरका-3
+001000302
+पुवारका
+bheat road ghunna
+shree dilip kumar
+ग्रामीण
+बलिया खेडी-4
+001000401
+सहारनपुर पशिचम्
+saharanpur pcf
+arun dutt sharam
+ग्रामीण
+मुजफफराबाद-2
+001000201
+छुटमलपुर
+Rasulpur
+renu rani
+ग्रामीण
+रामपुर मनिहारान-8
+001000801
+रामपुर मनिहारान
+Rampur maniharan
+amit kumar
+ग्रामीण
+सदाैली कदीम-1
+001000101
+बेहट
+behat at gandewar
+anuradh mishra
+ग्रामीण
+सरसावा-5
+001000501
+सरसावा
+sadpura road
+moh irfan ali
+नगरीय
+सहारनपुर नगर-29
+001029001
+सहारनपुर पूरवी
+opposite bajauria college chakrauta road
+ankit kumar
+IT Solution Provided By: National Informatics Centre(NIC), Lucknow,UP
+Print time: 27/08/2026 11:23 AM

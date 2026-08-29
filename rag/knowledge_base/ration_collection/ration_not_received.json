@@ -1,0 +1,74 @@
+{
+  "id": "ration_not_received",
+  "intent": "ration_not_received",
+  "category": "ration_collection",
+  "title": "Ration Not Received",
+
+  "facts": {
+    "summary": "If an eligible beneficiary does not receive the entitled ration, the beneficiary should first verify the distribution information and then follow the applicable grievance or assistance procedure of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing PDS distribution and handling applicable beneficiary grievances.",
+
+    "possible_reasons": [
+      "The distribution transaction may not have been completed or recorded.",
+      "There may be an issue with beneficiary authentication or verification.",
+      "The Fair Price Shop may not have completed the applicable distribution process.",
+      "There may be a State/UT-specific issue affecting ration distribution."
+    ],
+
+    "first_steps": [
+      "Check the available ration distribution or transaction information through the applicable official State/UT PDS system, if available.",
+      "Confirm the beneficiary and ration-card details.",
+      "Contact the concerned Fair Price Shop regarding the missing ration.",
+      "If the issue is not resolved, follow the applicable grievance or complaint procedure of the concerned State/UT authority."
+    ],
+
+    "online_status": "Availability of online distribution-status information depends on the concerned State or Union Territory.",
+
+    "complaint": "If ration has not been received despite entitlement, the beneficiary may use the applicable official grievance or complaint mechanism provided by the concerned State/UT.",
+
+    "authentication": "Authentication requirements depend on the applicable State/UT PDS system and may involve an ePoS system or another authorized verification method.",
+
+    "important_notes": [
+      "The procedure for reporting non-receipt of ration can differ between States and Union Territories.",
+      "Do not assume that a missing online transaction record by itself proves that ration was not distributed.",
+      "The beneficiary should first verify the transaction or distribution information where such information is available.",
+      "Use official government grievance channels for unresolved distribution issues.",
+      "Do not provide a State-specific complaint procedure unless the applicable State is known."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "I did not receive my ration. What should I do?",
+      "answer": "Check the available distribution information, contact the concerned Fair Price Shop, and if the issue remains unresolved, use the applicable State/UT grievance or complaint mechanism."
+    },
+    {
+      "question": "My ration was not given to me. Where should I complain?",
+      "answer": "Follow the official grievance or complaint procedure provided by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "What should I do if my ration transaction is not showing?",
+      "answer": "Check the official State/UT PDS system and contact the concerned Fair Price Shop or Food and Civil Supplies authority if necessary."
+    },
+    {
+      "question": "I am eligible for ration but did not receive it. What can I do?",
+      "answer": "Verify your distribution information, contact the concerned Fair Price Shop, and use the applicable official grievance mechanism if the issue is not resolved."
+    },
+    {
+      "question": "Can I complain if the ration shop does not give me my ration?",
+      "answer": "Yes. Follow the applicable official grievance or complaint procedure of the concerned State or Union Territory."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

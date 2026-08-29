@@ -1,0 +1,71 @@
+{
+  "id": "pmgkay_scheme",
+  "intent": "pmgkay_scheme",
+  "category": "scheme_information",
+  "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+
+  "facts": {
+    "summary": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) is a Government of India food-grain welfare scheme associated with the National Food Security Act (NFSA) framework.",
+
+    "purpose": [
+      "Provide food-grain support to eligible beneficiaries covered under the applicable food-security framework.",
+      "Support food security for eligible households."
+    ],
+
+    "beneficiaries": "Benefits are provided to eligible beneficiaries according to the applicable Government of India scheme and food-security framework.",
+
+    "implementation": "Food-grain distribution is carried out through the Public Distribution System with implementation involving the concerned Central and State/UT authorities.",
+
+    "ration_card_role": "Eligible beneficiaries receive food-grain benefits through the PDS according to the applicable entitlement and beneficiary identification records.",
+
+    "eligibility": "Eligibility and beneficiary identification are governed by the applicable Government of India framework and the identification process followed by the concerned State or Union Territory.",
+
+    "distribution": "Food grains under applicable PMGKAY entitlements are distributed through the PDS network and designated Fair Price Shops.",
+
+    "state_specific": "Operational procedures, beneficiary records and distribution arrangements can vary according to State/UT implementation.",
+
+    "important_notes": [
+      "Do not assume that every person with a ration card automatically receives every benefit associated with a particular scheme.",
+      "Scheme entitlements and implementation details can change according to Government of India decisions.",
+      "Do not invent current quantities, dates or entitlement values unless they are explicitly available in the knowledge base.",
+      "For beneficiary-specific questions, the applicable State/UT PDS authority should be consulted."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is PMGKAY?",
+      "answer": "PMGKAY is a Government of India food-grain welfare scheme associated with the NFSA food-security framework and implemented through the PDS."
+    },
+    {
+      "question": "Who can receive PMGKAY benefits?",
+      "answer": "Benefits are available to eligible beneficiaries according to the applicable Government of India scheme and food-security framework."
+    },
+    {
+      "question": "Is PMGKAY related to ration cards?",
+      "answer": "Yes. Eligible beneficiaries receive applicable food-grain benefits through the PDS using beneficiary and ration-card records."
+    },
+    {
+      "question": "Where are PMGKAY food grains distributed?",
+      "answer": "Applicable food-grain entitlements are distributed through the PDS network and designated Fair Price Shops."
+    },
+    {
+      "question": "How much ration is provided under PMGKAY?",
+      "answer": "The available knowledge does not specify a current quantity. Do not assume a fixed entitlement without current scheme information."
+    },
+    {
+      "question": "Is PMGKAY available in every State?",
+      "answer": "The scheme operates through the PDS with implementation involving States and Union Territories, while operational arrangements can differ by State/UT."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "distributor_profile",
+  "intent": "distributor_profile",
+  "category": "distributor_operations",
+  "title": "PDS Distributor Profile",
+
+  "facts": {
+    "summary": "An authorized PDS distributor can view their profile information through the applicable PDS management system. The exact profile fields and available actions depend on the system and permissions assigned to the distributor.",
+
+    "profile_information": [
+      "Distributor identification information.",
+      "Distributor or Fair Price Shop details.",
+      "Contact information available to the authorized user.",
+      "Other operational information maintained by the applicable PDS system."
+    ],
+
+    "how_to_view": [
+      "Log in using the authorized distributor account.",
+      "Open the profile or account section of the PDS management system.",
+      "Review the distributor information displayed by the system."
+    ],
+
+    "profile_update": "If profile editing is supported, the distributor should use the authorized profile-management facility and follow the applicable State/UT procedure.",
+
+    "access_control": "Distributor profile information should only be accessible to the authorized distributor and other users who have appropriate administrative permissions.",
+
+    "administrative_changes": "Some distributor information may require an administrator or concerned authority to update rather than allowing direct editing by the distributor.",
+
+    "state_specific": "The profile fields, editing permissions and update procedure can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that every profile field can be edited by the distributor.",
+      "Only authorized users should access distributor profile information.",
+      "Profile changes should follow the applicable PDS administrative procedure.",
+      "Do not invent a specific profile-update process without knowing the applicable system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can a distributor view their profile?",
+      "answer": "Log in using the authorized distributor account and open the profile or account section of the applicable PDS management system."
+    },
+    {
+      "question": "What information is available in a distributor profile?",
+      "answer": "Depending on the system, the profile may contain distributor identification, Fair Price Shop, contact and other operational information."
+    },
+    {
+      "question": "Can a distributor edit their profile?",
+      "answer": "Profile-editing availability depends on the applicable PDS system and the distributor's permissions."
+    },
+    {
+      "question": "Can an administrator update distributor information?",
+      "answer": "Some distributor information may require an administrator or concerned authority to update according to the applicable PDS procedure."
+    },
+    {
+      "question": "Who can access a distributor profile?",
+      "answer": "The authorized distributor and users with appropriate administrative permissions may access the profile information provided by the applicable system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

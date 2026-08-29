@@ -1,0 +1,80 @@
+{
+  "id": "contact_admin",
+  "intent": "contact_admin",
+  "category": "general_help",
+  "title": "Contact PDS Administrator",
+
+  "facts": {
+    "summary": "Users may need to contact the responsible PDS administrator or concerned Food and Civil Supplies authority when an issue cannot be resolved through the available PDS services.",
+
+    "when_to_contact": [
+      "A PDS service cannot be completed through the available system.",
+      "A beneficiary record requires correction that cannot be performed through the available interface.",
+      "A complaint or grievance requires administrative attention.",
+      "A portal or account issue cannot be resolved through normal troubleshooting.",
+      "The user needs assistance that is not covered by the available PDS service."
+    ],
+
+    "responsible_authority": "The concerned State or Union Territory Food and Civil Supplies or PDS authority is responsible for operational PDS matters within its jurisdiction.",
+
+    "contact_method": [
+      "Use the official contact or support information provided by the concerned State/UT PDS portal.",
+      "Visit the designated Food and Civil Supplies or PDS office when an in-person service is required.",
+      "Use the official grievance mechanism where applicable."
+    ],
+
+    "state_specific": "Contact details, office locations, helpdesks and escalation procedures differ between States and Union Territories.",
+
+    "information_to_provide": [
+      "Relevant ration-card or beneficiary information when required.",
+      "A clear description of the issue.",
+      "Application, transaction or complaint reference information when applicable."
+    ],
+
+    "privacy": [
+      "Provide personal information only through official government channels.",
+      "Do not share OTPs, passwords or other authentication credentials.",
+      "Do not provide sensitive information to unauthorized persons."
+    ],
+
+    "important_notes": [
+      "Do not invent a specific administrator name, phone number, email address or office address.",
+      "A State or Union Territory should be identified before giving State-specific contact information.",
+      "For general PDS operational issues, the concerned State/UT authority is the appropriate administrative authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I contact the PDS administrator?",
+      "answer": "Use the official contact or support information provided by the concerned State/UT PDS or Food and Civil Supplies authority."
+    },
+    {
+      "question": "Who should I contact for a PDS problem?",
+      "answer": "For operational PDS problems, contact the concerned State or Union Territory Food and Civil Supplies or PDS authority."
+    },
+    {
+      "question": "Can I contact the PDS office directly?",
+      "answer": "Yes. You can use the designated PDS or Food and Civil Supplies office when the applicable service requires administrative or in-person assistance."
+    },
+    {
+      "question": "What information should I provide when contacting the administrator?",
+      "answer": "Provide the relevant beneficiary or ration-card information and clearly describe the issue. Include an application, transaction or complaint reference when applicable."
+    },
+    {
+      "question": "Can you give me the PDS administrator's phone number?",
+      "answer": "A specific contact number depends on the concerned State or Union Territory. Use the official contact information provided by that authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

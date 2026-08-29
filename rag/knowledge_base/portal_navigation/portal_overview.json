@@ -1,0 +1,84 @@
+{
+  "id": "portal_overview",
+  "intent": "portal_overview",
+  "category": "portal_navigation",
+  "title": "PDS Portal Overview",
+
+  "facts": {
+    "summary": "State and Union Territory PDS authorities may provide online portals for accessing PDS and ration-card-related services.",
+
+    "possible_services": [
+      "Ration-card application or status services.",
+      "Beneficiary information services.",
+      "Family or household record services.",
+      "Ration transaction or entitlement information.",
+      "Complaint or grievance services.",
+      "Other PDS services provided by the concerned authority."
+    ],
+
+    "access": [
+      "Use the official PDS portal provided by the concerned State or Union Territory.",
+      "Select the required PDS service from the portal.",
+      "Follow the instructions and verification requirements displayed by the applicable system."
+    ],
+
+    "state_specific": "PDS portals and the services available through them differ between States and Union Territories.",
+
+    "online_availability": "Not every PDS service is necessarily available online. Availability depends on the concerned State/UT system.",
+
+    "authentication": "Some portal services may require beneficiary or user authentication according to the applicable system.",
+
+    "technical_support": "For portal-specific technical problems, users should follow the support or grievance mechanism provided by the concerned State/UT portal.",
+
+    "security": [
+      "Use official government PDS portals.",
+      "Do not enter personal information on unofficial websites.",
+      "Do not share OTPs, passwords or authentication credentials with others."
+    ],
+
+    "important_notes": [
+      "Do not assume that all States/UTs use the same PDS portal.",
+      "Do not assume that every PDS service is available online.",
+      "Do not provide an unofficial portal URL.",
+      "For a State-specific portal, the State or Union Territory must be identified first."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is the PDS portal?",
+      "answer": "A PDS portal is an online system provided by a State or Union Territory authority through which users may access available ration-card and PDS-related services."
+    },
+    {
+      "question": "What services are available on a PDS portal?",
+      "answer": "Depending on the State/UT, the portal may provide ration-card, beneficiary, transaction, complaint and other PDS-related services."
+    },
+    {
+      "question": "Can I apply for a ration card online?",
+      "answer": "Online application availability depends on the concerned State or Union Territory PDS portal."
+    },
+    {
+      "question": "Are PDS portals the same for every State?",
+      "answer": "No. PDS portals and available services can differ between States and Union Territories."
+    },
+    {
+      "question": "How do I find the correct PDS portal?",
+      "answer": "Use the official PDS or Food and Civil Supplies website of the concerned State or Union Territory."
+    },
+    {
+      "question": "Is it safe to enter my ration-card details on any PDS website?",
+      "answer": "Use only official government PDS portals or authorized systems and do not provide personal information to unofficial websites."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

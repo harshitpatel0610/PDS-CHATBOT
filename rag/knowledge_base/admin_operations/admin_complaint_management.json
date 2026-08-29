@@ -1,0 +1,94 @@
+{
+  "id": "admin_complaint_management",
+  "intent": "admin_complaint_management",
+  "category": "admin_operations",
+  "title": "PDS Admin Complaint Management",
+
+  "facts": {
+    "summary": "An authorized PDS administrator can review and manage complaints submitted through the applicable PDS complaint-management system.",
+
+    "management_operations": [
+      "View submitted complaints.",
+      "Review complaint details.",
+      "Check complaint status.",
+      "Assign or forward complaints to the appropriate authority or responsible person when supported by the system.",
+      "Update complaint status when authorized.",
+      "Record resolution or action taken when supported by the system."
+    ],
+
+    "how_to_access": [
+      "Log in using the authorized administrator account.",
+      "Open the complaint or grievance management section.",
+      "Select the complaint that requires review.",
+      "Review the available complaint details and current status.",
+      "Take the authorized action and update the complaint record when applicable."
+    ],
+
+    "complaint_information": [
+      "Complaint identification or reference information.",
+      "Customer or beneficiary information available to the administrator.",
+      "Complaint description.",
+      "Complaint category or type where supported.",
+      "Current complaint status.",
+      "Action or resolution information recorded in the system."
+    ],
+
+    "status_management": "An authorized administrator may update complaint status according to the workflow and permissions of the applicable PDS system.",
+
+    "resolution": "Complaint resolution depends on the nature of the complaint, verification performed and the applicable administrative procedure.",
+
+    "escalation": "Complaints that require further action may be forwarded or escalated according to the applicable State/UT grievance procedure and system workflow.",
+
+    "access_control": "Complaint information should only be accessed and modified by authorized administrative users.",
+
+    "privacy": "Complaint records may contain beneficiary or other personal information and should be handled only for legitimate administrative purposes.",
+
+    "state_specific": "The complaint categories, statuses, assignment process, escalation workflow and available administrative actions can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Only authorized administrators should manage complaint records.",
+      "Do not close or mark a complaint as resolved without appropriate action or verification.",
+      "Do not assume that every administrator has permission to modify complaint status.",
+      "Do not expose complaint or beneficiary information to unauthorized users.",
+      "The exact complaint workflow depends on the applicable PDS system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can an admin manage customer complaints?",
+      "answer": "An authorized PDS administrator can review and manage complaints through the applicable complaint-management system."
+    },
+    {
+      "question": "What can an admin do with a complaint?",
+      "answer": "Depending on permissions, an administrator may view complaint details, check status, assign or forward complaints, update status and record resolution or action taken."
+    },
+    {
+      "question": "How can an admin view complaints?",
+      "answer": "Log in using the authorized administrator account and open the complaint or grievance management section."
+    },
+    {
+      "question": "Can an admin change complaint status?",
+      "answer": "An authorized administrator may update complaint status according to the workflow and permissions provided by the applicable PDS system."
+    },
+    {
+      "question": "Can an admin escalate a complaint?",
+      "answer": "A complaint may be forwarded or escalated when required, according to the applicable State/UT grievance procedure and system workflow."
+    },
+    {
+      "question": "When should a complaint be marked resolved?",
+      "answer": "A complaint should be marked resolved only after the appropriate action or verification has been completed according to the applicable procedure."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "complaint_status",
+  "intent": "complaint_status",
+  "category": "complaint",
+  "title": "PDS Complaint Status",
+
+  "facts": {
+    "summary": "A beneficiary can check the status of a submitted PDS complaint through the applicable official grievance or complaint-status system of the concerned State or Union Territory, where such a facility is available.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for the applicable PDS grievance-management process.",
+
+    "status_tracking": [
+      "Use the official complaint-status facility provided by the concerned State or Union Territory.",
+      "Enter the complaint or reference number requested by the applicable system.",
+      "Follow any additional verification or information requested by the official system."
+    ],
+
+    "reference_number": "A complaint reference or acknowledgement number may be generated when a complaint is submitted. The beneficiary should retain it for future status tracking.",
+
+    "possible_statuses": [
+      "Submitted or registered",
+      "Under process or under review",
+      "Resolved",
+      "Other status labels defined by the applicable State/UT grievance system"
+    ],
+
+    "status_meaning": "The exact meaning and labels of complaint statuses can vary according to the grievance system used by the concerned State or Union Territory.",
+
+    "online_availability": "Online complaint-status tracking depends on the grievance-management system provided by the concerned State or Union Territory.",
+
+    "if_status_not_available": "If an online status facility is unavailable or the complaint cannot be located, the beneficiary should contact the concerned State/UT Food and Civil Supplies authority through its official assistance or grievance channel.",
+
+    "state_specific": "The complaint-status portal, required information, status labels and tracking procedure can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Keep the complaint reference or acknowledgement number after filing a complaint.",
+      "Use only the official State/UT grievance or complaint-status system.",
+      "Do not assume that every State/UT uses the same complaint-status categories.",
+      "A complaint showing as submitted does not necessarily mean that it has been resolved.",
+      "Do not provide an exact status or resolution unless it is obtained from the applicable official system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I check my ration complaint status?",
+      "answer": "Use the official complaint-status facility of your State or Union Territory and provide the complaint or reference number requested by the system."
+    },
+    {
+      "question": "Where can I check my PDS complaint status?",
+      "answer": "Check the official PDS or Food and Civil Supplies grievance system of the concerned State or Union Territory."
+    },
+    {
+      "question": "What number do I need to track my complaint?",
+      "answer": "Use the complaint or acknowledgement/reference number provided when the complaint was submitted, if one was generated."
+    },
+    {
+      "question": "I lost my complaint reference number. What should I do?",
+      "answer": "Contact the concerned State/UT Food and Civil Supplies authority through its official assistance or grievance channel to determine the available recovery procedure."
+    },
+    {
+      "question": "My complaint says it is under process. What does that mean?",
+      "answer": "It generally indicates that the complaint is still being reviewed or processed. The exact status meaning depends on the applicable State/UT grievance system."
+    },
+    {
+      "question": "How do I know if my ration complaint is resolved?",
+      "answer": "Check the complaint status through the applicable official State/UT grievance system. The system should display the current status when tracking is available."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

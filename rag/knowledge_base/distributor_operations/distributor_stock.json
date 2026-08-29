@@ -1,0 +1,75 @@
+{
+  "id": "distributor_stock",
+  "intent": "distributor_stock",
+  "category": "distributor_operations",
+  "title": "Distributor PDS Stock",
+
+  "facts": {
+    "summary": "An authorized PDS distributor can view the stock information available for their Fair Price Shop through the applicable PDS management or inventory system.",
+
+    "stock_information": [
+      "Available quantity of PDS commodities.",
+      "Commodity-wise stock information provided by the applicable system.",
+      "Stock changes resulting from recorded distribution transactions, where supported by the system."
+    ],
+
+    "how_to_check": [
+      "Log in using the authorized distributor account.",
+      "Open the stock or inventory section of the PDS system.",
+      "Review the commodity-wise stock information available for the assigned Fair Price Shop."
+    ],
+
+    "stock_update": "Stock information may be updated according to supply receipts, recorded distribution transactions and other inventory operations supported by the applicable PDS system.",
+
+    "distribution_effect": "When a distribution transaction is correctly recorded, the applicable inventory system may update the available stock accordingly.",
+
+    "stock_accuracy": "Stock records should accurately reflect the commodities available for distribution.",
+
+    "low_stock": "If the available stock becomes insufficient, the distributor should follow the applicable State/UT procedure for stock replenishment or reporting.",
+
+    "access": "Stock information should only be accessible to authorized users according to the permissions of the applicable PDS system.",
+
+    "state_specific": "The stock-management workflow, displayed fields, update mechanism and replenishment procedure can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that every State/UT uses the same inventory system.",
+      "Do not manually alter stock records unless the applicable system and authorization permit it.",
+      "Stock should be reconciled with actual inventory and recorded transactions.",
+      "For stock replenishment procedures, follow the applicable official State/UT instructions."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can a distributor check available ration stock?",
+      "answer": "An authorized distributor can log in to the applicable PDS management system and open the stock or inventory section to view available commodity-wise stock."
+    },
+    {
+      "question": "Can a distributor see commodity-wise stock?",
+      "answer": "Yes, where the applicable PDS system provides inventory information, an authorized distributor can view the available stock for their assigned Fair Price Shop."
+    },
+    {
+      "question": "Does ration distribution reduce distributor stock?",
+      "answer": "When a distribution transaction is correctly recorded, the applicable inventory system may update the available stock accordingly."
+    },
+    {
+      "question": "What should a distributor do when stock is low?",
+      "answer": "The distributor should follow the applicable State/UT procedure for reporting low stock or requesting stock replenishment."
+    },
+    {
+      "question": "Who can access distributor stock information?",
+      "answer": "Stock information should be accessible only to authorized users according to the permissions of the applicable PDS system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

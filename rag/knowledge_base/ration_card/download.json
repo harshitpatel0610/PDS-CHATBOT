@@ -1,0 +1,76 @@
+{
+  "id": "ration_card_download",
+  "intent": "ration_card_download",
+  "category": "ration_card",
+  "title": "Downloading a Ration Card",
+
+  "facts": {
+    "summary": "Where a digital ration-card download facility is provided, beneficiaries can obtain or download their ration-card document through the official system of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card records and providing applicable digital services.",
+
+    "download_availability": "Availability of an online ration-card download facility depends on the concerned State or Union Territory.",
+
+    "where_to_download": "Beneficiaries should use the official ration-card portal or authorized Food and Civil Supplies system of the concerned State or Union Territory.",
+
+    "required_details": "The information required for downloading a ration card depends on the applicable State/UT portal. The system may require the ration-card number, application/reference details, registered mobile number, or other authentication information.",
+
+    "authentication": "Some State/UT systems may require authentication or verification before allowing a ration-card document to be downloaded.",
+
+    "physical_card": "The availability and procedure for obtaining a physical ration card depend on the concerned State or Union Territory.",
+
+    "download_format": "The format and type of digital ration-card document provided depend on the concerned State or Union Territory system.",
+
+    "fees": "Any fee associated with obtaining or downloading a ration-card document is determined by the concerned State or Union Territory authority.",
+
+    "important_notes": [
+      "Digital ration-card download availability is State/UT specific.",
+      "Use official government portals or authorized systems.",
+      "Do not use unofficial websites to obtain ration-card records.",
+      "The required login or verification details may differ between State/UT systems.",
+      "The availability of a downloadable digital copy does not necessarily mean that every State/UT provides the same type of document."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I download my ration card?",
+      "answer": "Use the official ration-card or Food and Civil Supplies portal of the concerned State or Union Territory if a digital download facility is available."
+    },
+    {
+      "question": "Can I download my ration card online?",
+      "answer": "Online download availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Where can I download my digital ration card?",
+      "answer": "Use the official ration-card portal or authorized Food and Civil Supplies system of the concerned State or Union Territory."
+    },
+    {
+      "question": "What details are needed to download a ration card?",
+      "answer": "The required details depend on the State/UT system and may include ration-card or application details and authentication information."
+    },
+    {
+      "question": "Can I download my ration card using my ration card number?",
+      "answer": "Some State/UT systems may use the ration-card number as part of the download or verification process. The exact procedure depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Is there a fee to download a ration card?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    },
+    {
+      "question": "I cannot download my ration card. What should I do?",
+      "answer": "Check the official State/UT ration-card portal for the applicable procedure or contact the concerned Food and Civil Supplies authority for assistance."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

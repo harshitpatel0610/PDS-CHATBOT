@@ -1,0 +1,83 @@
+{
+  "id": "aadhaar_linking",
+  "intent": "aadhaar_linking",
+  "category": "aadhaar_linking",
+  "title": "Aadhaar Linking with Ration Card",
+
+  "facts": {
+    "summary": "Aadhaar-related authentication or seeding with a ration-card record may be available through the applicable State or Union Territory PDS process. The exact procedure depends on the concerned authority and system.",
+
+    "purpose": [
+      "Aadhaar can be used for beneficiary authentication where supported by the applicable PDS system.",
+      "Aadhaar seeding or linking may be available as part of the beneficiary-record process.",
+      "The applicable State/UT authority determines the operational procedure for Aadhaar-related PDS services."
+    ],
+
+    "possible_methods": [
+      "Use the applicable State or Union Territory PDS portal if Aadhaar-related services are provided online.",
+      "Visit the designated Food and Civil Supplies or PDS office when an offline process is required.",
+      "Use an authorized PDS or ePoS facility where Aadhaar authentication is supported."
+    ],
+
+    "requirements": [
+      "The beneficiary may need to provide the information requested by the applicable PDS system.",
+      "Aadhaar details may be required where Aadhaar seeding or authentication is supported.",
+      "Additional documents or verification may be required according to State/UT procedures."
+    ],
+
+    "verification": "Aadhaar-based authentication, where used, is performed through the applicable authorized system and procedure.",
+
+    "privacy": [
+      "Aadhaar information is sensitive personal information and should only be provided through authorized channels.",
+      "Do not share Aadhaar details with unauthorized persons.",
+      "Use official government portals, offices or authorized PDS facilities for Aadhaar-related services."
+    ],
+
+    "state_specific": "The availability of Aadhaar linking, required documents, authentication method and application procedure can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that Aadhaar linking is performed through the same process in every State/UT.",
+      "Do not invent a specific online portal or offline office without State/UT-specific information.",
+      "Aadhaar linking and Aadhaar authentication are related but are not necessarily the same operation.",
+      "For account-specific problems, contact the concerned State/UT PDS authority or use its official grievance mechanism."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can I link Aadhaar with my ration card?",
+      "answer": "Aadhaar-related seeding or authentication may be available through the applicable State/UT PDS process. The exact procedure depends on the concerned authority."
+    },
+    {
+      "question": "How can I link Aadhaar to my ration card?",
+      "answer": "Follow the Aadhaar-related service provided by your State/UT PDS authority, which may be available through an official portal, designated office or authorized PDS facility."
+    },
+    {
+      "question": "Can I link Aadhaar online with my ration card?",
+      "answer": "Online availability depends on the concerned State or Union Territory PDS system."
+    },
+    {
+      "question": "Can Aadhaar be used for ration authentication?",
+      "answer": "Aadhaar-based authentication may be used where supported by the applicable PDS system."
+    },
+    {
+      "question": "What documents are required for Aadhaar linking?",
+      "answer": "The required information and documents depend on the applicable State/UT procedure."
+    },
+    {
+      "question": "Is Aadhaar linking the same as Aadhaar authentication?",
+      "answer": "No. Aadhaar linking or seeding and Aadhaar authentication are distinct operations, although both may be used in PDS beneficiary processes."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

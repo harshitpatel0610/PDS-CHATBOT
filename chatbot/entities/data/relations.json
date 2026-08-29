@@ -1,0 +1,34 @@
+[
+    "husband",
+    "mother",
+    "son",
+    "daughter",
+    "brother",
+    "sister",
+    "grandfather",
+    "grandmother",
+    "guardian",
+    "dependent",
+
+
+    
+    {
+        "name":"wife",
+        "aliases":[
+            "spouse",
+            "better half"
+        ]
+    },
+    {
+        "name":"father",
+        "aliases":[
+            "dad",
+            "papa",
+            "pitaji"
+        ]
+    }
+
+
+
+]
+

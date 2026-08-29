@@ -1,0 +1,11 @@
+{
+    "state": "Bihar",
+    "is_ut": false,
+    "official_department_name": "Food and Civil Supplies Department",
+    "official_portal_url": "http://epds.bihar.gov.in/",
+    "source_type": "official_government",
+    "acquisition_status": "fetched",
+    "verification_status": "unverified",
+    "accessed_at": "20260827T055030Z",
+    "notes": "URL confidently known."
+}

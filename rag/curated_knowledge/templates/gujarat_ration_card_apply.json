@@ -1,0 +1,133 @@
+{
+  "state": "Gujarat",
+  "intent": "ration_card_apply",
+  "last_updated": "2026-08-29",
+  "sources": [
+    {
+      "id": "guj_dcs_01",
+      "name": "Directorate of Food & Civil Supplies, Gujarat",
+      "url": "https://dcs-dof.gujarat.gov.in/",
+      "type": "official_government",
+      "accessed_at": "2026-08-28T13:55:00Z"
+    },
+    {
+      "id": "guj_digital_01",
+      "name": "Digital Gujarat Portal",
+      "url": "https://www.digitalgujarat.gov.in",
+      "type": "official_government",
+      "accessed_at": "2026-08-28T13:55:00Z"
+    },
+    {
+      "id": "guj_dcs_02",
+      "name": "Directorate of Food & Civil Supplies, Gujarat - Ration Card Services",
+      "url": "https://dcs-dof.gujarat.gov.in/en/ration-card",
+      "type": "official_government",
+      "accessed_at": "2026-08-29T19:20:00Z"
+    },
+    {
+      "id": "guj_form_02",
+      "name": "Form No. 2 - Gujarat Ration Card Application",
+      "url": "https://dcs-dof.gujarat.gov.in/appli-1(1).pdf",
+      "type": "official_form",
+      "accessed_at": "2026-08-29T19:20:00Z"
+    }
+  ],
+  "data": {
+    "processing_time": {
+      "value": "15 days",
+      "source_id": "guj_dcs_02",
+      "evidence_quote": "Processing/Days: 15"
+    },
+    "fees": {
+      "value": "AAY & Priority Household/BPL: Free of cost (New ration card / New ration card by division), Rs. 5 (Duplicate). APL-1: Rs. 20 (New ration card / New ration card by division), Rs. 30 (Duplicate). APL-2: Rs. 20 (New ration card), Rs. 40 (New ration card by division / Duplicate). Form-2: Free of cost.",
+      "source_id": "guj_dcs_02",
+      "evidence_quote": "Form price: Free of cost ... Antyodaya Anna Yojna: New ration card: Free of cost, New ration card by division: Free of cost, Duplicate ration card: Rs. 5 ... Priority Household / BPL: New ration card: Free of cost, New ration card by division: Free of cost, Duplicate ration card: Rs. 5 ... APL-1: New ration card: Rs. 20, New ration card by division: Rs. 20, Duplicate ration card: Rs. 30 ... APL-2: New ration card: Rs. 20, New ration card by division: Rs. 40, Duplicate ration card: Rs. 40"
+    },
+    "online_available": {
+      "value": true,
+      "source_id": "guj_dcs_01",
+      "evidence_quote": "Public user can apply for these services online. All these application are available on comman service portal i.e. Digital Gujarat portal."
+    },
+    "offline_available": {
+      "value": true,
+      "source_id": "guj_dcs_02",
+      "evidence_quote": "Families can apply through e-Gram center, Taluka Jan Seva Kendra, Zonal Office"
+    },
+    "application_url": {
+      "value": "https://www.digitalgujarat.gov.in",
+      "source_id": "guj_dcs_02",
+      "evidence_quote": "https://digitalgujarat.gov.in"
+    },
+    "required_documents": [
+      {
+        "document_name": "Election ID Card",
+        "is_mandatory": true,
+        "condition": "Mandatory for all members above 20 years",
+        "source_id": "guj_form_02",
+        "evidence_quote": "૧. ચૂંટણી ઓળખકાર્ડની ઝેરોક્ષ. ૨૦ વષડથી ઉિરના બધા સભ્યોએ ચૂંટણી ઓળખકાર્ડ આિવું ફરજીયાત છે."
+      },
+      {
+        "document_name": "Residential Proof",
+        "is_mandatory": true,
+        "condition": null,
+        "source_id": "guj_form_02",
+        "evidence_quote": "૨. રહેણાંકના પુરાવાની નકલ."
+      },
+      {
+        "document_name": "Assessment Register / Property Tax Receipt / Property Card",
+        "is_mandatory": false,
+        "condition": "In case of ownership",
+        "source_id": "guj_form_02",
+        "evidence_quote": "૩. માલિકીના કિસ્સામાં આકારણીપત્રક/મિલકત વેરાની પહોંચ/ પ્રોપર્ટી કાર્ડની નકલ રજૂ કરવી"
+      },
+      {
+        "document_name": "Rent Agreement, Owner's Consent and Proof of Property",
+        "is_mandatory": false,
+        "condition": "In case of rented accommodation",
+        "source_id": "guj_form_02",
+        "evidence_quote": "૪. ભાડાના કિસ્સામાં ભાડા કરાર, મકાન માલિકની સંમતિ તથા મિલકતનો પુરાવો રજૂ કરવો."
+      },
+      {
+        "document_name": "Aadhaar Card or Election Card",
+        "is_mandatory": false,
+        "condition": "In case of a slum",
+        "source_id": "guj_form_02",
+        "evidence_quote": "૫. ઝૂંપડપટ્ટીનાં કિસ્સામાં આધારકાર્ડ કે ચૂંટણીકાર્ડની નકલ રજૂ કરવી"
+      },
+      {
+        "document_name": "Self-attested photocopies of all proofs",
+        "is_mandatory": true,
+        "condition": "No affidavit required",
+        "source_id": "guj_form_02",
+        "evidence_quote": "નોંધ: તમામ પુરાવાની સ્વયં પ્રમાણીત ઝેરોક્ષ નકલ આપવાની ફરજીયાત છે પરંતુ કોઇ એફીડેવીટ કરવાની રહેશે નહિ."
+      }
+    ],
+    "process_steps": [
+      {
+        "step_number": 1,
+        "description": "Submit the application through e-Gram center, Taluka Jan Seva Kendra, Zonal Office, Digital Gujarat Portal, or Digital SevaSetu Portal using Form-2.",
+        "source_id": "guj_dcs_02",
+        "evidence_quote": "Families can apply through e-Gram center, Taluka Jan Seva Kendra, Zonal Office, Digital Gujarat Portal, or Digital SevaSetu Portal. ... Form: Form-2"
+      },
+      {
+        "step_number": 2,
+        "description": "Family members have to complete e-KYC.",
+        "source_id": "guj_dcs_02",
+        "evidence_quote": "Family members have to complete e-KYC."
+      },
+      {
+        "step_number": 3,
+        "description": "Taluka Mamlatdar/Zonal Officer verifies the application.",
+        "source_id": "guj_dcs_02",
+        "evidence_quote": "Taluka Mamlatdar/Zonal Officer verifies the application."
+      },
+      {
+        "step_number": 4,
+        "description": "Spot visit may be conducted where necessary.",
+        "source_id": "guj_dcs_02",
+        "evidence_quote": "Spot visit may be conducted where necessary."
+      }
+    ]
+  },
+  "verification_status": "verified"
+}

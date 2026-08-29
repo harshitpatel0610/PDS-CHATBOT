@@ -1,0 +1,83 @@
+{
+  "id": "customer_login",
+  "intent": "customer_login",
+  "category": "authentication",
+  "title": "Customer Login",
+
+  "facts": {
+    "summary": "Customer login allows an authorized PDS customer to access the customer-facing services of the PDS system.",
+
+    "purpose": [
+      "Authenticate a PDS customer.",
+      "Allow customers to access protected customer services.",
+      "Provide access to customer-specific information and services."
+    ],
+
+    "login_method": "The customer must use the customer login interface and provide the information requested by the configured PDS authentication system.",
+
+    "authentication": "The customer must complete the applicable authentication or verification step before accessing protected services.",
+
+    "access": [
+      "Successful authentication allows the customer to access services available to their account.",
+      "Customer access is limited according to the permissions and services configured for the customer role."
+    ],
+
+    "security": [
+      "Use only the official PDS login interface.",
+      "Do not share OTPs, passwords or other authentication credentials.",
+      "Do not allow unauthorized people to access the customer account."
+    ],
+
+    "failed_login": "If the customer cannot log in, the user should first verify the information entered and then follow the applicable login recovery or support process.",
+
+    "scope": [
+      "Customer authentication.",
+      "Customer account login.",
+      "Customer login procedure."
+    ],
+
+    "important_notes": [
+      "Customer login is different from admin login.",
+      "Customer login is different from distributor login.",
+      "A customer ID inquiry should be handled by the customer_id_inquiry intent.",
+      "An OTP delivery or verification problem should be handled by the otp_issue intent.",
+      "A generic login failure should be handled by the login_not_working intent."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How do I log in as a customer?",
+      "answer": "Use the official customer login interface and complete the authentication or verification steps required by the PDS system."
+    },
+    {
+      "question": "Who can use customer login?",
+      "answer": "Customer login is intended for authorized customers with an account in the PDS system."
+    },
+    {
+      "question": "What information is required for customer login?",
+      "answer": "The required information depends on the authentication mechanism configured by the PDS system. Enter the information requested on the official customer login interface."
+    },
+    {
+      "question": "Is customer login the same as admin login?",
+      "answer": "No. Customer and admin accounts have different roles and access permissions."
+    },
+    {
+      "question": "Is customer login the same as distributor login?",
+      "answer": "No. Customer and distributor accounts have different roles and access permissions."
+    },
+    {
+      "question": "What should I do if I cannot log in as a customer?",
+      "answer": "Verify the information entered and follow the applicable login recovery or support process. If the issue persists, use the official PDS support mechanism."
+    },
+    {
+      "question": "Can I share my customer OTP?",
+      "answer": "No. OTPs and other authentication credentials should never be shared with anyone."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

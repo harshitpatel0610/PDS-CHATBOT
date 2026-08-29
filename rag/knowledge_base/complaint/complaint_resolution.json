@@ -1,0 +1,81 @@
+{
+  "id": "complaint_resolution",
+  "intent": "complaint_resolution",
+  "category": "complaint",
+  "title": "PDS Complaint Resolution",
+
+  "facts": {
+    "summary": "A PDS complaint is reviewed and handled through the applicable grievance mechanism of the concerned State or Union Territory. The resolution process and responsible authority can vary according to the nature of the complaint and State/UT procedures.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for handling applicable PDS grievances and taking appropriate action according to its procedures.",
+
+    "resolution_process": [
+      "The submitted complaint is registered through the applicable grievance system.",
+      "The complaint is reviewed by the responsible authority or designated grievance mechanism.",
+      "Additional information or verification may be requested when necessary.",
+      "The responsible authority takes appropriate action according to the applicable rules and procedures.",
+      "The complaint status may be updated through the applicable grievance system."
+    ],
+
+    "possible_outcomes": [
+      "Complaint resolved after verification or corrective action.",
+      "Complaint may remain under review or processing.",
+      "Additional information may be requested from the complainant.",
+      "The complaint may be forwarded to the appropriate authority or department."
+    ],
+
+    "resolution_time": "The time required to resolve a complaint depends on the nature of the issue and the applicable State/UT grievance procedure. A universal resolution time should not be assumed.",
+
+    "tracking": "Where complaint-status tracking is available, the beneficiary can use the complaint or reference number to check the current status.",
+
+    "escalation": "If the complaint remains unresolved, the beneficiary should follow the escalation procedure provided by the concerned State/UT grievance system.",
+
+    "state_specific": "The responsible authority, escalation process, status labels and resolution timelines can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not guarantee a particular resolution or resolution time.",
+      "The exact action taken depends on the facts of the complaint and applicable rules.",
+      "A complaint being registered does not mean that it has already been resolved.",
+      "Use the official State/UT grievance system to track the complaint.",
+      "Do not invent State-specific escalation authorities or timelines."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How is a PDS complaint resolved?",
+      "answer": "The complaint is reviewed through the applicable State/UT grievance mechanism, and the responsible authority takes appropriate action according to the applicable rules and procedures."
+    },
+    {
+      "question": "How long does it take to resolve a ration complaint?",
+      "answer": "Resolution time depends on the nature of the complaint and the applicable State/UT procedure. A universal resolution time should not be assumed."
+    },
+    {
+      "question": "What happens after I file a PDS complaint?",
+      "answer": "The complaint is registered and reviewed by the applicable grievance authority. Additional information or verification may be requested before appropriate action is taken."
+    },
+    {
+      "question": "What if my complaint is not resolved?",
+      "answer": "Check the complaint status and follow the escalation procedure provided by the concerned State/UT grievance system."
+    },
+    {
+      "question": "Can my complaint be forwarded to another authority?",
+      "answer": "Yes. Depending on the nature of the complaint, it may be forwarded to the appropriate authority or department according to the applicable grievance procedure."
+    },
+    {
+      "question": "How do I know whether my complaint has been resolved?",
+      "answer": "Use the applicable official complaint-status system to check the current status of your complaint, where tracking is available."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "transaction_history",
+  "intent": "transaction_history",
+  "category": "history",
+  "title": "PDS Transaction History",
+
+  "facts": {
+    "summary": "A beneficiary may be able to view records of previous PDS ration-distribution transactions through the applicable official State or Union Territory PDS system.",
+
+    "transaction_information": [
+      "A transaction record can contain information about a ration distribution event.",
+      "The information available to the beneficiary depends on the PDS system implemented by the concerned State or Union Territory.",
+      "Electronic distribution records may be generated when ration is distributed through an applicable ePoS-enabled system."
+    ],
+
+    "online_availability": "Availability of an online transaction-history facility depends on the concerned State or Union Territory PDS system.",
+
+    "how_to_check": [
+      "Use the official PDS or Food and Civil Supplies portal of the concerned State/UT, where transaction-history access is available.",
+      "Use the beneficiary or ration-card information requested by the official system.",
+      "Review the available historical distribution records."
+    ],
+
+    "transaction_details": "Depending on the applicable system, transaction records may provide information such as the distribution event, date, commodities or quantities distributed, and other transaction-related details.",
+
+    "ePoS": "Where an ePoS-enabled distribution system is used, the ration distribution transaction can be recorded electronically.",
+
+    "missing_transaction": "If an expected transaction is not visible, the beneficiary should verify the applicable State/UT PDS system and contact the concerned Fair Price Shop or Food and Civil Supplies authority if necessary.",
+
+    "state_specific": "The availability, fields displayed, retention period and method of accessing transaction history can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that every State/UT provides the same transaction-history information.",
+      "Use official government PDS systems for transaction records.",
+      "An online transaction record may not contain every detail of the physical distribution event.",
+      "Do not assume that absence of an online record automatically proves that ration was not distributed.",
+      "For beneficiary-specific transaction information, the applicable State/UT system should be treated as the authoritative source."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I check my ration transaction history?",
+      "answer": "Use the official PDS or Food and Civil Supplies portal of your State or Union Territory, where transaction-history access is available."
+    },
+    {
+      "question": "Can I see my previous ration transactions online?",
+      "answer": "Some State/UT PDS systems provide online transaction-history information. Availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What information is shown in ration transaction history?",
+      "answer": "Depending on the applicable system, transaction records may show information such as the distribution date, commodities or quantities distributed and other transaction details."
+    },
+    {
+      "question": "My ration transaction is missing online. What should I do?",
+      "answer": "Verify the applicable State/UT PDS system and contact the concerned Fair Price Shop or Food and Civil Supplies authority if the transaction remains unavailable."
+    },
+    {
+      "question": "Does ePoS record ration transactions?",
+      "answer": "Where an ePoS-enabled system is used, ration distribution transactions can be recorded electronically."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

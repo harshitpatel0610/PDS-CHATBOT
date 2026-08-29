@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "APL",
+    "aliases": [
+      "APL",
+      "Above Poverty Line",
+      "above poverty line card"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BPL",
+    "aliases": [
+      "BPL",
+      "Below Poverty Line",
+      "below poverty line card"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "AAY",
+    "aliases": [
+      "AAY",
+      "Antyodaya Anna Yojana",
+      "Antyodaya Card",
+      "Yellow Card"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PHH",
+    "aliases": [
+      "PHH",
+      "Priority Household",
+      "priority household card"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "NPHH",
+    "aliases": [
+      "NPHH",
+      "Non Priority Household",
+      "non priority household card"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "AY",
+    "aliases": [
+      "Annapurna Yojana",
+      "AY"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "White Card",
+    "aliases": [
+      "White Card",
+      "white ration card"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pink Card",
+    "aliases": [
+      "Pink Card",
+      "pink ration card"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Orange Card",
+    "aliases": [
+      "Orange Card",
+      "orange ration card"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Green Card",
+    "aliases": [
+      "Green Card",
+      "green ration card"
+    ]
+  }
+]

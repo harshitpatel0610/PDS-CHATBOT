@@ -1,0 +1,83 @@
+{
+  "id": "migrant_ration",
+  "intent": "migrant_ration",
+  "category": "portability",
+  "title": "Ration Access for Migrant Beneficiaries",
+
+  "facts": {
+    "summary": "Eligible migrant beneficiaries can use PDS portability to access their entitled food grains away from their home location through the One Nation One Ration Card (ONORC) framework, subject to applicable eligibility, authentication and system requirements.",
+
+    "purpose": [
+      "Help migrant beneficiaries access their eligible food-grain entitlements after moving to another location.",
+      "Support portability of PDS benefits without requiring a new ration card solely because of migration.",
+      "Provide greater flexibility to beneficiaries who move for employment or other reasons."
+    ],
+
+    "portability": "An eligible beneficiary covered under the applicable portability framework can access entitled food grains from a participating Fair Price Shop at the migrant or current location.",
+
+    "home_state": "The ration-card record remains associated with the issuing State or Union Territory while eligible portability allows access to benefits at participating locations.",
+
+    "new_ration_card": "A beneficiary generally does not need to obtain a new ration card solely because they temporarily migrate to another participating location under the portability framework.",
+
+    "authentication": "Beneficiary authentication may be performed through the ePoS system using the authentication mechanism supported by the applicable PDS system.",
+
+    "fair_price_shop": "The beneficiary can approach a participating Fair Price Shop at the current location to access the applicable portable entitlement.",
+
+    "eligibility": "Portability is available to eligible beneficiaries covered under the applicable NFSA/PDS framework and participating portability system.",
+
+    "family": "Where supported by the applicable portability system, eligible members of a household may access their applicable entitlements according to the system's rules.",
+
+    "limitations": [
+      "Portability applies to eligible PDS food-grain entitlements and does not automatically make every PDS service portable.",
+      "The beneficiary must satisfy the applicable authentication and system requirements.",
+      "The exact transaction and authentication process depends on the participating PDS system."
+    ],
+
+    "state_specific": "Implementation details and operational procedures can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that migration requires cancellation of the existing ration card.",
+      "Do not assume that a migrant beneficiary can access services unrelated to portable food-grain entitlements.",
+      "Do not invent a specific Fair Price Shop, location or entitlement amount.",
+      "For transaction-specific problems, contact the applicable PDS authority or use the official grievance mechanism."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can migrants get ration in another State?",
+      "answer": "Eligible migrant beneficiaries can access their applicable food-grain entitlements at participating locations under the PDS portability framework."
+    },
+    {
+      "question": "Do migrants need a new ration card?",
+      "answer": "A beneficiary generally does not need a new ration card solely because they temporarily move to another participating location under the portability framework."
+    },
+    {
+      "question": "Where can a migrant collect ration?",
+      "answer": "An eligible migrant beneficiary can approach a participating Fair Price Shop at the current location to access the applicable portable entitlement."
+    },
+    {
+      "question": "How are migrant beneficiaries verified?",
+      "answer": "Authentication may be performed through the ePoS system using the authentication mechanism supported by the applicable PDS system."
+    },
+    {
+      "question": "Can I use my ration card outside my home State?",
+      "answer": "Eligible beneficiaries can use PDS portability at participating locations outside their home State or Union Territory, subject to the applicable system and entitlement."
+    },
+    {
+      "question": "Can migrants use every ration-card service in another State?",
+      "answer": "No. Portability primarily concerns eligible food-grain entitlements. Other PDS services may follow separate State/UT procedures."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "state": "Uttar Pradesh",
+    "source_url": "https://eproc.up.gov.in/Paddy2324/Uparjan/Mukhyalay/PublicReport/PurchaseCounter_Agency.aspx",
+    "final_url": "https://eproc.up.gov.in/Paddy2324/Uparjan/Mukhyalay/PublicReport/PurchaseCounter_Agency.aspx",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=utf-8",
+    "http_status": 200,
+    "discovered_from": "https://fcs.up.gov.in/",
+    "sha256": "8e24ac02f88cafb4c31c8355e7d826bc1b939671f94648d915367f9683f46c87",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

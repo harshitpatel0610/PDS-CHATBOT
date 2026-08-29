@@ -1,0 +1,75 @@
+{
+  "id": "one_nation_one_ration_card",
+  "intent": "one_nation_one_ration_card",
+  "category": "scheme_information",
+  "title": "One Nation One Ration Card (ONORC)",
+
+  "facts": {
+    "summary": "One Nation One Ration Card (ONORC) enables eligible NFSA beneficiaries to access their entitled food grains through portability when they move between participating States or Union Territories.",
+
+    "purpose": [
+      "Support portability of ration entitlements.",
+      "Help migrant beneficiaries access their eligible food-grain entitlements away from their home location.",
+      "Enable beneficiaries to use the PDS network at participating locations."
+    ],
+
+    "portability": "An eligible beneficiary can use ration portability at a participating Fair Price Shop outside the location where the ration card was originally issued, subject to the applicable system and entitlement.",
+
+    "migrant_beneficiaries": "ONORC is particularly useful for beneficiaries who move to another State or Union Territory for employment or other reasons.",
+
+    "authentication": "Beneficiary authentication may be performed through the electronic Point of Sale (ePoS) system and the authentication mechanism supported by the applicable PDS system.",
+
+    "ration_card": "Beneficiaries generally do not need to obtain a new ration card solely because they temporarily move to another participating location under the portability framework.",
+
+    "fair_price_shop": "Portability can allow eligible beneficiaries to obtain their entitled food grains from a participating Fair Price Shop at their current location.",
+
+    "eligibility": "Access to portability depends on the beneficiary being covered under the applicable NFSA/PDS framework and the relevant ONORC implementation.",
+
+    "state_implementation": "ONORC operates across participating States and Union Territories through integration of their PDS systems.",
+
+    "important_notes": [
+      "ONORC portability does not mean that ration-card eligibility rules are identical across all States/UTs.",
+      "The beneficiary's applicable entitlement remains subject to the relevant PDS and NFSA rules.",
+      "Do not assume that every PDS service is portable merely because ONORC portability is available.",
+      "Authentication and transaction requirements depend on the applicable PDS system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is One Nation One Ration Card?",
+      "answer": "ONORC enables eligible NFSA beneficiaries to access their entitled food grains through PDS portability when they move between participating States or Union Territories."
+    },
+    {
+      "question": "Can I use my ration card in another State?",
+      "answer": "Eligible beneficiaries can use ration portability at participating locations in another State or Union Territory under the ONORC framework, subject to the applicable system and entitlement."
+    },
+    {
+      "question": "Do migrants need a new ration card?",
+      "answer": "A beneficiary generally does not need a new ration card solely because they temporarily move to another participating location under the portability framework."
+    },
+    {
+      "question": "Where can I collect ration under ONORC?",
+      "answer": "Eligible beneficiaries can access their entitled food grains through participating Fair Price Shops at their current location."
+    },
+    {
+      "question": "How is a beneficiary verified under ONORC?",
+      "answer": "Beneficiary authentication may be performed through the ePoS system and the authentication mechanism supported by the applicable PDS system."
+    },
+    {
+      "question": "Is ONORC available for every PDS service?",
+      "answer": "No. ONORC concerns portability of eligible food-grain entitlements. Other PDS services may follow separate State/UT procedures."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "National Food Security Act implementation authorities"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

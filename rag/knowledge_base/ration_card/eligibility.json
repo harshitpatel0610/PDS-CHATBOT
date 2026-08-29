@@ -1,0 +1,82 @@
+{
+  "id": "ration_card_eligibility",
+  "intent": "ration_card_eligibility",
+  "category": "ration_card",
+  "title": "Ration Card Eligibility",
+
+  "facts": {
+    "summary": "Eligibility for a ration card and inclusion under the Public Distribution System depends on the applicable rules and beneficiary identification framework of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory is responsible for identifying eligible households and issuing ration cards according to applicable rules.",
+
+    "nfsa_framework": "Under the National Food Security Act framework, States and Union Territories identify eligible households within the applicable coverage and identification framework.",
+
+    "beneficiary_categories": [
+      "Priority Household (PHH)",
+      "Antyodaya Anna Yojana (AAY)"
+    ],
+
+    "phh": "Priority Household (PHH) beneficiary identification is handled by the concerned State or Union Territory according to applicable criteria.",
+
+    "aay": "Antyodaya Anna Yojana (AAY) beneficiary identification is handled by the concerned State or Union Territory according to applicable criteria.",
+
+    "eligibility_criteria": "The specific eligibility criteria are determined by the concerned State or Union Territory and may depend on the applicable beneficiary identification rules.",
+
+    "documents": "Documents required to establish eligibility depend on the concerned State or Union Territory and its applicable application procedure.",
+
+    "verification": "The concerned State or Union Territory authority is responsible for verifying applicable beneficiary information and identifying eligible households.",
+
+    "online_check": "Availability of an online eligibility-check facility depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "There is no single eligibility criterion that can be assumed to apply identically across all States and Union Territories.",
+      "Eligibility under NFSA is implemented through the applicable State/UT beneficiary identification framework.",
+      "PHH and AAY beneficiary identification is handled by State/UT authorities.",
+      "Do not assume that income limits, household criteria, documents, or other eligibility conditions are identical across India.",
+      "Applicants should check the official rules of their concerned State or Union Territory."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Who is eligible for a ration card?",
+      "answer": "Eligibility depends on the applicable rules of the concerned State or Union Territory and its beneficiary identification framework."
+    },
+    {
+      "question": "How do I know if I am eligible for a ration card?",
+      "answer": "Check the eligibility criteria prescribed by your concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Who decides ration card eligibility?",
+      "answer": "The concerned State or Union Territory identifies eligible households according to the applicable rules and framework."
+    },
+    {
+      "question": "What is PHH in ration cards?",
+      "answer": "PHH stands for Priority Household. Identification of PHH beneficiaries is handled by the concerned State or Union Territory according to applicable criteria."
+    },
+    {
+      "question": "What is AAY in ration cards?",
+      "answer": "AAY stands for Antyodaya Anna Yojana. Identification of AAY beneficiaries is handled by the concerned State or Union Territory according to applicable criteria."
+    },
+    {
+      "question": "Can I check my ration card eligibility online?",
+      "answer": "Online eligibility-check availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Are ration card eligibility rules the same in every state?",
+      "answer": "No assumption should be made that eligibility criteria are identical across all States and Union Territories. The applicable State/UT rules should be checked."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://dfpd.gov.in/implementation-of-nfsa/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

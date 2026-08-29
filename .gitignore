@@ -1,0 +1,130 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==============================
+# Virtual Environment
+# ==============================
+
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+# Testing / Coverage
+# ==============================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ==============================
+# Jupyter
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# OS Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Build / Packaging
+# ==============================
+
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Local Database Files
+# ==============================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Hugging Face / ML Cache
+# ==============================
+
+.cache/
+.huggingface/
+
+# ==============================
+# Local Model Files
+# ==============================
+
+models/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# ==============================
+# Temporary Files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+
+# ==============================
+# Credentials / Private Keys
+# ==============================
+
+credentials.json
+secrets.json
+*.pem
+*.key
+
+# Local/private test documents
+bill.txt
+
+# Generated test/output files
+audit_output.txt
+audit_report.txt
+eval_output.txt
+output.txt
+router_output.txt
+test_data_output.txt
+test_out.txt
+test_rag_mock_output.txt
+
+# Local Chroma/vector database
+rag/vector_store/
+

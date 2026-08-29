@@ -1,0 +1,81 @@
+{
+  "id": "dealer_misconduct",
+  "intent": "dealer_misconduct",
+  "category": "grievance_escalation",
+  "title": "Fair Price Shop Dealer Misconduct",
+
+  "facts": {
+    "summary": "A beneficiary can report misconduct by a Fair Price Shop dealer through the applicable official PDS grievance mechanism of the concerned State or Union Territory.",
+
+    "misconduct_examples": [
+      "Refusing to provide entitled ration without a valid reason.",
+      "Misbehaviour or inappropriate conduct toward a beneficiary.",
+      "Failure to follow applicable PDS distribution procedures.",
+      "Attempting to deny an eligible beneficiary an applicable PDS service.",
+      "Other conduct by a Fair Price Shop dealer that violates applicable PDS rules."
+    ],
+
+    "complaint_method": [
+      "Use the official PDS or Food and Civil Supplies grievance mechanism of the concerned State/UT, where available.",
+      "Provide accurate details describing the dealer's conduct and the incident.",
+      "Retain the complaint or reference number if one is generated."
+    ],
+
+    "required_information": [
+      "Beneficiary or ration-card information requested by the applicable grievance system.",
+      "Fair Price Shop or dealer information, where available.",
+      "Date or approximate time of the incident, if known.",
+      "A factual description of the misconduct or problem."
+    ],
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for implementing the applicable PDS grievance and enforcement procedures.",
+
+    "investigation": "The competent authority may examine the complaint and take action according to the applicable State/UT rules and procedures.",
+
+    "escalation": "If the complaint is not resolved, the beneficiary should follow the escalation procedure provided by the concerned State/UT grievance system.",
+
+    "state_specific": "The complaint procedure, responsible authority, investigation process and possible action can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Report only factual incidents and provide accurate information.",
+      "Do not assume that the same disciplinary action applies in every State/UT.",
+      "Do not invent a State-specific complaint authority or escalation channel.",
+      "Use official government grievance mechanisms.",
+      "Keep the complaint reference number for tracking."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Where can I complain about a ration shop dealer?",
+      "answer": "Report the issue through the official PDS or Food and Civil Supplies grievance mechanism of your State or Union Territory."
+    },
+    {
+      "question": "What should I do if the ration dealer misbehaves with me?",
+      "answer": "Record the factual details of the incident and submit a complaint through the applicable official State/UT PDS grievance mechanism."
+    },
+    {
+      "question": "Can I complain if a dealer refuses to give my entitled ration?",
+      "answer": "Yes. You can report the issue through the applicable official grievance mechanism of the concerned State or Union Territory."
+    },
+    {
+      "question": "What information should I provide about the dealer?",
+      "answer": "Provide the Fair Price Shop or dealer information requested by the grievance system and a factual description of the incident."
+    },
+    {
+      "question": "What happens after I complain about a dealer?",
+      "answer": "The competent authority may review the complaint and take action according to the applicable State/UT rules and procedures."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

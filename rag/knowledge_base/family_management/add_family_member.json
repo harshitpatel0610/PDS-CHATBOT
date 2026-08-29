@@ -1,0 +1,76 @@
+{
+  "id": "add_family_member",
+  "intent": "add_family_member",
+  "category": "family_management",
+  "title": "Adding a Family Member to a Ration Card",
+
+  "facts": {
+    "summary": "A family member can be added to a ration-card household record by following the applicable procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card household records and processing requests to add family members.",
+
+    "when_addition_may_be_required": [
+      "A new eligible member becomes part of the household.",
+      "A child or other eligible family member needs to be included in the household record.",
+      "The household record needs to be updated to reflect a change in family composition."
+    ],
+
+    "application_method": "The procedure for adding a family member depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized channel should be used.",
+
+    "documents": "The documents and information required to add a family member depend on the concerned State or Union Territory and the circumstances of the member being added.",
+
+    "verification": "The concerned authority may verify the identity and eligibility of the family member and the supporting information before updating the ration-card household record.",
+
+    "processing_time": "Processing time for adding a family member is State/UT specific.",
+
+    "fees": "Any fee applicable to adding a family member is determined by the concerned State or Union Territory authority.",
+
+    "online_available": "Online availability of family-member addition depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Family-member addition procedures can differ between States and Union Territories.",
+      "Required documents and verification requirements depend on the applicable State/UT procedure.",
+      "Do not assume that the same procedure applies to every type of family-member addition.",
+      "Use official government portals or designated Food and Civil Supplies offices.",
+      "The exact eligibility and documentation requirements should be confirmed with the concerned State/UT authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I add a family member to my ration card?",
+      "answer": "Follow the family-member addition procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I add a family member to my ration card online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to add a family member?",
+      "answer": "Required documents depend on the concerned State or Union Territory and the circumstances of the family member being added."
+    },
+    {
+      "question": "I want to add my child to my ration card. What should I do?",
+      "answer": "Follow the applicable family-member addition procedure of your State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "How long does it take to add a family member?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is there a fee for adding a family member?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

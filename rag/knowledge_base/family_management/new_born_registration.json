@@ -1,0 +1,72 @@
+{
+  "id": "new_born_registration",
+  "intent": "new_born_registration",
+  "category": "family_management",
+  "title": "Registering a Newborn on a Ration Card",
+
+  "facts": {
+    "summary": "A newborn child may be added to the household record associated with a ration card by following the applicable procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card household records and processing requests related to adding a newborn family member.",
+
+    "purpose": "Newborn registration allows the household record to be updated to reflect the addition of a new eligible family member, subject to the applicable State/UT rules.",
+
+    "application_method": "The procedure for registering a newborn on a ration card depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized government channel should be used.",
+
+    "documents": "Documents and information required for newborn registration depend on the concerned State or Union Territory and its applicable procedure. The authority may require information establishing the identity and details of the newborn and household.",
+
+    "verification": "The concerned authority may verify the household record and supporting information before adding the newborn to the ration-card household record.",
+
+    "online_available": "Online newborn-registration availability depends on the concerned State or Union Territory.",
+
+    "processing_time": "Processing time for newborn registration is State/UT specific and should be confirmed with the concerned authority.",
+
+    "fees": "Any fee applicable to newborn registration is determined by the concerned State or Union Territory authority.",
+
+    "important_notes": [
+      "Newborn-registration procedures can differ between States and Union Territories.",
+      "Required documents and verification requirements are State/UT specific.",
+      "Do not assume that the same newborn-registration procedure applies throughout India.",
+      "Use official government portals or designated Food and Civil Supplies offices.",
+      "The applicable State/UT authority should be consulted for the current document and verification requirements."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I add my newborn baby to my ration card?",
+      "answer": "Follow the newborn-registration procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I add my newborn child to my ration card online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to add a newborn to a ration card?",
+      "answer": "Required documents depend on the concerned State or Union Territory and its applicable newborn-registration procedure."
+    },
+    {
+      "question": "Can a newborn child be added to the ration card?",
+      "answer": "A newborn may be added to the household record subject to the applicable State or Union Territory rules and verification requirements."
+    },
+    {
+      "question": "How long does newborn registration take?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is there a fee for adding a newborn to a ration card?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

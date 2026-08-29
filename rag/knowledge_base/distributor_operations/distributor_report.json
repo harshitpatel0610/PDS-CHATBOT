@@ -1,0 +1,79 @@
+{
+  "id": "distributor_report",
+  "intent": "distributor_report",
+  "category": "distributor_operations",
+  "title": "Distributor Reports",
+
+  "facts": {
+    "summary": "An authorized PDS distributor may be able to view or generate operational reports through the applicable PDS management system.",
+
+    "report_purpose": [
+      "Review ration distribution activity.",
+      "Review beneficiary or customer transactions.",
+      "Monitor commodity distribution and stock-related information.",
+      "Support operational record keeping and reporting."
+    ],
+
+    "possible_report_information": [
+      "Distribution transactions.",
+      "Commodity-wise distribution quantities.",
+      "Beneficiary or customer transaction information available to the distributor.",
+      "Stock-related information.",
+      "Date-wise or period-wise operational information."
+    ],
+
+    "how_to_access": [
+      "Log in using the authorized distributor account.",
+      "Open the reports or reporting section provided by the PDS management system.",
+      "Select the applicable report or reporting period.",
+      "View or download the report if the system provides that functionality."
+    ],
+
+    "access_control": "Reports containing beneficiary or transaction information should only be accessible to authorized distributor users according to the permissions of the applicable system.",
+
+    "report_accuracy": "Reports should be based on the transactions and operational data recorded in the applicable PDS system.",
+
+    "state_specific": "The available reports, report fields, filters, export options and access permissions can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not assume that every State/UT provides the same reports.",
+      "Only authorized users should access distributor reports.",
+      "Report information depends on the data recorded in the applicable PDS system.",
+      "Do not expose beneficiary information to unauthorized persons."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can a distributor generate a PDS report?",
+      "answer": "An authorized distributor may be able to view or generate operational reports through the reporting section of the applicable PDS management system."
+    },
+    {
+      "question": "What information can a distributor report contain?",
+      "answer": "Depending on the system, reports may contain distribution transactions, commodity-wise quantities, beneficiary transactions, stock information and period-wise operational data."
+    },
+    {
+      "question": "How can a distributor access reports?",
+      "answer": "Log in using the authorized distributor account and open the reports or reporting section provided by the PDS management system."
+    },
+    {
+      "question": "Can distributor reports be downloaded?",
+      "answer": "Download or export functionality depends on the features provided by the applicable PDS management system."
+    },
+    {
+      "question": "Can a distributor see customer information in reports?",
+      "answer": "A report may contain beneficiary or customer information when the applicable system provides it and the distributor has the required authorization."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

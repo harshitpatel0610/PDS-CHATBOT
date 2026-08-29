@@ -1,0 +1,85 @@
+{
+  "id": "ration_quota",
+  "intent": "ration_quota",
+  "category": "ration_collection",
+  "title": "Ration Quota",
+
+  "facts": {
+    "summary": "Ration quota refers to the quantity of eligible food commodities that a beneficiary or household is entitled to receive under the applicable PDS rules.",
+
+    "purpose": [
+      "Understand the quantity of ration available to an eligible beneficiary.",
+      "Understand how the applicable quota determines ration allocation.",
+      "Check questions related to monthly ration entitlement."
+    ],
+
+    "quota_basis": "The applicable ration quota depends on the beneficiary category, household details, commodity and rules implemented by the concerned State or Union Territory.",
+
+    "monthly_quota": "The applicable entitlement may be defined on a monthly basis according to the beneficiary category and PDS rules.",
+
+    "commodities": [
+      "Rice.",
+      "Wheat.",
+      "Other food commodities applicable under the relevant PDS entitlement."
+    ],
+
+    "state_specific": "Ration entitlement rules and quantities can vary according to the applicable State/UT implementation and beneficiary category.",
+
+    "eligibility": "Only beneficiaries who meet the applicable eligibility conditions receive the corresponding PDS entitlement.",
+
+    "quota_difference": "Ration quota refers to the entitled quantity, while ration price refers to the applicable price of the commodity.",
+
+    "verification": "Beneficiaries should use their official ration-card or PDS records to verify their applicable entitlement.",
+
+    "important_notes": [
+      "Do not assume one fixed quota applies to every beneficiary.",
+      "Do not confuse ration quota with ration not received.",
+      "A question about missing ration should use the ration_not_received intent.",
+      "A question about the price of ration should use the ration_price intent.",
+      "A question about which commodities are provided should use the ration_items_list intent."
+    ],
+
+    "scope": [
+      "Ration entitlement.",
+      "Monthly ration quota.",
+      "Quantity of ration available.",
+      "Beneficiary ration allocation."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is ration quota?",
+      "answer": "Ration quota is the quantity of eligible food commodities that a beneficiary or household is entitled to receive under the applicable PDS rules."
+    },
+    {
+      "question": "How much ration can I get?",
+      "answer": "The applicable quantity depends on your beneficiary category, household details, commodity and the PDS rules implemented by the concerned State or Union Territory."
+    },
+    {
+      "question": "Is ration quota the same for everyone?",
+      "answer": "Not necessarily. Ration entitlement can vary according to beneficiary category and the applicable State/UT rules."
+    },
+    {
+      "question": "Is ration quota monthly?",
+      "answer": "The applicable entitlement may be defined on a monthly basis under the relevant PDS rules."
+    },
+    {
+      "question": "Does ration quota include rice and wheat?",
+      "answer": "Rice and wheat may be included where they form part of the applicable PDS entitlement for the beneficiary."
+    },
+    {
+      "question": "Where can I check my ration quota?",
+      "answer": "Use your official ration-card or PDS records to verify the entitlement applicable to your beneficiary category."
+    },
+    {
+      "question": "I did not receive my ration. Is that a quota issue?",
+      "answer": "If you were entitled to ration but did not receive it, the issue is more appropriately handled as a ration-not-received problem rather than a general quota inquiry."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

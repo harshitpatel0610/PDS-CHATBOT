@@ -1,0 +1,80 @@
+{
+  "id": "nfsa_eligibility",
+  "intent": "nfsa_eligibility",
+  "category": "scheme_information",
+  "title": "NFSA Eligibility",
+
+  "facts": {
+    "summary": "Eligibility for coverage under the National Food Security Act (NFSA) is determined through the applicable identification framework of the concerned State or Union Territory.",
+
+    "purpose": [
+      "Identify households eligible for food-security benefits under the NFSA framework.",
+      "Provide eligible households with their applicable food-grain entitlements through the Public Distribution System."
+    ],
+
+    "beneficiary_categories": [
+      "Priority Household (PHH).",
+      "Antyodaya Anna Yojana (AAY) households."
+    ],
+
+    "identification": "States and Union Territories identify eligible households according to the applicable NFSA coverage, criteria and identification framework.",
+
+    "ration_card": "Eligible households are issued ration cards by the concerned State or Union Territory authority according to applicable rules.",
+
+    "eligibility_criteria": "The exact eligibility and exclusion criteria applicable to a household depend on the rules and identification framework followed by the concerned State or Union Territory.",
+
+    "application": "A person seeking inclusion under the applicable NFSA/PDS beneficiary framework should follow the process prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "verification": "The concerned State or Union Territory authority is responsible for identifying and verifying eligible households according to its applicable procedures.",
+
+    "benefits": "Eligible beneficiaries receive food-grain benefits according to the applicable NFSA and PDS entitlements.",
+
+    "state_specific": "NFSA beneficiary identification and eligibility criteria can vary between States and Union Territories because States/UTs are responsible for identifying eligible households within the applicable framework.",
+
+    "important_notes": [
+      "Do not assume that the same eligibility criteria apply in every State or Union Territory.",
+      "Do not assume that every ration-card holder belongs to the same NFSA beneficiary category.",
+      "PHH and AAY are distinct beneficiary categories.",
+      "The Central Government does not directly identify every individual beneficiary.",
+      "For a person's specific eligibility, the concerned State/UT Food and Civil Supplies authority should be consulted."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is NFSA eligibility?",
+      "answer": "NFSA eligibility refers to whether a household qualifies for coverage and food-security benefits under the applicable National Food Security Act framework."
+    },
+    {
+      "question": "Who decides NFSA eligibility?",
+      "answer": "The concerned State or Union Territory identifies eligible households according to the applicable NFSA criteria and identification framework."
+    },
+    {
+      "question": "What are the main NFSA beneficiary categories?",
+      "answer": "The main beneficiary categories are Priority Households (PHH) and Antyodaya Anna Yojana (AAY) households."
+    },
+    {
+      "question": "Is every ration-card holder eligible under NFSA?",
+      "answer": "Not necessarily. NFSA beneficiary identification depends on the applicable State/UT criteria and beneficiary category."
+    },
+    {
+      "question": "How can I check whether I am eligible for NFSA benefits?",
+      "answer": "Check the beneficiary or ration-card information through the applicable State/UT PDS system or contact the concerned Food and Civil Supplies authority."
+    },
+    {
+      "question": "Are NFSA eligibility criteria the same across India?",
+      "answer": "The identification of eligible households is handled by States and Union Territories within the applicable NFSA framework, so specific criteria and procedures can differ."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

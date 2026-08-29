@@ -1,0 +1,94 @@
+{
+  "id": "pds_helpline",
+  "intent": "pds_helpline",
+  "category": "general_help",
+  "title": "PDS Helpline and Support",
+
+  "facts": {
+    "summary": "PDS beneficiaries can use official helpline, support or grievance channels provided by the concerned government authority for assistance with PDS-related issues.",
+
+    "purpose": [
+      "Get assistance with PDS services.",
+      "Report problems related to ration-card or beneficiary services.",
+      "Seek help when an online PDS service cannot resolve an issue.",
+      "Obtain guidance about the applicable PDS process."
+    ],
+
+    "responsible_authority": "PDS operational matters are handled by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "contact_methods": [
+      "Use the official PDS helpline provided by the concerned State/UT.",
+      "Use the official PDS portal's helpdesk or support facility where available.",
+      "Use the official grievance mechanism for complaints or unresolved issues.",
+      "Visit the designated Food and Civil Supplies or PDS office when required."
+    ],
+
+    "state_specific": "Helpline numbers, email addresses, helpdesks and grievance channels can differ between States and Union Territories.",
+
+    "when_to_contact": [
+      "Ration-card application problems.",
+      "Beneficiary-record problems.",
+      "Ration distribution issues.",
+      "PDS portal technical problems.",
+      "Complaint or grievance-related assistance.",
+      "Other PDS issues requiring official support."
+    ],
+
+    "information_to_provide": [
+      "A clear description of the problem.",
+      "Relevant ration-card or beneficiary information when requested.",
+      "Application, transaction or complaint reference information when applicable."
+    ],
+
+    "privacy": [
+      "Use only official government helpline and support channels.",
+      "Do not share OTPs, passwords or authentication credentials.",
+      "Provide personal information only when required through an official channel."
+    ],
+
+    "important_notes": [
+      "Do not invent or guess a helpline number.",
+      "A State or Union Territory must be identified before providing State-specific helpline information.",
+      "Do not assume that one helpline number applies to every State/UT.",
+      "For emergency or non-PDS matters, use the appropriate authority rather than assuming the PDS helpline handles them."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is the PDS helpline?",
+      "answer": "A PDS helpline is an official support channel through which beneficiaries can seek assistance with PDS-related services and problems."
+    },
+    {
+      "question": "How can I contact the PDS helpline?",
+      "answer": "Use the official helpline or support information provided by the concerned State or Union Territory PDS authority."
+    },
+    {
+      "question": "What problems can I report to the PDS helpline?",
+      "answer": "You can seek assistance for issues related to ration cards, beneficiary records, ration distribution, PDS portals and other PDS services."
+    },
+    {
+      "question": "Can you give me the PDS helpline number?",
+      "answer": "The applicable helpline number depends on the concerned State or Union Territory. The State/UT should be identified before providing a specific number."
+    },
+    {
+      "question": "Can I contact the PDS helpline for a ration-card problem?",
+      "answer": "Yes. The official PDS support or helpline channel can be used for assistance with applicable ration-card-related problems."
+    },
+    {
+      "question": "What information should I provide to the PDS helpline?",
+      "answer": "Provide a clear description of the issue and relevant beneficiary, ration-card, application, transaction or complaint information when requested."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

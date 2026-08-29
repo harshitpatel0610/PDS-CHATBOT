@@ -1,0 +1,64 @@
+{
+  "id": "goodbye",
+  "intent": "goodbye",
+  "category": "general_help",
+  "title": "PDS Assistant Goodbye",
+
+  "facts": {
+    "summary": "A goodbye is a conversational message indicating that the user wants to end the current interaction.",
+
+    "examples": [
+      "Bye",
+      "Goodbye",
+      "Thank you, bye",
+      "See you",
+      "That's all",
+      "I am done"
+    ],
+
+    "response_purpose": [
+      "Acknowledge that the conversation is ending.",
+      "Respond politely and briefly."
+    ],
+
+    "response_style": "The response should be short, polite and natural.",
+
+    "important_notes": [
+      "Do not provide unnecessary PDS information when the user is only saying goodbye.",
+      "Do not interpret a goodbye as a request for another PDS service.",
+      "Do not ask unnecessary follow-up questions."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Bye",
+      "answer": "Goodbye! Have a good day."
+    },
+    {
+      "question": "Goodbye",
+      "answer": "Goodbye! Have a good day."
+    },
+    {
+      "question": "Thank you, bye",
+      "answer": "You're welcome! Goodbye."
+    },
+    {
+      "question": "See you",
+      "answer": "Goodbye! Take care."
+    },
+    {
+      "question": "That's all",
+      "answer": "You're welcome! Goodbye."
+    },
+    {
+      "question": "I am done",
+      "answer": "Alright. Goodbye!"
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

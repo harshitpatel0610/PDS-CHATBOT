@@ -1,0 +1,70 @@
+{
+  "id": "ration_collection_status",
+  "intent": "ration_collection_status",
+  "category": "ration_collection",
+  "title": "Checking Ration Collection Status",
+
+  "facts": {
+    "summary": "Beneficiaries may be able to check information about their ration distribution or collection transactions through the applicable State or Union Territory PDS system.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority maintains and provides applicable information about ration distribution and collection records.",
+
+    "information_available": [
+      "Ration distribution or transaction records maintained by the applicable PDS system.",
+      "Information about whether a distribution transaction has been recorded.",
+      "Other ration-collection information made available by the concerned State/UT system."
+    ],
+
+    "online_access": "Availability of an online facility for checking ration collection status depends on the concerned State or Union Territory.",
+
+    "access_method": "Where available, beneficiaries should use the official State/UT PDS, ration-card, or Food and Civil Supplies portal to check their distribution information.",
+
+    "authentication": "The applicable State/UT system may require ration-card details, beneficiary information, registered mobile verification, OTP, login credentials, or another authorized authentication method.",
+
+    "transaction_record": "Ration distribution transactions may be recorded electronically through the applicable PDS or ePoS system.",
+
+    "offline_access": "If online status information is unavailable, the beneficiary should contact the designated Food and Civil Supplies authority or the applicable Fair Price Shop according to State/UT procedures.",
+
+    "important_notes": [
+      "Ration collection-status facilities can differ between States and Union Territories.",
+      "The exact information displayed depends on the applicable State/UT PDS system.",
+      "Online status checking is not necessarily available in every State/UT.",
+      "Use official government systems when checking ration distribution information.",
+      "Do not assume that a missing online record automatically means that ration was not distributed."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I check my ration collection status?",
+      "answer": "Use the official PDS, ration-card, or Food and Civil Supplies portal of your State or Union Territory if a collection-status facility is available."
+    },
+    {
+      "question": "Can I check my ration distribution status online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "How do I know whether my ration transaction was recorded?",
+      "answer": "Check the transaction information provided by the applicable State/UT PDS or ePoS system, where such information is available."
+    },
+    {
+      "question": "My ration collection is not showing online. What should I do?",
+      "answer": "Check the official State/UT system and, if necessary, contact the concerned Food and Civil Supplies authority or applicable Fair Price Shop."
+    },
+    {
+      "question": "Can I check my ration transaction history?",
+      "answer": "Transaction information may be available through the applicable State/UT PDS system, depending on the services provided by that authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

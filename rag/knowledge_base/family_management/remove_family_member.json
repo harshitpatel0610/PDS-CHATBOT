@@ -1,0 +1,76 @@
+{
+  "id": "remove_family_member",
+  "intent": "remove_family_member",
+  "category": "family_management",
+  "title": "Removing a Family Member from a Ration Card",
+
+  "facts": {
+    "summary": "A family member can be removed from a ration-card household record by following the applicable procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining ration-card household records and processing requests to remove family members.",
+
+    "when_removal_may_be_required": [
+      "A family member is no longer part of the household.",
+      "A family member has moved to another household.",
+      "The household record needs to be updated because of a change in family composition."
+    ],
+
+    "application_method": "The procedure for removing a family member depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized channel should be used.",
+
+    "documents": "The documents and information required to remove a family member depend on the concerned State or Union Territory and the reason for removal.",
+
+    "verification": "The concerned authority may verify the household record, identity information and supporting documents before removing the family member from the ration-card record.",
+
+    "processing_time": "Processing time for removing a family member is State/UT specific.",
+
+    "fees": "Any fee applicable to removing a family member is determined by the concerned State or Union Territory authority.",
+
+    "online_available": "Online availability of family-member removal depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Family-member removal procedures can differ between States and Union Territories.",
+      "Required documents and verification requirements depend on the applicable State/UT procedure.",
+      "Removal of a family member should be completed through an official government process.",
+      "Use official government portals or designated Food and Civil Supplies offices.",
+      "Do not assume that the same procedure applies to every reason for family-member removal."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I remove a family member from my ration card?",
+      "answer": "Follow the family-member removal procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I remove a family member from my ration card online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to remove a family member?",
+      "answer": "Required documents depend on the concerned State or Union Territory and the reason for removing the family member."
+    },
+    {
+      "question": "I want to remove a person from my ration card. What should I do?",
+      "answer": "Use the applicable official State/UT Food and Civil Supplies procedure for removing a family member from the household record."
+    },
+    {
+      "question": "How long does it take to remove a family member?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is there a fee for removing a family member?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "ration_card_number_inquiry",
+  "intent": "ration_card_number_inquiry",
+  "category": "ration_card",
+  "title": "Finding the Ration Card Number",
+
+  "facts": {
+    "summary": "A beneficiary can find their ration card number from their ration-card document or through the official ration-card system of the concerned State or Union Territory.",
+
+    "where_to_find": [
+      "The ration card document, where the number is displayed.",
+      "The official ration-card or Food and Civil Supplies portal of the concerned State or Union Territory.",
+      "An authorized government record or service through which the beneficiary's ration-card details are available."
+    ],
+
+    "online_lookup": "Availability of an online ration-card-number lookup facility depends on the concerned State or Union Territory.",
+
+    "required_information": "The information required to locate a ration-card number depends on the applicable State/UT system and may include beneficiary or household details, registered mobile information, or other identifying information.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority maintains and provides access to applicable ration-card records.",
+
+    "verification": "Some official systems may require verification or authentication before displaying ration-card information.",
+
+    "important_notes": [
+      "The format and location of the ration-card number may differ between States and Union Territories.",
+      "Online lookup facilities are State/UT specific.",
+      "Use official government portals or authorized government services.",
+      "Do not share ration-card or personal information on unofficial websites.",
+      "If the number cannot be located, contact the concerned State/UT Food and Civil Supplies authority."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Where can I find my ration card number?",
+      "answer": "You can find it on your ration-card document or, where available, through the official ration-card or Food and Civil Supplies portal of your State or Union Territory."
+    },
+    {
+      "question": "How can I check my ration card number online?",
+      "answer": "Use the official ration-card or Food and Civil Supplies portal of the concerned State or Union Territory if an online lookup facility is available."
+    },
+    {
+      "question": "I forgot my ration card number. What should I do?",
+      "answer": "Check your ration-card document or use the applicable official State/UT ration-card service. If you cannot locate it, contact the concerned Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I find my ration card number using my mobile number?",
+      "answer": "Some State/UT systems may allow ration-card details to be located using registered information. The exact procedure depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "Where should I contact if I cannot find my ration card number?",
+      "answer": "Contact the concerned State or Union Territory Food and Civil Supplies authority or its official support channel."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/portal/ration_card_state_portals_aa"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ration_price",
+  "intent": "ration_price",
+  "category": "ration_collection",
+  "title": "Ration Price Under PDS",
+
+  "facts": {
+    "summary": "The price or issue rate applicable to ration commodities depends on the applicable PDS scheme, commodity, beneficiary entitlement and the rules implemented by the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority implements the applicable PDS distribution and issue-rate procedures.",
+
+    "price_determination": [
+      "The applicable issue price can depend on the commodity being distributed.",
+      "The applicable beneficiary category or scheme can affect the price or entitlement.",
+      "State and Union Territory implementation may determine the applicable rates and collection procedure."
+    ],
+
+    "commodity_price": "Different commodities may have different applicable issue rates. A single price should not be assumed for all ration items.",
+
+    "beneficiary_specific": "The applicable price and entitlement should be checked according to the beneficiary's category, scheme and State/UT rules.",
+
+    "fair_price_shop": "The Fair Price Shop should distribute ration according to the applicable entitlement and authorized issue rates.",
+
+    "online_information": "Some State/UT PDS systems may provide information about applicable ration prices or issue rates online. Availability depends on the concerned State or Union Territory.",
+
+    "overcharging": "If a beneficiary believes that a Fair Price Shop has charged more than the applicable authorized rate, the beneficiary should follow the official grievance or complaint procedure of the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Do not assume one nationwide price for every ration commodity.",
+      "The applicable rate can depend on the scheme, commodity and State/UT implementation.",
+      "Beneficiary-specific prices should be verified through the applicable official PDS system or authority.",
+      "A Fair Price Shop should follow the authorized rates applicable to the distribution.",
+      "Do not provide an exact price unless it is supported by the applicable State/UT information."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is the price of ration?",
+      "answer": "The applicable ration price depends on the commodity, scheme, beneficiary category and State/UT rules."
+    },
+    {
+      "question": "How much do I have to pay for ration?",
+      "answer": "The amount payable depends on the applicable commodity, entitlement, scheme and State/UT issue rates."
+    },
+    {
+      "question": "What is the price of rice at the ration shop?",
+      "answer": "The applicable rice issue rate depends on the relevant scheme and State/UT rules. Check the official PDS information for the applicable rate."
+    },
+    {
+      "question": "What is the price of wheat at the ration shop?",
+      "answer": "The applicable wheat issue rate depends on the relevant scheme and State/UT rules. Check the official PDS information for the applicable rate."
+    },
+    {
+      "question": "The ration shop is charging me more. What should I do?",
+      "answer": "If you believe you are being charged more than the authorized rate, follow the official grievance or complaint procedure of the concerned State or Union Territory."
+    },
+    {
+      "question": "Where can I check the official ration price?",
+      "answer": "Check the official PDS or Food and Civil Supplies system of your State or Union Territory for applicable issue-rate information."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

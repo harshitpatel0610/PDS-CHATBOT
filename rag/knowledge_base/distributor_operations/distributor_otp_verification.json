@@ -1,0 +1,85 @@
+{
+  "id": "distributor_otp_verification",
+  "intent": "distributor_otp_verification",
+  "category": "distributor_operations",
+  "title": "Distributor OTP Verification",
+
+  "facts": {
+    "summary": "OTP verification can be used as part of the authentication or verification process for an authorized PDS distributor, depending on the applicable PDS system.",
+
+    "purpose": [
+      "Verify the identity of the distributor during an applicable authentication process.",
+      "Provide an additional verification step when accessing protected PDS services.",
+      "Help prevent unauthorized access to distributor accounts."
+    ],
+
+    "verification_process": [
+      "Enter the distributor identification information requested by the applicable system.",
+      "Request an OTP through the registered contact method, where supported.",
+      "Enter the OTP received from the authorized system.",
+      "Complete verification if the OTP is valid."
+    ],
+
+    "otp_validity": "The validity period of an OTP and the number of permitted attempts are determined by the applicable authentication system.",
+
+    "registered_contact": "The OTP may be sent to the registered mobile number or another verified contact method supported by the applicable PDS system.",
+
+    "otp_not_received": [
+      "Verify that the registered contact information is correct.",
+      "Wait briefly and use the resend option if the system provides one.",
+      "Check network or mobile connectivity.",
+      "If the problem continues, use the official support or administrator channel for the applicable PDS system."
+    ],
+
+    "invalid_otp": "If an OTP is rejected, verify that the latest OTP has been entered correctly and request a new OTP if the system permits it.",
+
+    "security": [
+      "Never share an OTP with another person.",
+      "Enter the OTP only into the official PDS authentication system.",
+      "Do not disclose OTPs to callers, messages or individuals claiming to provide support."
+    ],
+
+    "state_specific": "The exact OTP workflow, registered contact method, validity period and retry limits can differ between PDS systems and authorities.",
+
+    "important_notes": [
+      "Do not assume that every State/UT PDS system uses OTP authentication.",
+      "Do not provide or request a user's actual OTP.",
+      "OTP verification is different from distributor registration or account creation.",
+      "For account-specific authentication problems, use the official support or administrator channel."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Why do I need OTP verification as a distributor?",
+      "answer": "OTP verification can provide an additional identity-verification step when accessing protected PDS services, depending on the applicable system."
+    },
+    {
+      "question": "How do I verify my distributor account with OTP?",
+      "answer": "Enter the information requested by the system, request an OTP through the registered contact method, and enter the received OTP into the official authentication system."
+    },
+    {
+      "question": "I did not receive my distributor OTP. What should I do?",
+      "answer": "Check your registered contact information and connectivity, then use the resend option if available. If the problem continues, contact the official support or administrator channel."
+    },
+    {
+      "question": "My OTP is not working. What should I do?",
+      "answer": "Make sure you are entering the latest OTP correctly. If it has expired or is rejected, request a new OTP if the system provides that option."
+    },
+    {
+      "question": "Can I share my distributor OTP with someone?",
+      "answer": "No. An OTP should not be shared with anyone and should only be entered into the official authentication system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

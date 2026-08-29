@@ -1,0 +1,77 @@
+{
+  "id": "admin_login",
+  "intent": "admin_login",
+  "category": "authentication",
+  "title": "Admin Login",
+
+  "facts": {
+    "summary": "Admin users can access the PDS administration system through the configured administrator login process.",
+
+    "purpose": [
+      "Authenticate an authorized administrator.",
+      "Allow the administrator to access administrative PDS functions."
+    ],
+
+    "login_method": "The admin login process uses the administrator credentials and authentication mechanism configured by the PDS system.",
+
+    "authentication": "The administrator must provide the information requested by the system and complete the applicable authentication or verification step.",
+
+    "access": [
+      "Admin authentication is required before accessing protected administrative functions.",
+      "Only authorized administrators should use the admin account."
+    ],
+
+    "security": [
+      "Do not share admin credentials with other users.",
+      "Do not share OTPs or authentication credentials.",
+      "Use only the official PDS system login interface."
+    ],
+
+    "failed_login": "If the administrator cannot log in, the issue should be handled through the applicable login recovery or support process.",
+
+    "scope": [
+      "Admin authentication.",
+      "Admin account access.",
+      "Admin login-related assistance."
+    ],
+
+    "important_notes": [
+      "Admin login is different from customer login.",
+      "Admin login is different from distributor login.",
+      "Do not treat a general OTP problem as an admin-login-specific issue unless the user explicitly refers to admin authentication.",
+      "Do not invent admin credentials or login URLs."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How does an admin log in?",
+      "answer": "An authorized administrator must use the configured admin login process and complete the required authentication or verification steps."
+    },
+    {
+      "question": "Who can use the admin login?",
+      "answer": "The admin login is intended for authorized administrators of the PDS system."
+    },
+    {
+      "question": "Is admin login the same as customer login?",
+      "answer": "No. Admin and customer accounts have different roles and access permissions."
+    },
+    {
+      "question": "Is admin login the same as distributor login?",
+      "answer": "No. Admin and distributor accounts have different roles and access permissions."
+    },
+    {
+      "question": "What should I do if admin login is not working?",
+      "answer": "Check the information entered and follow the applicable login recovery or support process. If the problem persists, use the official system support mechanism."
+    },
+    {
+      "question": "Can I share my admin OTP with someone?",
+      "answer": "No. Authentication credentials and OTPs should not be shared with anyone."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "state": "Gujarat",
+    "source_url": "https://dcs-dof.gujarat.gov.in/gu/privacy-policy",
+    "final_url": "https://dcs-dof.gujarat.gov.in/gu/privacy-policy",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=utf-8",
+    "http_status": 200,
+    "discovered_from": "https://dcs-dof.gujarat.gov.in/",
+    "sha256": "a929973fd1268c0cc9ffd4a6a440f67fa0af4ad4acd4ce6722a4a051989ec20e",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

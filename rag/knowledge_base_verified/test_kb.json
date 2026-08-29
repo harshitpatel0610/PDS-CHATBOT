@@ -1,0 +1,16 @@
+{
+    "id": "test_kb",
+    "source": {
+        "source_type": "official_government",
+        "verification_status": "verified"
+    },
+    "facts": [
+        {
+            "text": "Moby Dick",
+            "evidence": {
+                "source_id": "states/test_success",
+                "quote": "Moby-Dick"
+            }
+        }
+    ]
+}

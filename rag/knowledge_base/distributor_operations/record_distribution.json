@@ -1,0 +1,76 @@
+{
+  "id": "record_distribution",
+  "intent": "record_distribution",
+  "category": "distributor_operations",
+  "title": "Recording PDS Ration Distribution",
+
+  "facts": {
+    "summary": "A Fair Price Shop distributor records the distribution of PDS commodities to beneficiaries through the applicable distribution and transaction-recording system.",
+
+    "distribution_process": [
+      "Verify the beneficiary according to the applicable PDS authentication procedure.",
+      "Check the beneficiary's applicable ration entitlement.",
+      "Record the commodities and quantities distributed.",
+      "Complete the transaction using the applicable PDS or ePoS system where available.",
+      "The transaction record should reflect the actual distribution."
+    ],
+
+    "epos": "Where an ePoS-enabled system is used, the distribution transaction can be recorded electronically.",
+
+    "transaction_information": [
+      "Beneficiary identification information required by the applicable system.",
+      "Ration commodities distributed.",
+      "Quantity distributed.",
+      "Date or transaction information.",
+      "Other fields required by the applicable State/UT PDS system."
+    ],
+
+    "accuracy": "The distributor should record the actual commodities and quantities provided to the beneficiary according to the applicable PDS rules and system.",
+
+    "beneficiary_verification": "The applicable beneficiary authentication or verification process must be followed before completing a distribution transaction.",
+
+    "state_specific": "The exact distribution workflow, authentication method, transaction fields and operational procedures can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Do not record quantities that were not actually distributed.",
+      "Follow the authentication and transaction procedure prescribed by the applicable State/UT system.",
+      "Do not assume that every State/UT uses the same ePoS workflow.",
+      "Maintain accurate transaction records.",
+      "For system-specific operational instructions, follow the applicable official PDS guidance."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How does a distributor record a ration transaction?",
+      "answer": "The distributor verifies the beneficiary, checks the applicable entitlement, records the commodities and quantities distributed, and completes the transaction through the applicable PDS or ePoS system."
+    },
+    {
+      "question": "What information is recorded during ration distribution?",
+      "answer": "The applicable system can record beneficiary information, commodities distributed, quantities and transaction details required by the State/UT PDS system."
+    },
+    {
+      "question": "Does ePoS record ration distribution?",
+      "answer": "Where an ePoS-enabled system is used, the ration-distribution transaction can be recorded electronically."
+    },
+    {
+      "question": "Should the distributor record the actual quantity given?",
+      "answer": "Yes. The transaction record should accurately reflect the commodities and quantities actually distributed."
+    },
+    {
+      "question": "What happens before a ration transaction is recorded?",
+      "answer": "The beneficiary should be verified according to the applicable PDS authentication procedure and the applicable entitlement should be checked."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

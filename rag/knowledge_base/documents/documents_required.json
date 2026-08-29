@@ -1,0 +1,80 @@
+{
+  "id": "documents_required",
+  "intent": "documents_required",
+  "category": "documents",
+  "title": "Documents Required for PDS Services",
+
+  "facts": {
+    "summary": "The documents required for a PDS or ration-card service depend on the specific service and the applicable State or Union Territory procedure.",
+
+    "common_service_contexts": [
+      "New ration-card application.",
+      "Updating beneficiary information.",
+      "Adding or removing family members.",
+      "Address or mobile-number changes.",
+      "Aadhaar-related services.",
+      "Other PDS record-management services."
+    ],
+
+    "document_requirements": "The concerned State or Union Territory Food and Civil Supplies authority determines the documents and verification requirements applicable to a particular PDS service.",
+
+    "possible_information": [
+      "Ration-card or beneficiary information.",
+      "Identity information.",
+      "Address or residence information where required.",
+      "Family or household information where required.",
+      "Other documents specifically requested by the concerned authority."
+    ],
+
+    "how_to_find_required_documents": [
+      "Check the official PDS portal of the concerned State or Union Territory.",
+      "Follow the document checklist provided for the specific service.",
+      "Contact the designated Food and Civil Supplies or PDS office when the online information is unavailable."
+    ],
+
+    "state_specific": "Document requirements are not necessarily identical across States and Union Territories.",
+
+    "service_specific": "The required documents depend on the particular PDS service being requested.",
+
+    "important_notes": [
+      "Do not assume that one document list applies to every PDS service.",
+      "Do not assume that the same documents are required in every State/UT.",
+      "Use the official document checklist for the specific service.",
+      "Do not submit personal documents through unofficial websites or unauthorized persons."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What documents are required for PDS services?",
+      "answer": "The required documents depend on the specific service and the applicable State/UT procedure. Follow the official document checklist provided by the concerned authority."
+    },
+    {
+      "question": "What documents are needed for a new ration card?",
+      "answer": "The document requirements for a new ration card are determined by the concerned State or Union Territory. Check the official State/UT document checklist."
+    },
+    {
+      "question": "Are the same documents required in every State?",
+      "answer": "No. Document requirements can differ between States and Union Territories."
+    },
+    {
+      "question": "Where can I find the required document list?",
+      "answer": "Check the official PDS portal of the concerned State/UT or contact its designated Food and Civil Supplies or PDS office."
+    },
+    {
+      "question": "Can I use the same documents for every PDS service?",
+      "answer": "Not necessarily. Required documents depend on the particular PDS service being requested."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

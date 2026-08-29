@@ -1,0 +1,86 @@
+{
+  "id": "admin_distributor_management",
+  "intent": "admin_distributor_management",
+  "category": "admin_operations",
+  "title": "PDS Admin Distributor Management",
+
+  "facts": {
+    "summary": "An authorized PDS administrator can manage distributor or Fair Price Shop records through the applicable PDS administration system.",
+
+    "management_operations": [
+      "View authorized distributor records.",
+      "Add a new distributor when permitted.",
+      "Update distributor information when authorized.",
+      "Manage distributor details associated with a Fair Price Shop.",
+      "Review distributor information required for PDS administration."
+    ],
+
+    "how_to_access": [
+      "Log in using the authorized administrator account.",
+      "Open the distributor management section.",
+      "Select the required distributor-management operation.",
+      "Enter or update the required information.",
+      "Save the changes through the authorized system workflow."
+    ],
+
+    "distributor_information": [
+      "Distributor identification information.",
+      "Fair Price Shop information.",
+      "Contact information where maintained.",
+      "Operational information required by the applicable PDS system."
+    ],
+
+    "add_distributor": "If the system permits distributor creation, the administrator should enter the required information and complete any applicable verification or authorization process.",
+
+    "update_distributor": "Authorized administrators may update distributor information when permitted by the applicable system and administrative procedure.",
+
+    "verification": "Distributor information should be verified according to the applicable administrative procedure before creating or modifying a distributor record.",
+
+    "access_control": "Distributor information should only be accessed or modified by authorized administrative users.",
+
+    "privacy": "Distributor information should be handled only for legitimate PDS administration and according to applicable access-control requirements.",
+
+    "state_specific": "The available management operations, required fields, verification process and permissions can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Only authorized administrators should manage distributor records.",
+      "Do not modify distributor information without appropriate authorization.",
+      "Do not assume that every administrator has the same permissions.",
+      "The exact distributor-management workflow depends on the applicable PDS system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can an admin manage distributors?",
+      "answer": "An authorized PDS administrator can manage distributor or Fair Price Shop records through the applicable administration system."
+    },
+    {
+      "question": "Can an admin add a distributor?",
+      "answer": "If distributor creation is supported, an authorized administrator can add a distributor by entering the required information and completing the applicable verification or authorization process."
+    },
+    {
+      "question": "Can an admin update distributor details?",
+      "answer": "An authorized administrator may update distributor information when the applicable system and administrative procedure permit it."
+    },
+    {
+      "question": "What distributor information can an admin manage?",
+      "answer": "Depending on the system, this can include distributor identification, Fair Price Shop, contact and other operational information."
+    },
+    {
+      "question": "Who can modify distributor records?",
+      "answer": "Distributor records should only be modified by users with the appropriate administrative authorization and system permissions."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

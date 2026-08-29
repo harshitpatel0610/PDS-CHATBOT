@@ -1,0 +1,83 @@
+{
+  "id": "update_phone_number",
+  "intent": "update_phone_number",
+  "category": "account_management",
+  "title": "Update Registered Phone Number",
+
+  "facts": {
+    "summary": "A beneficiary may be able to update the mobile number associated with their PDS or ration-card record through the applicable State or Union Territory process.",
+
+    "purpose": [
+      "Keep the registered contact number current.",
+      "Receive notifications or authentication messages where supported.",
+      "Maintain accurate beneficiary contact information."
+    ],
+
+    "how_to_update": [
+      "Use the official PDS portal if the State/UT provides an online mobile-number update facility.",
+      "Visit the designated Food and Civil Supplies or PDS office if an offline update is required.",
+      "Complete the verification process prescribed by the concerned authority."
+    ],
+
+    "verification": "The concerned State/UT may require identity, beneficiary or ration-card verification before changing the registered mobile number.",
+
+    "otp": "OTP verification may be used where supported by the applicable system. The exact OTP procedure depends on the State/UT system.",
+
+    "requirements": [
+      "Existing beneficiary or ration-card information may be required.",
+      "The new mobile number may need to be verified.",
+      "Additional documents or identity verification may be required according to State/UT procedures."
+    ],
+
+    "failed_update": [
+      "Check that the information entered is correct.",
+      "Complete any required verification.",
+      "If the online update is unavailable or unsuccessful, contact the concerned State/UT PDS or Food and Civil Supplies authority."
+    ],
+
+    "state_specific": "The online availability, required documents, verification process and update procedure can differ between States and Union Territories.",
+
+    "privacy": "Use only official government portals, offices or authorized PDS facilities when providing beneficiary or contact information.",
+
+    "important_notes": [
+      "Do not assume that every State/UT provides online mobile-number updates.",
+      "Do not share OTPs with anyone.",
+      "Do not invent a specific portal or procedure without State/UT-specific information.",
+      "Changing a mobile number is different from changing other beneficiary details such as address or name."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I change the mobile number linked to my ration card?",
+      "answer": "Follow the mobile-number update process provided by your State/UT PDS authority, either through its official portal where available or through the designated PDS/Food and Civil Supplies office."
+    },
+    {
+      "question": "Can I update my ration card mobile number online?",
+      "answer": "Online availability depends on the concerned State or Union Territory PDS system."
+    },
+    {
+      "question": "Is OTP required to change the registered mobile number?",
+      "answer": "OTP verification may be required where supported by the applicable system. The exact procedure depends on the State/UT."
+    },
+    {
+      "question": "What documents are required to change my mobile number?",
+      "answer": "The required information or documents depend on the applicable State/UT procedure and may include beneficiary or ration-card verification."
+    },
+    {
+      "question": "What should I do if I cannot change my registered mobile number online?",
+      "answer": "If the online update is unavailable or unsuccessful, contact the concerned State/UT PDS or Food and Civil Supplies authority or follow its designated offline procedure."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

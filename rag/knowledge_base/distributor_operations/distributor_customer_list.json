@@ -1,0 +1,75 @@
+{
+  "id": "distributor_customer_list",
+  "intent": "distributor_customer_list",
+  "category": "distributor_operations",
+  "title": "Distributor Customer List",
+
+  "facts": {
+    "summary": "An authorized PDS distributor can view the beneficiaries or customers associated with their Fair Price Shop through the applicable PDS management system.",
+
+    "access": "Access to beneficiary/customer information is restricted to authorized distributor users according to the applicable system permissions.",
+
+    "customer_information": [
+      "Beneficiary or customer identification information available to the distributor.",
+      "Ration-card or beneficiary information required for distribution operations.",
+      "Other customer details exposed by the applicable PDS system."
+    ],
+
+    "how_to_view": [
+      "Log in using the authorized distributor account.",
+      "Open the customer or beneficiary management section provided by the system.",
+      "View the customers/beneficiaries assigned to the distributor."
+    ],
+
+    "purpose": [
+      "Identify beneficiaries associated with the distributor.",
+      "Support ration-distribution operations.",
+      "Verify beneficiary information required during applicable transactions."
+    ],
+
+    "privacy": "Beneficiary information should only be accessed and used for authorized PDS operations and according to applicable privacy and access-control requirements.",
+
+    "state_specific": "The exact customer fields, interface and access procedure can differ between State/UT PDS systems.",
+
+    "important_notes": [
+      "Only authorized distributors should access beneficiary information.",
+      "Do not disclose beneficiary information to unauthorized persons.",
+      "Do not assume that every distributor can access beneficiaries outside their assigned shop or jurisdiction.",
+      "The exact information visible to a distributor depends on the permissions configured by the applicable PDS system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can a distributor see the customers assigned to them?",
+      "answer": "An authorized distributor can view the beneficiaries or customers associated with their Fair Price Shop through the applicable PDS management system."
+    },
+    {
+      "question": "How can a distributor view their customer list?",
+      "answer": "Log in through the authorized distributor account and open the customer or beneficiary management section provided by the PDS system."
+    },
+    {
+      "question": "What customer information can a distributor see?",
+      "answer": "The available information depends on the distributor's permissions and the applicable PDS system. It may include beneficiary or ration-card information required for distribution operations."
+    },
+    {
+      "question": "Can a distributor see all PDS beneficiaries?",
+      "answer": "No assumption should be made that a distributor can access all beneficiaries. Access is generally limited according to the distributor's authorization and assigned operational scope."
+    },
+    {
+      "question": "Is beneficiary information private?",
+      "answer": "Beneficiary information should be accessed only by authorized users and used for legitimate PDS operations."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

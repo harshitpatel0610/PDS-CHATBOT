@@ -1,0 +1,78 @@
+{
+  "id": "customer_id_inquiry",
+  "intent": "customer_id_inquiry",
+  "category": "authentication",
+  "title": "Customer ID Inquiry",
+
+  "facts": {
+    "summary": "A customer ID inquiry concerns finding, checking or understanding the customer identification number associated with a PDS customer account.",
+
+    "purpose": [
+      "Help a customer understand what their customer ID is.",
+      "Guide a customer when they need to find or verify their customer ID.",
+      "Assist with customer-ID-related account access questions."
+    ],
+
+    "customer_id": "The customer ID is an identifier associated with the customer's PDS account or beneficiary record.",
+
+    "finding_customer_id": "The customer should use the official PDS system or the account information provided by the concerned authority to find or verify their customer ID.",
+
+    "verification": "Customer ID verification may require additional beneficiary or account information according to the configured PDS system.",
+
+    "account_access": "A customer may be required to provide the customer ID as part of the configured customer authentication or account-access process.",
+
+    "lost_id": "If the customer cannot find their customer ID, they should use the applicable official recovery, support or verification process provided by the PDS system.",
+
+    "security": [
+      "Do not share authentication credentials or OTPs with other people.",
+      "Provide personal information only through the official PDS system or authorized support channel."
+    ],
+
+    "scope": [
+      "Finding a customer ID.",
+      "Checking or verifying a customer ID.",
+      "Understanding the purpose of a customer ID.",
+      "Customer-ID-related access assistance."
+    ],
+
+    "important_notes": [
+      "Customer ID inquiry is different from customer login.",
+      "Customer ID inquiry is different from distributor ID inquiry.",
+      "Do not invent a specific customer ID.",
+      "Do not assume that the customer ID has the same format in every PDS implementation.",
+      "Do not treat an OTP problem as a customer ID inquiry unless the user's question is specifically about the customer ID."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is a customer ID?",
+      "answer": "A customer ID is an identifier associated with a customer's PDS account or beneficiary record."
+    },
+    {
+      "question": "Where can I find my customer ID?",
+      "answer": "Use the official PDS system or the account information provided by the concerned authority to find or verify your customer ID."
+    },
+    {
+      "question": "I forgot my customer ID. What should I do?",
+      "answer": "Use the applicable official customer-ID recovery, support or verification process provided by the PDS system."
+    },
+    {
+      "question": "Can I check my customer ID online?",
+      "answer": "Online availability depends on the PDS system. Use the official portal or account service provided by the concerned authority."
+    },
+    {
+      "question": "Is customer ID the same as distributor ID?",
+      "answer": "No. A customer ID identifies a customer account, while a distributor ID identifies a distributor account."
+    },
+    {
+      "question": "Is customer ID the same as login password?",
+      "answer": "No. A customer ID is an account identifier and is different from authentication credentials such as a password or OTP."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

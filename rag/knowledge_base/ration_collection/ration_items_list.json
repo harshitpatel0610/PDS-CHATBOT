@@ -1,0 +1,68 @@
+{
+  "id": "ration_items_list",
+  "intent": "ration_items_list",
+  "category": "ration_collection",
+  "title": "Ration Items Available Under PDS",
+
+  "facts": {
+    "summary": "The foodgrains and other commodities available to a beneficiary under the Public Distribution System depend on the applicable scheme, beneficiary entitlement, allocation and rules of the concerned State or Union Territory.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority implements applicable PDS distribution and determines the commodities distributed through the applicable system.",
+
+    "possible_items": [
+      "Rice",
+      "Wheat",
+      "Other foodgrains or commodities included under the applicable PDS scheme"
+    ],
+
+    "item_availability": "The exact items available to a beneficiary are not necessarily the same across all States and Union Territories. Availability depends on the applicable scheme, allocation and State/UT implementation.",
+
+    "entitlement": "A beneficiary receives items according to the applicable entitlement and eligibility category.",
+
+    "shop_availability": "The actual stock available at a Fair Price Shop can vary and may depend on the allocation supplied to that shop.",
+
+    "online_information": "Some State/UT PDS systems may provide information about ration items or beneficiary entitlements online. Availability depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "Do not assume that every PDS beneficiary receives the same list of items.",
+      "The exact commodity list can vary according to the applicable scheme and State/UT rules.",
+      "Rice and wheat are examples of foodgrains distributed under PDS, but the applicable entitlement should be checked for the beneficiary.",
+      "Shop-level stock availability can differ from the beneficiary's entitlement.",
+      "Use the official State/UT PDS system for beneficiary-specific information."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What items are available under ration?",
+      "answer": "The available items depend on the applicable PDS scheme, beneficiary entitlement and State/UT rules. Rice, wheat and other applicable commodities may be distributed."
+    },
+    {
+      "question": "Which items can I get from the ration shop?",
+      "answer": "The items you can receive depend on your applicable entitlement, scheme and State/UT rules."
+    },
+    {
+      "question": "Do all ration-card holders get the same items?",
+      "answer": "No. The applicable items can differ according to the beneficiary category, scheme and State/UT implementation."
+    },
+    {
+      "question": "Can I get rice and wheat from the ration shop?",
+      "answer": "Rice and wheat may be distributed under applicable PDS arrangements, but the exact entitlement depends on the applicable scheme and State/UT rules."
+    },
+    {
+      "question": "Where can I check which ration items I am entitled to?",
+      "answer": "Check the official PDS or Food and Civil Supplies system of your State or Union Territory for beneficiary-specific entitlement information."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

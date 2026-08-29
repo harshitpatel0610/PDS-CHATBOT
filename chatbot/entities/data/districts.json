@@ -1,0 +1,5901 @@
+{
+  "districts": [
+    {
+      "id": 1,
+      "state": "Andhra Pradesh",
+      "code": "AP-ASR",
+      "name": "Alluri Sitharama Raju",
+      "aliases": []
+    },
+    {
+      "id": 2,
+      "state": "Andhra Pradesh",
+      "code": "AP-ANAK",
+      "name": "Anakapalli",
+      "aliases": [
+        "Anakapalle"
+      ]
+    },
+    {
+      "id": 3,
+      "state": "Andhra Pradesh",
+      "code": "AP-ANAN",
+      "name": "Anantapur",
+      "aliases": [
+        "Anantapuramu"
+      ]
+    },
+    {
+      "id": 4,
+      "state": "Andhra Pradesh",
+      "code": "AP-BAPA",
+      "name": "Bapatla",
+      "aliases": []
+    },
+    {
+      "id": 5,
+      "state": "Andhra Pradesh",
+      "code": "AP-CHIT",
+      "name": "Chittoor",
+      "aliases": []
+    },
+    {
+      "id": 6,
+      "state": "Andhra Pradesh",
+      "code": "AP-EAGO",
+      "name": "East Godavari",
+      "aliases": [
+        "East Godavari District"
+      ]
+    },
+    {
+      "id": 7,
+      "state": "Andhra Pradesh",
+      "code": "AP-ELUR",
+      "name": "Eluru",
+      "aliases": [
+        "West Godavari"
+      ]
+    },
+    {
+      "id": 8,
+      "state": "Andhra Pradesh",
+      "code": "AP-GUNT",
+      "name": "Guntur",
+      "aliases": []
+    },
+    {
+      "id": 9,
+      "state": "Andhra Pradesh",
+      "code": "AP-KAKI",
+      "name": "Kakinada",
+      "aliases": []
+    },
+    {
+      "id": 10,
+      "state": "Andhra Pradesh",
+      "code": "AP-KONA",
+      "name": "Konaseema",
+      "aliases": [
+        "Dr. B.R. Ambedkar Konaseema"
+      ]
+    },
+    {
+      "id": 11,
+      "state": "Andhra Pradesh",
+      "code": "AP-KRIS",
+      "name": "Krishna",
+      "aliases": []
+    },
+    {
+      "id": 12,
+      "state": "Andhra Pradesh",
+      "code": "AP-KURN",
+      "name": "Kurnool",
+      "aliases": []
+    },
+    {
+      "id": 13,
+      "state": "Andhra Pradesh",
+      "code": "AP-MANY",
+      "name": "Manyam",
+      "aliases": [
+        "Parvathipuram Manyam"
+      ]
+    },
+    {
+      "id": 14,
+      "state": "Andhra Pradesh",
+      "code": "AP-NTRR",
+      "name": "N T Rama Rao",
+      "aliases": [
+        "NTR District"
+      ]
+    },
+    {
+      "id": 15,
+      "state": "Andhra Pradesh",
+      "code": "AP-NAND",
+      "name": "Nandyal",
+      "aliases": []
+    },
+    {
+      "id": 16,
+      "state": "Andhra Pradesh",
+      "code": "AP-NELL",
+      "name": "Nellore",
+      "aliases": [
+        "Sri Potti Sriramulu Nellore",
+        "SPSR Nellore"
+      ]
+    },
+    {
+      "id": 17,
+      "state": "Andhra Pradesh",
+      "code": "AP-PALN",
+      "name": "Palnadu",
+      "aliases": []
+    },
+    {
+      "id": 18,
+      "state": "Andhra Pradesh",
+      "code": "AP-PRAK",
+      "name": "Prakasam",
+      "aliases": []
+    },
+    {
+      "id": 19,
+      "state": "Andhra Pradesh",
+      "code": "AP-SRBA",
+      "name": "Sri Balaji",
+      "aliases": [
+        "Tirupati"
+      ]
+    },
+    {
+      "id": 20,
+      "state": "Andhra Pradesh",
+      "code": "AP-SSS",
+      "name": "Sri Sathya Sai",
+      "aliases": [
+        "Anantapur (part)"
+      ]
+    },
+    {
+      "id": 21,
+      "state": "Andhra Pradesh",
+      "code": "AP-SRIK",
+      "name": "Srikakulam",
+      "aliases": []
+    },
+    {
+      "id": 22,
+      "state": "Andhra Pradesh",
+      "code": "AP-TIRU",
+      "name": "Tirupati",
+      "aliases": []
+    },
+    {
+      "id": 23,
+      "state": "Andhra Pradesh",
+      "code": "AP-VISA",
+      "name": "Visakhapatnam",
+      "aliases": [
+        "Vizag"
+      ]
+    },
+    {
+      "id": 24,
+      "state": "Andhra Pradesh",
+      "code": "AP-VIZI",
+      "name": "Vizianagaram",
+      "aliases": []
+    },
+    {
+      "id": 25,
+      "state": "Andhra Pradesh",
+      "code": "AP-WEGO",
+      "name": "West Godavari",
+      "aliases": []
+    },
+    {
+      "id": 26,
+      "state": "Andhra Pradesh",
+      "code": "AP-YSKA",
+      "name": "YSR Kadapa",
+      "aliases": [
+        "Kadapa",
+        "Cuddapah"
+      ]
+    },
+    {
+      "id": 27,
+      "state": "Arunachal Pradesh",
+      "code": "AR-ANJA",
+      "name": "Anjaw",
+      "aliases": []
+    },
+    {
+      "id": 28,
+      "state": "Arunachal Pradesh",
+      "code": "AR-CHAN",
+      "name": "Changlang",
+      "aliases": []
+    },
+    {
+      "id": 29,
+      "state": "Arunachal Pradesh",
+      "code": "AR-EAKA",
+      "name": "East Kameng",
+      "aliases": []
+    },
+    {
+      "id": 30,
+      "state": "Arunachal Pradesh",
+      "code": "AR-EASI",
+      "name": "East Siang",
+      "aliases": []
+    },
+    {
+      "id": 31,
+      "state": "Arunachal Pradesh",
+      "code": "AR-ICC",
+      "name": "Itanagar Capital Complex",
+      "aliases": [
+        "Itanagar"
+      ]
+    },
+    {
+      "id": 32,
+      "state": "Arunachal Pradesh",
+      "code": "AR-KAML",
+      "name": "Kamle",
+      "aliases": []
+    },
+    {
+      "id": 33,
+      "state": "Arunachal Pradesh",
+      "code": "AR-KRDA",
+      "name": "Kra Daadi",
+      "aliases": []
+    },
+    {
+      "id": 34,
+      "state": "Arunachal Pradesh",
+      "code": "AR-KUKU",
+      "name": "Kurung Kumey",
+      "aliases": []
+    },
+    {
+      "id": 35,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LERA",
+      "name": "Lepa Rada",
+      "aliases": []
+    },
+    {
+      "id": 36,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LOHI",
+      "name": "Lohit",
+      "aliases": []
+    },
+    {
+      "id": 37,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LONG",
+      "name": "Longding",
+      "aliases": []
+    },
+    {
+      "id": 38,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LDV",
+      "name": "Lower Dibang Valley",
+      "aliases": []
+    },
+    {
+      "id": 39,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LOSI",
+      "name": "Lower Siang",
+      "aliases": []
+    },
+    {
+      "id": 40,
+      "state": "Arunachal Pradesh",
+      "code": "AR-LOSU",
+      "name": "Lower Subansiri",
+      "aliases": []
+    },
+    {
+      "id": 41,
+      "state": "Arunachal Pradesh",
+      "code": "AR-NAMS",
+      "name": "Namsai",
+      "aliases": []
+    },
+    {
+      "id": 42,
+      "state": "Arunachal Pradesh",
+      "code": "AR-PAKK",
+      "name": "Pakke-Kessang",
+      "aliases": [
+        "Pakke Kessang"
+      ]
+    },
+    {
+      "id": 43,
+      "state": "Arunachal Pradesh",
+      "code": "AR-PAPA",
+      "name": "Papum Pare",
+      "aliases": []
+    },
+    {
+      "id": 44,
+      "state": "Arunachal Pradesh",
+      "code": "AR-SHYO",
+      "name": "Shi Yomi",
+      "aliases": []
+    },
+    {
+      "id": 45,
+      "state": "Arunachal Pradesh",
+      "code": "AR-SIAN",
+      "name": "Siang",
+      "aliases": []
+    },
+    {
+      "id": 46,
+      "state": "Arunachal Pradesh",
+      "code": "AR-TAWA",
+      "name": "Tawang",
+      "aliases": []
+    },
+    {
+      "id": 47,
+      "state": "Arunachal Pradesh",
+      "code": "AR-TIRA",
+      "name": "Tirap",
+      "aliases": []
+    },
+    {
+      "id": 48,
+      "state": "Arunachal Pradesh",
+      "code": "AR-UDV",
+      "name": "Upper Dibang Valley",
+      "aliases": []
+    },
+    {
+      "id": 49,
+      "state": "Arunachal Pradesh",
+      "code": "AR-UPSI",
+      "name": "Upper Siang",
+      "aliases": []
+    },
+    {
+      "id": 50,
+      "state": "Arunachal Pradesh",
+      "code": "AR-UPSU",
+      "name": "Upper Subansiri",
+      "aliases": []
+    },
+    {
+      "id": 51,
+      "state": "Arunachal Pradesh",
+      "code": "AR-WEKA",
+      "name": "West Kameng",
+      "aliases": []
+    },
+    {
+      "id": 52,
+      "state": "Arunachal Pradesh",
+      "code": "AR-WESI",
+      "name": "West Siang",
+      "aliases": []
+    },
+    {
+      "id": 53,
+      "state": "Assam",
+      "code": "AS-BAJA",
+      "name": "Bajali",
+      "aliases": []
+    },
+    {
+      "id": 54,
+      "state": "Assam",
+      "code": "AS-BAKS",
+      "name": "Baksa",
+      "aliases": []
+    },
+    {
+      "id": 55,
+      "state": "Assam",
+      "code": "AS-BARP",
+      "name": "Barpeta",
+      "aliases": []
+    },
+    {
+      "id": 56,
+      "state": "Assam",
+      "code": "AS-BISW",
+      "name": "Biswanath",
+      "aliases": [
+        "Biswanath Chariali"
+      ]
+    },
+    {
+      "id": 57,
+      "state": "Assam",
+      "code": "AS-BONG",
+      "name": "Bongaigaon",
+      "aliases": []
+    },
+    {
+      "id": 58,
+      "state": "Assam",
+      "code": "AS-CACH",
+      "name": "Cachar",
+      "aliases": [
+        "Silchar"
+      ]
+    },
+    {
+      "id": 59,
+      "state": "Assam",
+      "code": "AS-CHAR",
+      "name": "Charaideo",
+      "aliases": []
+    },
+    {
+      "id": 60,
+      "state": "Assam",
+      "code": "AS-CHIR",
+      "name": "Chirang",
+      "aliases": []
+    },
+    {
+      "id": 61,
+      "state": "Assam",
+      "code": "AS-DARR",
+      "name": "Darrang",
+      "aliases": []
+    },
+    {
+      "id": 62,
+      "state": "Assam",
+      "code": "AS-DHEM",
+      "name": "Dhemaji",
+      "aliases": []
+    },
+    {
+      "id": 63,
+      "state": "Assam",
+      "code": "AS-DHUB",
+      "name": "Dhubri",
+      "aliases": []
+    },
+    {
+      "id": 64,
+      "state": "Assam",
+      "code": "AS-DIBR",
+      "name": "Dibrugarh",
+      "aliases": []
+    },
+    {
+      "id": 65,
+      "state": "Assam",
+      "code": "AS-DIHA",
+      "name": "Dima Hasao",
+      "aliases": [
+        "North Cachar Hills"
+      ]
+    },
+    {
+      "id": 66,
+      "state": "Assam",
+      "code": "AS-GOAL",
+      "name": "Goalpara",
+      "aliases": []
+    },
+    {
+      "id": 67,
+      "state": "Assam",
+      "code": "AS-GOLA",
+      "name": "Golaghat",
+      "aliases": []
+    },
+    {
+      "id": 68,
+      "state": "Assam",
+      "code": "AS-HAIL",
+      "name": "Hailakandi",
+      "aliases": []
+    },
+    {
+      "id": 69,
+      "state": "Assam",
+      "code": "AS-HOJA",
+      "name": "Hojai",
+      "aliases": []
+    },
+    {
+      "id": 70,
+      "state": "Assam",
+      "code": "AS-JORH",
+      "name": "Jorhat",
+      "aliases": []
+    },
+    {
+      "id": 71,
+      "state": "Assam",
+      "code": "AS-KAMR",
+      "name": "Kamrup",
+      "aliases": []
+    },
+    {
+      "id": 72,
+      "state": "Assam",
+      "code": "AS-KAME",
+      "name": "Kamrup Metropolitan",
+      "aliases": [
+        "Guwahati"
+      ]
+    },
+    {
+      "id": 73,
+      "state": "Assam",
+      "code": "AS-KAAN",
+      "name": "Karbi Anglong",
+      "aliases": []
+    },
+    {
+      "id": 74,
+      "state": "Assam",
+      "code": "AS-KARI",
+      "name": "Karimganj",
+      "aliases": []
+    },
+    {
+      "id": 75,
+      "state": "Assam",
+      "code": "AS-KOKR",
+      "name": "Kokrajhar",
+      "aliases": []
+    },
+    {
+      "id": 76,
+      "state": "Assam",
+      "code": "AS-LAKH",
+      "name": "Lakhimpur",
+      "aliases": []
+    },
+    {
+      "id": 77,
+      "state": "Assam",
+      "code": "AS-MAJU",
+      "name": "Majuli",
+      "aliases": []
+    },
+    {
+      "id": 78,
+      "state": "Assam",
+      "code": "AS-MORI",
+      "name": "Morigaon",
+      "aliases": []
+    },
+    {
+      "id": 79,
+      "state": "Assam",
+      "code": "AS-NAGA",
+      "name": "Nagaon",
+      "aliases": []
+    },
+    {
+      "id": 80,
+      "state": "Assam",
+      "code": "AS-NALB",
+      "name": "Nalbari",
+      "aliases": []
+    },
+    {
+      "id": 81,
+      "state": "Assam",
+      "code": "AS-SIVA",
+      "name": "Sivasagar",
+      "aliases": [
+        "Sibsagar"
+      ]
+    },
+    {
+      "id": 82,
+      "state": "Assam",
+      "code": "AS-SONI",
+      "name": "Sonitpur",
+      "aliases": []
+    },
+    {
+      "id": 83,
+      "state": "Assam",
+      "code": "AS-SOSA",
+      "name": "South Salmara-Mankachar",
+      "aliases": []
+    },
+    {
+      "id": 84,
+      "state": "Assam",
+      "code": "AS-TAMU",
+      "name": "Tamulpur",
+      "aliases": []
+    },
+    {
+      "id": 85,
+      "state": "Assam",
+      "code": "AS-TINS",
+      "name": "Tinsukia",
+      "aliases": []
+    },
+    {
+      "id": 86,
+      "state": "Assam",
+      "code": "AS-UDAL",
+      "name": "Udalguri",
+      "aliases": []
+    },
+    {
+      "id": 87,
+      "state": "Assam",
+      "code": "AS-WKA",
+      "name": "West Karbi Anglong",
+      "aliases": []
+    },
+    {
+      "id": 88,
+      "state": "Bihar",
+      "code": "BR-ARAR",
+      "name": "Araria",
+      "aliases": []
+    },
+    {
+      "id": 89,
+      "state": "Bihar",
+      "code": "BR-ARWA",
+      "name": "Arwal",
+      "aliases": []
+    },
+    {
+      "id": 90,
+      "state": "Bihar",
+      "code": "BR-AURA",
+      "name": "Aurangabad",
+      "aliases": []
+    },
+    {
+      "id": 91,
+      "state": "Bihar",
+      "code": "BR-BANK",
+      "name": "Banka",
+      "aliases": []
+    },
+    {
+      "id": 92,
+      "state": "Bihar",
+      "code": "BR-BEGU",
+      "name": "Begusarai",
+      "aliases": []
+    },
+    {
+      "id": 93,
+      "state": "Bihar",
+      "code": "BR-BHAG",
+      "name": "Bhagalpur",
+      "aliases": []
+    },
+    {
+      "id": 94,
+      "state": "Bihar",
+      "code": "BR-BHOJ",
+      "name": "Bhojpur",
+      "aliases": [
+        "Arrah"
+      ]
+    },
+    {
+      "id": 95,
+      "state": "Bihar",
+      "code": "BR-BUXA",
+      "name": "Buxar",
+      "aliases": []
+    },
+    {
+      "id": 96,
+      "state": "Bihar",
+      "code": "BR-DARB",
+      "name": "Darbhanga",
+      "aliases": []
+    },
+    {
+      "id": 97,
+      "state": "Bihar",
+      "code": "BR-EACH",
+      "name": "East Champaran",
+      "aliases": [
+        "Motihari"
+      ]
+    },
+    {
+      "id": 98,
+      "state": "Bihar",
+      "code": "BR-GAYA",
+      "name": "Gaya",
+      "aliases": []
+    },
+    {
+      "id": 99,
+      "state": "Bihar",
+      "code": "BR-GOPA",
+      "name": "Gopalganj",
+      "aliases": []
+    },
+    {
+      "id": 100,
+      "state": "Bihar",
+      "code": "BR-JAMU",
+      "name": "Jamui",
+      "aliases": []
+    },
+    {
+      "id": 101,
+      "state": "Bihar",
+      "code": "BR-JEHA",
+      "name": "Jehanabad",
+      "aliases": []
+    },
+    {
+      "id": 102,
+      "state": "Bihar",
+      "code": "BR-KAIM",
+      "name": "Kaimur",
+      "aliases": [
+        "Bhabua"
+      ]
+    },
+    {
+      "id": 103,
+      "state": "Bihar",
+      "code": "BR-KATI",
+      "name": "Katihar",
+      "aliases": []
+    },
+    {
+      "id": 104,
+      "state": "Bihar",
+      "code": "BR-KHAG",
+      "name": "Khagaria",
+      "aliases": []
+    },
+    {
+      "id": 105,
+      "state": "Bihar",
+      "code": "BR-KISH",
+      "name": "Kishanganj",
+      "aliases": []
+    },
+    {
+      "id": 106,
+      "state": "Bihar",
+      "code": "BR-LAKH",
+      "name": "Lakhisarai",
+      "aliases": []
+    },
+    {
+      "id": 107,
+      "state": "Bihar",
+      "code": "BR-MADH",
+      "name": "Madhepura",
+      "aliases": []
+    },
+    {
+      "id": 108,
+      "state": "Bihar",
+      "code": "BR-MADH1",
+      "name": "Madhubani",
+      "aliases": []
+    },
+    {
+      "id": 109,
+      "state": "Bihar",
+      "code": "BR-MUNG",
+      "name": "Munger",
+      "aliases": [
+        "Monghyr"
+      ]
+    },
+    {
+      "id": 110,
+      "state": "Bihar",
+      "code": "BR-MUZA",
+      "name": "Muzaffarpur",
+      "aliases": []
+    },
+    {
+      "id": 111,
+      "state": "Bihar",
+      "code": "BR-NALA",
+      "name": "Nalanda",
+      "aliases": []
+    },
+    {
+      "id": 112,
+      "state": "Bihar",
+      "code": "BR-NAWA",
+      "name": "Nawada",
+      "aliases": []
+    },
+    {
+      "id": 113,
+      "state": "Bihar",
+      "code": "BR-PATN",
+      "name": "Patna",
+      "aliases": []
+    },
+    {
+      "id": 114,
+      "state": "Bihar",
+      "code": "BR-PURN",
+      "name": "Purnia",
+      "aliases": [
+        "Purnea"
+      ]
+    },
+    {
+      "id": 115,
+      "state": "Bihar",
+      "code": "BR-ROHT",
+      "name": "Rohtas",
+      "aliases": []
+    },
+    {
+      "id": 116,
+      "state": "Bihar",
+      "code": "BR-SAHA",
+      "name": "Saharsa",
+      "aliases": []
+    },
+    {
+      "id": 117,
+      "state": "Bihar",
+      "code": "BR-SAMA",
+      "name": "Samastipur",
+      "aliases": []
+    },
+    {
+      "id": 118,
+      "state": "Bihar",
+      "code": "BR-SARA",
+      "name": "Saran",
+      "aliases": [
+        "Chhapra"
+      ]
+    },
+    {
+      "id": 119,
+      "state": "Bihar",
+      "code": "BR-SHEI",
+      "name": "Sheikhpura",
+      "aliases": []
+    },
+    {
+      "id": 120,
+      "state": "Bihar",
+      "code": "BR-SHEO",
+      "name": "Sheohar",
+      "aliases": []
+    },
+    {
+      "id": 121,
+      "state": "Bihar",
+      "code": "BR-SITA",
+      "name": "Sitamarhi",
+      "aliases": []
+    },
+    {
+      "id": 122,
+      "state": "Bihar",
+      "code": "BR-SIWA",
+      "name": "Siwan",
+      "aliases": []
+    },
+    {
+      "id": 123,
+      "state": "Bihar",
+      "code": "BR-SUPA",
+      "name": "Supaul",
+      "aliases": []
+    },
+    {
+      "id": 124,
+      "state": "Bihar",
+      "code": "BR-VAIS",
+      "name": "Vaishali",
+      "aliases": []
+    },
+    {
+      "id": 125,
+      "state": "Bihar",
+      "code": "BR-WECH",
+      "name": "West Champaran",
+      "aliases": [
+        "Bettiah"
+      ]
+    },
+    {
+      "id": 126,
+      "state": "Chhattisgarh",
+      "code": "CG-BALO",
+      "name": "Balod",
+      "aliases": []
+    },
+    {
+      "id": 127,
+      "state": "Chhattisgarh",
+      "code": "CG-BABA",
+      "name": "Baloda Bazar",
+      "aliases": [
+        "Baloda Bazar-Bhatapara"
+      ]
+    },
+    {
+      "id": 128,
+      "state": "Chhattisgarh",
+      "code": "CG-BALR",
+      "name": "Balrampur-Ramanujganj",
+      "aliases": [
+        "Balrampur"
+      ]
+    },
+    {
+      "id": 129,
+      "state": "Chhattisgarh",
+      "code": "CG-BAST",
+      "name": "Bastar",
+      "aliases": []
+    },
+    {
+      "id": 130,
+      "state": "Chhattisgarh",
+      "code": "CG-BEME",
+      "name": "Bemetara",
+      "aliases": []
+    },
+    {
+      "id": 131,
+      "state": "Chhattisgarh",
+      "code": "CG-BIJA",
+      "name": "Bijapur",
+      "aliases": []
+    },
+    {
+      "id": 132,
+      "state": "Chhattisgarh",
+      "code": "CG-BILA",
+      "name": "Bilaspur",
+      "aliases": []
+    },
+    {
+      "id": 133,
+      "state": "Chhattisgarh",
+      "code": "CG-DANT",
+      "name": "Dantewada",
+      "aliases": [
+        "South Bastar Dantewada"
+      ]
+    },
+    {
+      "id": 134,
+      "state": "Chhattisgarh",
+      "code": "CG-DHAM",
+      "name": "Dhamtari",
+      "aliases": []
+    },
+    {
+      "id": 135,
+      "state": "Chhattisgarh",
+      "code": "CG-DURG",
+      "name": "Durg",
+      "aliases": []
+    },
+    {
+      "id": 136,
+      "state": "Chhattisgarh",
+      "code": "CG-GARI",
+      "name": "Gariaband",
+      "aliases": []
+    },
+    {
+      "id": 137,
+      "state": "Chhattisgarh",
+      "code": "CG-GAUR",
+      "name": "Gaurella-Pendra-Marwahi",
+      "aliases": [
+        "GPM"
+      ]
+    },
+    {
+      "id": 138,
+      "state": "Chhattisgarh",
+      "code": "CG-JANJ",
+      "name": "Janjgir-Champa",
+      "aliases": []
+    },
+    {
+      "id": 139,
+      "state": "Chhattisgarh",
+      "code": "CG-JASH",
+      "name": "Jashpur",
+      "aliases": []
+    },
+    {
+      "id": 140,
+      "state": "Chhattisgarh",
+      "code": "CG-KABI",
+      "name": "Kabirdham",
+      "aliases": [
+        "Kawardha"
+      ]
+    },
+    {
+      "id": 141,
+      "state": "Chhattisgarh",
+      "code": "CG-KANK",
+      "name": "Kanker",
+      "aliases": [
+        "North Bastar Kanker"
+      ]
+    },
+    {
+      "id": 142,
+      "state": "Chhattisgarh",
+      "code": "CG-KHAI",
+      "name": "Khairagarh-Chhuikhadan-Gandai",
+      "aliases": []
+    },
+    {
+      "id": 143,
+      "state": "Chhattisgarh",
+      "code": "CG-KOND",
+      "name": "Kondagaon",
+      "aliases": []
+    },
+    {
+      "id": 144,
+      "state": "Chhattisgarh",
+      "code": "CG-KORB",
+      "name": "Korba",
+      "aliases": []
+    },
+    {
+      "id": 145,
+      "state": "Chhattisgarh",
+      "code": "CG-KORE",
+      "name": "Korea",
+      "aliases": [
+        "Koriya"
+      ]
+    },
+    {
+      "id": 146,
+      "state": "Chhattisgarh",
+      "code": "CG-MAHA",
+      "name": "Mahasamund",
+      "aliases": []
+    },
+    {
+      "id": 147,
+      "state": "Chhattisgarh",
+      "code": "CG-MANE",
+      "name": "Manendragarh-Chirmiri-Bharatpur",
+      "aliases": [
+        "MCB"
+      ]
+    },
+    {
+      "id": 148,
+      "state": "Chhattisgarh",
+      "code": "CG-MOCH",
+      "name": "Mohla-Manpur-Ambagarh Chowki",
+      "aliases": []
+    },
+    {
+      "id": 149,
+      "state": "Chhattisgarh",
+      "code": "CG-MUNG",
+      "name": "Mungeli",
+      "aliases": []
+    },
+    {
+      "id": 150,
+      "state": "Chhattisgarh",
+      "code": "CG-NARA",
+      "name": "Narayanpur",
+      "aliases": []
+    },
+    {
+      "id": 151,
+      "state": "Chhattisgarh",
+      "code": "CG-RAIG",
+      "name": "Raigarh",
+      "aliases": []
+    },
+    {
+      "id": 152,
+      "state": "Chhattisgarh",
+      "code": "CG-RAIP",
+      "name": "Raipur",
+      "aliases": []
+    },
+    {
+      "id": 153,
+      "state": "Chhattisgarh",
+      "code": "CG-RAJN",
+      "name": "Rajnandgaon",
+      "aliases": []
+    },
+    {
+      "id": 154,
+      "state": "Chhattisgarh",
+      "code": "CG-SARA",
+      "name": "Sarangarh-Bilaigarh",
+      "aliases": []
+    },
+    {
+      "id": 155,
+      "state": "Chhattisgarh",
+      "code": "CG-SHAK",
+      "name": "Shakti",
+      "aliases": []
+    },
+    {
+      "id": 156,
+      "state": "Chhattisgarh",
+      "code": "CG-SUKM",
+      "name": "Sukma",
+      "aliases": []
+    },
+    {
+      "id": 157,
+      "state": "Chhattisgarh",
+      "code": "CG-SURA",
+      "name": "Surajpur",
+      "aliases": []
+    },
+    {
+      "id": 158,
+      "state": "Chhattisgarh",
+      "code": "CG-SURG",
+      "name": "Surguja",
+      "aliases": []
+    },
+    {
+      "id": 159,
+      "state": "Goa",
+      "code": "GA-NOGO",
+      "name": "North Goa",
+      "aliases": []
+    },
+    {
+      "id": 160,
+      "state": "Goa",
+      "code": "GA-SOGO",
+      "name": "South Goa",
+      "aliases": []
+    },
+    {
+      "id": 161,
+      "state": "Gujarat",
+      "code": "GJ-AHME",
+      "name": "Ahmedabad",
+      "aliases": [
+        "Amdavad"
+      ]
+    },
+    {
+      "id": 162,
+      "state": "Gujarat",
+      "code": "GJ-AMRE",
+      "name": "Amreli",
+      "aliases": []
+    },
+    {
+      "id": 163,
+      "state": "Gujarat",
+      "code": "GJ-ANAN",
+      "name": "Anand",
+      "aliases": []
+    },
+    {
+      "id": 164,
+      "state": "Gujarat",
+      "code": "GJ-ARAV",
+      "name": "Aravalli",
+      "aliases": []
+    },
+    {
+      "id": 165,
+      "state": "Gujarat",
+      "code": "GJ-BANA",
+      "name": "Banaskantha",
+      "aliases": [
+        "Palanpur"
+      ]
+    },
+    {
+      "id": 166,
+      "state": "Gujarat",
+      "code": "GJ-BHAR",
+      "name": "Bharuch",
+      "aliases": [
+        "Broach"
+      ]
+    },
+    {
+      "id": 167,
+      "state": "Gujarat",
+      "code": "GJ-BHAV",
+      "name": "Bhavnagar",
+      "aliases": []
+    },
+    {
+      "id": 168,
+      "state": "Gujarat",
+      "code": "GJ-BOTA",
+      "name": "Botad",
+      "aliases": []
+    },
+    {
+      "id": 169,
+      "state": "Gujarat",
+      "code": "GJ-CHUD",
+      "name": "Chhota Udaipur",
+      "aliases": []
+    },
+    {
+      "id": 170,
+      "state": "Gujarat",
+      "code": "GJ-DAHO",
+      "name": "Dahod",
+      "aliases": []
+    },
+    {
+      "id": 171,
+      "state": "Gujarat",
+      "code": "GJ-DANG",
+      "name": "Dang",
+      "aliases": [
+        "The Dangs"
+      ]
+    },
+    {
+      "id": 172,
+      "state": "Gujarat",
+      "code": "GJ-DEDW",
+      "name": "Devbhoomi Dwarka",
+      "aliases": []
+    },
+    {
+      "id": 173,
+      "state": "Gujarat",
+      "code": "GJ-GAND",
+      "name": "Gandhinagar",
+      "aliases": []
+    },
+    {
+      "id": 174,
+      "state": "Gujarat",
+      "code": "GJ-GISO",
+      "name": "Gir Somnath",
+      "aliases": []
+    },
+    {
+      "id": 175,
+      "state": "Gujarat",
+      "code": "GJ-JAMN",
+      "name": "Jamnagar",
+      "aliases": []
+    },
+    {
+      "id": 176,
+      "state": "Gujarat",
+      "code": "GJ-JUNA",
+      "name": "Junagadh",
+      "aliases": []
+    },
+    {
+      "id": 177,
+      "state": "Gujarat",
+      "code": "GJ-KHED",
+      "name": "Kheda",
+      "aliases": [
+        "Nadiad"
+      ]
+    },
+    {
+      "id": 178,
+      "state": "Gujarat",
+      "code": "GJ-KUTC",
+      "name": "Kutch",
+      "aliases": [
+        "Kachchh",
+        "Bhuj"
+      ]
+    },
+    {
+      "id": 179,
+      "state": "Gujarat",
+      "code": "GJ-MAHI",
+      "name": "Mahisagar",
+      "aliases": []
+    },
+    {
+      "id": 180,
+      "state": "Gujarat",
+      "code": "GJ-MEHS",
+      "name": "Mehsana",
+      "aliases": [
+        "Mahesana"
+      ]
+    },
+    {
+      "id": 181,
+      "state": "Gujarat",
+      "code": "GJ-MORB",
+      "name": "Morbi",
+      "aliases": []
+    },
+    {
+      "id": 182,
+      "state": "Gujarat",
+      "code": "GJ-NARM",
+      "name": "Narmada",
+      "aliases": []
+    },
+    {
+      "id": 183,
+      "state": "Gujarat",
+      "code": "GJ-NAVS",
+      "name": "Navsari",
+      "aliases": []
+    },
+    {
+      "id": 184,
+      "state": "Gujarat",
+      "code": "GJ-PANC",
+      "name": "Panchmahal",
+      "aliases": [
+        "Godhra"
+      ]
+    },
+    {
+      "id": 185,
+      "state": "Gujarat",
+      "code": "GJ-PATA",
+      "name": "Patan",
+      "aliases": []
+    },
+    {
+      "id": 186,
+      "state": "Gujarat",
+      "code": "GJ-PORB",
+      "name": "Porbandar",
+      "aliases": []
+    },
+    {
+      "id": 187,
+      "state": "Gujarat",
+      "code": "GJ-RAJK",
+      "name": "Rajkot",
+      "aliases": []
+    },
+    {
+      "id": 188,
+      "state": "Gujarat",
+      "code": "GJ-SABA",
+      "name": "Sabarkantha",
+      "aliases": [
+        "Himmatnagar"
+      ]
+    },
+    {
+      "id": 189,
+      "state": "Gujarat",
+      "code": "GJ-SURA",
+      "name": "Surat",
+      "aliases": []
+    },
+    {
+      "id": 190,
+      "state": "Gujarat",
+      "code": "GJ-SURE",
+      "name": "Surendranagar",
+      "aliases": []
+    },
+    {
+      "id": 191,
+      "state": "Gujarat",
+      "code": "GJ-TAPI",
+      "name": "Tapi",
+      "aliases": [
+        "Vyara"
+      ]
+    },
+    {
+      "id": 192,
+      "state": "Gujarat",
+      "code": "GJ-VADO",
+      "name": "Vadodara",
+      "aliases": [
+        "Baroda"
+      ]
+    },
+    {
+      "id": 193,
+      "state": "Gujarat",
+      "code": "GJ-VALS",
+      "name": "Valsad",
+      "aliases": [
+        "Bulsar"
+      ]
+    },
+    {
+      "id": 194,
+      "state": "Haryana",
+      "code": "HR-AMBA",
+      "name": "Ambala",
+      "aliases": []
+    },
+    {
+      "id": 195,
+      "state": "Haryana",
+      "code": "HR-BHIW",
+      "name": "Bhiwani",
+      "aliases": []
+    },
+    {
+      "id": 196,
+      "state": "Haryana",
+      "code": "HR-CHDA",
+      "name": "Charkhi Dadri",
+      "aliases": [
+        "Dadri"
+      ]
+    },
+    {
+      "id": 197,
+      "state": "Haryana",
+      "code": "HR-FARI",
+      "name": "Faridabad",
+      "aliases": []
+    },
+    {
+      "id": 198,
+      "state": "Haryana",
+      "code": "HR-FATE",
+      "name": "Fatehabad",
+      "aliases": []
+    },
+    {
+      "id": 199,
+      "state": "Haryana",
+      "code": "HR-GURU",
+      "name": "Gurugram",
+      "aliases": [
+        "Gurgaon"
+      ]
+    },
+    {
+      "id": 200,
+      "state": "Haryana",
+      "code": "HR-HISA",
+      "name": "Hisar",
+      "aliases": []
+    },
+    {
+      "id": 201,
+      "state": "Haryana",
+      "code": "HR-JHAJ",
+      "name": "Jhajjar",
+      "aliases": []
+    },
+    {
+      "id": 202,
+      "state": "Haryana",
+      "code": "HR-JIND",
+      "name": "Jind",
+      "aliases": []
+    },
+    {
+      "id": 203,
+      "state": "Haryana",
+      "code": "HR-KAIT",
+      "name": "Kaithal",
+      "aliases": []
+    },
+    {
+      "id": 204,
+      "state": "Haryana",
+      "code": "HR-KARN",
+      "name": "Karnal",
+      "aliases": []
+    },
+    {
+      "id": 205,
+      "state": "Haryana",
+      "code": "HR-KURU",
+      "name": "Kurukshetra",
+      "aliases": []
+    },
+    {
+      "id": 206,
+      "state": "Haryana",
+      "code": "HR-MAHE",
+      "name": "Mahendragarh",
+      "aliases": [
+        "Narnaul"
+      ]
+    },
+    {
+      "id": 207,
+      "state": "Haryana",
+      "code": "HR-NUH",
+      "name": "Nuh",
+      "aliases": [
+        "Mewat"
+      ]
+    },
+    {
+      "id": 208,
+      "state": "Haryana",
+      "code": "HR-PALW",
+      "name": "Palwal",
+      "aliases": []
+    },
+    {
+      "id": 209,
+      "state": "Haryana",
+      "code": "HR-PANC",
+      "name": "Panchkula",
+      "aliases": []
+    },
+    {
+      "id": 210,
+      "state": "Haryana",
+      "code": "HR-PANI",
+      "name": "Panipat",
+      "aliases": []
+    },
+    {
+      "id": 211,
+      "state": "Haryana",
+      "code": "HR-REWA",
+      "name": "Rewari",
+      "aliases": []
+    },
+    {
+      "id": 212,
+      "state": "Haryana",
+      "code": "HR-ROHT",
+      "name": "Rohtak",
+      "aliases": []
+    },
+    {
+      "id": 213,
+      "state": "Haryana",
+      "code": "HR-SIRS",
+      "name": "Sirsa",
+      "aliases": []
+    },
+    {
+      "id": 214,
+      "state": "Haryana",
+      "code": "HR-SONI",
+      "name": "Sonipat",
+      "aliases": [
+        "Sonepat"
+      ]
+    },
+    {
+      "id": 215,
+      "state": "Haryana",
+      "code": "HR-YAMU",
+      "name": "Yamunanagar",
+      "aliases": []
+    },
+    {
+      "id": 216,
+      "state": "Himachal Pradesh",
+      "code": "HP-BILA",
+      "name": "Bilaspur",
+      "aliases": []
+    },
+    {
+      "id": 217,
+      "state": "Himachal Pradesh",
+      "code": "HP-CHAM",
+      "name": "Chamba",
+      "aliases": []
+    },
+    {
+      "id": 218,
+      "state": "Himachal Pradesh",
+      "code": "HP-HAMI",
+      "name": "Hamirpur",
+      "aliases": []
+    },
+    {
+      "id": 219,
+      "state": "Himachal Pradesh",
+      "code": "HP-KANG",
+      "name": "Kangra",
+      "aliases": []
+    },
+    {
+      "id": 220,
+      "state": "Himachal Pradesh",
+      "code": "HP-KINN",
+      "name": "Kinnaur",
+      "aliases": []
+    },
+    {
+      "id": 221,
+      "state": "Himachal Pradesh",
+      "code": "HP-KULL",
+      "name": "Kullu",
+      "aliases": [
+        "Kullu Valley"
+      ]
+    },
+    {
+      "id": 222,
+      "state": "Himachal Pradesh",
+      "code": "HP-LAS",
+      "name": "Lahaul and Spiti",
+      "aliases": [
+        "Lahaul & Spiti"
+      ]
+    },
+    {
+      "id": 223,
+      "state": "Himachal Pradesh",
+      "code": "HP-MAND",
+      "name": "Mandi",
+      "aliases": []
+    },
+    {
+      "id": 224,
+      "state": "Himachal Pradesh",
+      "code": "HP-SHIM",
+      "name": "Shimla",
+      "aliases": []
+    },
+    {
+      "id": 225,
+      "state": "Himachal Pradesh",
+      "code": "HP-SIRM",
+      "name": "Sirmaur",
+      "aliases": [
+        "Sirmour"
+      ]
+    },
+    {
+      "id": 226,
+      "state": "Himachal Pradesh",
+      "code": "HP-SOLA",
+      "name": "Solan",
+      "aliases": []
+    },
+    {
+      "id": 227,
+      "state": "Himachal Pradesh",
+      "code": "HP-UNA",
+      "name": "Una",
+      "aliases": []
+    },
+    {
+      "id": 228,
+      "state": "Jharkhand",
+      "code": "JH-BOKA",
+      "name": "Bokaro",
+      "aliases": []
+    },
+    {
+      "id": 229,
+      "state": "Jharkhand",
+      "code": "JH-CHAT",
+      "name": "Chatra",
+      "aliases": []
+    },
+    {
+      "id": 230,
+      "state": "Jharkhand",
+      "code": "JH-DEOG",
+      "name": "Deoghar",
+      "aliases": []
+    },
+    {
+      "id": 231,
+      "state": "Jharkhand",
+      "code": "JH-DHAN",
+      "name": "Dhanbad",
+      "aliases": []
+    },
+    {
+      "id": 232,
+      "state": "Jharkhand",
+      "code": "JH-DUMK",
+      "name": "Dumka",
+      "aliases": []
+    },
+    {
+      "id": 233,
+      "state": "Jharkhand",
+      "code": "JH-EASI",
+      "name": "East Singhbhum",
+      "aliases": [
+        "Jamshedpur"
+      ]
+    },
+    {
+      "id": 234,
+      "state": "Jharkhand",
+      "code": "JH-GARH",
+      "name": "Garhwa",
+      "aliases": []
+    },
+    {
+      "id": 235,
+      "state": "Jharkhand",
+      "code": "JH-GIRI",
+      "name": "Giridih",
+      "aliases": []
+    },
+    {
+      "id": 236,
+      "state": "Jharkhand",
+      "code": "JH-GODD",
+      "name": "Godda",
+      "aliases": []
+    },
+    {
+      "id": 237,
+      "state": "Jharkhand",
+      "code": "JH-GUML",
+      "name": "Gumla",
+      "aliases": []
+    },
+    {
+      "id": 238,
+      "state": "Jharkhand",
+      "code": "JH-HAZA",
+      "name": "Hazaribagh",
+      "aliases": []
+    },
+    {
+      "id": 239,
+      "state": "Jharkhand",
+      "code": "JH-JAMT",
+      "name": "Jamtara",
+      "aliases": []
+    },
+    {
+      "id": 240,
+      "state": "Jharkhand",
+      "code": "JH-KHUN",
+      "name": "Khunti",
+      "aliases": []
+    },
+    {
+      "id": 241,
+      "state": "Jharkhand",
+      "code": "JH-KODE",
+      "name": "Koderma",
+      "aliases": []
+    },
+    {
+      "id": 242,
+      "state": "Jharkhand",
+      "code": "JH-LATE",
+      "name": "Latehar",
+      "aliases": []
+    },
+    {
+      "id": 243,
+      "state": "Jharkhand",
+      "code": "JH-LOHA",
+      "name": "Lohardaga",
+      "aliases": []
+    },
+    {
+      "id": 244,
+      "state": "Jharkhand",
+      "code": "JH-PAKU",
+      "name": "Pakur",
+      "aliases": []
+    },
+    {
+      "id": 245,
+      "state": "Jharkhand",
+      "code": "JH-PALA",
+      "name": "Palamu",
+      "aliases": [
+        "Daltonganj"
+      ]
+    },
+    {
+      "id": 246,
+      "state": "Jharkhand",
+      "code": "JH-RAMG",
+      "name": "Ramgarh",
+      "aliases": []
+    },
+    {
+      "id": 247,
+      "state": "Jharkhand",
+      "code": "JH-RANC",
+      "name": "Ranchi",
+      "aliases": []
+    },
+    {
+      "id": 248,
+      "state": "Jharkhand",
+      "code": "JH-SAHE",
+      "name": "Sahebganj",
+      "aliases": [
+        "Sahibganj"
+      ]
+    },
+    {
+      "id": 249,
+      "state": "Jharkhand",
+      "code": "JH-SERA",
+      "name": "Seraikela-Kharsawan",
+      "aliases": []
+    },
+    {
+      "id": 250,
+      "state": "Jharkhand",
+      "code": "JH-SIMD",
+      "name": "Simdega",
+      "aliases": []
+    },
+    {
+      "id": 251,
+      "state": "Jharkhand",
+      "code": "JH-WESI",
+      "name": "West Singhbhum",
+      "aliases": [
+        "Chaibasa"
+      ]
+    },
+    {
+      "id": 252,
+      "state": "Karnataka",
+      "code": "KA-BAGA",
+      "name": "Bagalkot",
+      "aliases": []
+    },
+    {
+      "id": 253,
+      "state": "Karnataka",
+      "code": "KA-BALL",
+      "name": "Ballari",
+      "aliases": [
+        "Bellary"
+      ]
+    },
+    {
+      "id": 254,
+      "state": "Karnataka",
+      "code": "KA-BELA",
+      "name": "Belagavi",
+      "aliases": [
+        "Belgaum"
+      ]
+    },
+    {
+      "id": 255,
+      "state": "Karnataka",
+      "code": "KA-BERU",
+      "name": "Bengaluru Rural",
+      "aliases": [
+        "Bangalore Rural"
+      ]
+    },
+    {
+      "id": 256,
+      "state": "Karnataka",
+      "code": "KA-BEUR",
+      "name": "Bengaluru Urban",
+      "aliases": [
+        "Bangalore Urban",
+        "Bangalore"
+      ]
+    },
+    {
+      "id": 257,
+      "state": "Karnataka",
+      "code": "KA-BIDA",
+      "name": "Bidar",
+      "aliases": []
+    },
+    {
+      "id": 258,
+      "state": "Karnataka",
+      "code": "KA-CHAM",
+      "name": "Chamarajanagar",
+      "aliases": []
+    },
+    {
+      "id": 259,
+      "state": "Karnataka",
+      "code": "KA-CHIK",
+      "name": "Chikkaballapur",
+      "aliases": []
+    },
+    {
+      "id": 260,
+      "state": "Karnataka",
+      "code": "KA-CHIK1",
+      "name": "Chikkamagaluru",
+      "aliases": [
+        "Chikmagalur"
+      ]
+    },
+    {
+      "id": 261,
+      "state": "Karnataka",
+      "code": "KA-CHIT",
+      "name": "Chitradurga",
+      "aliases": []
+    },
+    {
+      "id": 262,
+      "state": "Karnataka",
+      "code": "KA-DAKA",
+      "name": "Dakshina Kannada",
+      "aliases": [
+        "South Canara",
+        "Mangaluru"
+      ]
+    },
+    {
+      "id": 263,
+      "state": "Karnataka",
+      "code": "KA-DAVA",
+      "name": "Davanagere",
+      "aliases": [
+        "Davangere"
+      ]
+    },
+    {
+      "id": 264,
+      "state": "Karnataka",
+      "code": "KA-DHAR",
+      "name": "Dharwad",
+      "aliases": []
+    },
+    {
+      "id": 265,
+      "state": "Karnataka",
+      "code": "KA-GADA",
+      "name": "Gadag",
+      "aliases": []
+    },
+    {
+      "id": 266,
+      "state": "Karnataka",
+      "code": "KA-HASS",
+      "name": "Hassan",
+      "aliases": []
+    },
+    {
+      "id": 267,
+      "state": "Karnataka",
+      "code": "KA-HAVE",
+      "name": "Haveri",
+      "aliases": []
+    },
+    {
+      "id": 268,
+      "state": "Karnataka",
+      "code": "KA-KALA",
+      "name": "Kalaburagi",
+      "aliases": [
+        "Gulbarga"
+      ]
+    },
+    {
+      "id": 269,
+      "state": "Karnataka",
+      "code": "KA-KODA",
+      "name": "Kodagu",
+      "aliases": [
+        "Coorg"
+      ]
+    },
+    {
+      "id": 270,
+      "state": "Karnataka",
+      "code": "KA-KOLA",
+      "name": "Kolar",
+      "aliases": []
+    },
+    {
+      "id": 271,
+      "state": "Karnataka",
+      "code": "KA-KOPP",
+      "name": "Koppal",
+      "aliases": []
+    },
+    {
+      "id": 272,
+      "state": "Karnataka",
+      "code": "KA-MAND",
+      "name": "Mandya",
+      "aliases": []
+    },
+    {
+      "id": 273,
+      "state": "Karnataka",
+      "code": "KA-MYSU",
+      "name": "Mysuru",
+      "aliases": [
+        "Mysore"
+      ]
+    },
+    {
+      "id": 274,
+      "state": "Karnataka",
+      "code": "KA-RAIC",
+      "name": "Raichur",
+      "aliases": []
+    },
+    {
+      "id": 275,
+      "state": "Karnataka",
+      "code": "KA-RAMA",
+      "name": "Ramanagara",
+      "aliases": []
+    },
+    {
+      "id": 276,
+      "state": "Karnataka",
+      "code": "KA-SHIV",
+      "name": "Shivamogga",
+      "aliases": [
+        "Shimoga"
+      ]
+    },
+    {
+      "id": 277,
+      "state": "Karnataka",
+      "code": "KA-TUMA",
+      "name": "Tumakuru",
+      "aliases": [
+        "Tumkur"
+      ]
+    },
+    {
+      "id": 278,
+      "state": "Karnataka",
+      "code": "KA-UDUP",
+      "name": "Udupi",
+      "aliases": []
+    },
+    {
+      "id": 279,
+      "state": "Karnataka",
+      "code": "KA-UTKA",
+      "name": "Uttara Kannada",
+      "aliases": [
+        "North Canara",
+        "Karwar"
+      ]
+    },
+    {
+      "id": 280,
+      "state": "Karnataka",
+      "code": "KA-VIJA",
+      "name": "Vijayapura",
+      "aliases": [
+        "Bijapur"
+      ]
+    },
+    {
+      "id": 281,
+      "state": "Karnataka",
+      "code": "KA-VIJA1",
+      "name": "Vijayanagara",
+      "aliases": [
+        "Hosapete"
+      ]
+    },
+    {
+      "id": 282,
+      "state": "Karnataka",
+      "code": "KA-YADG",
+      "name": "Yadgir",
+      "aliases": []
+    },
+    {
+      "id": 283,
+      "state": "Kerala",
+      "code": "KL-ALAP",
+      "name": "Alappuzha",
+      "aliases": [
+        "Alleppey"
+      ]
+    },
+    {
+      "id": 284,
+      "state": "Kerala",
+      "code": "KL-ERNA",
+      "name": "Ernakulam",
+      "aliases": [
+        "Kochi",
+        "Cochin"
+      ]
+    },
+    {
+      "id": 285,
+      "state": "Kerala",
+      "code": "KL-IDUK",
+      "name": "Idukki",
+      "aliases": []
+    },
+    {
+      "id": 286,
+      "state": "Kerala",
+      "code": "KL-KANN",
+      "name": "Kannur",
+      "aliases": [
+        "Cannanore"
+      ]
+    },
+    {
+      "id": 287,
+      "state": "Kerala",
+      "code": "KL-KASA",
+      "name": "Kasaragod",
+      "aliases": []
+    },
+    {
+      "id": 288,
+      "state": "Kerala",
+      "code": "KL-KOLL",
+      "name": "Kollam",
+      "aliases": [
+        "Quilon"
+      ]
+    },
+    {
+      "id": 289,
+      "state": "Kerala",
+      "code": "KL-KOTT",
+      "name": "Kottayam",
+      "aliases": []
+    },
+    {
+      "id": 290,
+      "state": "Kerala",
+      "code": "KL-KOZH",
+      "name": "Kozhikode",
+      "aliases": [
+        "Calicut"
+      ]
+    },
+    {
+      "id": 291,
+      "state": "Kerala",
+      "code": "KL-MALA",
+      "name": "Malappuram",
+      "aliases": []
+    },
+    {
+      "id": 292,
+      "state": "Kerala",
+      "code": "KL-PALA",
+      "name": "Palakkad",
+      "aliases": [
+        "Palghat"
+      ]
+    },
+    {
+      "id": 293,
+      "state": "Kerala",
+      "code": "KL-PATH",
+      "name": "Pathanamthitta",
+      "aliases": []
+    },
+    {
+      "id": 294,
+      "state": "Kerala",
+      "code": "KL-THIR",
+      "name": "Thiruvananthapuram",
+      "aliases": [
+        "Trivandrum"
+      ]
+    },
+    {
+      "id": 295,
+      "state": "Kerala",
+      "code": "KL-THRI",
+      "name": "Thrissur",
+      "aliases": [
+        "Trichur"
+      ]
+    },
+    {
+      "id": 296,
+      "state": "Kerala",
+      "code": "KL-WAYA",
+      "name": "Wayanad",
+      "aliases": []
+    },
+    {
+      "id": 297,
+      "state": "Madhya Pradesh",
+      "code": "MP-AGMA",
+      "name": "Agar Malwa",
+      "aliases": [
+        "Agar"
+      ]
+    },
+    {
+      "id": 298,
+      "state": "Madhya Pradesh",
+      "code": "MP-ALIR",
+      "name": "Alirajpur",
+      "aliases": []
+    },
+    {
+      "id": 299,
+      "state": "Madhya Pradesh",
+      "code": "MP-ANUP",
+      "name": "Anuppur",
+      "aliases": []
+    },
+    {
+      "id": 300,
+      "state": "Madhya Pradesh",
+      "code": "MP-ASHO",
+      "name": "Ashoknagar",
+      "aliases": []
+    },
+    {
+      "id": 301,
+      "state": "Madhya Pradesh",
+      "code": "MP-BALA",
+      "name": "Balaghat",
+      "aliases": []
+    },
+    {
+      "id": 302,
+      "state": "Madhya Pradesh",
+      "code": "MP-BARW",
+      "name": "Barwani",
+      "aliases": []
+    },
+    {
+      "id": 303,
+      "state": "Madhya Pradesh",
+      "code": "MP-BETU",
+      "name": "Betul",
+      "aliases": []
+    },
+    {
+      "id": 304,
+      "state": "Madhya Pradesh",
+      "code": "MP-BHIN",
+      "name": "Bhind",
+      "aliases": []
+    },
+    {
+      "id": 305,
+      "state": "Madhya Pradesh",
+      "code": "MP-BHOP",
+      "name": "Bhopal",
+      "aliases": []
+    },
+    {
+      "id": 306,
+      "state": "Madhya Pradesh",
+      "code": "MP-BURH",
+      "name": "Burhanpur",
+      "aliases": []
+    },
+    {
+      "id": 307,
+      "state": "Madhya Pradesh",
+      "code": "MP-CHHA",
+      "name": "Chhatarpur",
+      "aliases": []
+    },
+    {
+      "id": 308,
+      "state": "Madhya Pradesh",
+      "code": "MP-CHHI",
+      "name": "Chhindwara",
+      "aliases": []
+    },
+    {
+      "id": 309,
+      "state": "Madhya Pradesh",
+      "code": "MP-DAMO",
+      "name": "Damoh",
+      "aliases": []
+    },
+    {
+      "id": 310,
+      "state": "Madhya Pradesh",
+      "code": "MP-DATI",
+      "name": "Datia",
+      "aliases": []
+    },
+    {
+      "id": 311,
+      "state": "Madhya Pradesh",
+      "code": "MP-DEWA",
+      "name": "Dewas",
+      "aliases": []
+    },
+    {
+      "id": 312,
+      "state": "Madhya Pradesh",
+      "code": "MP-DHAR",
+      "name": "Dhar",
+      "aliases": []
+    },
+    {
+      "id": 313,
+      "state": "Madhya Pradesh",
+      "code": "MP-DIND",
+      "name": "Dindori",
+      "aliases": []
+    },
+    {
+      "id": 314,
+      "state": "Madhya Pradesh",
+      "code": "MP-GUNA",
+      "name": "Guna",
+      "aliases": []
+    },
+    {
+      "id": 315,
+      "state": "Madhya Pradesh",
+      "code": "MP-GWAL",
+      "name": "Gwalior",
+      "aliases": []
+    },
+    {
+      "id": 316,
+      "state": "Madhya Pradesh",
+      "code": "MP-HARD",
+      "name": "Harda",
+      "aliases": []
+    },
+    {
+      "id": 317,
+      "state": "Madhya Pradesh",
+      "code": "MP-HOSH",
+      "name": "Hoshangabad",
+      "aliases": [
+        "Narmadapuram"
+      ]
+    },
+    {
+      "id": 318,
+      "state": "Madhya Pradesh",
+      "code": "MP-INDO",
+      "name": "Indore",
+      "aliases": []
+    },
+    {
+      "id": 319,
+      "state": "Madhya Pradesh",
+      "code": "MP-JABA",
+      "name": "Jabalpur",
+      "aliases": []
+    },
+    {
+      "id": 320,
+      "state": "Madhya Pradesh",
+      "code": "MP-JHAB",
+      "name": "Jhabua",
+      "aliases": []
+    },
+    {
+      "id": 321,
+      "state": "Madhya Pradesh",
+      "code": "MP-KATN",
+      "name": "Katni",
+      "aliases": []
+    },
+    {
+      "id": 322,
+      "state": "Madhya Pradesh",
+      "code": "MP-KHAN",
+      "name": "Khandwa",
+      "aliases": [
+        "East Nimar"
+      ]
+    },
+    {
+      "id": 323,
+      "state": "Madhya Pradesh",
+      "code": "MP-KHAR",
+      "name": "Khargone",
+      "aliases": [
+        "West Nimar"
+      ]
+    },
+    {
+      "id": 324,
+      "state": "Madhya Pradesh",
+      "code": "MP-MAIH",
+      "name": "Maihar",
+      "aliases": []
+    },
+    {
+      "id": 325,
+      "state": "Madhya Pradesh",
+      "code": "MP-MAND",
+      "name": "Mandla",
+      "aliases": []
+    },
+    {
+      "id": 326,
+      "state": "Madhya Pradesh",
+      "code": "MP-MAND1",
+      "name": "Mandsaur",
+      "aliases": []
+    },
+    {
+      "id": 327,
+      "state": "Madhya Pradesh",
+      "code": "MP-MAUG",
+      "name": "Mauganj",
+      "aliases": []
+    },
+    {
+      "id": 328,
+      "state": "Madhya Pradesh",
+      "code": "MP-MORE",
+      "name": "Morena",
+      "aliases": []
+    },
+    {
+      "id": 329,
+      "state": "Madhya Pradesh",
+      "code": "MP-NARS",
+      "name": "Narsimhapur",
+      "aliases": []
+    },
+    {
+      "id": 330,
+      "state": "Madhya Pradesh",
+      "code": "MP-NARS1",
+      "name": "Narsinghpur",
+      "aliases": []
+    },
+    {
+      "id": 331,
+      "state": "Madhya Pradesh",
+      "code": "MP-NEEM",
+      "name": "Neemuch",
+      "aliases": []
+    },
+    {
+      "id": 332,
+      "state": "Madhya Pradesh",
+      "code": "MP-NIWA",
+      "name": "Niwari",
+      "aliases": []
+    },
+    {
+      "id": 333,
+      "state": "Madhya Pradesh",
+      "code": "MP-PAND",
+      "name": "Pandhurna",
+      "aliases": []
+    },
+    {
+      "id": 334,
+      "state": "Madhya Pradesh",
+      "code": "MP-PANN",
+      "name": "Panna",
+      "aliases": []
+    },
+    {
+      "id": 335,
+      "state": "Madhya Pradesh",
+      "code": "MP-RAIS",
+      "name": "Raisen",
+      "aliases": []
+    },
+    {
+      "id": 336,
+      "state": "Madhya Pradesh",
+      "code": "MP-RAJG",
+      "name": "Rajgarh",
+      "aliases": []
+    },
+    {
+      "id": 337,
+      "state": "Madhya Pradesh",
+      "code": "MP-RATL",
+      "name": "Ratlam",
+      "aliases": []
+    },
+    {
+      "id": 338,
+      "state": "Madhya Pradesh",
+      "code": "MP-REWA",
+      "name": "Rewa",
+      "aliases": []
+    },
+    {
+      "id": 339,
+      "state": "Madhya Pradesh",
+      "code": "MP-SAGA",
+      "name": "Sagar",
+      "aliases": []
+    },
+    {
+      "id": 340,
+      "state": "Madhya Pradesh",
+      "code": "MP-SATN",
+      "name": "Satna",
+      "aliases": []
+    },
+    {
+      "id": 341,
+      "state": "Madhya Pradesh",
+      "code": "MP-SEHO",
+      "name": "Sehore",
+      "aliases": []
+    },
+    {
+      "id": 342,
+      "state": "Madhya Pradesh",
+      "code": "MP-SEON",
+      "name": "Seoni",
+      "aliases": []
+    },
+    {
+      "id": 343,
+      "state": "Madhya Pradesh",
+      "code": "MP-SHAH",
+      "name": "Shahdol",
+      "aliases": []
+    },
+    {
+      "id": 344,
+      "state": "Madhya Pradesh",
+      "code": "MP-SHAJ",
+      "name": "Shajapur",
+      "aliases": []
+    },
+    {
+      "id": 345,
+      "state": "Madhya Pradesh",
+      "code": "MP-SHEO",
+      "name": "Sheopur",
+      "aliases": []
+    },
+    {
+      "id": 346,
+      "state": "Madhya Pradesh",
+      "code": "MP-SHIV",
+      "name": "Shivpuri",
+      "aliases": []
+    },
+    {
+      "id": 347,
+      "state": "Madhya Pradesh",
+      "code": "MP-SIDH",
+      "name": "Sidhi",
+      "aliases": []
+    },
+    {
+      "id": 348,
+      "state": "Madhya Pradesh",
+      "code": "MP-SING",
+      "name": "Singrauli",
+      "aliases": []
+    },
+    {
+      "id": 349,
+      "state": "Madhya Pradesh",
+      "code": "MP-TIKA",
+      "name": "Tikamgarh",
+      "aliases": []
+    },
+    {
+      "id": 350,
+      "state": "Madhya Pradesh",
+      "code": "MP-UJJA",
+      "name": "Ujjain",
+      "aliases": []
+    },
+    {
+      "id": 351,
+      "state": "Madhya Pradesh",
+      "code": "MP-UMAR",
+      "name": "Umaria",
+      "aliases": []
+    },
+    {
+      "id": 352,
+      "state": "Madhya Pradesh",
+      "code": "MP-VIDI",
+      "name": "Vidisha",
+      "aliases": []
+    },
+    {
+      "id": 353,
+      "state": "Maharashtra",
+      "code": "MH-AHME",
+      "name": "Ahmednagar",
+      "aliases": [
+        "Ahilyanagar"
+      ]
+    },
+    {
+      "id": 354,
+      "state": "Maharashtra",
+      "code": "MH-AKOL",
+      "name": "Akola",
+      "aliases": []
+    },
+    {
+      "id": 355,
+      "state": "Maharashtra",
+      "code": "MH-AMRA",
+      "name": "Amravati",
+      "aliases": []
+    },
+    {
+      "id": 356,
+      "state": "Maharashtra",
+      "code": "MH-AURA",
+      "name": "Aurangabad",
+      "aliases": [
+        "Chhatrapati Sambhajinagar"
+      ]
+    },
+    {
+      "id": 357,
+      "state": "Maharashtra",
+      "code": "MH-BEED",
+      "name": "Beed",
+      "aliases": []
+    },
+    {
+      "id": 358,
+      "state": "Maharashtra",
+      "code": "MH-BHAN",
+      "name": "Bhandara",
+      "aliases": []
+    },
+    {
+      "id": 359,
+      "state": "Maharashtra",
+      "code": "MH-BULD",
+      "name": "Buldhana",
+      "aliases": []
+    },
+    {
+      "id": 360,
+      "state": "Maharashtra",
+      "code": "MH-CHAN",
+      "name": "Chandrapur",
+      "aliases": []
+    },
+    {
+      "id": 361,
+      "state": "Maharashtra",
+      "code": "MH-DHUL",
+      "name": "Dhule",
+      "aliases": []
+    },
+    {
+      "id": 362,
+      "state": "Maharashtra",
+      "code": "MH-GADC",
+      "name": "Gadchiroli",
+      "aliases": []
+    },
+    {
+      "id": 363,
+      "state": "Maharashtra",
+      "code": "MH-GOND",
+      "name": "Gondia",
+      "aliases": []
+    },
+    {
+      "id": 364,
+      "state": "Maharashtra",
+      "code": "MH-HING",
+      "name": "Hingoli",
+      "aliases": []
+    },
+    {
+      "id": 365,
+      "state": "Maharashtra",
+      "code": "MH-JALG",
+      "name": "Jalgaon",
+      "aliases": []
+    },
+    {
+      "id": 366,
+      "state": "Maharashtra",
+      "code": "MH-JALN",
+      "name": "Jalna",
+      "aliases": []
+    },
+    {
+      "id": 367,
+      "state": "Maharashtra",
+      "code": "MH-KOLH",
+      "name": "Kolhapur",
+      "aliases": []
+    },
+    {
+      "id": 368,
+      "state": "Maharashtra",
+      "code": "MH-LATU",
+      "name": "Latur",
+      "aliases": []
+    },
+    {
+      "id": 369,
+      "state": "Maharashtra",
+      "code": "MH-MUCI",
+      "name": "Mumbai City",
+      "aliases": [
+        "Bombay"
+      ]
+    },
+    {
+      "id": 370,
+      "state": "Maharashtra",
+      "code": "MH-MUSU",
+      "name": "Mumbai Suburban",
+      "aliases": []
+    },
+    {
+      "id": 371,
+      "state": "Maharashtra",
+      "code": "MH-NAGP",
+      "name": "Nagpur",
+      "aliases": []
+    },
+    {
+      "id": 372,
+      "state": "Maharashtra",
+      "code": "MH-NAND",
+      "name": "Nanded",
+      "aliases": []
+    },
+    {
+      "id": 373,
+      "state": "Maharashtra",
+      "code": "MH-NAND1",
+      "name": "Nandurbar",
+      "aliases": []
+    },
+    {
+      "id": 374,
+      "state": "Maharashtra",
+      "code": "MH-NASH",
+      "name": "Nashik",
+      "aliases": [
+        "Nasik"
+      ]
+    },
+    {
+      "id": 375,
+      "state": "Maharashtra",
+      "code": "MH-OSMA",
+      "name": "Osmanabad",
+      "aliases": [
+        "Dharashiv"
+      ]
+    },
+    {
+      "id": 376,
+      "state": "Maharashtra",
+      "code": "MH-PALG",
+      "name": "Palghar",
+      "aliases": []
+    },
+    {
+      "id": 377,
+      "state": "Maharashtra",
+      "code": "MH-PARB",
+      "name": "Parbhani",
+      "aliases": []
+    },
+    {
+      "id": 378,
+      "state": "Maharashtra",
+      "code": "MH-PUNE",
+      "name": "Pune",
+      "aliases": [
+        "Poona"
+      ]
+    },
+    {
+      "id": 379,
+      "state": "Maharashtra",
+      "code": "MH-RAIG",
+      "name": "Raigad",
+      "aliases": [
+        "Kulaba"
+      ]
+    },
+    {
+      "id": 380,
+      "state": "Maharashtra",
+      "code": "MH-RATN",
+      "name": "Ratnagiri",
+      "aliases": []
+    },
+    {
+      "id": 381,
+      "state": "Maharashtra",
+      "code": "MH-SANG",
+      "name": "Sangli",
+      "aliases": []
+    },
+    {
+      "id": 382,
+      "state": "Maharashtra",
+      "code": "MH-SATA",
+      "name": "Satara",
+      "aliases": []
+    },
+    {
+      "id": 383,
+      "state": "Maharashtra",
+      "code": "MH-SIND",
+      "name": "Sindhudurg",
+      "aliases": []
+    },
+    {
+      "id": 384,
+      "state": "Maharashtra",
+      "code": "MH-SOLA",
+      "name": "Solapur",
+      "aliases": [
+        "Sholapur"
+      ]
+    },
+    {
+      "id": 385,
+      "state": "Maharashtra",
+      "code": "MH-THAN",
+      "name": "Thane",
+      "aliases": [
+        "Thana"
+      ]
+    },
+    {
+      "id": 386,
+      "state": "Maharashtra",
+      "code": "MH-WARD",
+      "name": "Wardha",
+      "aliases": []
+    },
+    {
+      "id": 387,
+      "state": "Maharashtra",
+      "code": "MH-WASH",
+      "name": "Washim",
+      "aliases": []
+    },
+    {
+      "id": 388,
+      "state": "Maharashtra",
+      "code": "MH-YAVA",
+      "name": "Yavatmal",
+      "aliases": []
+    },
+    {
+      "id": 389,
+      "state": "Manipur",
+      "code": "MN-BISH",
+      "name": "Bishnupur",
+      "aliases": []
+    },
+    {
+      "id": 390,
+      "state": "Manipur",
+      "code": "MN-CHAN",
+      "name": "Chandel",
+      "aliases": []
+    },
+    {
+      "id": 391,
+      "state": "Manipur",
+      "code": "MN-CHUR",
+      "name": "Churachandpur",
+      "aliases": []
+    },
+    {
+      "id": 392,
+      "state": "Manipur",
+      "code": "MN-IMEA",
+      "name": "Imphal East",
+      "aliases": []
+    },
+    {
+      "id": 393,
+      "state": "Manipur",
+      "code": "MN-IMWE",
+      "name": "Imphal West",
+      "aliases": []
+    },
+    {
+      "id": 394,
+      "state": "Manipur",
+      "code": "MN-JIRI",
+      "name": "Jiribam",
+      "aliases": []
+    },
+    {
+      "id": 395,
+      "state": "Manipur",
+      "code": "MN-KAKC",
+      "name": "Kakching",
+      "aliases": []
+    },
+    {
+      "id": 396,
+      "state": "Manipur",
+      "code": "MN-KAMJ",
+      "name": "Kamjong",
+      "aliases": []
+    },
+    {
+      "id": 397,
+      "state": "Manipur",
+      "code": "MN-KANG",
+      "name": "Kangpokpi",
+      "aliases": []
+    },
+    {
+      "id": 398,
+      "state": "Manipur",
+      "code": "MN-NONE",
+      "name": "Noney",
+      "aliases": []
+    },
+    {
+      "id": 399,
+      "state": "Manipur",
+      "code": "MN-PHER",
+      "name": "Pherzawl",
+      "aliases": []
+    },
+    {
+      "id": 400,
+      "state": "Manipur",
+      "code": "MN-SENA",
+      "name": "Senapati",
+      "aliases": []
+    },
+    {
+      "id": 401,
+      "state": "Manipur",
+      "code": "MN-TAME",
+      "name": "Tamenglong",
+      "aliases": []
+    },
+    {
+      "id": 402,
+      "state": "Manipur",
+      "code": "MN-TENG",
+      "name": "Tengnoupal",
+      "aliases": []
+    },
+    {
+      "id": 403,
+      "state": "Manipur",
+      "code": "MN-THOU",
+      "name": "Thoubal",
+      "aliases": []
+    },
+    {
+      "id": 404,
+      "state": "Manipur",
+      "code": "MN-UKHR",
+      "name": "Ukhrul",
+      "aliases": []
+    },
+    {
+      "id": 405,
+      "state": "Meghalaya",
+      "code": "ML-EGH",
+      "name": "East Garo Hills",
+      "aliases": []
+    },
+    {
+      "id": 406,
+      "state": "Meghalaya",
+      "code": "ML-EJH",
+      "name": "East Jaintia Hills",
+      "aliases": []
+    },
+    {
+      "id": 407,
+      "state": "Meghalaya",
+      "code": "ML-EKH",
+      "name": "East Khasi Hills",
+      "aliases": [
+        "Shillong"
+      ]
+    },
+    {
+      "id": 408,
+      "state": "Meghalaya",
+      "code": "ML-EWKH",
+      "name": "Eastern West Khasi Hills",
+      "aliases": []
+    },
+    {
+      "id": 409,
+      "state": "Meghalaya",
+      "code": "ML-NGH",
+      "name": "North Garo Hills",
+      "aliases": []
+    },
+    {
+      "id": 410,
+      "state": "Meghalaya",
+      "code": "ML-RIBH",
+      "name": "Ri Bhoi",
+      "aliases": []
+    },
+    {
+      "id": 411,
+      "state": "Meghalaya",
+      "code": "ML-SGH",
+      "name": "South Garo Hills",
+      "aliases": []
+    },
+    {
+      "id": 412,
+      "state": "Meghalaya",
+      "code": "ML-SWGH",
+      "name": "South West Garo Hills",
+      "aliases": []
+    },
+    {
+      "id": 413,
+      "state": "Meghalaya",
+      "code": "ML-SWKH",
+      "name": "South West Khasi Hills",
+      "aliases": []
+    },
+    {
+      "id": 414,
+      "state": "Meghalaya",
+      "code": "ML-WGH",
+      "name": "West Garo Hills",
+      "aliases": []
+    },
+    {
+      "id": 415,
+      "state": "Meghalaya",
+      "code": "ML-WJH",
+      "name": "West Jaintia Hills",
+      "aliases": []
+    },
+    {
+      "id": 416,
+      "state": "Meghalaya",
+      "code": "ML-WKH",
+      "name": "West Khasi Hills",
+      "aliases": []
+    },
+    {
+      "id": 417,
+      "state": "Mizoram",
+      "code": "MZ-AIZA",
+      "name": "Aizawl",
+      "aliases": []
+    },
+    {
+      "id": 418,
+      "state": "Mizoram",
+      "code": "MZ-CHAM",
+      "name": "Champhai",
+      "aliases": []
+    },
+    {
+      "id": 419,
+      "state": "Mizoram",
+      "code": "MZ-HNAH",
+      "name": "Hnahthial",
+      "aliases": []
+    },
+    {
+      "id": 420,
+      "state": "Mizoram",
+      "code": "MZ-KHAW",
+      "name": "Khawzawl",
+      "aliases": []
+    },
+    {
+      "id": 421,
+      "state": "Mizoram",
+      "code": "MZ-KOLA",
+      "name": "Kolasib",
+      "aliases": []
+    },
+    {
+      "id": 422,
+      "state": "Mizoram",
+      "code": "MZ-LAWN",
+      "name": "Lawngtlai",
+      "aliases": []
+    },
+    {
+      "id": 423,
+      "state": "Mizoram",
+      "code": "MZ-LUNG",
+      "name": "Lunglei",
+      "aliases": []
+    },
+    {
+      "id": 424,
+      "state": "Mizoram",
+      "code": "MZ-MAMI",
+      "name": "Mamit",
+      "aliases": []
+    },
+    {
+      "id": 425,
+      "state": "Mizoram",
+      "code": "MZ-SAIT",
+      "name": "Saitual",
+      "aliases": []
+    },
+    {
+      "id": 426,
+      "state": "Mizoram",
+      "code": "MZ-SERC",
+      "name": "Serchhip",
+      "aliases": []
+    },
+    {
+      "id": 427,
+      "state": "Mizoram",
+      "code": "MZ-SIAH",
+      "name": "Siaha",
+      "aliases": [
+        "Chhimtuipui"
+      ]
+    },
+    {
+      "id": 428,
+      "state": "Nagaland",
+      "code": "NL-CHUM",
+      "name": "Chumoukedima",
+      "aliases": []
+    },
+    {
+      "id": 429,
+      "state": "Nagaland",
+      "code": "NL-DIMA",
+      "name": "Dimapur",
+      "aliases": []
+    },
+    {
+      "id": 430,
+      "state": "Nagaland",
+      "code": "NL-KIPH",
+      "name": "Kiphire",
+      "aliases": []
+    },
+    {
+      "id": 431,
+      "state": "Nagaland",
+      "code": "NL-KOHI",
+      "name": "Kohima",
+      "aliases": []
+    },
+    {
+      "id": 432,
+      "state": "Nagaland",
+      "code": "NL-LONG",
+      "name": "Longleng",
+      "aliases": []
+    },
+    {
+      "id": 433,
+      "state": "Nagaland",
+      "code": "NL-MOKO",
+      "name": "Mokokchung",
+      "aliases": []
+    },
+    {
+      "id": 434,
+      "state": "Nagaland",
+      "code": "NL-MON",
+      "name": "Mon",
+      "aliases": []
+    },
+    {
+      "id": 435,
+      "state": "Nagaland",
+      "code": "NL-NIUL",
+      "name": "Niuland",
+      "aliases": []
+    },
+    {
+      "id": 436,
+      "state": "Nagaland",
+      "code": "NL-NOKL",
+      "name": "Noklak",
+      "aliases": []
+    },
+    {
+      "id": 437,
+      "state": "Nagaland",
+      "code": "NL-PERE",
+      "name": "Peren",
+      "aliases": []
+    },
+    {
+      "id": 438,
+      "state": "Nagaland",
+      "code": "NL-PHEK",
+      "name": "Phek",
+      "aliases": []
+    },
+    {
+      "id": 439,
+      "state": "Nagaland",
+      "code": "NL-SHAM",
+      "name": "Shamator",
+      "aliases": []
+    },
+    {
+      "id": 440,
+      "state": "Nagaland",
+      "code": "NL-TSEM",
+      "name": "Tseminyu",
+      "aliases": []
+    },
+    {
+      "id": 441,
+      "state": "Nagaland",
+      "code": "NL-TUEN",
+      "name": "Tuensang",
+      "aliases": []
+    },
+    {
+      "id": 442,
+      "state": "Nagaland",
+      "code": "NL-WOKH",
+      "name": "Wokha",
+      "aliases": []
+    },
+    {
+      "id": 443,
+      "state": "Nagaland",
+      "code": "NL-ZUNH",
+      "name": "Zunheboto",
+      "aliases": []
+    },
+    {
+      "id": 444,
+      "state": "Odisha",
+      "code": "OD-ANGU",
+      "name": "Angul",
+      "aliases": []
+    },
+    {
+      "id": 445,
+      "state": "Odisha",
+      "code": "OD-BALA",
+      "name": "Balangir",
+      "aliases": [
+        "Bolangir"
+      ]
+    },
+    {
+      "id": 446,
+      "state": "Odisha",
+      "code": "OD-BALA1",
+      "name": "Balasore",
+      "aliases": [
+        "Baleswar"
+      ]
+    },
+    {
+      "id": 447,
+      "state": "Odisha",
+      "code": "OD-BARG",
+      "name": "Bargarh",
+      "aliases": []
+    },
+    {
+      "id": 448,
+      "state": "Odisha",
+      "code": "OD-BHAD",
+      "name": "Bhadrak",
+      "aliases": []
+    },
+    {
+      "id": 449,
+      "state": "Odisha",
+      "code": "OD-BOUD",
+      "name": "Boudh",
+      "aliases": [
+        "Baudh"
+      ]
+    },
+    {
+      "id": 450,
+      "state": "Odisha",
+      "code": "OD-CUTT",
+      "name": "Cuttack",
+      "aliases": []
+    },
+    {
+      "id": 451,
+      "state": "Odisha",
+      "code": "OD-DEOG",
+      "name": "Deogarh",
+      "aliases": [
+        "Deogarh"
+      ]
+    },
+    {
+      "id": 452,
+      "state": "Odisha",
+      "code": "OD-DHEN",
+      "name": "Dhenkanal",
+      "aliases": []
+    },
+    {
+      "id": 453,
+      "state": "Odisha",
+      "code": "OD-GAJA",
+      "name": "Gajapati",
+      "aliases": []
+    },
+    {
+      "id": 454,
+      "state": "Odisha",
+      "code": "OD-GANJ",
+      "name": "Ganjam",
+      "aliases": []
+    },
+    {
+      "id": 455,
+      "state": "Odisha",
+      "code": "OD-JAGA",
+      "name": "Jagatsinghpur",
+      "aliases": []
+    },
+    {
+      "id": 456,
+      "state": "Odisha",
+      "code": "OD-JAJP",
+      "name": "Jajpur",
+      "aliases": []
+    },
+    {
+      "id": 457,
+      "state": "Odisha",
+      "code": "OD-JHAR",
+      "name": "Jharsuguda",
+      "aliases": []
+    },
+    {
+      "id": 458,
+      "state": "Odisha",
+      "code": "OD-KALA",
+      "name": "Kalahandi",
+      "aliases": []
+    },
+    {
+      "id": 459,
+      "state": "Odisha",
+      "code": "OD-KAND",
+      "name": "Kandhamal",
+      "aliases": [
+        "Phulbani"
+      ]
+    },
+    {
+      "id": 460,
+      "state": "Odisha",
+      "code": "OD-KEND",
+      "name": "Kendrapara",
+      "aliases": []
+    },
+    {
+      "id": 461,
+      "state": "Odisha",
+      "code": "OD-KEND1",
+      "name": "Kendujhar",
+      "aliases": [
+        "Keonjhar"
+      ]
+    },
+    {
+      "id": 462,
+      "state": "Odisha",
+      "code": "OD-KHOR",
+      "name": "Khordha",
+      "aliases": [
+        "Khurda"
+      ]
+    },
+    {
+      "id": 463,
+      "state": "Odisha",
+      "code": "OD-KORA",
+      "name": "Koraput",
+      "aliases": []
+    },
+    {
+      "id": 464,
+      "state": "Odisha",
+      "code": "OD-MALK",
+      "name": "Malkangiri",
+      "aliases": []
+    },
+    {
+      "id": 465,
+      "state": "Odisha",
+      "code": "OD-MAYU",
+      "name": "Mayurbhanj",
+      "aliases": []
+    },
+    {
+      "id": 466,
+      "state": "Odisha",
+      "code": "OD-NABA",
+      "name": "Nabarangpur",
+      "aliases": []
+    },
+    {
+      "id": 467,
+      "state": "Odisha",
+      "code": "OD-NAYA",
+      "name": "Nayagarh",
+      "aliases": []
+    },
+    {
+      "id": 468,
+      "state": "Odisha",
+      "code": "OD-NUAP",
+      "name": "Nuapada",
+      "aliases": []
+    },
+    {
+      "id": 469,
+      "state": "Odisha",
+      "code": "OD-PURI",
+      "name": "Puri",
+      "aliases": []
+    },
+    {
+      "id": 470,
+      "state": "Odisha",
+      "code": "OD-RAYA",
+      "name": "Rayagada",
+      "aliases": []
+    },
+    {
+      "id": 471,
+      "state": "Odisha",
+      "code": "OD-SAMB",
+      "name": "Sambalpur",
+      "aliases": []
+    },
+    {
+      "id": 472,
+      "state": "Odisha",
+      "code": "OD-SUBA",
+      "name": "Subarnapur",
+      "aliases": [
+        "Sonepur"
+      ]
+    },
+    {
+      "id": 473,
+      "state": "Odisha",
+      "code": "OD-SUND",
+      "name": "Sundargarh",
+      "aliases": []
+    },
+    {
+      "id": 474,
+      "state": "Punjab",
+      "code": "PB-AMRI",
+      "name": "Amritsar",
+      "aliases": []
+    },
+    {
+      "id": 475,
+      "state": "Punjab",
+      "code": "PB-BARN",
+      "name": "Barnala",
+      "aliases": []
+    },
+    {
+      "id": 476,
+      "state": "Punjab",
+      "code": "PB-BATH",
+      "name": "Bathinda",
+      "aliases": [
+        "Bhatinda"
+      ]
+    },
+    {
+      "id": 477,
+      "state": "Punjab",
+      "code": "PB-FARI",
+      "name": "Faridkot",
+      "aliases": []
+    },
+    {
+      "id": 478,
+      "state": "Punjab",
+      "code": "PB-FASA",
+      "name": "Fatehgarh Sahib",
+      "aliases": []
+    },
+    {
+      "id": 479,
+      "state": "Punjab",
+      "code": "PB-FAZI",
+      "name": "Fazilka",
+      "aliases": []
+    },
+    {
+      "id": 480,
+      "state": "Punjab",
+      "code": "PB-FERO",
+      "name": "Ferozepur",
+      "aliases": [
+        "Firozpur"
+      ]
+    },
+    {
+      "id": 481,
+      "state": "Punjab",
+      "code": "PB-GURD",
+      "name": "Gurdaspur",
+      "aliases": []
+    },
+    {
+      "id": 482,
+      "state": "Punjab",
+      "code": "PB-HOSH",
+      "name": "Hoshiarpur",
+      "aliases": []
+    },
+    {
+      "id": 483,
+      "state": "Punjab",
+      "code": "PB-JALA",
+      "name": "Jalandhar",
+      "aliases": []
+    },
+    {
+      "id": 484,
+      "state": "Punjab",
+      "code": "PB-KAPU",
+      "name": "Kapurthala",
+      "aliases": []
+    },
+    {
+      "id": 485,
+      "state": "Punjab",
+      "code": "PB-LUDH",
+      "name": "Ludhiana",
+      "aliases": []
+    },
+    {
+      "id": 486,
+      "state": "Punjab",
+      "code": "PB-MALE",
+      "name": "Malerkotla",
+      "aliases": []
+    },
+    {
+      "id": 487,
+      "state": "Punjab",
+      "code": "PB-MANS",
+      "name": "Mansa",
+      "aliases": []
+    },
+    {
+      "id": 488,
+      "state": "Punjab",
+      "code": "PB-MOGA",
+      "name": "Moga",
+      "aliases": []
+    },
+    {
+      "id": 489,
+      "state": "Punjab",
+      "code": "PB-MOHA",
+      "name": "Mohali",
+      "aliases": [
+        "SAS Nagar",
+        "Sahibzada Ajit Singh Nagar"
+      ]
+    },
+    {
+      "id": 490,
+      "state": "Punjab",
+      "code": "PB-MUKT",
+      "name": "Muktsar",
+      "aliases": [
+        "Sri Muktsar Sahib"
+      ]
+    },
+    {
+      "id": 491,
+      "state": "Punjab",
+      "code": "PB-NAWA",
+      "name": "Nawanshahr",
+      "aliases": [
+        "Shahid Bhagat Singh Nagar"
+      ]
+    },
+    {
+      "id": 492,
+      "state": "Punjab",
+      "code": "PB-PATH",
+      "name": "Pathankot",
+      "aliases": []
+    },
+    {
+      "id": 493,
+      "state": "Punjab",
+      "code": "PB-PATI",
+      "name": "Patiala",
+      "aliases": []
+    },
+    {
+      "id": 494,
+      "state": "Punjab",
+      "code": "PB-RUPN",
+      "name": "Rupnagar",
+      "aliases": [
+        "Ropar"
+      ]
+    },
+    {
+      "id": 495,
+      "state": "Punjab",
+      "code": "PB-SANG",
+      "name": "Sangrur",
+      "aliases": []
+    },
+    {
+      "id": 496,
+      "state": "Punjab",
+      "code": "PB-TATA",
+      "name": "Tarn Taran",
+      "aliases": []
+    },
+    {
+      "id": 497,
+      "state": "Rajasthan",
+      "code": "RJ-AJME",
+      "name": "Ajmer",
+      "aliases": []
+    },
+    {
+      "id": 498,
+      "state": "Rajasthan",
+      "code": "RJ-ALWA",
+      "name": "Alwar",
+      "aliases": []
+    },
+    {
+      "id": 499,
+      "state": "Rajasthan",
+      "code": "RJ-ANUP",
+      "name": "Anupgarh",
+      "aliases": []
+    },
+    {
+      "id": 500,
+      "state": "Rajasthan",
+      "code": "RJ-BALO",
+      "name": "Balotra",
+      "aliases": []
+    },
+    {
+      "id": 501,
+      "state": "Rajasthan",
+      "code": "RJ-BANS",
+      "name": "Banswara",
+      "aliases": []
+    },
+    {
+      "id": 502,
+      "state": "Rajasthan",
+      "code": "RJ-BARA",
+      "name": "Baran",
+      "aliases": []
+    },
+    {
+      "id": 503,
+      "state": "Rajasthan",
+      "code": "RJ-BARM",
+      "name": "Barmer",
+      "aliases": []
+    },
+    {
+      "id": 504,
+      "state": "Rajasthan",
+      "code": "RJ-BEAW",
+      "name": "Beawar",
+      "aliases": []
+    },
+    {
+      "id": 505,
+      "state": "Rajasthan",
+      "code": "RJ-BHAR",
+      "name": "Bharatpur",
+      "aliases": []
+    },
+    {
+      "id": 506,
+      "state": "Rajasthan",
+      "code": "RJ-BHIL",
+      "name": "Bhilwara",
+      "aliases": []
+    },
+    {
+      "id": 507,
+      "state": "Rajasthan",
+      "code": "RJ-BIKA",
+      "name": "Bikaner",
+      "aliases": []
+    },
+    {
+      "id": 508,
+      "state": "Rajasthan",
+      "code": "RJ-BUND",
+      "name": "Bundi",
+      "aliases": []
+    },
+    {
+      "id": 509,
+      "state": "Rajasthan",
+      "code": "RJ-CHIT",
+      "name": "Chittorgarh",
+      "aliases": [
+        "Chittor"
+      ]
+    },
+    {
+      "id": 510,
+      "state": "Rajasthan",
+      "code": "RJ-CHUR",
+      "name": "Churu",
+      "aliases": []
+    },
+    {
+      "id": 511,
+      "state": "Rajasthan",
+      "code": "RJ-DAUS",
+      "name": "Dausa",
+      "aliases": []
+    },
+    {
+      "id": 512,
+      "state": "Rajasthan",
+      "code": "RJ-DEEG",
+      "name": "Deeg",
+      "aliases": []
+    },
+    {
+      "id": 513,
+      "state": "Rajasthan",
+      "code": "RJ-DHOL",
+      "name": "Dholpur",
+      "aliases": []
+    },
+    {
+      "id": 514,
+      "state": "Rajasthan",
+      "code": "RJ-DIDW",
+      "name": "Didwana-Kuchaman",
+      "aliases": []
+    },
+    {
+      "id": 515,
+      "state": "Rajasthan",
+      "code": "RJ-DUNG",
+      "name": "Dungarpur",
+      "aliases": []
+    },
+    {
+      "id": 516,
+      "state": "Rajasthan",
+      "code": "RJ-GANG",
+      "name": "Ganganagar",
+      "aliases": [
+        "Sri Ganganagar"
+      ]
+    },
+    {
+      "id": 517,
+      "state": "Rajasthan",
+      "code": "RJ-GACI",
+      "name": "Gangapur City",
+      "aliases": []
+    },
+    {
+      "id": 518,
+      "state": "Rajasthan",
+      "code": "RJ-HANU",
+      "name": "Hanumangarh",
+      "aliases": []
+    },
+    {
+      "id": 519,
+      "state": "Rajasthan",
+      "code": "RJ-JAIP",
+      "name": "Jaipur",
+      "aliases": []
+    },
+    {
+      "id": 520,
+      "state": "Rajasthan",
+      "code": "RJ-JARU",
+      "name": "Jaipur Rural",
+      "aliases": []
+    },
+    {
+      "id": 521,
+      "state": "Rajasthan",
+      "code": "RJ-JAIS",
+      "name": "Jaisalmer",
+      "aliases": []
+    },
+    {
+      "id": 522,
+      "state": "Rajasthan",
+      "code": "RJ-JALO",
+      "name": "Jalore",
+      "aliases": []
+    },
+    {
+      "id": 523,
+      "state": "Rajasthan",
+      "code": "RJ-JHAL",
+      "name": "Jhalawar",
+      "aliases": []
+    },
+    {
+      "id": 524,
+      "state": "Rajasthan",
+      "code": "RJ-JHUN",
+      "name": "Jhunjhunu",
+      "aliases": []
+    },
+    {
+      "id": 525,
+      "state": "Rajasthan",
+      "code": "RJ-JODH",
+      "name": "Jodhpur",
+      "aliases": []
+    },
+    {
+      "id": 526,
+      "state": "Rajasthan",
+      "code": "RJ-JORU",
+      "name": "Jodhpur Rural",
+      "aliases": []
+    },
+    {
+      "id": 527,
+      "state": "Rajasthan",
+      "code": "RJ-KARA",
+      "name": "Karauli",
+      "aliases": []
+    },
+    {
+      "id": 528,
+      "state": "Rajasthan",
+      "code": "RJ-KEKR",
+      "name": "Kekri",
+      "aliases": []
+    },
+    {
+      "id": 529,
+      "state": "Rajasthan",
+      "code": "RJ-KHAI",
+      "name": "Khairthal-Tijara",
+      "aliases": []
+    },
+    {
+      "id": 530,
+      "state": "Rajasthan",
+      "code": "RJ-KOTA",
+      "name": "Kota",
+      "aliases": []
+    },
+    {
+      "id": 531,
+      "state": "Rajasthan",
+      "code": "RJ-KOTP",
+      "name": "Kotputli-Behror",
+      "aliases": []
+    },
+    {
+      "id": 532,
+      "state": "Rajasthan",
+      "code": "RJ-NAGA",
+      "name": "Nagaur",
+      "aliases": []
+    },
+    {
+      "id": 533,
+      "state": "Rajasthan",
+      "code": "RJ-NKT",
+      "name": "Neem Ka Thana",
+      "aliases": []
+    },
+    {
+      "id": 534,
+      "state": "Rajasthan",
+      "code": "RJ-PALI",
+      "name": "Pali",
+      "aliases": []
+    },
+    {
+      "id": 535,
+      "state": "Rajasthan",
+      "code": "RJ-PHAL",
+      "name": "Phalodi",
+      "aliases": []
+    },
+    {
+      "id": 536,
+      "state": "Rajasthan",
+      "code": "RJ-PRAT",
+      "name": "Pratapgarh",
+      "aliases": []
+    },
+    {
+      "id": 537,
+      "state": "Rajasthan",
+      "code": "RJ-RAJS",
+      "name": "Rajsamand",
+      "aliases": []
+    },
+    {
+      "id": 538,
+      "state": "Rajasthan",
+      "code": "RJ-SALU",
+      "name": "Salumbar",
+      "aliases": []
+    },
+    {
+      "id": 539,
+      "state": "Rajasthan",
+      "code": "RJ-SANC",
+      "name": "Sanchore",
+      "aliases": []
+    },
+    {
+      "id": 540,
+      "state": "Rajasthan",
+      "code": "RJ-SAMA",
+      "name": "Sawai Madhopur",
+      "aliases": []
+    },
+    {
+      "id": 541,
+      "state": "Rajasthan",
+      "code": "RJ-SHAH",
+      "name": "Shahpura",
+      "aliases": []
+    },
+    {
+      "id": 542,
+      "state": "Rajasthan",
+      "code": "RJ-SIKA",
+      "name": "Sikar",
+      "aliases": []
+    },
+    {
+      "id": 543,
+      "state": "Rajasthan",
+      "code": "RJ-SIRO",
+      "name": "Sirohi",
+      "aliases": []
+    },
+    {
+      "id": 544,
+      "state": "Rajasthan",
+      "code": "RJ-TONK",
+      "name": "Tonk",
+      "aliases": []
+    },
+    {
+      "id": 545,
+      "state": "Rajasthan",
+      "code": "RJ-UDAI",
+      "name": "Udaipur",
+      "aliases": []
+    },
+    {
+      "id": 546,
+      "state": "Rajasthan",
+      "code": "RJ-BHIW",
+      "name": "Bhiwadi",
+      "aliases": []
+    },
+    {
+      "id": 547,
+      "state": "Sikkim",
+      "code": "SK-EASI",
+      "name": "East Sikkim",
+      "aliases": [
+        "Gangtok"
+      ]
+    },
+    {
+      "id": 548,
+      "state": "Sikkim",
+      "code": "SK-NOSI",
+      "name": "North Sikkim",
+      "aliases": [
+        "Mangan"
+      ]
+    },
+    {
+      "id": 549,
+      "state": "Sikkim",
+      "code": "SK-PAKY",
+      "name": "Pakyong",
+      "aliases": []
+    },
+    {
+      "id": 550,
+      "state": "Sikkim",
+      "code": "SK-SORE",
+      "name": "Soreng",
+      "aliases": []
+    },
+    {
+      "id": 551,
+      "state": "Sikkim",
+      "code": "SK-SOSI",
+      "name": "South Sikkim",
+      "aliases": [
+        "Namchi"
+      ]
+    },
+    {
+      "id": 552,
+      "state": "Sikkim",
+      "code": "SK-WESI",
+      "name": "West Sikkim",
+      "aliases": [
+        "Gyalshing"
+      ]
+    },
+    {
+      "id": 553,
+      "state": "Tamil Nadu",
+      "code": "TN-ARIY",
+      "name": "Ariyalur",
+      "aliases": []
+    },
+    {
+      "id": 554,
+      "state": "Tamil Nadu",
+      "code": "TN-CHEN",
+      "name": "Chengalpattu",
+      "aliases": []
+    },
+    {
+      "id": 555,
+      "state": "Tamil Nadu",
+      "code": "TN-CHEN1",
+      "name": "Chennai",
+      "aliases": [
+        "Madras"
+      ]
+    },
+    {
+      "id": 556,
+      "state": "Tamil Nadu",
+      "code": "TN-COIM",
+      "name": "Coimbatore",
+      "aliases": [
+        "Kovai"
+      ]
+    },
+    {
+      "id": 557,
+      "state": "Tamil Nadu",
+      "code": "TN-CUDD",
+      "name": "Cuddalore",
+      "aliases": []
+    },
+    {
+      "id": 558,
+      "state": "Tamil Nadu",
+      "code": "TN-DHAR",
+      "name": "Dharmapuri",
+      "aliases": []
+    },
+    {
+      "id": 559,
+      "state": "Tamil Nadu",
+      "code": "TN-DIND",
+      "name": "Dindigul",
+      "aliases": []
+    },
+    {
+      "id": 560,
+      "state": "Tamil Nadu",
+      "code": "TN-EROD",
+      "name": "Erode",
+      "aliases": []
+    },
+    {
+      "id": 561,
+      "state": "Tamil Nadu",
+      "code": "TN-KALL",
+      "name": "Kallakurichi",
+      "aliases": []
+    },
+    {
+      "id": 562,
+      "state": "Tamil Nadu",
+      "code": "TN-KANC",
+      "name": "Kancheepuram",
+      "aliases": [
+        "Kanchipuram"
+      ]
+    },
+    {
+      "id": 563,
+      "state": "Tamil Nadu",
+      "code": "TN-KANN",
+      "name": "Kanniyakumari",
+      "aliases": [
+        "Kanyakumari",
+        "Cape Comorin"
+      ]
+    },
+    {
+      "id": 564,
+      "state": "Tamil Nadu",
+      "code": "TN-KARU",
+      "name": "Karur",
+      "aliases": []
+    },
+    {
+      "id": 565,
+      "state": "Tamil Nadu",
+      "code": "TN-KRIS",
+      "name": "Krishnagiri",
+      "aliases": []
+    },
+    {
+      "id": 566,
+      "state": "Tamil Nadu",
+      "code": "TN-MADU",
+      "name": "Madurai",
+      "aliases": []
+    },
+    {
+      "id": 567,
+      "state": "Tamil Nadu",
+      "code": "TN-MAYI",
+      "name": "Mayiladuthurai",
+      "aliases": []
+    },
+    {
+      "id": 568,
+      "state": "Tamil Nadu",
+      "code": "TN-NAGA",
+      "name": "Nagapattinam",
+      "aliases": []
+    },
+    {
+      "id": 569,
+      "state": "Tamil Nadu",
+      "code": "TN-NAMA",
+      "name": "Namakkal",
+      "aliases": []
+    },
+    {
+      "id": 570,
+      "state": "Tamil Nadu",
+      "code": "TN-NILG",
+      "name": "Nilgiris",
+      "aliases": [
+        "The Nilgiris",
+        "Ooty"
+      ]
+    },
+    {
+      "id": 571,
+      "state": "Tamil Nadu",
+      "code": "TN-PERA",
+      "name": "Perambalur",
+      "aliases": []
+    },
+    {
+      "id": 572,
+      "state": "Tamil Nadu",
+      "code": "TN-PUDU",
+      "name": "Pudukkottai",
+      "aliases": []
+    },
+    {
+      "id": 573,
+      "state": "Tamil Nadu",
+      "code": "TN-RAMA",
+      "name": "Ramanathapuram",
+      "aliases": [
+        "Ramnad"
+      ]
+    },
+    {
+      "id": 574,
+      "state": "Tamil Nadu",
+      "code": "TN-RANI",
+      "name": "Ranipet",
+      "aliases": []
+    },
+    {
+      "id": 575,
+      "state": "Tamil Nadu",
+      "code": "TN-SALE",
+      "name": "Salem",
+      "aliases": []
+    },
+    {
+      "id": 576,
+      "state": "Tamil Nadu",
+      "code": "TN-SIVA",
+      "name": "Sivaganga",
+      "aliases": []
+    },
+    {
+      "id": 577,
+      "state": "Tamil Nadu",
+      "code": "TN-TENK",
+      "name": "Tenkasi",
+      "aliases": []
+    },
+    {
+      "id": 578,
+      "state": "Tamil Nadu",
+      "code": "TN-THAN",
+      "name": "Thanjavur",
+      "aliases": [
+        "Tanjore"
+      ]
+    },
+    {
+      "id": 579,
+      "state": "Tamil Nadu",
+      "code": "TN-THEN",
+      "name": "Theni",
+      "aliases": []
+    },
+    {
+      "id": 580,
+      "state": "Tamil Nadu",
+      "code": "TN-THOO",
+      "name": "Thoothukudi",
+      "aliases": [
+        "Tuticorin"
+      ]
+    },
+    {
+      "id": 581,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU",
+      "name": "Tiruchirappalli",
+      "aliases": [
+        "Trichy",
+        "Trichinopoly"
+      ]
+    },
+    {
+      "id": 582,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU1",
+      "name": "Tirunelveli",
+      "aliases": []
+    },
+    {
+      "id": 583,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU2",
+      "name": "Tirupathur",
+      "aliases": []
+    },
+    {
+      "id": 584,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU3",
+      "name": "Tiruppur",
+      "aliases": [
+        "Tirupur"
+      ]
+    },
+    {
+      "id": 585,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU4",
+      "name": "Tiruvallur",
+      "aliases": []
+    },
+    {
+      "id": 586,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU5",
+      "name": "Tiruvannamalai",
+      "aliases": []
+    },
+    {
+      "id": 587,
+      "state": "Tamil Nadu",
+      "code": "TN-TIRU6",
+      "name": "Tiruvarur",
+      "aliases": []
+    },
+    {
+      "id": 588,
+      "state": "Tamil Nadu",
+      "code": "TN-VELL",
+      "name": "Vellore",
+      "aliases": []
+    },
+    {
+      "id": 589,
+      "state": "Tamil Nadu",
+      "code": "TN-VILU",
+      "name": "Viluppuram",
+      "aliases": []
+    },
+    {
+      "id": 590,
+      "state": "Tamil Nadu",
+      "code": "TN-VIRU",
+      "name": "Virudhunagar",
+      "aliases": []
+    },
+    {
+      "id": 591,
+      "state": "Telangana",
+      "code": "TS-ADIL",
+      "name": "Adilabad",
+      "aliases": []
+    },
+    {
+      "id": 592,
+      "state": "Telangana",
+      "code": "TS-BHKO",
+      "name": "Bhadradri Kothagudem",
+      "aliases": []
+    },
+    {
+      "id": 593,
+      "state": "Telangana",
+      "code": "TS-HANU",
+      "name": "Hanumakonda",
+      "aliases": [
+        "Warangal Urban"
+      ]
+    },
+    {
+      "id": 594,
+      "state": "Telangana",
+      "code": "TS-HYDE",
+      "name": "Hyderabad",
+      "aliases": []
+    },
+    {
+      "id": 595,
+      "state": "Telangana",
+      "code": "TS-JAGT",
+      "name": "Jagtial",
+      "aliases": []
+    },
+    {
+      "id": 596,
+      "state": "Telangana",
+      "code": "TS-JANG",
+      "name": "Jangaon",
+      "aliases": []
+    },
+    {
+      "id": 597,
+      "state": "Telangana",
+      "code": "TS-JABH",
+      "name": "Jayashankar Bhupalpally",
+      "aliases": []
+    },
+    {
+      "id": 598,
+      "state": "Telangana",
+      "code": "TS-JOGA",
+      "name": "Jogulamba Gadwal",
+      "aliases": []
+    },
+    {
+      "id": 599,
+      "state": "Telangana",
+      "code": "TS-KAMA",
+      "name": "Kamareddy",
+      "aliases": []
+    },
+    {
+      "id": 600,
+      "state": "Telangana",
+      "code": "TS-KARI",
+      "name": "Karimnagar",
+      "aliases": []
+    },
+    {
+      "id": 601,
+      "state": "Telangana",
+      "code": "TS-KHAM",
+      "name": "Khammam",
+      "aliases": []
+    },
+    {
+      "id": 602,
+      "state": "Telangana",
+      "code": "TS-KBA",
+      "name": "Kumuram Bheem Asifabad",
+      "aliases": []
+    },
+    {
+      "id": 603,
+      "state": "Telangana",
+      "code": "TS-MAHA",
+      "name": "Mahabubabad",
+      "aliases": []
+    },
+    {
+      "id": 604,
+      "state": "Telangana",
+      "code": "TS-MAHA1",
+      "name": "Mahabubnagar",
+      "aliases": [
+        "Palamoor"
+      ]
+    },
+    {
+      "id": 605,
+      "state": "Telangana",
+      "code": "TS-MANC",
+      "name": "Mancherial",
+      "aliases": []
+    },
+    {
+      "id": 606,
+      "state": "Telangana",
+      "code": "TS-MEDA",
+      "name": "Medak",
+      "aliases": []
+    },
+    {
+      "id": 607,
+      "state": "Telangana",
+      "code": "TS-MEDC",
+      "name": "Medchal-Malkajgiri",
+      "aliases": []
+    },
+    {
+      "id": 608,
+      "state": "Telangana",
+      "code": "TS-MULU",
+      "name": "Mulugu",
+      "aliases": []
+    },
+    {
+      "id": 609,
+      "state": "Telangana",
+      "code": "TS-NAGA",
+      "name": "Nagarkurnool",
+      "aliases": []
+    },
+    {
+      "id": 610,
+      "state": "Telangana",
+      "code": "TS-NALG",
+      "name": "Nalgonda",
+      "aliases": []
+    },
+    {
+      "id": 611,
+      "state": "Telangana",
+      "code": "TS-NARA",
+      "name": "Narayanpet",
+      "aliases": []
+    },
+    {
+      "id": 612,
+      "state": "Telangana",
+      "code": "TS-NIRM",
+      "name": "Nirmal",
+      "aliases": []
+    },
+    {
+      "id": 613,
+      "state": "Telangana",
+      "code": "TS-NIZA",
+      "name": "Nizamabad",
+      "aliases": []
+    },
+    {
+      "id": 614,
+      "state": "Telangana",
+      "code": "TS-PEDD",
+      "name": "Peddapalli",
+      "aliases": []
+    },
+    {
+      "id": 615,
+      "state": "Telangana",
+      "code": "TS-RASI",
+      "name": "Rajanna Sircilla",
+      "aliases": []
+    },
+    {
+      "id": 616,
+      "state": "Telangana",
+      "code": "TS-RANG",
+      "name": "Rangareddy",
+      "aliases": []
+    },
+    {
+      "id": 617,
+      "state": "Telangana",
+      "code": "TS-SANG",
+      "name": "Sangareddy",
+      "aliases": []
+    },
+    {
+      "id": 618,
+      "state": "Telangana",
+      "code": "TS-SIDD",
+      "name": "Siddipet",
+      "aliases": []
+    },
+    {
+      "id": 619,
+      "state": "Telangana",
+      "code": "TS-SURY",
+      "name": "Suryapet",
+      "aliases": []
+    },
+    {
+      "id": 620,
+      "state": "Telangana",
+      "code": "TS-VIKA",
+      "name": "Vikarabad",
+      "aliases": []
+    },
+    {
+      "id": 621,
+      "state": "Telangana",
+      "code": "TS-WANA",
+      "name": "Wanaparthy",
+      "aliases": []
+    },
+    {
+      "id": 622,
+      "state": "Telangana",
+      "code": "TS-WARA",
+      "name": "Warangal",
+      "aliases": [
+        "Warangal Rural"
+      ]
+    },
+    {
+      "id": 623,
+      "state": "Telangana",
+      "code": "TS-YABH",
+      "name": "Yadadri Bhuvanagiri",
+      "aliases": []
+    },
+    {
+      "id": 624,
+      "state": "Tripura",
+      "code": "TR-DHAL",
+      "name": "Dhalai",
+      "aliases": []
+    },
+    {
+      "id": 625,
+      "state": "Tripura",
+      "code": "TR-GOMA",
+      "name": "Gomati",
+      "aliases": []
+    },
+    {
+      "id": 626,
+      "state": "Tripura",
+      "code": "TR-KHOW",
+      "name": "Khowai",
+      "aliases": []
+    },
+    {
+      "id": 627,
+      "state": "Tripura",
+      "code": "TR-NOTR",
+      "name": "North Tripura",
+      "aliases": []
+    },
+    {
+      "id": 628,
+      "state": "Tripura",
+      "code": "TR-SEPA",
+      "name": "Sepahijala",
+      "aliases": []
+    },
+    {
+      "id": 629,
+      "state": "Tripura",
+      "code": "TR-SOTR",
+      "name": "South Tripura",
+      "aliases": []
+    },
+    {
+      "id": 630,
+      "state": "Tripura",
+      "code": "TR-SIPA",
+      "name": "Sipahijala",
+      "aliases": []
+    },
+    {
+      "id": 631,
+      "state": "Tripura",
+      "code": "TR-UNAK",
+      "name": "Unakoti",
+      "aliases": []
+    },
+    {
+      "id": 632,
+      "state": "Tripura",
+      "code": "TR-WETR",
+      "name": "West Tripura",
+      "aliases": [
+        "Agartala"
+      ]
+    },
+    {
+      "id": 633,
+      "state": "Uttar Pradesh",
+      "code": "UP-AGRA",
+      "name": "Agra",
+      "aliases": []
+    },
+    {
+      "id": 634,
+      "state": "Uttar Pradesh",
+      "code": "UP-ALIG",
+      "name": "Aligarh",
+      "aliases": []
+    },
+    {
+      "id": 635,
+      "state": "Uttar Pradesh",
+      "code": "UP-AMNA",
+      "name": "Ambedkar Nagar",
+      "aliases": []
+    },
+    {
+      "id": 636,
+      "state": "Uttar Pradesh",
+      "code": "UP-AMET",
+      "name": "Amethi",
+      "aliases": [
+        "Chhatrapati Shahuji Maharaj Nagar"
+      ]
+    },
+    {
+      "id": 637,
+      "state": "Uttar Pradesh",
+      "code": "UP-AMRO",
+      "name": "Amroha",
+      "aliases": [
+        "Jyotiba Phule Nagar"
+      ]
+    },
+    {
+      "id": 638,
+      "state": "Uttar Pradesh",
+      "code": "UP-AURA",
+      "name": "Auraiya",
+      "aliases": []
+    },
+    {
+      "id": 639,
+      "state": "Uttar Pradesh",
+      "code": "UP-AYOD",
+      "name": "Ayodhya",
+      "aliases": [
+        "Faizabad"
+      ]
+    },
+    {
+      "id": 640,
+      "state": "Uttar Pradesh",
+      "code": "UP-AZAM",
+      "name": "Azamgarh",
+      "aliases": []
+    },
+    {
+      "id": 641,
+      "state": "Uttar Pradesh",
+      "code": "UP-BAGH",
+      "name": "Baghpat",
+      "aliases": []
+    },
+    {
+      "id": 642,
+      "state": "Uttar Pradesh",
+      "code": "UP-BAHR",
+      "name": "Bahraich",
+      "aliases": []
+    },
+    {
+      "id": 643,
+      "state": "Uttar Pradesh",
+      "code": "UP-BALL",
+      "name": "Ballia",
+      "aliases": []
+    },
+    {
+      "id": 644,
+      "state": "Uttar Pradesh",
+      "code": "UP-BALR",
+      "name": "Balrampur",
+      "aliases": []
+    },
+    {
+      "id": 645,
+      "state": "Uttar Pradesh",
+      "code": "UP-BAND",
+      "name": "Banda",
+      "aliases": []
+    },
+    {
+      "id": 646,
+      "state": "Uttar Pradesh",
+      "code": "UP-BARA",
+      "name": "Barabanki",
+      "aliases": []
+    },
+    {
+      "id": 647,
+      "state": "Uttar Pradesh",
+      "code": "UP-BARE",
+      "name": "Bareilly",
+      "aliases": []
+    },
+    {
+      "id": 648,
+      "state": "Uttar Pradesh",
+      "code": "UP-BAST",
+      "name": "Basti",
+      "aliases": []
+    },
+    {
+      "id": 649,
+      "state": "Uttar Pradesh",
+      "code": "UP-BHAD",
+      "name": "Bhadohi",
+      "aliases": [
+        "Sant Ravidas Nagar"
+      ]
+    },
+    {
+      "id": 650,
+      "state": "Uttar Pradesh",
+      "code": "UP-BIJN",
+      "name": "Bijnor",
+      "aliases": []
+    },
+    {
+      "id": 651,
+      "state": "Uttar Pradesh",
+      "code": "UP-BUDA",
+      "name": "Budaun",
+      "aliases": [
+        "Badaun"
+      ]
+    },
+    {
+      "id": 652,
+      "state": "Uttar Pradesh",
+      "code": "UP-BULA",
+      "name": "Bulandshahr",
+      "aliases": []
+    },
+    {
+      "id": 653,
+      "state": "Uttar Pradesh",
+      "code": "UP-CHAN",
+      "name": "Chandauli",
+      "aliases": []
+    },
+    {
+      "id": 654,
+      "state": "Uttar Pradesh",
+      "code": "UP-CHIT",
+      "name": "Chitrakoot",
+      "aliases": []
+    },
+    {
+      "id": 655,
+      "state": "Uttar Pradesh",
+      "code": "UP-DEOR",
+      "name": "Deoria",
+      "aliases": []
+    },
+    {
+      "id": 656,
+      "state": "Uttar Pradesh",
+      "code": "UP-ETAH",
+      "name": "Etah",
+      "aliases": []
+    },
+    {
+      "id": 657,
+      "state": "Uttar Pradesh",
+      "code": "UP-ETAW",
+      "name": "Etawah",
+      "aliases": []
+    },
+    {
+      "id": 658,
+      "state": "Uttar Pradesh",
+      "code": "UP-FARR",
+      "name": "Farrukhabad",
+      "aliases": []
+    },
+    {
+      "id": 659,
+      "state": "Uttar Pradesh",
+      "code": "UP-FATE",
+      "name": "Fatehpur",
+      "aliases": []
+    },
+    {
+      "id": 660,
+      "state": "Uttar Pradesh",
+      "code": "UP-FIRO",
+      "name": "Firozabad",
+      "aliases": []
+    },
+    {
+      "id": 661,
+      "state": "Uttar Pradesh",
+      "code": "UP-GBN",
+      "name": "Gautam Buddha Nagar",
+      "aliases": [
+        "Noida"
+      ]
+    },
+    {
+      "id": 662,
+      "state": "Uttar Pradesh",
+      "code": "UP-GHAZ",
+      "name": "Ghaziabad",
+      "aliases": []
+    },
+    {
+      "id": 663,
+      "state": "Uttar Pradesh",
+      "code": "UP-GHAZ1",
+      "name": "Ghazipur",
+      "aliases": []
+    },
+    {
+      "id": 664,
+      "state": "Uttar Pradesh",
+      "code": "UP-GOND",
+      "name": "Gonda",
+      "aliases": []
+    },
+    {
+      "id": 665,
+      "state": "Uttar Pradesh",
+      "code": "UP-GORA",
+      "name": "Gorakhpur",
+      "aliases": []
+    },
+    {
+      "id": 666,
+      "state": "Uttar Pradesh",
+      "code": "UP-HAMI",
+      "name": "Hamirpur",
+      "aliases": []
+    },
+    {
+      "id": 667,
+      "state": "Uttar Pradesh",
+      "code": "UP-HAPU",
+      "name": "Hapur",
+      "aliases": [
+        "Panchsheel Nagar"
+      ]
+    },
+    {
+      "id": 668,
+      "state": "Uttar Pradesh",
+      "code": "UP-HARD",
+      "name": "Hardoi",
+      "aliases": []
+    },
+    {
+      "id": 669,
+      "state": "Uttar Pradesh",
+      "code": "UP-HATH",
+      "name": "Hathras",
+      "aliases": [
+        "Mahamaya Nagar"
+      ]
+    },
+    {
+      "id": 670,
+      "state": "Uttar Pradesh",
+      "code": "UP-JALA",
+      "name": "Jalaun",
+      "aliases": []
+    },
+    {
+      "id": 671,
+      "state": "Uttar Pradesh",
+      "code": "UP-JAUN",
+      "name": "Jaunpur",
+      "aliases": []
+    },
+    {
+      "id": 672,
+      "state": "Uttar Pradesh",
+      "code": "UP-JHAN",
+      "name": "Jhansi",
+      "aliases": []
+    },
+    {
+      "id": 673,
+      "state": "Uttar Pradesh",
+      "code": "UP-KANN",
+      "name": "Kannauj",
+      "aliases": []
+    },
+    {
+      "id": 674,
+      "state": "Uttar Pradesh",
+      "code": "UP-KADE",
+      "name": "Kanpur Dehat",
+      "aliases": [
+        "Ramabai Nagar"
+      ]
+    },
+    {
+      "id": 675,
+      "state": "Uttar Pradesh",
+      "code": "UP-KANA",
+      "name": "Kanpur Nagar",
+      "aliases": [
+        "Kanpur"
+      ]
+    },
+    {
+      "id": 676,
+      "state": "Uttar Pradesh",
+      "code": "UP-KASG",
+      "name": "Kasganj",
+      "aliases": [
+        "Kanshiram Nagar"
+      ]
+    },
+    {
+      "id": 677,
+      "state": "Uttar Pradesh",
+      "code": "UP-KAUS",
+      "name": "Kaushambi",
+      "aliases": []
+    },
+    {
+      "id": 678,
+      "state": "Uttar Pradesh",
+      "code": "UP-KUSH",
+      "name": "Kushinagar",
+      "aliases": [
+        "Padrauna"
+      ]
+    },
+    {
+      "id": 679,
+      "state": "Uttar Pradesh",
+      "code": "UP-LAKH",
+      "name": "Lakhimpur Kheri",
+      "aliases": [
+        "Kheri"
+      ]
+    },
+    {
+      "id": 680,
+      "state": "Uttar Pradesh",
+      "code": "UP-LALI",
+      "name": "Lalitpur",
+      "aliases": []
+    },
+    {
+      "id": 681,
+      "state": "Uttar Pradesh",
+      "code": "UP-LUCK",
+      "name": "Lucknow",
+      "aliases": []
+    },
+    {
+      "id": 682,
+      "state": "Uttar Pradesh",
+      "code": "UP-MAHA",
+      "name": "Maharajganj",
+      "aliases": []
+    },
+    {
+      "id": 683,
+      "state": "Uttar Pradesh",
+      "code": "UP-MAHO",
+      "name": "Mahoba",
+      "aliases": []
+    },
+    {
+      "id": 684,
+      "state": "Uttar Pradesh",
+      "code": "UP-MAIN",
+      "name": "Mainpuri",
+      "aliases": []
+    },
+    {
+      "id": 685,
+      "state": "Uttar Pradesh",
+      "code": "UP-MATH",
+      "name": "Mathura",
+      "aliases": []
+    },
+    {
+      "id": 686,
+      "state": "Uttar Pradesh",
+      "code": "UP-MAU",
+      "name": "Mau",
+      "aliases": []
+    },
+    {
+      "id": 687,
+      "state": "Uttar Pradesh",
+      "code": "UP-MEER",
+      "name": "Meerut",
+      "aliases": []
+    },
+    {
+      "id": 688,
+      "state": "Uttar Pradesh",
+      "code": "UP-MIRZ",
+      "name": "Mirzapur",
+      "aliases": []
+    },
+    {
+      "id": 689,
+      "state": "Uttar Pradesh",
+      "code": "UP-MORA",
+      "name": "Moradabad",
+      "aliases": []
+    },
+    {
+      "id": 690,
+      "state": "Uttar Pradesh",
+      "code": "UP-MUZA",
+      "name": "Muzaffarnagar",
+      "aliases": []
+    },
+    {
+      "id": 691,
+      "state": "Uttar Pradesh",
+      "code": "UP-PILI",
+      "name": "Pilibhit",
+      "aliases": []
+    },
+    {
+      "id": 692,
+      "state": "Uttar Pradesh",
+      "code": "UP-PRAT",
+      "name": "Pratapgarh",
+      "aliases": []
+    },
+    {
+      "id": 693,
+      "state": "Uttar Pradesh",
+      "code": "UP-PRAY",
+      "name": "Prayagraj",
+      "aliases": [
+        "Allahabad"
+      ]
+    },
+    {
+      "id": 694,
+      "state": "Uttar Pradesh",
+      "code": "UP-RABA",
+      "name": "Rae Bareli",
+      "aliases": [
+        "Raebareli"
+      ]
+    },
+    {
+      "id": 695,
+      "state": "Uttar Pradesh",
+      "code": "UP-RAMP",
+      "name": "Rampur",
+      "aliases": []
+    },
+    {
+      "id": 696,
+      "state": "Uttar Pradesh",
+      "code": "UP-SAHA",
+      "name": "Saharanpur",
+      "aliases": []
+    },
+    {
+      "id": 697,
+      "state": "Uttar Pradesh",
+      "code": "UP-SAMB",
+      "name": "Sambhal",
+      "aliases": [
+        "Bhim Nagar"
+      ]
+    },
+    {
+      "id": 698,
+      "state": "Uttar Pradesh",
+      "code": "UP-SKN",
+      "name": "Sant Kabir Nagar",
+      "aliases": []
+    },
+    {
+      "id": 699,
+      "state": "Uttar Pradesh",
+      "code": "UP-SHAH",
+      "name": "Shahjahanpur",
+      "aliases": []
+    },
+    {
+      "id": 700,
+      "state": "Uttar Pradesh",
+      "code": "UP-SHAM",
+      "name": "Shamli",
+      "aliases": [
+        "Prabuddh Nagar"
+      ]
+    },
+    {
+      "id": 701,
+      "state": "Uttar Pradesh",
+      "code": "UP-SHRA",
+      "name": "Shravasti",
+      "aliases": []
+    },
+    {
+      "id": 702,
+      "state": "Uttar Pradesh",
+      "code": "UP-SIDD",
+      "name": "Siddharthnagar",
+      "aliases": []
+    },
+    {
+      "id": 703,
+      "state": "Uttar Pradesh",
+      "code": "UP-SITA",
+      "name": "Sitapur",
+      "aliases": []
+    },
+    {
+      "id": 704,
+      "state": "Uttar Pradesh",
+      "code": "UP-SONB",
+      "name": "Sonbhadra",
+      "aliases": []
+    },
+    {
+      "id": 705,
+      "state": "Uttar Pradesh",
+      "code": "UP-SULT",
+      "name": "Sultanpur",
+      "aliases": []
+    },
+    {
+      "id": 706,
+      "state": "Uttar Pradesh",
+      "code": "UP-UNNA",
+      "name": "Unnao",
+      "aliases": []
+    },
+    {
+      "id": 707,
+      "state": "Uttar Pradesh",
+      "code": "UP-VARA",
+      "name": "Varanasi",
+      "aliases": [
+        "Banaras",
+        "Kashi"
+      ]
+    },
+    {
+      "id": 708,
+      "state": "Uttarakhand",
+      "code": "UK-ALMO",
+      "name": "Almora",
+      "aliases": []
+    },
+    {
+      "id": 709,
+      "state": "Uttarakhand",
+      "code": "UK-BAGE",
+      "name": "Bageshwar",
+      "aliases": []
+    },
+    {
+      "id": 710,
+      "state": "Uttarakhand",
+      "code": "UK-CHAM",
+      "name": "Chamoli",
+      "aliases": []
+    },
+    {
+      "id": 711,
+      "state": "Uttarakhand",
+      "code": "UK-CHAM1",
+      "name": "Champawat",
+      "aliases": []
+    },
+    {
+      "id": 712,
+      "state": "Uttarakhand",
+      "code": "UK-DEHR",
+      "name": "Dehradun",
+      "aliases": []
+    },
+    {
+      "id": 713,
+      "state": "Uttarakhand",
+      "code": "UK-HARI",
+      "name": "Haridwar",
+      "aliases": []
+    },
+    {
+      "id": 714,
+      "state": "Uttarakhand",
+      "code": "UK-NAIN",
+      "name": "Nainital",
+      "aliases": []
+    },
+    {
+      "id": 715,
+      "state": "Uttarakhand",
+      "code": "UK-PAGA",
+      "name": "Pauri Garhwal",
+      "aliases": [
+        "Pauri"
+      ]
+    },
+    {
+      "id": 716,
+      "state": "Uttarakhand",
+      "code": "UK-PITH",
+      "name": "Pithoragarh",
+      "aliases": []
+    },
+    {
+      "id": 717,
+      "state": "Uttarakhand",
+      "code": "UK-RUDR",
+      "name": "Rudraprayag",
+      "aliases": []
+    },
+    {
+      "id": 718,
+      "state": "Uttarakhand",
+      "code": "UK-TEGA",
+      "name": "Tehri Garhwal",
+      "aliases": [
+        "Tehri"
+      ]
+    },
+    {
+      "id": 719,
+      "state": "Uttarakhand",
+      "code": "UK-USN",
+      "name": "Udham Singh Nagar",
+      "aliases": []
+    },
+    {
+      "id": 720,
+      "state": "Uttarakhand",
+      "code": "UK-UTTA",
+      "name": "Uttarkashi",
+      "aliases": []
+    },
+    {
+      "id": 721,
+      "state": "West Bengal",
+      "code": "WB-ALIP",
+      "name": "Alipurduar",
+      "aliases": []
+    },
+    {
+      "id": 722,
+      "state": "West Bengal",
+      "code": "WB-BANK",
+      "name": "Bankura",
+      "aliases": []
+    },
+    {
+      "id": 723,
+      "state": "West Bengal",
+      "code": "WB-BIRB",
+      "name": "Birbhum",
+      "aliases": []
+    },
+    {
+      "id": 724,
+      "state": "West Bengal",
+      "code": "WB-COBE",
+      "name": "Cooch Behar",
+      "aliases": [
+        "Koch Bihar"
+      ]
+    },
+    {
+      "id": 725,
+      "state": "West Bengal",
+      "code": "WB-DADI",
+      "name": "Dakshin Dinajpur",
+      "aliases": [
+        "South Dinajpur"
+      ]
+    },
+    {
+      "id": 726,
+      "state": "West Bengal",
+      "code": "WB-DARJ",
+      "name": "Darjeeling",
+      "aliases": []
+    },
+    {
+      "id": 727,
+      "state": "West Bengal",
+      "code": "WB-HOOG",
+      "name": "Hooghly",
+      "aliases": [
+        "Hugli"
+      ]
+    },
+    {
+      "id": 728,
+      "state": "West Bengal",
+      "code": "WB-HOWR",
+      "name": "Howrah",
+      "aliases": [
+        "Haora"
+      ]
+    },
+    {
+      "id": 729,
+      "state": "West Bengal",
+      "code": "WB-JALP",
+      "name": "Jalpaiguri",
+      "aliases": []
+    },
+    {
+      "id": 730,
+      "state": "West Bengal",
+      "code": "WB-JHAR",
+      "name": "Jhargram",
+      "aliases": []
+    },
+    {
+      "id": 731,
+      "state": "West Bengal",
+      "code": "WB-KALI",
+      "name": "Kalimpong",
+      "aliases": []
+    },
+    {
+      "id": 732,
+      "state": "West Bengal",
+      "code": "WB-KOLK",
+      "name": "Kolkata",
+      "aliases": [
+        "Calcutta"
+      ]
+    },
+    {
+      "id": 733,
+      "state": "West Bengal",
+      "code": "WB-MALD",
+      "name": "Malda",
+      "aliases": [
+        "English Bazar"
+      ]
+    },
+    {
+      "id": 734,
+      "state": "West Bengal",
+      "code": "WB-MURS",
+      "name": "Murshidabad",
+      "aliases": []
+    },
+    {
+      "id": 735,
+      "state": "West Bengal",
+      "code": "WB-NADI",
+      "name": "Nadia",
+      "aliases": [
+        "Krishnanagar"
+      ]
+    },
+    {
+      "id": 736,
+      "state": "West Bengal",
+      "code": "WB-N2P",
+      "name": "North 24 Parganas",
+      "aliases": []
+    },
+    {
+      "id": 737,
+      "state": "West Bengal",
+      "code": "WB-PABA",
+      "name": "Paschim Bardhaman",
+      "aliases": [
+        "West Burdwan"
+      ]
+    },
+    {
+      "id": 738,
+      "state": "West Bengal",
+      "code": "WB-PAME",
+      "name": "Paschim Medinipur",
+      "aliases": [
+        "West Midnapore"
+      ]
+    },
+    {
+      "id": 739,
+      "state": "West Bengal",
+      "code": "WB-PUBA",
+      "name": "Purba Bardhaman",
+      "aliases": [
+        "East Burdwan"
+      ]
+    },
+    {
+      "id": 740,
+      "state": "West Bengal",
+      "code": "WB-PUME",
+      "name": "Purba Medinipur",
+      "aliases": [
+        "East Midnapore"
+      ]
+    },
+    {
+      "id": 741,
+      "state": "West Bengal",
+      "code": "WB-PURU",
+      "name": "Purulia",
+      "aliases": []
+    },
+    {
+      "id": 742,
+      "state": "West Bengal",
+      "code": "WB-S2P",
+      "name": "South 24 Parganas",
+      "aliases": []
+    },
+    {
+      "id": 743,
+      "state": "West Bengal",
+      "code": "WB-UTDI",
+      "name": "Uttar Dinajpur",
+      "aliases": [
+        "North Dinajpur"
+      ]
+    },
+    {
+      "id": 744,
+      "state": "Andaman and Nicobar Islands",
+      "code": "AN-NAMA",
+      "name": "North and Middle Andaman",
+      "aliases": [
+        "North Andaman"
+      ]
+    },
+    {
+      "id": 745,
+      "state": "Andaman and Nicobar Islands",
+      "code": "AN-SOAN",
+      "name": "South Andaman",
+      "aliases": []
+    },
+    {
+      "id": 746,
+      "state": "Andaman and Nicobar Islands",
+      "code": "AN-NICO",
+      "name": "Nicobar",
+      "aliases": []
+    },
+    {
+      "id": 747,
+      "state": "Chandigarh",
+      "code": "CH-CHAN",
+      "name": "Chandigarh",
+      "aliases": []
+    },
+    {
+      "id": 748,
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": "DD-DANH",
+      "name": "Dadra and Nagar Haveli",
+      "aliases": []
+    },
+    {
+      "id": 749,
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": "DD-DAMA",
+      "name": "Daman",
+      "aliases": []
+    },
+    {
+      "id": 750,
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": "DD-DIU",
+      "name": "Diu",
+      "aliases": []
+    },
+    {
+      "id": 751,
+      "state": "Delhi",
+      "code": "DL-CEDE",
+      "name": "Central Delhi",
+      "aliases": []
+    },
+    {
+      "id": 752,
+      "state": "Delhi",
+      "code": "DL-EADE",
+      "name": "East Delhi",
+      "aliases": []
+    },
+    {
+      "id": 753,
+      "state": "Delhi",
+      "code": "DL-NEDE",
+      "name": "New Delhi",
+      "aliases": []
+    },
+    {
+      "id": 754,
+      "state": "Delhi",
+      "code": "DL-NODE",
+      "name": "North Delhi",
+      "aliases": []
+    },
+    {
+      "id": 755,
+      "state": "Delhi",
+      "code": "DL-NED",
+      "name": "North East Delhi",
+      "aliases": []
+    },
+    {
+      "id": 756,
+      "state": "Delhi",
+      "code": "DL-NWD",
+      "name": "North West Delhi",
+      "aliases": []
+    },
+    {
+      "id": 757,
+      "state": "Delhi",
+      "code": "DL-SHAH",
+      "name": "Shahdara",
+      "aliases": []
+    },
+    {
+      "id": 758,
+      "state": "Delhi",
+      "code": "DL-SODE",
+      "name": "South Delhi",
+      "aliases": []
+    },
+    {
+      "id": 759,
+      "state": "Delhi",
+      "code": "DL-SED",
+      "name": "South East Delhi",
+      "aliases": []
+    },
+    {
+      "id": 760,
+      "state": "Delhi",
+      "code": "DL-SWD",
+      "name": "South West Delhi",
+      "aliases": []
+    },
+    {
+      "id": 761,
+      "state": "Delhi",
+      "code": "DL-WEDE",
+      "name": "West Delhi",
+      "aliases": []
+    },
+    {
+      "id": 762,
+      "state": "Jammu and Kashmir",
+      "code": "JK-ANAN",
+      "name": "Anantnag",
+      "aliases": [
+        "Islamabad"
+      ]
+    },
+    {
+      "id": 763,
+      "state": "Jammu and Kashmir",
+      "code": "JK-BAND",
+      "name": "Bandipora",
+      "aliases": []
+    },
+    {
+      "id": 764,
+      "state": "Jammu and Kashmir",
+      "code": "JK-BARA",
+      "name": "Baramulla",
+      "aliases": []
+    },
+    {
+      "id": 765,
+      "state": "Jammu and Kashmir",
+      "code": "JK-BUDG",
+      "name": "Budgam",
+      "aliases": []
+    },
+    {
+      "id": 766,
+      "state": "Jammu and Kashmir",
+      "code": "JK-DODA",
+      "name": "Doda",
+      "aliases": []
+    },
+    {
+      "id": 767,
+      "state": "Jammu and Kashmir",
+      "code": "JK-GAND",
+      "name": "Ganderbal",
+      "aliases": []
+    },
+    {
+      "id": 768,
+      "state": "Jammu and Kashmir",
+      "code": "JK-JAMM",
+      "name": "Jammu",
+      "aliases": []
+    },
+    {
+      "id": 769,
+      "state": "Jammu and Kashmir",
+      "code": "JK-KATH",
+      "name": "Kathua",
+      "aliases": []
+    },
+    {
+      "id": 770,
+      "state": "Jammu and Kashmir",
+      "code": "JK-KISH",
+      "name": "Kishtwar",
+      "aliases": []
+    },
+    {
+      "id": 771,
+      "state": "Jammu and Kashmir",
+      "code": "JK-KULG",
+      "name": "Kulgam",
+      "aliases": []
+    },
+    {
+      "id": 772,
+      "state": "Jammu and Kashmir",
+      "code": "JK-KUPW",
+      "name": "Kupwara",
+      "aliases": []
+    },
+    {
+      "id": 773,
+      "state": "Jammu and Kashmir",
+      "code": "JK-POON",
+      "name": "Poonch",
+      "aliases": []
+    },
+    {
+      "id": 774,
+      "state": "Jammu and Kashmir",
+      "code": "JK-PULW",
+      "name": "Pulwama",
+      "aliases": []
+    },
+    {
+      "id": 775,
+      "state": "Jammu and Kashmir",
+      "code": "JK-RAJO",
+      "name": "Rajouri",
+      "aliases": []
+    },
+    {
+      "id": 776,
+      "state": "Jammu and Kashmir",
+      "code": "JK-RAMB",
+      "name": "Ramban",
+      "aliases": []
+    },
+    {
+      "id": 777,
+      "state": "Jammu and Kashmir",
+      "code": "JK-REAS",
+      "name": "Reasi",
+      "aliases": []
+    },
+    {
+      "id": 778,
+      "state": "Jammu and Kashmir",
+      "code": "JK-SAMB",
+      "name": "Samba",
+      "aliases": []
+    },
+    {
+      "id": 779,
+      "state": "Jammu and Kashmir",
+      "code": "JK-SHOP",
+      "name": "Shopian",
+      "aliases": []
+    },
+    {
+      "id": 780,
+      "state": "Jammu and Kashmir",
+      "code": "JK-SRIN",
+      "name": "Srinagar",
+      "aliases": []
+    },
+    {
+      "id": 781,
+      "state": "Jammu and Kashmir",
+      "code": "JK-UDHA",
+      "name": "Udhampur",
+      "aliases": []
+    },
+    {
+      "id": 782,
+      "state": "Ladakh",
+      "code": "LA-KARG",
+      "name": "Kargil",
+      "aliases": []
+    },
+    {
+      "id": 783,
+      "state": "Ladakh",
+      "code": "LA-LEH",
+      "name": "Leh",
+      "aliases": []
+    },
+    {
+      "id": 784,
+      "state": "Ladakh",
+      "code": "LA-ZANS",
+      "name": "Zanskar",
+      "aliases": []
+    },
+    {
+      "id": 785,
+      "state": "Ladakh",
+      "code": "LA-NUBR",
+      "name": "Nubra",
+      "aliases": []
+    },
+    {
+      "id": 786,
+      "state": "Ladakh",
+      "code": "LA-DRAS",
+      "name": "Drass",
+      "aliases": []
+    },
+    {
+      "id": 787,
+      "state": "Ladakh",
+      "code": "LA-SHAM",
+      "name": "Sham",
+      "aliases": []
+    },
+    {
+      "id": 788,
+      "state": "Ladakh",
+      "code": "LA-CHAN",
+      "name": "Changthang",
+      "aliases": []
+    },
+    {
+      "id": 789,
+      "state": "Lakshadweep",
+      "code": "LD-LAKS",
+      "name": "Lakshadweep",
+      "aliases": [
+        "Kavaratti"
+      ]
+    },
+    {
+      "id": 790,
+      "state": "Puducherry",
+      "code": "PY-KARA",
+      "name": "Karaikal",
+      "aliases": []
+    },
+    {
+      "id": 791,
+      "state": "Puducherry",
+      "code": "PY-MAHE",
+      "name": "Mahe",
+      "aliases": []
+    },
+    {
+      "id": 792,
+      "state": "Puducherry",
+      "code": "PY-PUDU",
+      "name": "Puducherry",
+      "aliases": [
+        "Pondicherry"
+      ]
+    },
+    {
+      "id": 793,
+      "state": "Puducherry",
+      "code": "PY-YANA",
+      "name": "Yanam",
+      "aliases": []
+    }
+  ],
+  "total": 793,
+  "last_updated": "2025-12"
+}

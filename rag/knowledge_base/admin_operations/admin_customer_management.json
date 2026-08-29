@@ -1,0 +1,90 @@
+{
+  "id": "admin_customer_management",
+  "intent": "admin_customer_management",
+  "category": "admin_operations",
+  "title": "PDS Admin Customer Management",
+
+  "facts": {
+    "summary": "An authorized PDS administrator can manage beneficiary or customer records through the applicable PDS administration system.",
+
+    "management_operations": [
+      "View customer or beneficiary records.",
+      "Add a new customer or beneficiary when permitted.",
+      "Update customer information when authorized.",
+      "Review customer details required for PDS administration.",
+      "Manage customer records according to applicable system permissions."
+    ],
+
+    "how_to_access": [
+      "Log in using the authorized administrator account.",
+      "Open the customer or beneficiary management section.",
+      "Select the required customer-management operation.",
+      "Save changes through the authorized system workflow when applicable."
+    ],
+
+    "customer_information": [
+      "Customer or beneficiary identification information.",
+      "Ration-card-related information maintained by the system.",
+      "Contact or address information where maintained.",
+      "Other beneficiary information required for PDS administration."
+    ],
+
+    "add_customer": "If the system permits customer creation, the administrator should enter the information required by the applicable PDS system and complete any required verification.",
+
+    "update_customer": "Authorized administrators may update customer information when the applicable system and administrative procedure permit such changes.",
+
+    "verification": "Customer information should be verified according to the applicable PDS administrative procedure before creating or modifying records.",
+
+    "access_control": "Customer and beneficiary information should only be accessed or modified by authorized users.",
+
+    "privacy": "Beneficiary information must be handled only for legitimate PDS administration and according to applicable privacy and access-control requirements.",
+
+    "state_specific": "The available customer-management operations, required fields, verification process and permissions can differ between States and Union Territories.",
+
+    "important_notes": [
+      "Only authorized administrators should manage customer records.",
+      "Do not modify beneficiary information without proper authorization.",
+      "Do not assume that every administrator can perform every customer-management operation.",
+      "The exact fields and workflow depend on the applicable PDS system.",
+      "Do not expose beneficiary information to unauthorized users."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can an admin manage customer records?",
+      "answer": "An authorized PDS administrator can manage beneficiary or customer records through the applicable administration system."
+    },
+    {
+      "question": "What can an admin do with customer records?",
+      "answer": "Depending on permissions, an administrator may view, add or update customer information and perform other authorized record-management operations."
+    },
+    {
+      "question": "How can an admin add a customer?",
+      "answer": "If customer creation is supported, the administrator should open the customer-management section, enter the required information and complete the applicable verification process."
+    },
+    {
+      "question": "Can an admin update customer information?",
+      "answer": "An authorized administrator may update customer information when the applicable system and administrative procedure permit it."
+    },
+    {
+      "question": "Who can access customer records?",
+      "answer": "Customer records should only be accessed or modified by users who have the appropriate authorization and permissions."
+    },
+    {
+      "question": "What customer information can an admin manage?",
+      "answer": "Depending on the system, this can include beneficiary identification, ration-card information, contact or address information and other data required for PDS administration."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

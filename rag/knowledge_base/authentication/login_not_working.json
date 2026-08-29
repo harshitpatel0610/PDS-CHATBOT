@@ -1,0 +1,89 @@
+{
+  "id": "login_not_working",
+  "intent": "login_not_working",
+  "category": "authentication",
+  "title": "Login Not Working",
+
+  "facts": {
+    "summary": "Login not working refers to a general failure to access a PDS account even when the user is attempting to log in through the applicable login interface.",
+
+    "common_situations": [
+      "The login page does not accept the entered information.",
+      "The user cannot proceed after submitting login information.",
+      "The authentication process fails.",
+      "The user repeatedly receives a login failure."
+    ],
+
+    "basic_troubleshooting": [
+      "Verify that the information entered is correct.",
+      "Make sure the user is using the appropriate login interface for their role.",
+      "Retry the authentication process.",
+      "Check whether the required verification step has been completed.",
+      "If the problem continues, use the applicable official support or recovery process."
+    ],
+
+    "role_specific_login": [
+      "Customers should use the customer login process.",
+      "Distributors should use the distributor login process.",
+      "Administrators should use the admin login process."
+    ],
+
+    "when_to_use_this_intent": "Use this intent when the user reports a general login failure without specifically asking about an OTP problem, customer ID, distributor ID, or a particular login procedure.",
+
+    "security": [
+      "Do not share passwords, OTPs or other authentication credentials.",
+      "Use only the official PDS login interface.",
+      "Do not provide credentials to another person for troubleshooting."
+    ],
+
+    "escalation": "If basic troubleshooting does not resolve the problem, the user should use the official PDS support or account-recovery mechanism.",
+
+    "scope": [
+      "General login failures.",
+      "Unable to log in.",
+      "Login access problems.",
+      "Authentication failure without a more specific issue."
+    ],
+
+    "important_notes": [
+      "Do not use this intent for a specific OTP delivery or verification problem; use otp_issue.",
+      "Do not use this intent when the user is asking how to log in as a customer; use customer_login.",
+      "Do not use this intent when the user is asking how to log in as a distributor; use distributor_login.",
+      "Do not use this intent when the user is asking how an administrator logs in; use admin_login.",
+      "Do not use this intent for customer ID questions; use customer_id_inquiry.",
+      "Do not use this intent for distributor ID questions; use distributor_id_inquiry."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "My login is not working. What should I do?",
+      "answer": "Verify the information entered, make sure you are using the correct login interface for your role, and retry the authentication process. If the problem continues, use the official support or recovery process."
+    },
+    {
+      "question": "Why can't I log in?",
+      "answer": "A login failure can occur because of incorrect information, an incomplete authentication step or another system issue. Verify the entered information and retry."
+    },
+    {
+      "question": "I cannot access my PDS account.",
+      "answer": "Check the information entered and ensure you are using the appropriate login process for your account type. If the issue persists, use the official support or recovery mechanism."
+    },
+    {
+      "question": "What should I do if login keeps failing?",
+      "answer": "Retry after verifying the login information and completing the required authentication steps. If the failure continues, contact the applicable official support channel."
+    },
+    {
+      "question": "My OTP is not arriving. Is this a login problem?",
+      "answer": "If the specific problem is that an OTP is not being received or verified, it should be handled as an OTP issue rather than a general login failure."
+    },
+    {
+      "question": "Which login should I use?",
+      "answer": "Use the login interface corresponding to your role: customer, distributor or administrator."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

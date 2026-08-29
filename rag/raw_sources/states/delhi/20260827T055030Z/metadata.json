@@ -1,0 +1,10 @@
+{
+    "source_id": "states/delhi",
+    "requested_url": "https://nfs.delhi.gov.in/",
+    "final_url": null,
+    "retrieved_at": "20260827T055030Z",
+    "http_status": 0,
+    "sha256": null,
+    "content_type": null,
+    "error": "timed out"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "distributor_id_inquiry",
+  "intent": "distributor_id_inquiry",
+  "category": "authentication",
+  "title": "Distributor ID Inquiry",
+
+  "facts": {
+    "summary": "A distributor ID inquiry concerns finding, checking or understanding the distributor identification number associated with a PDS distributor account.",
+
+    "purpose": [
+      "Help a distributor understand what their distributor ID is.",
+      "Guide a distributor when they need to find or verify their distributor ID.",
+      "Assist with distributor-ID-related account access questions."
+    ],
+
+    "distributor_id": "The distributor ID is an identifier associated with a distributor account in the PDS system.",
+
+    "finding_distributor_id": "The distributor should use the official PDS system or the account information provided by the concerned authority or administrator to find or verify their distributor ID.",
+
+    "verification": "Distributor ID verification may require additional account or distributor information according to the configured PDS system.",
+
+    "lost_id": "If a distributor cannot find their distributor ID, they should use the applicable official support, recovery or verification process.",
+
+    "account_access": "A distributor may need to provide the distributor ID as part of the configured distributor authentication or account-access process.",
+
+    "security": [
+      "Do not share authentication credentials or OTPs with other people.",
+      "Provide account information only through the official PDS system or authorized support channel."
+    ],
+
+    "scope": [
+      "Finding a distributor ID.",
+      "Checking or verifying a distributor ID.",
+      "Understanding the purpose of a distributor ID.",
+      "Distributor-ID-related access assistance."
+    ],
+
+    "important_notes": [
+      "Distributor ID inquiry is different from distributor login.",
+      "Distributor ID inquiry is different from customer ID inquiry.",
+      "Do not invent a specific distributor ID.",
+      "Do not assume that the distributor ID has the same format in every PDS implementation.",
+      "An OTP problem should be handled by the otp_issue intent.",
+      "A generic login failure should be handled by the login_not_working intent."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What is a distributor ID?",
+      "answer": "A distributor ID is an identifier associated with a distributor account in the PDS system."
+    },
+    {
+      "question": "Where can I find my distributor ID?",
+      "answer": "Use the official PDS system or account information provided by the concerned authority or administrator to find or verify your distributor ID."
+    },
+    {
+      "question": "I forgot my distributor ID. What should I do?",
+      "answer": "Use the applicable official distributor-ID recovery, support or verification process."
+    },
+    {
+      "question": "Can I check my distributor ID online?",
+      "answer": "Online availability depends on the PDS system. Use the official portal or account service provided by the concerned authority."
+    },
+    {
+      "question": "Is distributor ID the same as customer ID?",
+      "answer": "No. A distributor ID identifies a distributor account, while a customer ID identifies a customer account."
+    },
+    {
+      "question": "Is distributor ID the same as a password?",
+      "answer": "No. A distributor ID is an account identifier and is different from authentication credentials such as a password or OTP."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

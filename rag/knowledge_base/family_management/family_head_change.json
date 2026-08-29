@@ -1,0 +1,76 @@
+{
+  "id": "family_head_change",
+  "intent": "family_head_change",
+  "category": "family_management",
+  "title": "Changing the Head of Household on a Ration Card",
+
+  "facts": {
+    "summary": "A request to change the head of a ration-card household record must follow the applicable procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority.",
+
+    "authority": "The concerned State or Union Territory Food and Civil Supplies authority is responsible for maintaining household records and processing changes to the household head.",
+
+    "when_change_may_be_required": [
+      "The current household head is no longer the appropriate person to represent the household.",
+      "There has been a change in the household structure requiring the ration-card record to be updated.",
+      "The applicable State or Union Territory procedure permits a change of household head."
+    ],
+
+    "application_method": "The procedure for changing the household head depends on the concerned State or Union Territory. Where an online facility is available, the request may be submitted through the applicable official portal. Otherwise, the designated Food and Civil Supplies office or authorized government channel should be used.",
+
+    "documents": "The documents and information required for changing the household head depend on the concerned State or Union Territory and the circumstances of the change.",
+
+    "verification": "The concerned authority may verify the existing household record, the identity of the proposed household head and supporting information before making the change.",
+
+    "processing_time": "Processing time for changing the household head is State/UT specific.",
+
+    "fees": "Any fee applicable to changing the household head is determined by the concerned State or Union Territory authority.",
+
+    "online_available": "Online availability of the household-head change facility depends on the concerned State or Union Territory.",
+
+    "important_notes": [
+      "The procedure for changing the household head can differ between States and Union Territories.",
+      "Required documents and verification requirements are State/UT specific.",
+      "A change of household head should be processed through an official government channel.",
+      "Do not assume that the same documents, fees or procedure apply throughout India.",
+      "The concerned State/UT authority should be contacted for the applicable requirements."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How can I change the head of my ration card?",
+      "answer": "Follow the household-head change procedure prescribed by the concerned State or Union Territory Food and Civil Supplies authority."
+    },
+    {
+      "question": "Can I change the ration card head online?",
+      "answer": "Online availability depends on the concerned State or Union Territory."
+    },
+    {
+      "question": "What documents are required to change the family head?",
+      "answer": "Required documents depend on the concerned State or Union Territory and the circumstances of the requested change."
+    },
+    {
+      "question": "Can another family member become the head of the ration card?",
+      "answer": "This depends on the applicable State or Union Territory rules and procedure for changing the household head."
+    },
+    {
+      "question": "How long does it take to change the family head?",
+      "answer": "Processing time is State/UT specific and should be confirmed with the concerned authority."
+    },
+    {
+      "question": "Is there a fee for changing the family head?",
+      "answer": "Any applicable fee is determined by the concerned State or Union Territory authority."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/faqs/en",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

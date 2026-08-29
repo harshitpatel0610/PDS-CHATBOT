@@ -1,0 +1,14 @@
+{
+    "state": "Uttar Pradesh",
+    "source_url": "https://scm.up.gov.in/Food/citizen/Mas_Godown_Public.aspx",
+    "final_url": "https://scm.up.gov.in/Food/citizen/Mas_Godown_Public.aspx",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=utf-8",
+    "http_status": 200,
+    "discovered_from": "https://fcs.up.gov.in/",
+    "sha256": "0ed78c63f2aaf206dcb46539beffb8920acfadd36fb62dd7416d80cf0f73649a",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}

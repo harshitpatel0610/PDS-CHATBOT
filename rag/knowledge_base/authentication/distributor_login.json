@@ -1,0 +1,83 @@
+{
+  "id": "distributor_login",
+  "intent": "distributor_login",
+  "category": "authentication",
+  "title": "Distributor Login",
+
+  "facts": {
+    "summary": "Distributor login allows an authorized PDS distributor to access distributor-specific services and operations provided by the PDS system.",
+
+    "purpose": [
+      "Authenticate an authorized distributor.",
+      "Allow distributors to access protected distributor services.",
+      "Provide access to distributor-specific operations according to the configured role."
+    ],
+
+    "login_method": "The distributor must use the distributor login interface and provide the information requested by the configured PDS authentication system.",
+
+    "authentication": "The distributor must complete the applicable authentication or verification step before accessing protected distributor services.",
+
+    "access": [
+      "Successful authentication allows the distributor to access services available to the distributor role.",
+      "Distributor access is limited according to the permissions configured by the PDS system."
+    ],
+
+    "security": [
+      "Use only the official PDS distributor login interface.",
+      "Do not share OTPs, passwords or other authentication credentials.",
+      "Do not allow unauthorized people to access the distributor account."
+    ],
+
+    "failed_login": "If the distributor cannot log in, the distributor should verify the information entered and follow the applicable login recovery or support process.",
+
+    "scope": [
+      "Distributor authentication.",
+      "Distributor account login.",
+      "Distributor login procedure."
+    ],
+
+    "important_notes": [
+      "Distributor login is different from customer login.",
+      "Distributor login is different from admin login.",
+      "A distributor ID inquiry should be handled by the distributor_id_inquiry intent.",
+      "An OTP delivery or verification problem should be handled by the otp_issue intent.",
+      "A generic login failure should be handled by the login_not_working intent."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "How do I log in as a distributor?",
+      "answer": "Use the official distributor login interface and complete the authentication or verification steps required by the PDS system."
+    },
+    {
+      "question": "Who can use distributor login?",
+      "answer": "Distributor login is intended for authorized PDS distributors with an account in the system."
+    },
+    {
+      "question": "What information is required for distributor login?",
+      "answer": "The required information depends on the authentication mechanism configured by the PDS system. Enter the information requested on the official distributor login interface."
+    },
+    {
+      "question": "Is distributor login the same as customer login?",
+      "answer": "No. Distributor and customer accounts have different roles and access permissions."
+    },
+    {
+      "question": "Is distributor login the same as admin login?",
+      "answer": "No. Distributor and admin accounts have different roles and access permissions."
+    },
+    {
+      "question": "What should I do if distributor login is not working?",
+      "answer": "Verify the information entered and follow the applicable login recovery or support process. If the issue persists, use the official PDS support mechanism."
+    },
+    {
+      "question": "Can I share my distributor OTP?",
+      "answer": "No. OTPs and other authentication credentials should never be shared with anyone."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

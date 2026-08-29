@@ -1,0 +1,83 @@
+{
+  "id": "update_photo",
+  "intent": "update_photo",
+  "category": "account_management",
+  "title": "Update Beneficiary Photo",
+
+  "facts": {
+    "summary": "A beneficiary photo may be updated through the applicable State or Union Territory PDS process when the concerned system provides a photo-update facility.",
+
+    "purpose": [
+      "Keep beneficiary records up to date.",
+      "Maintain an accurate beneficiary profile where a photograph is part of the applicable PDS record."
+    ],
+
+    "how_to_update": [
+      "Use the official PDS portal if the State/UT provides an online photo-update facility.",
+      "Visit the designated Food and Civil Supplies or PDS office if an offline update is required.",
+      "Submit the photograph and other information requested by the applicable system.",
+      "Complete any identity or beneficiary verification required by the concerned authority."
+    ],
+
+    "requirements": [
+      "Existing beneficiary or ration-card information may be required.",
+      "A photograph meeting the applicable system requirements may be required.",
+      "Additional identity or verification information may be required according to State/UT procedures."
+    ],
+
+    "online_update": "Online photo-update availability depends on the concerned State or Union Territory PDS system.",
+
+    "verification": "The concerned State/UT may require beneficiary or identity verification before accepting a photo update.",
+
+    "failed_update": [
+      "Check that the photograph meets the requirements of the applicable system.",
+      "Verify that the submitted beneficiary information is correct.",
+      "If online updating is unavailable or unsuccessful, follow the designated offline procedure or contact the concerned PDS authority."
+    ],
+
+    "state_specific": "The availability of photo updates, photograph requirements, verification process and update procedure can differ between States and Union Territories.",
+
+    "privacy": "Photographs and beneficiary information should only be submitted through official government portals, designated offices or authorized PDS facilities.",
+
+    "important_notes": [
+      "Do not assume that every State/UT allows beneficiaries to update their photo online.",
+      "Do not invent specific photograph dimensions or file-size requirements without State/UT-specific information.",
+      "Photo updating is different from updating a mobile number or address.",
+      "Follow the requirements shown by the applicable official PDS system."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "Can I update my photo on my ration card?",
+      "answer": "A beneficiary photo may be updated if the applicable State/UT PDS system provides a photo-update facility."
+    },
+    {
+      "question": "How can I change my ration card photo?",
+      "answer": "Follow the photo-update process provided by your State/UT PDS authority, either through its official portal where available or through the designated PDS/Food and Civil Supplies office."
+    },
+    {
+      "question": "Can I update my ration card photo online?",
+      "answer": "Online photo-update availability depends on the concerned State or Union Territory PDS system."
+    },
+    {
+      "question": "Do I need verification to update my photo?",
+      "answer": "The concerned State/UT may require beneficiary or identity verification before accepting a photo update."
+    },
+    {
+      "question": "What photo size is required?",
+      "answer": "The applicable photograph format, dimensions and file requirements depend on the State/UT PDS system. They should be confirmed through the official system."
+    }
+  ],
+
+  "source": {
+    "organizations": [
+      "Department of Food and Public Distribution, Government of India",
+      "Concerned State or Union Territory Food and Civil Supplies Authority"
+    ],
+    "references": [
+      "https://dfpd.gov.in/",
+      "https://nfsa.gov.in/"
+    ]
+  }
+}

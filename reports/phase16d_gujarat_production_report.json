@@ -1,0 +1,22 @@
+{
+    "state": "Gujarat",
+    "verification_status": "verified",
+    "curated_claims_found": 15,
+    "evidence_backed_claims": 15,
+    "unsupported_claims": 0,
+    "inserted_records": 0,
+    "updated_records": 1,
+    "rejected_records": 0,
+    "skipped_records": 2,
+    "duplicate_records": 0,
+    "district_fields_detected": 0,
+    "retrieval_tests_total": 7,
+    "retrieval_tests_passed": 7,
+    "groundedness_tests_total": 7,
+    "groundedness_tests_passed": 7,
+    "provenance_tests_total": 15,
+    "provenance_tests_passed": 15,
+    "regression_accuracy": 99.8,
+    "unsupported_claims_ingested": 0,
+    "status": "PASS"
+}

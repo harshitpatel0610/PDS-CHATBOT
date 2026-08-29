@@ -1,0 +1,96 @@
+{
+  "id": "admin_system_reports",
+  "intent": "admin_system_reports",
+  "category": "admin_operations",
+  "title": "Admin System Reports",
+
+  "facts": {
+    "summary": "Administrators can use system reporting functions to review operational information and generate reports available to the administrator role.",
+
+    "purpose": [
+      "Review PDS system activity.",
+      "Monitor operational information.",
+      "Generate administrative reports.",
+      "Analyze system-level records available to the administrator."
+    ],
+
+    "report_types": [
+      "User-related reports.",
+      "Customer-related reports.",
+      "Distributor-related reports.",
+      "Transaction-related reports.",
+      "Stock-related reports.",
+      "Complaint-related reports.",
+      "System activity reports."
+    ],
+
+    "admin_access": "System reports are intended for authorized administrators and should be accessed through the administrative interface.",
+
+    "report_generation": "The administrator can select the applicable report or reporting criteria provided by the system and generate the corresponding report.",
+
+    "report_usage": [
+      "Monitor system operations.",
+      "Review historical records.",
+      "Identify operational issues.",
+      "Support administrative decision-making."
+    ],
+
+    "data_accuracy": "Reports depend on the information stored in the underlying PDS system records.",
+
+    "security": [
+      "Administrative reports may contain sensitive operational or beneficiary information.",
+      "Only authorized administrators should access administrative reports.",
+      "Do not share reports or sensitive information with unauthorized persons."
+    ],
+
+    "scope": [
+      "Administrative system reports.",
+      "Generating system reports.",
+      "Viewing administrative reports.",
+      "Understanding available report categories."
+    ],
+
+    "important_notes": [
+      "This intent concerns system-level reporting.",
+      "It is different from distributor_report, which concerns distributor-specific reporting.",
+      "It is different from transaction_history, which concerns a customer's transaction history.",
+      "It is different from admin_customer_management and admin_distributor_management."
+    ]
+  },
+
+  "faqs": [
+    {
+      "question": "What are admin system reports?",
+      "answer": "Admin system reports provide authorized administrators with operational information about the PDS system."
+    },
+    {
+      "question": "What reports can an admin generate?",
+      "answer": "Depending on the configured system, administrators may generate reports related to users, customers, distributors, transactions, stock, complaints and system activity."
+    },
+    {
+      "question": "Who can access system reports?",
+      "answer": "System reports are intended for authorized administrators."
+    },
+    {
+      "question": "Why are admin system reports useful?",
+      "answer": "They help administrators review system activity, monitor operations, analyze records and support administrative decisions."
+    },
+    {
+      "question": "Can an admin view transaction reports?",
+      "answer": "If transaction reporting is provided by the system, an authorized administrator can use the applicable system-reporting function to review transaction information."
+    },
+    {
+      "question": "Can an admin generate complaint reports?",
+      "answer": "If complaint reporting is available in the system, an authorized administrator can generate or view the applicable complaint report."
+    },
+    {
+      "question": "Are admin system reports different from distributor reports?",
+      "answer": "Yes. Admin system reports provide system-level administrative information, while distributor reports focus on information associated with a distributor."
+    }
+  ],
+
+  "source": {
+    "organization": "PDS AI Assistant",
+    "references": []
+  }
+}

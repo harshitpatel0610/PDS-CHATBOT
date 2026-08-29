@@ -1,0 +1,14 @@
+{
+    "state": "Uttar Pradesh",
+    "source_url": "https://nfsa.up.gov.in/food/mangaccount/login.aspx",
+    "final_url": "https://nfsa.up.gov.in/food/mangaccount/login.aspx",
+    "source_type": "official_government",
+    "document_type": "html",
+    "content_type": "text/html; charset=utf-8",
+    "http_status": 200,
+    "discovered_from": "https://fcs.up.gov.in/",
+    "sha256": "7f90e9678fcadc921bdae033fb807c97b3f418d8306d808c676da366f22549a2",
+    "acquisition_status": "fetched",
+    "requires_ocr": false,
+    "verification_status": "unverified"
+}
