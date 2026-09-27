@@ -62,15 +62,21 @@ if prompt:
                 "session_id": st.session_state.session_id,
                 "message": prompt
             },
-            timeout=30
+            timeout=120
         )
         if response.status_code == 200:
             data = response.json()
             reply = data.get("reply", "I apologize, but I received an invalid response from the server.")
         else:
-            reply = "Unable to connect to the assistant. Please try again."
-    except requests.exceptions.RequestException:
-        reply = "Unable to connect to the assistant. Please try again."
+            try:
+                data = response.json()
+                reply = data.get("detail", f"Backend Error (HTTP {response.status_code})")
+            except:
+                reply = f"Backend Error (HTTP {response.status_code}): {response.text}"
+    except requests.exceptions.Timeout:
+        reply = "Request timed out while waiting for the assistant to respond."
+    except requests.exceptions.RequestException as e:
+        reply = f"Unable to connect to the assistant: {str(e)}"
 
     add_message("assistant", reply)
 

@@ -30,6 +30,13 @@
       "url": "https://dcs-dof.gujarat.gov.in/appli-1(1).pdf",
       "type": "official_form",
       "accessed_at": "2026-08-29T19:20:00Z"
+    },
+    {
+      "id": "guj_doc_03",
+      "name": "Gujarat Government Source Document",
+      "url": "https://dcs-dof.gujarat.gov.in/en/ration-card",
+      "type": "official_government",
+      "accessed_at": "2026-08-29T20:55:00Z"
     }
   ],
   "data": {
@@ -59,13 +66,6 @@
       "evidence_quote": "https://digitalgujarat.gov.in"
     },
     "required_documents": [
-      {
-        "document_name": "Election ID Card",
-        "is_mandatory": true,
-        "condition": "Mandatory for all members above 20 years",
-        "source_id": "guj_form_02",
-        "evidence_quote": "૧. ચૂંટણી ઓળખકાર્ડની ઝેરોક્ષ. ૨૦ વષડથી ઉિરના બધા સભ્યોએ ચૂંટણી ઓળખકાર્ડ આિવું ફરજીયાત છે."
-      },
       {
         "document_name": "Residential Proof",
         "is_mandatory": true,
@@ -100,6 +100,13 @@
         "condition": "No affidavit required",
         "source_id": "guj_form_02",
         "evidence_quote": "નોંધ: તમામ પુરાવાની સ્વયં પ્રમાણીત ઝેરોક્ષ નકલ આપવાની ફરજીયાત છે પરંતુ કોઇ એફીડેવીટ કરવાની રહેશે નહિ."
+      },
+      {
+        "document_name": "Aadhaar Card of all family members",
+        "is_mandatory": true,
+        "condition": "Self-attested copy",
+        "source_id": "guj_doc_03",
+        "evidence_quote": "Self-attested copy of Aadhaar card of all family members"
       }
     ],
     "process_steps": [
@@ -127,7 +134,32 @@
         "source_id": "guj_dcs_02",
         "evidence_quote": "Spot visit may be conducted where necessary."
       }
+    ],
+    "evidence_conflicts": [
+      {
+        "claim": "Election/Voter ID requirement",
+        "status": "conflicting_official_evidence",
+        "sources": [
+          {
+            "source_id": "guj_form_02",
+            "source_url": "https://dcs-dof.gujarat.gov.in/appli-1(1).pdf",
+            "claim": "Election ID Card is mandatory for all members above 20 years",
+            "evidence_quote": "૧. ચૂંટણી ઓળખકાર્ડની ઝેરોક્ષ. ૨૦ વષડથી ઉિરના બધા સભ્યોએ ચૂંટણી ઓળખકાર્ડ આિવું ફરજીયાત છે.",
+            "scope": "All members above 20 years",
+            "date": "Unknown"
+          },
+          {
+            "source_id": "guj_doc_03",
+            "source_url": "https://dcs-dof.gujarat.gov.in/en/ration-card",
+            "claim": "Voter ID Card is voluntary",
+            "evidence_quote": "copy of Voter ID Card is voluntary",
+            "scope": "Applicants",
+            "date": "Unknown"
+          }
+        ],
+        "resolution": "unresolved"
+      }
     ]
   },
-  "verification_status": "verified"
+  "verification_status": "partially_verified"
 }

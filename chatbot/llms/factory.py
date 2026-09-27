@@ -1,9 +1,8 @@
-from chatbot.config import MODEL_PROVIDER          # Read selected AI provider
-from chatbot.llms.gemini import gemini             # Import Gemini client
-
+from chatbot.config import LLM_PROVIDER
+from chatbot.llms.gemini import gemini
 
 def get_llm():
-    if MODEL_PROVIDER == "gemini":
-        return gemini                             # Return Gemini client
+    if LLM_PROVIDER == "gemini":
+        return gemini
 
-    raise ValueError(f"Unsupported model provider: {MODEL_PROVIDER}")
+    raise ValueError(f"Unsupported model provider: {LLM_PROVIDER}")

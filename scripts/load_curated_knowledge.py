@@ -85,7 +85,9 @@ def build_document_text(data):
     if docs:
         text += "Required Documents:\n"
         for d in docs:
-            text += f"- {d.get('document_name')} (Evidence: {d.get('evidence_quote')})\n"
+            mandatory_str = "Mandatory" if d.get("is_mandatory") else "Optional"
+            cond_str = f", Condition: {d.get('condition')}" if d.get("condition") else ""
+            text += f"- {d.get('document_name')} [{mandatory_str}{cond_str}] (Evidence: {d.get('evidence_quote')})\n"
         text += f"Source: {source_url}\n\n"
             
     steps = kb_data.get("process_steps", [])

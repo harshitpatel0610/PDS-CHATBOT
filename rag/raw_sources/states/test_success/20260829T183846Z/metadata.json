@@ -1,0 +1,10 @@
+{
+    "source_id": "states/test_success",
+    "requested_url": "http://httpbin.org/html",
+    "final_url": "http://httpbin.org/html",
+    "retrieved_at": "20260829T183846Z",
+    "http_status": 200,
+    "sha256": "3f324f9914742e62cf082861ba03b207282dba781c3349bee9d7c1b5ef8e0bfe",
+    "content_type": "text/html; charset=utf-8",
+    "error": null
+}

@@ -121,7 +121,7 @@ EXTRACTED ENTITIES: {session.entities}
 RETRIEVED CONTEXT:
 {context if context else "No context found."}
 """
-                print(f"[DEBUG INFO] Gemini Model being used: {getattr(llm, 'model_name', 'gemini-3.6-flash')}")
+                print(f"[DEBUG INFO] LLM Model being used: {getattr(llm, 'model_name', 'unknown')}")
                 
                 t_llm_start = time.perf_counter()
                 response = llm.generate_response(prompt)
@@ -130,7 +130,7 @@ RETRIEVED CONTEXT:
                 timing["gemini"] = (t_llm_end - t_llm_start) * 1000
                 timing["response_construct"] = (time.perf_counter() - t_llm_end) * 1000
                 
-                print("[DEBUG RAG] Gemini = SUCCESS")
+                print("[DEBUG RAG] LLM = SUCCESS")
                 print(f"[PHASE9_METRICS] {{\"entity_ext_ms\": {timing.get('entity_extraction', 0):.2f}, \"retrieval_ms\": {timing.get('chromadb', 0):.2f}, \"context_size\": {len(context)}, \"prompt_chars\": {len(prompt)}, \"gemini_ms\": {timing['gemini']:.2f}, \"429\": false}}")
                 
                 try:
@@ -151,7 +151,10 @@ RETRIEVED CONTEXT:
                 t_llm_end = time.perf_counter()
                 timing["gemini"] = (t_llm_end - t_llm_start) * 1000
                 import traceback
-                print("[ERROR RAG] Gemini = FAILED")
+                with open("rag_crash.txt", "w") as f:
+                    f.write(f"Exception: {str(e)}\n")
+                    f.write(traceback.format_exc())
+                print("[ERROR RAG] LLM = FAILED")
                 print(f"[ERROR RAG] Exception message: {str(e)}")
                 print("[ERROR RAG] Traceback:")
                 traceback.print_exc()

@@ -362,7 +362,7 @@
         "Sign in page error 500."
       ]
     },
-{
+    {
       "intent": "ration_card_apply",
       "category": "ration_card",
       "priority": 10,
@@ -426,7 +426,14 @@
         "what does bpl mean",
         "what does apl mean",
         "what does aay mean",
-        "what does phh mean"
+        "what does phh mean",
+        "where to apply offline",
+        "how to apply offline",
+        "where to apply online",
+        "how to apply online",
+        "apply online or offline",
+        "check ration card application status",
+        "ration card application status"
       ],
       "patterns": [
         "apply for a new ration card",
@@ -443,7 +450,10 @@
         "how do i apply for a new ration card",
         "how to get a new ration card",
         "ration card kaise banwaye",
-        "ration card ke liye apply kaise kare"
+        "ration card ke liye apply kaise kare",
+        "where do i apply",
+        "where to apply",
+        "where can i apply"
       ],
       "examples": [
         "I want to apply for a brand new ration card.",
@@ -464,7 +474,12 @@
         "I want to apply for a BPL ration card.",
         "How can I get a BPL ration card?",
         "I want to apply for an APL ration card.",
-        "I want to apply for a PHH ration card."
+        "I want to apply for a PHH ration card.",
+        "Where can I submit my documents?",
+        "How do I upload documents online for application?",
+        "Where do I hand in the paperwork?",
+        "How do I submit the application forms and proofs?",
+        "What is the procedure to upload the required files?"
       ]
     },
     {
@@ -473,16 +488,16 @@
       "priority": 10,
       "description": "Queries about checking the status of a ration card application or existing ration card.",
       "keywords": [
-          "ration card status",
-          "application status",
-          "track application",
-          "track my application",
-          "track ration card",
-          "track my ration card",
-          "track ration card application",
-          "check application status",
-          "check ration card status",
-          "application tracking"
+        "ration card status",
+        "application status",
+        "track application",
+        "track my application",
+        "track ration card",
+        "track my ration card",
+        "track ration card application",
+        "check application status",
+        "check ration card status",
+        "application tracking"
       ],
       "entities": [
         "ration card",
@@ -499,13 +514,7 @@
         "apply for new ration card",
         "transfer ration card",
         "download ration card pdf",
-        "complaint status",
-        "track application",
-        "track my application",
-        "track ration card",
-        "application status",
-        "check application status",
-        "application tracking"
+        "complaint status"
       ],
       "patterns": [
         "check my ration card application status",
@@ -521,7 +530,11 @@
         "I want to check my application status",
         "Can I track my ration card?",
         "Has my ration card application been approved?",
-        "Where can I see my ration card application status?"
+        "Where can I see my ration card application status?",
+        "how to check ration card application status",
+        "check my application status",
+        "track my application",
+        "ration card status check"
       ],
       "examples": [
         "How do I check if my new ration card has been approved?",
@@ -538,7 +551,11 @@
         "Where can I check my ration card application status?",
         "Can I check the status of my ration card application?",
         "Track my ration card application",
-        "What is my ration card application status?"
+        "What is my ration card application status?",
+        "What happens after document verification?",
+        "What is the next step after I submit my documents?",
+        "How long after verification will I get the card?",
+        "My documents are verified, what is the status now?"
       ]
     },
     {
@@ -590,7 +607,11 @@
         "How can I rectify incorrect information printed on my card?",
         "My date of birth is wrong on the ration card.",
         "Change the demographic details on my existing beneficiary card.",
-        "Ration card update karna hai, kya documents lagenge?"
+        "Ration card update karna hai, kya documents lagenge?",
+        "Can I update my Aadhaar document after applying?",
+        "How do I change the Aadhaar proof on my card?",
+        "I need to upload a new document for correction.",
+        "Can I replace the uploaded documents for my existing card?"
       ]
     },
     {
@@ -599,30 +620,30 @@
       "priority": 7,
       "description": "Queries about different types of ration cards such as APL, BPL, AAY, PHH.",
       "keywords": [
-          "ration card types",
-          "types of ration cards",
-          "bpl card",
-          "bpl ration card",
-          "apl card",
-          "apl ration card",
-          "aay card",
-          "aay ration card",
-          "phh card",
-          "phh ration card",
-          "apl",
-          "bpl",
-          "aay",
-          "phh",
-          "card categories",
-          "difference between cards",
-          "what is bpl",
-          "what is apl",
-          "what is aay",
-          "what is phh",
-          "meaning of bpl",
-          "meaning of apl",
-          "meaning of aay",
-          "meaning of phh"
+        "ration card types",
+        "types of ration cards",
+        "bpl card",
+        "bpl ration card",
+        "apl card",
+        "apl ration card",
+        "aay card",
+        "aay ration card",
+        "phh card",
+        "phh ration card",
+        "apl",
+        "bpl",
+        "aay",
+        "phh",
+        "card categories",
+        "difference between cards",
+        "what is bpl",
+        "what is apl",
+        "what is aay",
+        "what is phh",
+        "meaning of bpl",
+        "meaning of apl",
+        "meaning of aay",
+        "meaning of phh"
       ],
       "negative_patterns": [
         "apply",
@@ -993,31 +1014,31 @@
       "category": "ration_card",
       "priority": 8,
       "description": "Queries asking whether a ration card service is available online or offline, whether an office or CSC visit is required, or which submission channel should be used.",
-
       "keywords": [
-          "online vs offline",
-          "csc center",
-          "visit office",
-          "apply online",
-          "apply offline",
-          "offline procedure",
-          "online application",
-          "offline application",
-          "available online",
-          "available offline",
-          "online or offline",
-          "online or offline application",
-          "apply from home",
-          "ghar baithe",
-          "physical form",
-          "physical submission",
-          "office visit",
-          "online portal",
-          "offline process",
-          "online process",
-          "gram panchayat"
+        "online vs offline",
+        "csc center",
+        "visit office",
+        "apply online",
+        "apply offline",
+        "offline procedure",
+        "online application",
+        "offline application",
+        "available online",
+        "available offline",
+        "online or offline",
+        "online or offline application",
+        "apply from home",
+        "ghar baithe",
+        "physical form",
+        "physical submission",
+        "office visit",
+        "online portal",
+        "offline process",
+        "online process",
+        "gram panchayat",
+        "where to apply offline",
+        "where to apply online"
       ],
-
       "entities": [
         "online",
         "offline",
@@ -1026,13 +1047,10 @@
         "portal",
         "service"
       ],
-
       "required_entities": [],
-
       "follow_up_questions": [
         "Which specific ration-card service are you trying to access?"
       ],
-
       "negative_patterns": [
         "download ration card",
         "download ration card pdf",
@@ -1052,8 +1070,7 @@
         "how can i get a new ration card",
         "ration card application process"
       ],
-
-    "patterns": [
+      "patterns": [
         "can i apply for ration card online",
         "can i apply for ration card offline",
         "is ration card application available online",
@@ -1071,9 +1088,13 @@
         "ration card application online or offline",
         "online or offline ration card application",
         "ghar baithe ration card apply kar sakte hain",
-        "ration card online process"
-],
-
+        "ration card online process",
+        "where to apply offline for ration card",
+        "where to apply online for ration card",
+        "how to apply offline",
+        "how to apply online",
+        "where can i apply offline"
+      ],
       "examples": [
         "Can I apply for a ration card online?",
         "Is ration card application available online?",
@@ -1791,7 +1812,7 @@
         "How much wheat can I get?",
         "What quantity of ration can my family receive?",
         "What is my ration entitlement?",
-    "How much ration can I collect every month?"
+        "How much ration can I collect every month?"
       ]
     },
     {
@@ -1842,7 +1863,7 @@
       "intent": "ration_items_list",
       "category": "ration_collection",
       "priority": 7,
-      "description": "Queries about what items are available through PDS \u2014 rice, wheat, sugar, kerosene, pulses, oil.",
+      "description": "Queries about what items are available through PDS — rice, wheat, sugar, kerosene, pulses, oil.",
       "keywords": [
         "what do i get",
         "commodities list",
@@ -1875,7 +1896,18 @@
       "negative_patterns": [
         "ration quota",
         "ration price",
-        "quality complaint"
+        "quality complaint",
+        "what is the price of rice",
+        "what is the price of wheat",
+        "price of rice",
+        "price of wheat",
+        "cost of rice",
+        "cost of wheat",
+        "rate of rice",
+        "rate of wheat",
+        "price",
+        "cost",
+        "rate"
       ],
       "patterns": [
         "what items are given in ration",
@@ -1911,7 +1943,11 @@
         "price per kg",
         "wheat price",
         "rice rate",
-        "commodity cost"
+        "commodity cost",
+        "price of rice",
+        "cost of rice",
+        "price of wheat",
+        "cost of wheat"
       ],
       "entities": [
         "rice",
@@ -1935,7 +1971,17 @@
         "cost of rice and wheat",
         "subsidized rate per kg",
         "how much do i have to pay",
-        "official price of pds items"
+        "official price of pds items",
+        "what is the price of rice",
+        "what is the price of wheat",
+        "what is the price of sugar",
+        "what is the price of kerosene",
+        "what is the cost of rice",
+        "how much does rice cost",
+        "price of rice under pds",
+        "price of wheat under pds",
+        "rate of rice",
+        "rate of wheat"
       ],
       "examples": [
         "What is the official subsidized rate for one kg of wheat?",
@@ -2094,7 +2140,11 @@
         "I want to file a complaint.",
         "How do I lodge a complaint against my ration dealer?",
         "I want to submit a grievance.",
-        "Where can I register my complaint?"
+        "Where can I register my complaint?",
+        "Who handles ration card complaints?",
+        "Where do I report a problem with the dealer?",
+        "Which official takes care of grievances?",
+        "Who do I contact to file a formal complaint?"
       ]
     },
     {
@@ -3363,7 +3413,14 @@
         "identity proof",
         "address proof",
         "list of papers",
-        "required paperwork"
+        "required paperwork",
+        "mandatory",
+        "required",
+        "documents",
+        "proof",
+        "aadhaar",
+        "adhaar",
+        "document requirement"
       ],
       "entities": [
         "document",
@@ -3387,7 +3444,11 @@
         "list of acceptable identity proofs",
         "which address proof is valid",
         "paperwork needed for ration card",
-        "what attachments should i upload"
+        "what attachments should i upload",
+        "is aadhaar card mandatory for applying",
+        "is aadhaar required for applying",
+        "aadhaar documents ration card",
+        "aadhaar eligibility requirement"
       ],
       "examples": [
         "Can you provide a comprehensive list of all documents required to apply for a new card?",
@@ -3395,7 +3456,10 @@
         "Naya ration card banwane ke liye exactly kaun kaun se kagaz lagte hain?",
         "Do I need to submit physical copies of my paperwork at the office?",
         "What identity documents are needed to add my newly married wife to the card?",
-        "Show acceptable proofs for age verification."
+        "Show acceptable proofs for age verification.",
+        "Is Aadhaar mandatory for everyone applying for a ration card?",
+        "Do I need Aadhaar to apply for a ration card?",
+        "Is Aadhaar required for a new card?"
       ]
     },
     {
@@ -3493,14 +3557,14 @@
       "priority": 8,
       "description": "Queries about the One Nation One Ration Card (ONORC) scheme for ration portability across states.",
       "keywords": [
-          "one nation one ration card",
-          "ration card portability",
-          "portability",
-          "use ration card in another state",
-          "ration card in another state",
-          "use ration card outside state",
-          "ration portability",
-          "port my ration card"
+        "one nation one ration card",
+        "ration card portability",
+        "portability",
+        "use ration card in another state",
+        "ration card in another state",
+        "use ration card outside state",
+        "ration portability",
+        "port my ration card"
       ],
       "entities": [
         "ration card",
@@ -3769,17 +3833,17 @@
       "priority": 9,
       "description": "Queries about technical issues with the portal such as page not loading, buttons not working, or site errors.",
       "keywords": [
-          "portal not working",
-          "website not working",
-          "pds website not working",
-          "portal error",
-          "website error",
-          "portal showing error",
-          "website showing error",
-          "technical problem",
-          "technical issue",
-          "portal problem",
-          "website problem"
+        "portal not working",
+        "website not working",
+        "pds website not working",
+        "portal error",
+        "website error",
+        "portal showing error",
+        "website showing error",
+        "technical problem",
+        "technical issue",
+        "portal problem",
+        "website problem"
       ],
       "entities": [
         "portal",
@@ -3804,13 +3868,13 @@
         "report a technical bug"
       ],
       "examples": [
-          "The PDS website is not working.",
-          "The portal keeps showing an error.",
-          "The PDS portal is giving an error.",
-          "The website is not opening.",
-          "I am facing a technical problem on the PDS portal.",
-          "The PDS website has stopped working.",
-          "Why is the PDS portal showing an error?"
+        "The PDS website is not working.",
+        "The portal keeps showing an error.",
+        "The PDS portal is giving an error.",
+        "The website is not opening.",
+        "I am facing a technical problem on the PDS portal.",
+        "The PDS website has stopped working.",
+        "Why is the PDS portal showing an error?"
       ]
     },
     {
@@ -3978,7 +4042,14 @@
         "Mujhe apne kshetra ke local admin officer se baat karni hai, unka number kya hai?",
         "I need the physical address of the regional admin office to submit documents.",
         "Is there a way to schedule an appointment with an official?",
-        "Find local admin contact details."
+        "Find local admin contact details.",
+        "Who is the ration card officer?",
+        "Which office verifies my documents?",
+        "Which official handles ration card issues?",
+        "Who is responsible for ration card applications?",
+        "Who should I contact at the ration office for verification?",
+        "Which department is in charge of PDS cards?",
+        "Where is the local food inspector office?"
       ]
     },
     {
@@ -4021,7 +4092,11 @@
         "Agar portal par kaam na ho, toh kaunse 1800 toll free number par call kar sakte hain?",
         "Is the national food security call center operational 24/7?",
         "Provide the phone directory for state-wise helplines.",
-        "Ration helpline contact details needed."
+        "Ration helpline contact details needed.",
+        "Who should I contact for ration card application queries?",
+        "Where can I call for help with my application?",
+        "Is there a customer care number for PDS?",
+        "Who can I speak to about application problems?"
       ]
     },
     {
@@ -4072,14 +4147,14 @@
       "priority": 4,
       "description": "General closing or goodbye statement from the user.",
       "keywords": [
-          "bye",
-          "goodbye",
-          "thanks bye",
-          "thank you bye",
-          "that's all",
-          "i am done",
-          "done for today",
-          "exit"
+        "bye",
+        "goodbye",
+        "thanks bye",
+        "thank you bye",
+        "that's all",
+        "i am done",
+        "done for today",
+        "exit"
       ],
       "entities": [],
       "required_entities": [],

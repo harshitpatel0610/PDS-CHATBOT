@@ -305,6 +305,7 @@ def is_online_offline_query(query: str) -> bool:
             "application",
             "banwana",
             "banwana hai",
+            "banega",
             "registration",
             "register",
         ]
@@ -554,34 +555,16 @@ def classify_by_rules(query: str) -> RouteResult:
 
 
     # ========================================================
-    # EXPLICIT CONFLICT RESOLUTION (SEMANTIC PRECEDENCE)
+    # RETURN BEST CANDIDATE
     # ========================================================
-    
-    if best_intent:
-        predicted = best_intent["intent"]
-        
-        # Action vs Informational Precedence
-        # If the user is trying to "apply" or "get", don't route to "types" just because a type was mentioned.
-        if predicted in ["ration_card_types", "ration_quota", "ration_items_list"]:
-            action_words = ["apply", "get", "banwana", "register", "create", "new"]
-            if any(word in query.split() for word in action_words):
-                # Only override to apply if it's not a clear online/offline question
-                if is_online_offline_query(query):
-                    predicted = "ration_card_online_offline"
-                    confidence = 1.0
-                else:
-                    predicted = "ration_card_apply"
-                    confidence = 1.0
-                    
-        # Apply vs Online/Offline URL Precedence
-        if predicted == "ration_card_online_offline":
-            if any(word in query.split() for word in ["url", "link", "website"]):
-                predicted = "ration_card_apply"
-                confidence = 1.0
+    # Return the raw scoring result. Context resolution is
+    # handled by the resolver in service.py, which sits above
+    # both the rule engine and the embedding classifier.
 
+    if best_intent:
         return RouteResult(
             is_pds=True,
-            intent=predicted,
+            intent=best_intent["intent"],
             confidence=confidence
         )
 

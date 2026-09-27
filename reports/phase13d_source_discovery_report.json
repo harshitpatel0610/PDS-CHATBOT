@@ -1,9 +1,9 @@
 {
     "states_analyzed": 3,
-    "sources_discovered": 3,
-    "sources_accepted": 3,
-    "sources_rejected": 0,
-    "html_sources": 1,
+    "sources_discovered": 1,
+    "sources_accepted": 0,
+    "sources_rejected": 1,
+    "html_sources": 0,
     "pdf_sources": 0,
     "application_sources": 0,
     "document_sources": 0,
