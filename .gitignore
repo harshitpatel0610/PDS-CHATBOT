@@ -128,3 +128,7 @@ test_rag_mock_output.txt
 # Local Chroma/vector database
 rag/vector_store/
 
+tests
+other
+reports
+scratch
